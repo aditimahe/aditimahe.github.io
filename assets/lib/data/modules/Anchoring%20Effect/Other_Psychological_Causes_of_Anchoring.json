@@ -1,0 +1,2227 @@
+{
+    "module_name": "Other Psychological Causes of Anchoring",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "Extremeness aversion is a robust phenomenon where people try to avoid the extremes during decision-making, such as selecting the middle options more often than other extreme options and avoiding reporting the maximum or minimum on a Likert scale."
+        },
+        {
+            "note_id": "n2",
+            "text": "upon setting an anchor, participants who were told they could adjust up to 6 units made significantly smaller adjustments compared to those who were told that they could adjust up to 15 units, suggesting that people avoid extremes when making decisions."
+        },
+        {
+            "note_id": "n3",
+            "text": "Importantly, the maximum allowable adjustment acted as an anchor that affected the final judgment, highlighting the prevalent aversion to extremes. As a result, the final judgment is close to the anchor because people do not want to adjust too close to the extremes."
+        },
+        {
+            "note_id": "n4",
+            "text": "Studies of individual differences report that mixed-handed individuals show larger anchoring effects than strongly handed individuals, a pattern consistent with differences in interhemispheric interaction."
+        },
+        {
+            "note_id": "n5",
+            "text": "Electrophysiological work provides additional evidence: EEG studies suggest that externally presented anchors function as semantic primes that shape the cognitive and affective context in which judgments are formed."
+        },
+        {
+            "note_id": "n6",
+            "text": "Higher anchors are associated with increased P2 and late positive potential (LPP) amplitudes, indicating greater anticipatory attention and expectations of stronger or more aversive outcomes."
+        },
+        {
+            "note_id": "n7",
+            "text": "Research using EEG and fMRI in management-related judgment tasks further shows that anchor values engage distinct semantic and evaluative networks."
+        },
+        {
+            "note_id": "n8",
+            "text": "Higher anchors produce stronger EEG power in value-judgment stages, and fMRI experiments reveal different reaction-time profiles and neural activation patterns for feasible, infeasible, and no-anchor conditions during both comparison and decision phases."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for 'Mixed-handed individuals' and 'Strongly handed individuals' as 'people'. Contrast their specific and distinct roles in the context of anchoring effects: mixed-handed individuals show larger anchoring effects, while strongly handed individuals show smaller anchoring effects.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 provides two distinct groups of people with contrasting roles/outcomes regarding the anchoring effect."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing how extremeness aversion leads to anchoring. Trigger: People avoid extremes during decision-making (n1). Mechanism: The maximum allowable adjustment limit acts as an anchor (n3). Outcome: The final judgment remains close to the anchor to avoid reaching the extremes (n3).",
+            "source_notes_used": [
+                "n1",
+                "n3"
+            ],
+            "rationale": "The notes describe a clear cause-and-effect sequence where a psychological tendency (extremeness aversion) and a specific constraint (maximum adjustment) result in a final judgment outcome."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Extremeness aversion' using the explanation provided in note n1. Display as a technical term definition.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, explicit definition of the technical term 'Extremeness aversion'."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is 'Other psychological causes of anchoring', and the items are: 1. Extremeness aversion (people avoid extremes during decision-making), 2",
+            "source_notes_used": [
+                "n1",
+                "n4",
+                "n5"
+            ],
+            "rationale": "The notes provide a list of distinct psychological causes/factors contributing to anchoring, such as extremeness aversion, mixed-handedness, and semantic priming."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'Do people generally prefer the same range of adjustment when making decisions?', Back: 'No, the maximum allowable adjustment often acts as an anchor, causing people to avoid extremes and make smaller adjustments when the limit is lower.'",
+            "source_notes_used": [
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes describe a counter-intuitive fact about how the maximum allowable adjustment acts as an anchor, creating a perfect curiosity gap."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the core concept of 'Extremeness aversion' as a foundational concept using the 'editorial_callout' display style. Extract the definition from n1.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, foundational definition of a psychological phenomenon that fits the editorial_callout style."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the specific finding that mixed-handed individuals experience larger anchoring effects than strongly handed individuals using the 'attention_pulse' display style. Extract this from n4.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 presents a surprising trivia fact about individual differences in anchoring effects."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the aversive outcomes and anticipatory attention associated with higher anchors, specifically mentioning the increased P2 and LPP amplitudes from n6.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 provides a specific electrophysiological metric (P2 and LPP amplitudes) that serves as a distinct data point."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that externally presented anchors function as semantic primes that shape cognitive and affective context, using the 'veiled_reality' display style to reveal the 'behind-the-scenes' cognitive process. Extract from n5.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 reveals a hidden cognitive mechanism (semantic priming) that explains how anchors work."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while maintaining a comprehensive overview of the topic. For Note n1, I removed the 'jargon_buster' (raw_w2) and 'insight_badge' (raw_w5) because the 'causal_chain' (raw_w1) provides a more complex, structural explanation of how extremeness aversion leads to anchoring. For Note n4, I removed the 'insight_badge' (raw_w6) in favor of the 'entity_profiles' (raw_w0), which better contrasts the two groups of people. For Note n5, I kept the 'insight_badge' (raw_w8) as it provides a unique angle on semantic priming. I also kept the 'itemized_breakdown' (raw_w3) as it serves as a high-level summary of all causes, and the 'flip_reveal' (raw_w4) as it offers an interactive way to test the concept of adjustment limits. The 'insight_badge' for Note n6 (raw_w7) was kept as it is the only widget targeting that specific data point.",
+        "surviving_widget_ids": [
+            "raw_w0",
+            "raw_w1",
+            "raw_w3",
+            "raw_w4",
+            "raw_w7",
+            "raw_w8"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for 'Mixed-handed individuals' and 'Strongly handed individuals' as 'people'. Contrast their specific and distinct roles in the context of anchoring effects: mixed-handed individuals show larger anchoring effects, while strongly handed individuals show smaller anchoring effects.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 provides two distinct groups of people with contrasting roles/outcomes regarding the anchoring effect."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing how extremeness aversion leads to anchoring. Trigger: People avoid extremes during decision-making (n1). Mechanism: The maximum allowable adjustment limit acts as an anchor (n3). Outcome: The final judgment remains close to the anchor to avoid reaching the extremes (n3).",
+            "source_notes_used": [
+                "n1",
+                "n3"
+            ],
+            "rationale": "The notes describe a clear cause-and-effect sequence where a psychological tendency (extremeness aversion) and a specific constraint (maximum adjustment) result in a final judgment outcome."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is 'Other psychological causes of anchoring', and the items are: 1. Extremeness aversion (people avoid extremes during decision-making), 2",
+            "source_notes_used": [
+                "n1",
+                "n4",
+                "n5"
+            ],
+            "rationale": "The notes provide a list of distinct psychological causes/factors contributing to anchoring, such as extremeness aversion, mixed-handedness, and semantic priming."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'Do people generally prefer the same range of adjustment when making decisions?', Back: 'No, the maximum allowable adjustment often acts as an anchor, causing people to avoid extremes and make smaller adjustments when the limit is lower.'",
+            "source_notes_used": [
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes describe a counter-intuitive fact about how the maximum allowable adjustment acts as an anchor, creating a perfect curiosity gap."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the aversive outcomes and anticipatory attention associated with higher anchors, specifically mentioning the increased P2 and LPP amplitudes from n6.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 provides a specific electrophysiological metric (P2 and LPP amplitudes) that serves as a distinct data point."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that externally presented anchors function as semantic primes that shape cognitive and affective context, using the 'veiled_reality' display style to reveal the 'behind-the-scenes' cognitive process. Extract from n5.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 reveals a hidden cognitive mechanism (semantic priming) that explains how anchors work."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w0",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Anchoring Effects: Handedness Differences",
+                "intro_text": "Research into individual differences suggests that a person's handedness can influence their susceptibility to anchoring effects.",
+                "entities": [
+                    {
+                        "name": "Mixed-handed individuals",
+                        "role": "Higher anchoring susceptibility",
+                        "description": "These individuals show larger anchoring effects, a pattern consistent with differences in interhemispheric interaction."
+                    },
+                    {
+                        "name": "Strongly handed individuals",
+                        "role": "Lower anchoring susceptibility",
+                        "description": "These individuals show smaller anchoring effects compared to those who are mixed-handed."
+                    }
+                ],
+                "entity_type": "people"
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w1",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "People try to avoid extremes during decision-making, such as selecting middle options or avoiding the maximum and minimum on a Likert scale.",
+                "mechanism": "The maximum allowable adjustment limit functions as an anchor that influences the final judgment.",
+                "outcome": "The final judgment remains close to the anchor because individuals avoid adjusting too close to the extremes."
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w2",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Other Psychological Causes of Anchoring",
+                "context_text": "Beyond the primary theories of anchoring and adjusting or selective accessibility, other psychological factors contribute to the anchoring effect.",
+                "items": [
+                    "Extremeness aversion: the tendency for people to avoid extreme options during decision-making",
+                    "Interhemispheric interaction: differences in how the brain's hemispheres interact, which may lead mixed-handed individuals to show larger anchoring effects",
+                    "Semantic priming: the process where externally presented anchors function as primes that shape the cognitive and affective context of judgments"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n4",
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w3",
+            "block_type": "flip_reveal",
+            "flip_reveal_data": {
+                "front_text": "Do people generally prefer the same range of adjustment when making decisions?",
+                "back_text": "No, the maximum allowable adjustment often acts as an anchor, causing people to avoid extremes and make smaller adjustments when the limit is lower."
+            },
+            "source_notes_consumed": [
+                "n2",
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w4",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🧠",
+                "short_title": "Anticipatory Attention",
+                "expanded_detail": "Higher anchors are linked to increased P2 and late positive potential (LPP) amplitudes. This neural activity indicates greater anticipatory attention and expectations of stronger or more aversive outcomes.",
+                "display_style": "veiled_reality"
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w5",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🧠",
+                "short_title": "Semantic Priming",
+                "expanded_detail": "EEG studies suggest that externally presented anchors act as semantic primes. These primes shape the cognitive and affective context that influences how subsequent judgments are formed.",
+                "display_style": "veiled_reality"
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Beyond the Basics: Other Psychological Causes of Anchoring",
+        "cards": [
+            {
+                "card_title": "The Hidden Drivers of Anchoring",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introductory hook to set the stage for the module, transitioning from primary theories to other psychological factors.",
+                        "text_content": "While we often think of anchoring as a simple matter of adjusting from a starting point or accessing specific memories, the reality is far more complex. Beyond the primary theories, several other psychological and neurological mechanisms drive how we cling to these reference points. Understanding these hidden drivers reveals why anchoring is so pervasive and often so difficult to avoid, even for experts."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget provides a high-level overview of the 'other' causes, serving as a perfect transition from the intro text to the specific details.",
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the first specific cause: extremeness aversion.",
+                        "text_content": "One of the most powerful, yet subtle, drivers is our innate tendency to avoid the edges of a spectrum. This psychological quirk is known as *extremeness aversion*."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Fear of the Extreme",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the concept of extremeness aversion and how it manifests in common scenarios like Likert scales.",
+                        "text_content": "Extremeness aversion is a robust phenomenon where people instinctively avoid the extremes during decision-making. You see this often in surveys; people are significantly more likely to select middle options on a *Likert scale* than the absolute maximum or minimum values. This desire for the 'middle ground' creates a vulnerability that anchors can exploit."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This causal chain explains exactly how the aversion to extremes transforms a limit into an anchor.",
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Providing a concrete example from the notes to illustrate the point and creating a cliffhanger for the next card.",
+                        "text_content": "For example, in experiments where participants were given a limit on how much they could adjust their answer, those told they could only adjust up to **6 units** made much smaller changes than those allowed **15 units**. The limit itself became the anchor. But is this aversion to extremes the only thing happening in our minds?"
+                    }
+                ]
+            },
+            {
+                "card_title": "Testing the Limits",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Using a flip-reveal to engage the user with a question about adjustment ranges.",
+                        "text_content": "To understand how these limits function, it helps to ask whether we treat all ranges of adjustment the same way. The answer reveals a surprising amount about our cognitive rigidity."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The flip-reveal widget directly addresses the question posed in the text and reinforces the concept of the maximum allowable adjustment as an anchor.",
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning from behavioral patterns to the biological and individual differences that influence anchoring.",
+                        "text_content": "While these behavioral patterns are common, not everyone is affected by anchors in the same way. Some of the most interesting differences are found in our very biology."
+                    }
+                ]
+            },
+            {
+                "card_title": "Biology and the Brain",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the concept of individual differences, specifically handedness, as a factor in anchoring.",
+                        "text_content": "Research into individual differences has uncovered a fascinating link between brain organization and anchoring. Specifically, the way our brain hemispheres interact can play a role in how strongly we are pulled by an anchor."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget profiles the specific finding regarding mixed-handed individuals and their susceptibility to anchoring.",
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning from individual differences to the electrophysiological evidence (EEG).",
+                        "text_content": "Beyond handedness, scientists have used EEG and fMRI to peek inside the brain during the anchoring process. These tools show that anchors aren't just numbers; they are cognitive triggers."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Neural Signature of Anchors",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the concept of semantic priming via EEG studies.",
+                        "text_content": "Electrophysiological work suggests that when we are presented with an external anchor, it doesn't just sit there—it functions as a *semantic prime*. This means it shapes the entire cognitive and affective context of the judgment we are about to make."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This insight badge explains the mechanism of semantic priming as revealed by EEG studies.",
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the concept of anticipatory attention and the P2/LPP amplitudes.",
+                        "text_content": "The brain's reaction also changes based on the *value* of the anchor. When we encounter higher anchors, our brain exhibits specific electrical signatures that signal a state of heightened readiness."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This insight badge explains the neural activity (P2 and LPP) associated with higher anchors and anticipatory attention.",
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding the module by summarizing the complexity of the neural networks involved.",
+                        "text_content": "Ultimately, research using fMRI and EEG in management tasks shows that anchor values engage distinct semantic and evaluative networks. Whether it's a higher anchor producing stronger EEG power during value-judgment stages or different neural activation patterns for feasible versus infeasible anchors, the process is deeply embedded in our neural architecture."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Hidden Architecture of Anchoring",
+        "module_description": "Explore the secret psychological and neurological drivers that make us cling to reference points, from brain hemispheres to the fear of extremes.",
+        "alternative_descriptions": [
+            "Uncover the biological glitches and cognitive traps that steer your decisions without you even knowing it.",
+            "Dive deep into the neural signatures and psychological quirks that fuel the powerful anchoring effect.",
+            "Why do we fear the edges? Discover the hidden brain mechanisms that lock our judgments in place."
+        ],
+        "tags": [
+            "Anchoring Effect",
+            "Extremeness Aversion",
+            "Semantic Priming",
+            "Interhemispheric Interaction",
+            "Cognitive Bias"
+        ],
+        "loading_screen_trivia": "Mixed-handed individuals may show larger anchoring effects due to differences in how their brain's hemispheres interact.",
+        "timeline": [],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "Understanding these hidden drivers reveals why anchoring is so pervasive and difficult to avoid, helping us recognize how our neural architecture shapes our daily judgments and decisions."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "The Hidden Drivers of Anchoring",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "While we often think of anchoring as a simple matter of adjusting from a starting point or accessing specific memories, the reality is far more complex. Beyond the primary theories, several other psychological and neurological mechanisms drive how we cling to these reference points. Understanding these hidden drivers reveals why anchoring is so pervasive and often so difficult to avoid, even for experts."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w2",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Other Psychological Causes of Anchoring",
+                            "context_text": "Beyond the primary theories of anchoring and adjusting or selective accessibility, other psychological factors contribute to the anchoring effect.",
+                            "items": [
+                                "Extremeness aversion: the tendency for people to avoid extreme options during decision-making",
+                                "Interhemispheric interaction: differences in how the brain's hemispheres interact, which may lead mixed-handed individuals to show larger anchoring effects",
+                                "Semantic priming: the process where externally presented anchors function as primes that shape the cognitive and affective context of judgments"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n4",
+                            "n5"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "One of the most powerful, yet subtle, drivers is our innate tendency to avoid the edges of a spectrum. This psychological quirk is known as *extremeness aversion*."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "The Fear of the Extreme",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Extremeness aversion is a robust phenomenon where people instinctively avoid the extremes during decision-making. You see this often in surveys; people are significantly more likely to select middle options on a *Likert scale* than the absolute maximum or minimum values. This desire for the 'middle ground' creates a vulnerability that anchors can exploit."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w1",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "People try to avoid extremes during decision-making, such as selecting middle options or avoiding the maximum and minimum on a Likert scale.",
+                            "mechanism": "The maximum allowable adjustment limit functions as an anchor that influences the final judgment.",
+                            "outcome": "The final judgment remains close to the anchor because individuals avoid adjusting too close to the extremes."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n3"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "For example, in experiments where participants were given a limit on how much they could adjust their answer, those told they could only adjust up to **6 units** made much smaller changes than those allowed **15 units**. The limit itself became the anchor. But is this aversion to extremes the only thing happening in our minds?"
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "Testing the Limits",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "To understand how these limits function, it helps to ask whether we treat all ranges of adjustment the same way. The answer reveals a surprising amount about our cognitive rigidity."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w3",
+                        "block_type": "flip_reveal",
+                        "flip_reveal_data": {
+                            "front_text": "Do people generally prefer the same range of adjustment when making decisions?",
+                            "back_text": "No, the maximum allowable adjustment often acts as an anchor, causing people to avoid extremes and make smaller adjustments when the limit is lower."
+                        },
+                        "source_notes_consumed": [
+                            "n2",
+                            "n3"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "While these behavioral patterns are common, not everyone is affected by anchors in the same way. Some of the most interesting differences are found in our very biology."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "Biology and the Brain",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Research into individual differences has uncovered a fascinating link between brain organization and anchoring. Specifically, the way our brain hemispheres interact can play a role in how strongly we are pulled by an anchor."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w0",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Anchoring Effects: Handedness Differences",
+                            "intro_text": "Research into individual differences suggests that a person's handedness can influence their susceptibility to anchoring effects.",
+                            "entities": [
+                                {
+                                    "name": "Mixed-handed individuals",
+                                    "role": "Higher anchoring susceptibility",
+                                    "description": "These individuals show larger anchoring effects, a pattern consistent with differences in interhemispheric interaction."
+                                },
+                                {
+                                    "name": "Strongly handed individuals",
+                                    "role": "Lower anchoring susceptibility",
+                                    "description": "These individuals show smaller anchoring effects compared to those who are mixed-handed."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "Beyond handedness, scientists have used EEG and fMRI to peek inside the brain during the anchoring process. These tools show that anchors aren't just numbers; they are cognitive triggers."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "The Neural Signature of Anchors",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Electrophysiological work suggests that when we are presented with an external anchor, it doesn't just sit there—it functions as a *semantic prime*. This means it shapes the entire cognitive and affective context of the judgment we are about to make."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🧠",
+                            "short_title": "Semantic Priming",
+                            "expanded_detail": "EEG studies suggest that externally presented anchors act as semantic primes. These primes shape the cognitive and affective context that influences how subsequent judgments are formed.",
+                            "display_style": "veiled_reality"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "The brain's reaction also changes based on the *value* of the anchor. When we encounter higher anchors, our brain exhibits specific electrical signatures that signal a state of heightened readiness."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w4",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🧠",
+                            "short_title": "Anticipatory Attention",
+                            "expanded_detail": "Higher anchors are linked to increased P2 and late positive potential (LPP) amplitudes. This neural activity indicates greater anticipatory attention and expectations of stronger or more aversive outcomes.",
+                            "display_style": "veiled_reality"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_5_block_3"
+                    },
+                    {
+                        "block_id": "card_5_block_4",
+                        "block_type": "text",
+                        "text_content": "Ultimately, research using fMRI and EEG in management tasks shows that anchor values engage distinct semantic and evaluative networks. Whether it's a higher anchor producing stronger EEG power during value-judgment stages or different neural activation patterns for feasible versus infeasible anchors, the process is deeply embedded in our neural architecture."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is generally accurate and maps well to the notes. However, there is a slight overlap between the text block (card_1_block_2) and the widget (card_1_block_1). The text block introduces extremeness aversion, which is already listed in the widget. While it serves as a transition, it's a bit redundant. More importantly, the introductory text (card_1_block_0) contains some 'narrative bridging' (e.g., 'the reality is far more complex', 'Understanding these hidden drivers reveals why...') which, while engaging, is not explicitly stated in the source text. I will refine the text to be more grounded in the facts while maintaining the flow.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified emotional claims and narrative bridging that aren't in the source text, while keeping the introductory tone.",
+                        "new_content_or_instructions": "Beyond the primary theories of anchoring and adjusting or selective accessibility, several other psychological and neurological mechanisms contribute to the anchoring effect. These factors help explain why the phenomenon is so pervasive and difficult to avoid."
+                    },
+                    {
+                        "target_block_id": "card_1_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block repeats the term 'extremeness aversion' and its definition which is already in the widget. I will rewrite it to act as a smooth transition to the next card without repeating the data.",
+                        "new_content_or_instructions": "This aversion to extremes often manifests in how we make decisions and the limits we set for ourselves during the adjustment process."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally accurate and maps well to the notes. However, there is a slight redundancy between block 0 and the causal chain widget, as both mention the Likert scale and the general tendency to avoid extremes. Additionally, the phrasing 'instinctively avoid' in block 0 is a slight narrative embellishment not explicitly in the source, though 'robust phenomenon' is. The transition in block 2 is well-handled.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove 'instinctively' as it's an unverified emotional claim/assumption. Also, streamline the text to avoid repeating the Likert scale example which is already detailed in the causal chain widget.",
+                        "new_content_or_instructions": "Extremeness aversion is a robust phenomenon where people tend to avoid the extremes during decision-making. This preference for the 'middle ground' creates a psychological vulnerability that anchors can exploit."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and aligns with the provided notes. It introduces the concept of extremeness aversion (n2, n3) via a flip-reveal widget. However, the introductory text (block 0) uses slightly dramatic phrasing ('cognitive rigidity') which is not explicitly supported by the source text. The transition (block 2) is appropriate and leads into the biological/neuroscience aspects of anchoring without spoiling the next card.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'cognitive rigidity' is an unverified emotional claim/narrative bridge that is not present in the raw source or notes. It should be replaced with a more factual description of the phenomenon.",
+                        "new_content_or_instructions": "To understand how these limits function, it helps to ask whether we treat all ranges of adjustment the same way. The answer reveals a consistent pattern in how we avoid extremes during decision-making."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the notes. However, there is a slight redundancy between the introductory text block (card_4_block_0) and the widget's intro_text. Both mention that individual differences and brain organization/handedness influence anchoring. I will rewrite the first block to be more evocative and less repetitive of the widget's specific 'individual differences' phrasing.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block repeats the 'individual differences' and 'brain organization' concepts already detailed in the widget. I will rewrite it to set the stage more narratively without spoiling the specific data points.",
+                        "new_content_or_instructions": "Our susceptibility to anchoring isn't just about how we think—it's also tied to the physical architecture of our brains. Some research suggests that the way our two hemispheres communicate can fundamentally change how we respond to an anchor."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the source notes (n5, n6, n7, n8). However, there is significant redundancy between the text blocks and the insight badges. The text blocks essentially repeat the exact data points (semantic priming, P2/LPP amplitudes, and EEG power) that are then immediately presented in the widgets. I will rewrite the text blocks to provide a narrative flow and context without repeating the specific technical data found in the widgets.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the term 'semantic prime' and the definition of shaping cognitive/affective context, which is already explicitly stated in the insight badge (card_5_block_1).",
+                        "new_content_or_instructions": "Beyond the psychological theories, neuroscience provides a window into how anchors actually operate within the brain. When we encounter an external anchor, it doesn't just provide a number—it sets the stage for our entire decision-making process."
+                    },
+                    {
+                        "target_block_id": "card_5_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text mentions 'higher anchors' and 'electrical signatures' which overlaps with the specific P2/LPP data in the following widget (card_5_block_3).",
+                        "new_content_or_instructions": "The brain's response is not uniform; it shifts based on the value of the anchor. High-value anchors, in particular, trigger specific neural responses that signal a state of heightened readiness."
+                    },
+                    {
+                        "target_block_id": "card_5_block_4",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats specific data points (stronger EEG power, feasible vs infeasible anchors) that are better suited for a summary or a widget. It should be rewritten to be a cohesive concluding block that maintains the transition to the next card without spoiling the specific data points if they are to be presented elsewhere, or simply polished for flow.",
+                        "new_content_or_instructions": "Advanced imaging shows that anchor values engage distinct semantic and evaluative networks. From the power of the EEG signal during value judgments to the unique activation patterns for feasible versus infeasible anchors, the anchoring effect is deeply embedded in our neural architecture."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "The Hidden Architecture of Anchoring",
+        "module_description": "Explore the secret psychological and neurological drivers that make us cling to reference points, from brain hemispheres to the fear of extremes.",
+        "alternative_descriptions": [
+            "Uncover the biological glitches and cognitive traps that steer your decisions without you even knowing it.",
+            "Dive deep into the neural signatures and psychological quirks that fuel the powerful anchoring effect.",
+            "Why do we fear the edges? Discover the hidden brain mechanisms that lock our judgments in place."
+        ],
+        "tags": [
+            "Anchoring Effect",
+            "Extremeness Aversion",
+            "Semantic Priming",
+            "Interhemispheric Interaction",
+            "Cognitive Bias"
+        ],
+        "loading_screen_trivia": "Mixed-handed individuals may show larger anchoring effects due to differences in how their brain's hemispheres interact.",
+        "timeline": [],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "Understanding these hidden drivers reveals why anchoring is so pervasive and difficult to avoid, helping us recognize how our neural architecture shapes our daily judgments and decisions."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "The Hidden Drivers of Anchoring",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Beyond the primary theories of anchoring and adjusting or selective accessibility, several other psychological and neurological mechanisms contribute to the anchoring effect. These factors help explain why the phenomenon is so pervasive and difficult to avoid."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w2",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Other Psychological Causes of Anchoring",
+                            "context_text": "Beyond the primary theories of anchoring and adjusting or selective accessibility, other psychological factors contribute to the anchoring effect.",
+                            "items": [
+                                "Extremeness aversion: the tendency for people to avoid extreme options during decision-making",
+                                "Interhemispheric interaction: differences in how the brain's hemispheres interact, which may lead mixed-handed individuals to show larger anchoring effects",
+                                "Semantic priming: the process where externally presented anchors function as primes that shape the cognitive and affective context of judgments"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n4",
+                            "n5"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "This aversion to extremes often manifests in how we make decisions and the limits we set for ourselves during the adjustment process."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "The Fear of the Extreme",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Extremeness aversion is a robust phenomenon where people tend to avoid the extremes during decision-making. This preference for the 'middle ground' creates a psychological vulnerability that anchors can exploit."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w1",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "People try to avoid extremes during decision-making, such as selecting middle options or avoiding the maximum and minimum on a Likert scale.",
+                            "mechanism": "The maximum allowable adjustment limit functions as an anchor that influences the final judgment.",
+                            "outcome": "The final judgment remains close to the anchor because individuals avoid adjusting too close to the extremes."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n3"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "For example, in experiments where participants were given a limit on how much they could adjust their answer, those told they could only adjust up to **6 units** made much smaller changes than those allowed **15 units**. The limit itself became the anchor. But is this aversion to extremes the only thing happening in our minds?"
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "Testing the Limits",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "To understand how these limits function, it helps to ask whether we treat all ranges of adjustment the same way. The answer reveals a consistent pattern in how we avoid extremes during decision-making."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w3",
+                        "block_type": "flip_reveal",
+                        "flip_reveal_data": {
+                            "front_text": "Do people generally prefer the same range of adjustment when making decisions?",
+                            "back_text": "No, the maximum allowable adjustment often acts as an anchor, causing people to avoid extremes and make smaller adjustments when the limit is lower."
+                        },
+                        "source_notes_consumed": [
+                            "n2",
+                            "n3"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "While these behavioral patterns are common, not everyone is affected by anchors in the same way. Some of the most interesting differences are found in our very biology."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "Biology and the Brain",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Our susceptibility to anchoring isn't just about how we think—it's also tied to the physical architecture of our brains. Some research suggests that the way our two hemispheres communicate can fundamentally change how we respond to an anchor."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w0",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Anchoring Effects: Handedness Differences",
+                            "intro_text": "Research into individual differences suggests that a person's handedness can influence their susceptibility to anchoring effects.",
+                            "entities": [
+                                {
+                                    "name": "Mixed-handed individuals",
+                                    "role": "Higher anchoring susceptibility",
+                                    "description": "These individuals show larger anchoring effects, a pattern consistent with differences in interhemispheric interaction."
+                                },
+                                {
+                                    "name": "Strongly handed individuals",
+                                    "role": "Lower anchoring susceptibility",
+                                    "description": "These individuals show smaller anchoring effects compared to those who are mixed-handed."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "Beyond handedness, scientists have used EEG and fMRI to peek inside the brain during the anchoring process. These tools show that anchors aren't just numbers; they are cognitive triggers."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Other Psychological Causes of Anchoring",
+                "created_at": "2026-05-22T07:46:15.611963+00:00",
+                "card_title": "The Neural Signature of Anchors",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Beyond the psychological theories, neuroscience provides a window into how anchors actually operate within the brain. When we encounter an external anchor, it doesn't just provide a number—it sets the stage for our entire decision-making process."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🧠",
+                            "short_title": "Semantic Priming",
+                            "expanded_detail": "EEG studies suggest that externally presented anchors act as semantic primes. These primes shape the cognitive and affective context that influences how subsequent judgments are formed.",
+                            "display_style": "veiled_reality"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "The brain's response is not uniform; it shifts based on the value of the anchor. High-value anchors, in particular, trigger specific neural responses that signal a state of heightened readiness."
+                    },
+                    {
+                        "widget_id": "prebuilt_OtherPsychologicalCausesofAnchoring_w4",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🧠",
+                            "short_title": "Anticipatory Attention",
+                            "expanded_detail": "Higher anchors are linked to increased P2 and late positive potential (LPP) amplitudes. This neural activity indicates greater anticipatory attention and expectations of stronger or more aversive outcomes.",
+                            "display_style": "veiled_reality"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_5_block_3"
+                    },
+                    {
+                        "block_id": "card_5_block_4",
+                        "block_type": "text",
+                        "text_content": "Advanced imaging shows that anchor values engage distinct semantic and evaluative networks. From the power of the EEG signal during value judgments to the unique activation patterns for feasible versus infeasible anchors, the anchoring effect is deeply embedded in our neural architecture."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "What is the psychological tendency for people to avoid extreme options during decision-making called?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Extremeness aversion",
+                    "isCorrect": true,
+                    "feedback": "Extremeness aversion is the innate tendency to avoid the edges of a spectrum during decision-making."
+                },
+                {
+                    "text": "Semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is when an anchor shapes the cognitive and affective context of a judgment."
+                },
+                {
+                    "text": "Interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction refers to how brain hemispheres communicate, affecting anchoring susceptibility."
+                },
+                {
+                    "text": "Selective accessibility",
+                    "isCorrect": false,
+                    "feedback": "Selective accessibility is the theory that anchor-consistent information becomes more accessible."
+                },
+                {
+                    "text": "Cognitive rigidity",
+                    "isCorrect": false,
+                    "feedback": "Cognitive rigidity is a general term for the inability to change a thought pattern, not a specific cause of anchoring."
+                },
+                {
+                    "text": "Anticipatory attention",
+                    "isCorrect": false,
+                    "feedback": "Anticipatory attention is a neural state of readiness signaled by higher anchors."
+                },
+                {
+                    "text": "Likert scale bias",
+                    "isCorrect": false,
+                    "feedback": "The Likert scale is a tool where extremeness aversion is often observed, not the cause itself."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which group of individuals typically shows larger anchoring effects due to differences in interhemispheric interaction?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Strongly handed individuals",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals actually show smaller anchoring effects compared to mixed-handed individuals."
+                },
+                {
+                    "text": "Mixed-handed individuals",
+                    "isCorrect": true,
+                    "feedback": "Mixed-handed individuals show larger anchoring effects, which is consistent with differences in how their brain hemispheres interact."
+                },
+                {
+                    "text": "Right-handed individuals",
+                    "isCorrect": false,
+                    "feedback": "The text specifically distinguishes between mixed-handed and strongly handed, not right-handed specifically."
+                },
+                {
+                    "text": "Left-handed individuals",
+                    "isCorrect": false,
+                    "feedback": "The text specifically distinguishes between mixed-handed and strongly handed, not left-handed specifically."
+                },
+                {
+                    "text": "Ambidextrous individuals",
+                    "isCorrect": false,
+                    "feedback": "While similar to mixed-handed, the source text specifically uses the term 'mixed-handed individuals'."
+                },
+                {
+                    "text": "Bilingual individuals",
+                    "isCorrect": false,
+                    "feedback": "Language ability is not mentioned as a factor in anchoring susceptibility in the source text."
+                },
+                {
+                    "text": "Experts in management",
+                    "isCorrect": false,
+                    "feedback": "Expertise is discussed separately from the biological factors of handedness."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to electrophysiological research, how do externally presented anchors function in the brain?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "As cognitive blocks",
+                    "isCorrect": false,
+                    "feedback": "Anchors do not block cognition; they shape the context of the judgment."
+                },
+                {
+                    "text": "As semantic primes",
+                    "isCorrect": true,
+                    "feedback": "Externally presented anchors function as semantic primes that shape the cognitive and affective context of judgments."
+                },
+                {
+                    "text": "As neural inhibitors",
+                    "isCorrect": false,
+                    "feedback": "Anchors act as triggers or primes, not as inhibitors of neural activity."
+                },
+                {
+                    "text": "As sensory filters",
+                    "isCorrect": false,
+                    "feedback": "Anchors do not filter sensory input but rather prime the cognitive context."
+                },
+                {
+                    "text": "As memory retrievers",
+                    "isCorrect": false,
+                    "feedback": "While they may trigger memories, the specific term used for their function is 'semantic prime'."
+                },
+                {
+                    "text": "As affective anchors",
+                    "isCorrect": false,
+                    "feedback": "While they influence the affective context, their primary function is described as a semantic prime."
+                },
+                {
+                    "text": "As interhemispheric bridges",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction is a biological difference, not the function of the anchor itself."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What neural activity is associated with higher anchors, indicating greater anticipatory attention?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Increased P2 and LPP amplitudes",
+                    "isCorrect": true,
+                    "feedback": "Higher anchors are linked to increased P2 and late positive potential (LPP) amplitudes, signaling heightened readiness."
+                },
+                {
+                    "text": "Decreased P2 amplitudes",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors are associated with increased, not decreased, P2 amplitudes."
+                },
+                {
+                    "text": "Reduced LPP amplitudes",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors are associated with increased, not reduced, LPP amplitudes."
+                },
+                {
+                    "text": "Theta wave synchronization",
+                    "isCorrect": false,
+                    "feedback": "Theta waves are not mentioned in the source text as a signature of higher anchors."
+                },
+                {
+                    "text": "Alpha wave suppression",
+                    "isCorrect": false,
+                    "feedback": "Alpha waves are not mentioned in the source text as a signature of higher anchors."
+                },
+                {
+                    "text": "Beta wave amplification",
+                    "isCorrect": false,
+                    "feedback": "Beta waves are not mentioned in the source text as a signature of higher anchors."
+                },
+                {
+                    "text": "Gamma burst activity",
+                    "isCorrect": false,
+                    "feedback": "Gamma bursts are not mentioned in the source text as a signature of higher anchors."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The tendency for people to avoid extreme options during decision-making is known as ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "extremeness aversion",
+                    "isCorrect": true,
+                    "feedback": "Extremeness aversion is the specific psychological quirk where individuals instinctively avoid the edges of a spectrum during decision-making."
+                },
+                {
+                    "text": "semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is when an anchor shapes the cognitive and affective context of a judgment, not the avoidance of extremes."
+                },
+                {
+                    "text": "interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction refers to how brain hemispheres communicate, which relates to handedness and anchoring susceptibility."
+                },
+                {
+                    "text": "selective accessibility",
+                    "isCorrect": false,
+                    "feedback": "Selective accessibility is the theory that anchor-consistent information becomes more accessible, not the avoidance of extremes."
+                },
+                {
+                    "text": "cognitive rigidity",
+                    "isCorrect": false,
+                    "feedback": "Cognitive rigidity is a general term for the inability to change a thought pattern, whereas extremeness aversion is the specific tendency to avoid extremes."
+                },
+                {
+                    "text": "anticipatory attention",
+                    "isCorrect": false,
+                    "feedback": "Anticipatory attention is a neural state of readiness signaled by higher anchors, not a behavioral tendency to avoid extremes."
+                },
+                {
+                    "text": "the decoy effect",
+                    "isCorrect": false,
+                    "feedback": "The decoy effect involves changing preferences between two choices when a third, inferior option is introduced."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the context of brain organization, ____ individuals show larger anchoring effects, a pattern consistent with differences in interhemispheric interaction.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "mixed-handed",
+                    "isCorrect": true,
+                    "feedback": "Mixed-handed individuals exhibit higher anchoring susceptibility due to differences in how their brain hemispheres interact."
+                },
+                {
+                    "text": "strongly handed",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals actually show smaller anchoring effects compared to mixed-handed individuals."
+                },
+                {
+                    "text": "left-handed",
+                    "isCorrect": false,
+                    "feedback": "The text specifically distinguishes between mixed-handed and strongly handed individuals, not left-handed specifically."
+                },
+                {
+                    "text": "right-handed",
+                    "isCorrect": false,
+                    "feedback": "The text specifically distinguishes between mixed-handed and strongly handed individuals, not right-handed specifically."
+                },
+                {
+                    "text": "ambidextrous",
+                    "isCorrect": false,
+                    "feedback": "While similar to mixed-handedness, the source text specifically uses the term 'mixed-handed' to describe this group."
+                },
+                {
+                    "text": "neurotypical",
+                    "isCorrect": false,
+                    "feedback": "Neurotypicality is not mentioned as a factor in anchoring susceptibility in the provided text."
+                },
+                {
+                    "text": "reflective",
+                    "isCorrect": false,
+                    "feedback": "Reflective individuals are generally less susceptible to anchoring, regardless of their handedness."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "EEG studies suggest that externally presented anchors function as ____, shaping the cognitive and affective context of subsequent judgments.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "semantic primes",
+                    "isCorrect": true,
+                    "feedback": "Externally presented anchors act as semantic primes that set the cognitive and affective stage for the judgment process."
+                },
+                {
+                    "text": "cognitive triggers",
+                    "isCorrect": false,
+                    "feedback": "While anchors are called cognitive triggers in the text, the specific mechanism described by EEG studies is semantic priming."
+                },
+                {
+                    "text": "interhemispheric anchors",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction relates to handedness, not the priming function of external anchors."
+                },
+                {
+                    "text": "extremeness aversion",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion is the behavioral tendency to avoid extremes, not the neural priming mechanism."
+                },
+                {
+                    "text": "neural signatures",
+                    "isCorrect": false,
+                    "feedback": "Neural signatures are the electrical patterns produced by the brain, not the function the anchor performs."
+                },
+                {
+                    "text": "affective filters",
+                    "isCorrect": false,
+                    "feedback": "Affective filters are not mentioned in the source text as the mechanism for anchoring."
+                },
+                {
+                    "text": "cognitive anchors",
+                    "isCorrect": false,
+                    "feedback": "Cognitive anchors are the reference points themselves, not the process of priming the context."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Higher anchors are linked to increased ____ and late positive potential (LPP) amplitudes, indicating greater anticipatory attention.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "P2",
+                    "isCorrect": true,
+                    "feedback": "Higher anchors specifically trigger increased P2 and LPP amplitudes in the brain's electrical signature."
+                },
+                {
+                    "text": "P300",
+                    "isCorrect": false,
+                    "feedback": "P300 is not mentioned in the source text; the text specifies P2 and LPP."
+                },
+                {
+                    "text": "fMRI",
+                    "isCorrect": false,
+                    "feedback": "fMRI is a tool used to measure brain activity, not an electrical amplitude/signature."
+                },
+                {
+                    "text": "EEG",
+                    "isCorrect": false,
+                    "feedback": "EEG is the method of recording electrical activity, not the specific amplitude being measured."
+                },
+                {
+                    "text": "LPP",
+                    "isCorrect": false,
+                    "feedback": "LPP is mentioned, but the blank specifically asks for the other amplitude linked to higher anchors alongside LPP."
+                },
+                {
+                    "text": "semantic power",
+                    "isCorrect": false,
+                    "feedback": "The text mentions EEG power during value-judgment stages, but not as a specific amplitude like P2."
+                },
+                {
+                    "text": "neural activation",
+                    "isCorrect": false,
+                    "feedback": "Neural activation is a general term for brain activity, not a specific electrical amplitude."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the role of extremeness aversion in the anchoring effect?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "A preference for middle-ground options over extreme values",
+                    "isCorrect": true,
+                    "feedback": "Extremeness aversion is the innate tendency to avoid the edges of a spectrum, such as selecting middle options on a Likert scale."
+                },
+                {
+                    "text": "A tendency to adjust answers toward the maximum limit",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion causes people to avoid the maximum and minimum, not move toward them."
+                },
+                {
+                    "text": "The process of using a starting point to adjust a final guess",
+                    "isCorrect": false,
+                    "feedback": "This describes the general anchoring-and-adjusting theory, not specifically extremeness aversion."
+                },
+                {
+                    "text": "The use of external anchors as semantic primes",
+                    "isCorrect": false,
+                    "feedback": "This describes semantic priming, which is a different psychological cause of anchoring."
+                },
+                {
+                    "text": "A biological predisposition based on brain handedness",
+                    "isCorrect": false,
+                    "feedback": "Handedness relates to interhemispheric interaction, not extremeness aversion."
+                },
+                {
+                    "text": "The cognitive rigidity caused by high-value anchors",
+                    "isCorrect": false,
+                    "feedback": "High-value anchors relate to anticipatory attention and EEG signatures, not extremeness aversion."
+                },
+                {
+                    "text": "The tendency to avoid adjusting too far from an anchor",
+                    "isCorrect": false,
+                    "feedback": "While related, the core definition is the avoidance of extreme options during decision-making."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why do individuals often make smaller adjustments when the maximum allowable adjustment limit is lower?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Due to a lack of of cognitive reflection",
+                    "isCorrect": false,
+                    "feedback": "Cognitive reflection is a general trait, but the specific mechanism here is the avoidance of extreme values."
+                },
+                {
+                    "text": "Because the limit functions as an anchor due to extremeness aversion",
+                    "isCorrect": true,
+                    "feedback": "Extremeness aversion causes people to avoid the edges of a spectrum, making the limit itself act as an anchor."
+                },
+                {
+                    "text": "Because of a lack of interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction relates to handedness and susceptibility, not the specific effect of adjustment limits."
+                },
+                {
+                    "text": "Due to the process of semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming shapes the cognitive context of a judgment, but doesn't specifically drive the avoidance of adjustment limits."
+                },
+                {
+                    "text": "Because of a lack of domain-specific expertise",
+                    "isCorrect": false,
+                    "feedback": "Expertise can reduce anchoring but doesn't explain the specific mechanism of extremeness aversion."
+                },
+                {
+                    "text": "Due to the influence of the decoy effect",
+                    "isCorrect": false,
+                    "feedback": "The decoy effect is a pricing strategy, not the psychological mechanism behind adjustment limits."
+                },
+                {
+                    "text": "Because of a lack of cognitive ability",
+                    "isCorrect": false,
+                    "feedback": "Cognitive ability is a general factor, whereas extremeness aversion is a specific behavioral quirk regarding spectrum edges."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How does the brain's interhemispheric interaction influence a person's susceptibility to anchoring?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It reduces susceptibility in mixed-handed individuals",
+                    "isCorrect": false,
+                    "feedback": "Mixed-handed individuals actually show larger anchoring effects, not smaller ones."
+                },
+                {
+                    "text": "It increases susceptibility in strongly handed individuals",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals show smaller anchoring effects compared to mixed-handed individuals."
+                },
+                {
+                    "text": "It leads mixed-handed individuals to show larger anchoring effects",
+                    "isCorrect": true,
+                    "feedback": "Differences in how the brain's hemispheres interact in mixed-handed individuals are linked to higher anchoring susceptibility."
+                },
+                {
+                    "text": "It eliminates the anchoring effect entirely in experts",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction does not eliminate anchoring, as even experts remain susceptible."
+                },
+                {
+                    "text": "It creates a state of heightened readiness via P2 amplitudes",
+                    "isCorrect": false,
+                    "feedback": "P2 amplitudes are related to the value of the anchor, not the brain's hemispheric organization."
+                },
+                {
+                    "text": "It prevents the use of semantic primes",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction does not prevent semantic priming; anchors still function as primes regardless of handedness."
+                },
+                {
+                    "text": "It forces the brain to use only the analytic thinking style",
+                    "isCorrect": false,
+                    "feedback": "Thinking styles are cultural differences, not a result of interhemispheric interaction."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How do externally presented anchors function as semantic primes during the judgment process?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "By forcing the user to avoid the extremes of a Likert scale",
+                    "isCorrect": false,
+                    "feedback": "Avoiding extremes is a result of extremeness aversion, not semantic priming."
+                },
+                {
+                    "text": "By acting as a limit on the maximum allowable adjustment",
+                    "isCorrect": false,
+                    "feedback": "Adjustment limits are a manifestation of extremeness aversion, not the mechanism of semantic priming."
+                },
+                {
+                    "text": "By shaping the cognitive and affective context of the judgment",
+                    "isCorrect": true,
+                    "feedback": "Semantic priming involves the anchor shaping the overall mental and emotional context for the subsequent judgment."
+                },
+                {
+                    "text": "By increasing the P2 and LPP amplitudes of the brain",
+                    "isCorrect": false,
+                    "feedback": "Increased amplitudes are a neural signature of higher anchor values, not the definition of semantic priming."
+                },
+                {
+                    "text": "By reducing the need for interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is a cognitive process, not a mechanism that reduces hemispheric interaction."
+                },
+                {
+                    "text": "By eliminating the need for a counter-anchor in negotiations",
+                    "isCorrect": false,
+                    "feedback": "Counter-anchors are part of negotiation strategy, not the mechanism of semantic priming."
+                },
+                {
+                    "text": "By triggering a state of cognitive conceit",
+                    "isCorrect": false,
+                    "feedback": "Cognitive conceit is associated with overconfidence, not the process of semantic priming."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the context of anchoring, the tendency for individuals to avoid the edges of a spectrum during decision-making is known as ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "extremeness aversion",
+                    "isCorrect": true,
+                    "feedback": "Extremeness aversion is the innate tendency to avoid extreme options, such as the maximum or minimum on a Likert scale."
+                },
+                {
+                    "text": "semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is when an anchor shapes the cognitive and affective context of a judgment, not the avoidance of extremes."
+                },
+                {
+                    "text": "interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction refers to how brain hemispheres communicate, which influences susceptibility based on handedness."
+                },
+                {
+                    "text": "selective accessibility",
+                    "isCorrect": false,
+                    "feedback": "Selective accessibility is the process of enhancing anchor-consistent information, not the avoidance of extremes."
+                },
+                {
+                    "text": "cognitive rigidity",
+                    "isCorrect": false,
+                    "feedback": "Cognitive rigidity is a general state of mental inflexibility, whereas extremeness aversion is the specific drive to avoid spectrum edges."
+                },
+                {
+                    "text": "anticipatory attention",
+                    "isCorrect": false,
+                    "feedback": "Anticipatory attention is a neural state of readiness triggered by high anchors, not a preference for middle options."
+                },
+                {
+                    "text": "affective context",
+                    "isCorrect": false,
+                    "feedback": "Affective context refers to the emotional state shaped by a prime, not the behavioral tendency to avoid extremes."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to research on individual differences, ____ may show larger anchoring effects due to differences in interhemispheric interaction.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "mixed-handed individuals",
+                    "isCorrect": true,
+                    "feedback": "Mixed-handed individuals exhibit higher anchoring susceptibility linked to how their brain hemispheres interact."
+                },
+                {
+                    "text": "strongly handed individuals",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals actually show smaller anchoring effects compared to mixed-handed people."
+                },
+                {
+                    "text": "reflective thinkers",
+                    "isCorrect": false,
+                    "feedback": "Reflective thinkers are generally less susceptible to anchoring, regardless of handedness."
+                },
+                {
+                    "text": "experts in the field",
+                    "isCorrect": false,
+                    "feedback": "Experts are often more resistant to anchoring, though they remain susceptible if not warned."
+                },
+                {
+                    "text": "high-openness individuals",
+                    "isCorrect": false,
+                    "feedback": "Openness is a personality trait; the interhemispheric interaction mechanism specifically relates to handedness."
+                },
+                {
+                    "text": "left-hemisphere dominant people",
+                    "isCorrect": false,
+                    "feedback": "The text specifies mixed-handedness, not a specific hemisphere dominance, as the driver for larger effects."
+                },
+                {
+                    "text": "right-hemisphere dominant people",
+                    "isCorrect": false,
+                    "feedback": "The text specifies mixed-handedness, not a specific hemisphere dominance, as the driver for larger effects."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "EEG studies suggest that externally presented anchors function as ____, which shape the cognitive and affective context of subsequent judgments.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "semantic primes",
+                    "isCorrect": true,
+                    "feedback": "Semantic primes are anchors that trigger a specific cognitive and affective context, influencing how judgments are formed."
+                },
+                {
+                    "text": "cognitive triggers",
+                    "isCorrect": false,
+                    "feedback": "While anchors are called cognitive triggers, the specific mechanism described by EEG studies is semantic priming."
+                },
+                {
+                    "text": "evaluative networks",
+                    "isCorrect": false,
+                    "feedback": "Evaluative networks are the neural structures engaged by anchors, not the function the anchor performs as a prime."
+                },
+                {
+                    "text": "interhemispheric bridges",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction is a biological factor, not the priming mechanism used to shape context."
+                },
+                {
+                    "text": "adjustment limits",
+                    "isCorrect": false,
+                    "feedback": "Adjustment limits are external constraints that act as anchors via extremeness aversion, not semantic primes."
+                },
+                {
+                    "text": "neural signatures",
+                    "isCorrect": false,
+                    "feedback": "Neural signatures are the electrical patterns produced by the brain, not the priming function itself."
+                },
+                {
+                    "text": "affective anchors",
+                    "isCorrect": false,
+                    "feedback": "The text refers to semantic priming, not a separate category of 'affective anchors'."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "When encountering higher anchors, the brain exhibits increased P2 and late positive potential (LPP) amplitudes, which signal a state of ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "anticipatory attention",
+                    "isCorrect": true,
+                    "feedback": "Increased P2 and LPP amplitudes indicate greater anticipatory attention and expectations of stronger outcomes."
+                },
+                {
+                    "text": "semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is the general process of shaping context, while P2/LPP specifically signal anticipatory attention."
+                },
+                {
+                    "text": "interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Interhemispheric interaction relates to handedness and susceptibility, not the specific electrical signature of high anchors."
+                },
+                {
+                    "text": "extremeness aversion",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion is a behavioral tendency to avoid edges, not a neural signal of readiness."
+                },
+                {
+                    "text": "cognitive rigidity",
+                    "isCorrect": false,
+                    "feedback": "Cognitive rigidity is a general mental state, not the specific neural signature associated with high anchors."
+                },
+                {
+                    "text": "affective readiness",
+                    "isCorrect": false,
+                    "feedback": "While the context is affective, the specific term used for this neural state is anticipatory attention."
+                },
+                {
+                    "text": "evaluative power",
+                    "isCorrect": false,
+                    "feedback": "EEG power refers to the strength of the signal, but the state signaled is anticipatory attention."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What is the direct result of extremeness aversion during a decision-making process?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Increased adjustment from the anchor",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion actually causes people to avoid adjusting too far, leading to smaller changes."
+                },
+                {
+                    "text": "A final judgment that remains close to the anchor",
+                    "isCorrect": true,
+                    "feedback": "Because individuals avoid the edges of a spectrum, they make smaller adjustments, leaving the final judgment near the anchor."
+                },
+                {
+                    "text": "Complete rejection of the external anchor",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion makes people more vulnerable to anchors, not less."
+                },
+                {
+                    "text": "A preference for maximum or minimum values",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion is specifically the tendency to avoid maximum and minimum values."
+                },
+                {
+                    "text": "Increased susceptibility to semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is a separate neurological mechanism involving cognitive and affective context."
+                },
+                {
+                    "text": "A total shift toward the absolute maximum value",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion drives users toward the middle ground, away from the extremes."
+                },
+                {
+                    "text": "Elimination of the anchoring effect",
+                    "isCorrect": false,
+                    "feedback": "Extremeness aversion is a driver that increases the anchoring effect, not eliminates it."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the outcome for mixed-handed individuals regarding their susceptibility to anchoring?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Lower anchoring susceptibility",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals show lower susceptibility, while mixed-handed individuals show higher susceptibility."
+                },
+                {
+                    "text": "No change in anchoring susceptibility",
+                    "isCorrect": false,
+                    "feedback": "Research indicates a clear difference in susceptibility based on handedness."
+                },
+                {
+                    "text": "Higher anchoring susceptibility",
+                    "isCorrect": true,
+                    "feedback": "Mixed-handed individuals show larger anchoring effects, which is linked to differences in interhemispheric interaction."
+                },
+                {
+                    "text": "Complete immunity to anchoring",
+                    "isCorrect": false,
+                    "feedback": "No group is completely immune to anchoring; mixed-handed individuals are actually more susceptible."
+                },
+                {
+                    "text": "Increased resistance to semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Handedness relates to interhemispheric interaction, not a resistance to semantic priming."
+                },
+                {
+                    "text": "A preference for extreme options",
+                    "isCorrect": false,
+                    "feedback": "Handedness does not influence a preference for extreme options; that is related to extremeness aversion."
+                },
+                {
+                    "text": "Reduced P2 amplitude in the brain",
+                    "isCorrect": false,
+                    "feedback": "P2 amplitude is linked to the value of the anchor, not the handedness of the individual."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How does the process of semantic priming impact a person's subsequent judgment?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It eliminates the need for an anchor",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is the mechanism by which the anchor itself functions to shape the judgment."
+                },
+                {
+                    "text": "It forces the user to select the absolute maximum value",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming shapes the context, but does not force a specific extreme value."
+                },
+                {
+                    "text": "It reduces the cognitive load of the decision",
+                    "isCorrect": false,
+                    "feedback": "The text does not state that semantic priming reduces cognitive load."
+                },
+                {
+                    "text": "It shapes the cognitive and affective context of the judgment",
+                    "isCorrect": true,
+                    "feedback": "Externally presented anchors act as semantic primes that set the overall cognitive and affective framework for the judgment."
+                },
+                {
+                    "text": "It increases the desire for the middle ground",
+                    "isCorrect": false,
+                    "feedback": "The desire for the middle ground is a result of extremeness aversion, not semantic priming."
+                },
+                {
+                    "text": "It prevents interhemispheric interaction",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is a cognitive process, not a mechanism that prevents brain hemisphere interaction."
+                },
+                {
+                    "text": "It causes a total rejection of the anchor value",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming makes the anchor more influential by shaping the context of the judgment."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the neural result of encountering a higher anchor value?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Decreased P2 and LPP amplitudes",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors are actually linked to increased P2 and LPP amplitudes."
+                },
+                {
+                    "text": "Increased P2 and late positive potential (LPP) amplitudes",
+                    "isCorrect": true,
+                    "feedback": "These specific electrical signatures signal greater anticipatory attention and expectations of stronger outcomes."
+                },
+                {
+                    "text": "Complete shutdown of semantic networks",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors engage distinct semantic and evaluative networks rather than shutting them down."
+                },
+                {
+                    "text": "A shift to strongly handed brain organization",
+                    "isCorrect": false,
+                    "feedback": "Brain organization (handedness) is a trait, not a result of encountering a higher anchor."
+                },
+                {
+                    "text": "Elimination of the late positive potential",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors increase LPP amplitudes, they do not eliminate them."
+                },
+                {
+                    "text": "Reduced EEG power during value-judgment",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors produce stronger EEG power during value-judgment stages."
+                },
+                {
+                    "text": "A decrease in anticipatory attention",
+                    "isCorrect": false,
+                    "feedback": "Higher anchors increase anticipatory attention and expectations of stronger outcomes."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the primary difference in anchoring susceptibility between mixed-handed and strongly handed individuals?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Mixed-handed individuals show larger anchoring effects",
+                    "isCorrect": true,
+                    "feedback": "Mixed-handed individuals exhibit higher susceptibility to anchoring, which is linked to differences in interhemispheric interaction."
+                },
+                {
+                    "text": "Strongly handed individuals show larger anchoring effects",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals actually show smaller anchoring effects compared to mixed-handed individuals."
+                },
+                {
+                    "text": "Mixed-handed individuals are immune to anchoring",
+                    "isCorrect": false,
+                    "feedback": "Mixed-handed individuals are not immune; they actually show larger anchoring effects."
+                },
+                {
+                    "text": "Strongly handed individuals are immune to anchoring",
+                    "isCorrect": false,
+                    "feedback": "Strongly handed individuals are still susceptible to anchoring, though less so than mixed-handed individuals."
+                },
+                {
+                    "text": "Both groups show identical anchoring effects",
+                    "isCorrect": false,
+                    "feedback": "Research indicates a clear difference, with mixed-handed individuals showing larger effects."
+                },
+                {
+                    "text": "Handedness has no impact on anchoring",
+                    "isCorrect": false,
+                    "feedback": "Handedness does influence susceptibility, specifically through interhemispheric interaction."
+                },
+                {
+                    "text": "Strongly handed individuals adjust more aggressively",
+                    "isCorrect": false,
+                    "feedback": "The text specifies that mixed-handed individuals show larger anchoring effects, not the adjustment style of strongly handed individuals."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "While strongly handed individuals show lower anchoring susceptibility, ____ show larger anchoring effects, a pattern consistent with differences in interhemispheric interaction.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Mixed-handed individuals",
+                    "isCorrect": true,
+                    "feedback": "Mixed-handed individuals exhibit larger anchoring effects due to differences in how their brain hemispheres interact."
+                },
+                {
+                    "text": "Right-handed individuals",
+                    "isCorrect": false,
+                    "feedback": "The text does not distinguish between right and left handedness, only between strongly handed and mixed-handed individuals."
+                },
+                {
+                    "text": "Left-handed individuals",
+                    "isCorrect": false,
+                    "feedback": "The text does not distinguish between right and left handedness, only between strongly handed and mixed-handed individuals."
+                },
+                {
+                    "text": "Ambidextrous individuals",
+                    "isCorrect": false,
+                    "feedback": "While similar to mixed-handed, the text specifically uses the term 'mixed-handed individuals' to describe this group."
+                },
+                {
+                    "text": "Bilingual individuals",
+                    "isCorrect": false,
+                    "feedback": "Bilingualism is not mentioned as a factor influencing anchoring susceptibility in the source text."
+                },
+                {
+                    "text": "Neurotypical individuals",
+                    "isCorrect": false,
+                    "feedback": "The text does not contrast neurotypical individuals with any other group regarding anchoring susceptibility."
+                },
+                {
+                    "text": "Reflective individuals",
+                    "isCorrect": false,
+                    "feedback": "Reflective individuals are mentioned in the raw content as being less susceptible, but not in the context of handedness or interhemispheric interaction."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        }
+    ],
+    "true_false_games": [
+        {
+            "statement": "Extremeness aversion is the psychological tendency for individuals to avoid extreme options during the decision-making process.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. Extremeness aversion is defined as the tendency to avoid extreme options when making decisions.",
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Mixed-handed individuals typically exhibit smaller anchoring effects compared to strongly handed individuals.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Mixed-handed individuals actually show larger anchoring effects, which is consistent with differences in interhemispheric interaction.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Semantic priming occurs when externally presented anchors function as primes that shape the cognitive and affective context of judgments.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. This process allows anchors to influence the overall context of the subsequent judgment.",
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "In experiments regarding adjustment limits, participants allowed to adjust up to 15 units made smaller changes than those limited to 6 units.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Incorrect. Those told they could only adjust up to 6 units made much smaller changes than those allowed 15 units.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Higher anchors are linked to increased P2 and late positive potential (LPP) amplitudes in the brain.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Correct. These electrical signatures indicate greater anticipatory attention and expectations of stronger or more aversive outcomes.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The desire for the 'middle ground' on a Likert scale makes individuals more likely to select the absolute maximum or minimum values.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Extremeness aversion makes people significantly more likely to select middle options rather than the absolute maximum or minimum values.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "EEG and fMRI research indicates that anchor values engage distinct semantic and evaluative networks in the brain.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. The process of anchoring is deeply embedded in the neural architecture, engaging different networks based on the anchor value.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Extremeness aversion is the psychological tendency for individuals to avoid extreme options when making decisions.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. Extremeness aversion is defined as the tendency to avoid extreme options during decision-making.",
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "In the context of extremeness aversion, a maximum allowable adjustment limit can function as an anchor that influences the final judgment.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. The maximum allowable adjustment limit acts as an anchor, and because people avoid extremes, their final judgment remains close to that anchor.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Participants allowed to adjust their answers by 15 units made smaller changes than those limited to 6 units in experiments testing extremeness aversion.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Incorrect. Those told they could only adjust up to 6 units made much smaller changes than those allowed 15 units.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Mixed-handed individuals are generally less susceptible to anchoring effects than strongly handed individuals due to differences in interhemispheric interaction.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Mixed-handed individuals show larger anchoring effects, while strongly handed individuals show smaller anchoring effects.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "According to electrophysiological research, externally presented anchors function as semantic primes that shape the cognitive and affective context of a judgment.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. EEG studies suggest that anchors act as semantic primes, influencing the overall context of the subsequent judgment.",
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Higher anchors are associated with decreased P2 and late positive potential (LPP) amplitudes, signaling a state of lower anticipatory attention.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Incorrect. Higher anchors are linked to increased P2 and LPP amplitudes, which indicate greater anticipatory attention and expectations of stronger outcomes.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Extremeness aversion leads individuals to be more likely to select middle options on a Likert scale than the absolute maximum or minimum values.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Extremeness aversion is the instinctive tendency to avoid extremes during decision-making, which often manifests as a preference for middle options on Likert scales.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "When participants are given a lower limit on how much they can adjust their answer, they typically make larger changes to avoid the anchor.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Actually, a lower adjustment limit (e.g., 6 units vs 15 units) causes people to make smaller changes because the limit itself becomes the anchor.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Mixed-handed individuals generally exhibit smaller anchoring effects compared to strongly handed individuals due to differences in interhemispheric interaction.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Mixed-handed individuals actually show larger anchoring effects, which is consistent with differences in how the brain's hemispheres interact.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Externally presented anchors function as semantic primes that shape the cognitive and affective context of subsequent judgments.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "EEG studies suggest that anchors act as semantic primes, influencing the overall context in which a judgment is formed.",
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Higher anchors are associated with increased P2 and late positive potential (LPP) amplitudes, signaling greater anticipatory attention.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "These specific electrical signatures (P2 and LPP) indicate heightened readiness and expectations of stronger or more aversive outcomes when encountering higher anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The anchoring effect is exclusively driven by the primary theories of anchoring and adjusting or selective accessibility.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Anchoring is more complex and is also driven by other mechanisms such as extremeness aversion, interhemispheric interaction, and semantic priming.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Extremeness aversion is the tendency for people to seek out extreme options to ensure they are making the most impactful decision possible.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Extremeness aversion is actually the tendency for people to avoid extreme options during decision-making.",
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Mixed-handed individuals typically exhibit larger anchoring effects than strongly handed individuals due to differences in interhemispheric interaction.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Research suggests that the way brain hemispheres interact influences anchoring, with mixed-handed individuals showing higher susceptibility.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Semantic priming, in the context of anchoring, occurs when an external anchor functions as a trigger that shapes the cognitive and affective context of a judgment.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "EEG studies indicate that externally presented anchors act as semantic primes, influencing the subsequent judgment's context.",
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "In experiments regarding adjustment limits, participants allowed to adjust by 15 units made smaller changes to their answers than those limited to 6 units.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "The opposite is true: those told they could only adjust up to 6 units made much smaller changes than those allowed 15 units.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Higher anchors are associated with increased P2 and late positive potential (LPP) amplitudes, signaling greater anticipatory attention.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "These specific electrical signatures in the brain indicate expectations of stronger or more aversive outcomes when encountering higher anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Extremeness aversion and semantic priming are both biological mechanisms driven exclusively by interhemispheric interaction.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Extremeness aversion is a psychological quirk/tendency, while interhemispheric interaction is a biological/neurological factor; semantic priming is a cognitive process.",
+            "source_card_ids": [
+                1,
+                4,
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "According to the provided text, the maximum allowable adjustment limit in a decision-making task functions as an anchor that influences the final judgment.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The limit acts as an anchor because individuals avoid adjusting too close to the extremes (extremeness aversion).",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "fMRI and EEG research indicates that anchor values engage the same semantic and evaluative networks regardless of whether the anchor is high or low.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Research shows that anchor values engage distinct semantic and evaluative networks, with higher anchors producing stronger EEG power during value-judgment stages.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast"
+        }
+    ]
+}

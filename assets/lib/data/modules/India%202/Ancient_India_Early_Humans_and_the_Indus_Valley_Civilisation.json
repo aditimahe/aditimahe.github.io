@@ -1,0 +1,1693 @@
+{
+    "module_name": "Ancient India: Early Humans and the Indus Valley Civilisation",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "Based on coalescence of Mitochondrial DNA and Y Chromosome data, it is thought that the earliest extant lineages of anatomically modern humans or Homo sapiens on the Indian subcontinent had reached there from Africa between 80,000 and 50,000 years ago, and with high likelihood by 55,000 years ago."
+        },
+        {
+            "note_id": "n2",
+            "text": "Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity."
+        },
+        {
+            "note_id": "n3",
+            "text": "Evidence for the neolithic period in the western margins of the Indus river basin, at Mehrgarh in Balochistan, Pakistan, dates to after 7000 BCE."
+        },
+        {
+            "note_id": "n4",
+            "text": "Domestication of grain-producing plants (including barley) and animals (including humped zebu cattle) occurred here."
+        },
+        {
+            "note_id": "n5",
+            "text": "These cultures gradually evolved into the Indus Valley Civilisation, which flourished during 2500-1900 BCE in Pakistan and western India."
+        },
+        {
+            "note_id": "n6",
+            "text": "Centred around cities such as Mohenjo-daro, Harappa, Dholavira, Ganweriwala, and Rakhigarhi, its characteristic features included standardised weights, steatite seals, a written script, urban planning, public works, and arts and crafts including pottery styles, terracotta human figures and animal statuettes."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid showing the timeline of early human presence and the Indus Valley Civilisation. Include the following key-value pairs: 'Earliest Human Arrival' (80,000-50,000 years ago), 'Neolithic Period (Mehrgarh)' (after 7000 BCE), and 'Indus Valley Civilisation Flourishing' (2500-1900 BCE).",
+            "source_notes_used": [
+                "n1",
+                "n3",
+                "n5"
+            ],
+            "rationale": "These notes provide distinct, unrelated numerical date ranges that can be formatted as a quantitative spec sheet for the region's timeline."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the following cities of the Indus Valley Civilisation: Mohenjo-daro, Harappa, Dholavira, Ganweriwala, and Rakhigarhi. Display style: factions. These cities served as the central hubs of the civilisation's urban planning and public works.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 lists five distinct cities that served as the central hubs of the Indus Valley Civilisation, providing a distinct role for these entities."
+        },
+        {
+            "widget_type": "before_and_after",
+            "widget_context": "Create a 'before_and_after' widget showing the transformation of the early cultures in the western margins of the Indus river basin. Initial state: Neolithic cultures at Mehrgarh (after 7000 BCE) characterized by the domestication of grain-producing plants and animals. Catalyst: Gradual evolution over time. Final state: The Indus Valley Civilisation (2500-1900 BCE) characterized by urban planning, standardised weights, and a written script.",
+            "source_notes_used": [
+                "n3",
+                "n4",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes describe a clear transformation of a single entity (the regional cultures) from a Neolithic state to a highly organized urban civilization."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Homo sapiens' as anatomically modern humans, as stated in note n1.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 explicitly provides a technical term 'Homo sapiens' and its clear definition as 'anatomically modern humans'."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is the characteristic features of the Indus Valley Civilisation. The list should include: standardised weights, steatite seals, a written script, urban planning, public works, and arts and crafts (including pottery styles, terracotta human figures and animal statuettes).",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 provides a clear list of more than three related characteristic features of the Indus Valley Civilisation within a common context."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'tags' style. The introductory context is the cities of the Indus Valley Civilisation. The list should include: Mohenjo-daro, Harappa, Dholavira, Ganweriwala, and Rakhigarhi.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 lists several specific cities of the Indus Valley Civilisation, which are perfectly suited for a 'tags' style breakdown."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is the(",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 lists the domestication of grain-producing plants (barley) and animals (zebu cattle), but it only contains two items, which requires a minimum of 3 items for an itemized_breakdown."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the specific timeframe for the arrival of Homo sapiens in the Indian subcontinent (80,000 to 50,000 years ago, likely by 55,000 years ago) using the 'floating_overhang' display style to emphasize the era.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a highly specific date range and a likely arrival time for early humans, fitting the insight_badge requirements."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that the Indian subcontinent is second only to Africa in human genetic diversity using the 'attention_pulse' display style to emphasize the surprising statistic.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note presents a shocking fact about genetic diversity ranking, which is a perfect fit for an attention_pulse insight_badge."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date of the neolithic period at Mehrgarh in Balochistan, Pakistan (after 7000 BCE) using the 'floating_overhang' display style to emphasize the physical location and time period.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a precise date and location for the neolithic period, fitting the insight_badge requirements."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the flourish period of the Indus Valley Civilisation (2500-1900 BCE) and its location (Pakistan and western India) using the 'floating_overhang' display style to emphasize the era and location.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note provides a specific date range and location for the Indus Valley Civilisation, fitting the insight_badge requirements."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a qualitative fact grid for the Indus Valley Civilisation. Include the following key-value pairs: Cities: 'Mohenjo-daro, Harappa, Dholavira, Ganweriwala, and Rakhigarhi'; Characteristic Features: 'standardised weights, steatite seals, a written script, urban planning, public works, arts and crafts'.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides distinct, unrelated qualitative attributes (cities and features) of the Indus Valley Civilisation that can be formatted as a spec sheet."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while maintaining a comprehensive visual experience. First, I addressed the conflict over the timeline of early humans and the IVC (n1, n3, n5). raw_w0 (fact_grid) was kept as it synthesizes multiple dates into a single structural view, while raw_w7, raw_w9, and raw_w10 (insight_badges) were removed as they are simple repetitions of the same data points. Second, for the cities of the IVC (n6), raw_w1 (entity_profiles) was chosen over raw_w5 (itemized_breakdown) because entity profiles provide a more complex and visually engaging way to represent key hubs. Third, for the features of the IVC (n6), raw_w4 (itemized_breakdown) was kept over raw_w11 (fact_grid) because a bulleted list is a more natural way to present a diverse set of characteristic features than a qualitative grid. raw_w6 was removed as it failed its own internal requirement for a minimum of 3 items. raw_w2 (before_and_after) was kept because it provides a unique comparative angle on the evolution from Neolithic to Urban, which is distinct from the simple listing of dates. raw_w3 (jargon_buster) and raw_w8 (insight_badge) were kept as they provide unique information (definition of Homo sapiens and genetic diversity) that does not conflict with any other widget.",
+        "surviving_widget_ids": [
+            "raw_w0",
+            "raw_w1",
+            "raw_w2",
+            "raw_w3",
+            "raw_w4",
+            "raw_w8"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid showing the timeline of early human presence and the Indus Valley Civilisation. Include the following key-value pairs: 'Earliest Human Arrival' (80,000-50,000 years ago), 'Neolithic Period (Mehrgarh)' (after 7000 BCE), and 'Indus Valley Civilisation Flourishing' (2500-1900 BCE).",
+            "source_notes_used": [
+                "n1",
+                "n3",
+                "n5"
+            ],
+            "rationale": "These notes provide distinct, unrelated numerical date ranges that can be formatted as a quantitative spec sheet for the region's timeline."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the following cities of the Indus Valley Civilisation: Mohenjo-daro, Harappa, Dholavira, Ganweriwala, and Rakhigarhi. Display style: factions. These cities served as the central hubs of the civilisation's urban planning and public works.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 lists five distinct cities that served as the central hubs of the Indus Valley Civilisation, providing a distinct role for these entities."
+        },
+        {
+            "widget_type": "before_and_after",
+            "widget_context": "Create a 'before_and_after' widget showing the transformation of the early cultures in the western margins of the Indus river basin. Initial state: Neolithic cultures at Mehrgarh (after 7000 BCE) characterized by the domestication of grain-producing plants and animals. Catalyst: Gradual evolution over time. Final state: The Indus Valley Civilisation (2500-1900 BCE) characterized by urban planning, standardised weights, and a written script.",
+            "source_notes_used": [
+                "n3",
+                "n4",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes describe a clear transformation of a single entity (the regional cultures) from a Neolithic state to a highly organized urban civilization."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Homo sapiens' as anatomically modern humans, as stated in note n1.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 explicitly provides a technical term 'Homo sapiens' and its clear definition as 'anatomically modern humans'."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is the characteristic features of the Indus Valley Civilisation. The list should include: standardised weights, steatite seals, a written script, urban planning, public works, and arts and crafts (including pottery styles, terracotta human figures and animal statuettes).",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 provides a clear list of more than three related characteristic features of the Indus Valley Civilisation within a common context."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that the Indian subcontinent is second only to Africa in human genetic diversity using the 'attention_pulse' display style to emphasize the surprising statistic.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note presents a shocking fact about genetic diversity ranking, which is a perfect fit for an attention_pulse insight_badge."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w0",
+            "block_type": "fact_grid",
+            "fact_grid_data": {
+                "grid_type": "quantitative",
+                "title": "Early Human and Civilisation Timeline",
+                "intro_text": "A timeline of the earliest human presence and the emergence of settled society on the Indian subcontinent.",
+                "items": [
+                    {
+                        "label": "Earliest Human Arrival",
+                        "value": "80,000-50,000 years ago",
+                        "icon_emoji": "👣"
+                    },
+                    {
+                        "label": "Neolithic Period (Mehrgarh)",
+                        "value": "after 7000 BCE",
+                        "icon_emoji": "🌾"
+                    },
+                    {
+                        "label": "Indus Valley Civilisation Flourishing",
+                        "value": "2500-1900 BCE",
+                        "icon_emoji": "🏛️"
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n3",
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w1",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Indus Valley Civilisation: Major Urban Hubs",
+                "intro_text": "These cities served as the central hubs of the civilisation's urban planning and public works, featuring standardised weights and a written script.",
+                "entities": [
+                    {
+                        "name": "Mohenjo-daro",
+                        "role": "Central Urban Hub",
+                        "description": "A major city of the Indus Valley Civilisation known for its urban planning and the excavation of the Pashupati seal."
+                    },
+                    {
+                        "name": "Harappa",
+                        "role": "Central Urban Hub",
+                        "description": "One of the primary cities that served as a center for the civilisation's public works and urban planning."
+                    },
+                    {
+                        "name": "Dholavira",
+                        "role": "Central Urban Hub",
+                        "description": "A key urban center characterized by the civilisation's standardised weights and public works."
+                    },
+                    {
+                        "name": "Ganweriwala",
+                        "role": "Central Urban Hub",
+                        "description": "A central city that contributed to the characteristic urban planning of the Indus Valley Civilisation."
+                    },
+                    {
+                        "name": "Rakhigarhi",
+                        "role": "Central Urban Hub",
+                        "description": "A major urban hub involved in the civilisation's arts, crafts, and public works."
+                    }
+                ],
+                "entity_type": "factions"
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w2",
+            "block_type": "before_and_after",
+            "before_and_after_data": {
+                "entity": "Early cultures in the western margins of the Indus river basin",
+                "state_before": "Neolithic cultures domesticating plants and animals",
+                "catalyst": "These cultures gradually evolved over time into a more complex society.",
+                "state_after": "The urbanized Indus Valley Civilisation"
+            },
+            "source_notes_consumed": [
+                "n3",
+                "n4",
+                "n5",
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w3",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "Homo sapiens",
+                "definition": "Anatomically modern humans."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w4",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Characteristic Features",
+                "context_text": "The Indus Valley Civilisation was defined by several distinct archaeological and cultural markers.",
+                "items": [
+                    "Standardised weights",
+                    "Steatite seals",
+                    "A written script",
+                    "Urban planning",
+                    "Public works",
+                    "Arts and crafts, including pottery styles, terracotta human figures and animal statuettes"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w5",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🧬",
+                "short_title": "Genetic Diversity",
+                "expanded_detail": "The Indian subcontinent is second only to Africa in human genetic diversity. This high level of diversity is attributed to the region's long occupation by early humans, who initially lived in varying forms of isolation as hunter-gatherers.",
+                "display_style": "attention_pulse"
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Ancient India: Early Humans and the Indus Valley Civilisation",
+        "cards": [
+            {
+                "card_title": "The First Arrivals",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the topic and sets the stage for the arrival of early humans on the subcontinent.",
+                        "text_content": "The story of human presence in the Indian subcontinent begins tens of thousands of years ago. By analyzing **Mitochondrial DNA** and **Y Chromosome** data, researchers believe that the earliest lineages of anatomically modern humans arrived from Africa long before the dawn of recorded history."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon buster provides a clear definition for the scientific term 'Homo sapiens' used in the context of early human arrival.",
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Provides the specific timeframe for arrival and introduces the concept of genetic diversity.",
+                        "text_content": "These early pioneers are thought to have reached the region between **80,000 and 50,000 years ago**, and with high likelihood by **55,000 years ago**. Because these early populations lived for millennia as hunter-gatherers in varying states of isolation, they laid the foundation for a remarkably diverse genetic landscape."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight badge highlights the unique genetic diversity of the region, which is a key point in the notes.",
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the arrival of humans to the broader timeline of settlement.",
+                        "text_content": "This deep history of human occupation set the stage for the eventual transition from nomadic wandering to settled society. But when exactly did this shift occur?"
+                    }
+                ]
+            },
+            {
+                "card_title": "The Dawn of Settlement",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the Neolithic period and the specific site of Mehrgarh.",
+                        "text_content": "The shift toward a settled existence began in the western margins of the **Indus river basin**. Evidence from **Mehrgarh** in Balochistan, Pakistan, points to a Neolithic period dating back to after **7000 BCE**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The fact grid provides a quantitative timeline of early human presence and the emergence of settled society.",
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the agricultural advancements at Mehrgarh.",
+                        "text_content": "At Mehrgarh, humans began the critical process of domestication. They started cultivating grain-producing plants, such as **barley**, and taming animals, including the **humped zebu cattle**. This transition from foraging to farming was the catalyst for everything that followed."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The before-and-after widget visually represents the evolution from Neolithic cultures to the urbanized Indus Valley Civilisation.",
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the Neolithic period to the peak of the Indus Valley Civilisation.",
+                        "text_content": "As these early farming communities grew in complexity and scale, they evolved into one of the most sophisticated societies of the ancient world: the **Indus Valley Civilisation**."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Urban Revolution",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the timeframe and geography of the Indus Valley Civilisation.",
+                        "text_content": "Flourishing between **2500 and 1900 BCE**, the Indus Valley Civilisation spanned across present-day **Pakistan** and **western India**. It was not merely a collection of villages, but a network of highly organized urban centers."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity profiles widget lists the major urban hubs of the civilisation.",
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the characteristic features of the civilisation, leading into the itemized breakdown.",
+                        "text_content": "What truly set this civilisation apart was its extraordinary level of standardization and planning. From the way their streets were laid out to the tools they used for trade, there was a consistent logic applied across vast distances."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The itemized breakdown lists the specific archaeological and cultural markers of the Indus Valley Civilisation.",
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding text that summarizes the legacy of the civilisation.",
+                        "text_content": "Through their mastery of **urban planning**, **public works**, and **arts and crafts**, the people of the Indus Valley created a blueprint for civilization that would echo through the millennia, leaving behind a legacy of precision and sophistication."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "Echoes of the Indus: The Dawn of Indian Civilization",
+        "module_description": "Journey from the first footsteps of early humans to the rise of one of the ancient world's most sophisticated urban empires.",
+        "alternative_descriptions": [
+            "Uncover the secrets of a lost world where precision planning and mysterious scripts ruled the river basins.",
+            "From nomadic hunters to master architects: witness the epic evolution of the Indus Valley Civilisation.",
+            "Step back 80,000 years to discover how the first pioneers built the foundations of a great civilization."
+        ],
+        "tags": [
+            "Indus Valley Civilisation",
+            "Neolithic Period",
+            "Urban Planning",
+            "Early Humans",
+            "Mehrgarh"
+        ],
+        "loading_screen_trivia": "The Indian subcontinent is second only to Africa in human genetic diversity due to its long occupation by early humans.",
+        "timeline": [
+            {
+                "year": "80,000-50,000 years ago",
+                "event": "Earliest humans arrive in India",
+                "related_card_id": 1
+            },
+            {
+                "year": "after 7000 BCE",
+                "event": "Neolithic settlement begins at Mehrgarh",
+                "related_card_id": 2
+            },
+            {
+                "year": "2500-1900 BCE",
+                "event": "Indus Valley Civilisation flourishes",
+                "related_card_id": 3
+            }
+        ],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "The Indus Valley's mastery of urban planning and public works created a blueprint for civilization that echoes through the millennia."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Ancient India: Early Humans and the Indus Valley Civilisation",
+                "created_at": "2026-05-20T17:55:37.928387+00:00",
+                "card_title": "The First Arrivals",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "The story of human presence in the Indian subcontinent begins tens of thousands of years ago. By analyzing **Mitochondrial DNA** and **Y Chromosome** data, researchers believe that the earliest lineages of anatomically modern humans arrived from Africa long before the dawn of recorded history."
+                    },
+                    {
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w3",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "Homo sapiens",
+                            "definition": "Anatomically modern humans."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "These early pioneers are thought to have reached the region between **80,000 and 50,000 years ago**, and with high likelihood by **55,000 years ago**. Because these early populations lived for millennia as hunter-gatherers in varying states of isolation, they laid the foundation for a remarkably diverse genetic landscape."
+                    },
+                    {
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🧬",
+                            "short_title": "Genetic Diversity",
+                            "expanded_detail": "The Indian subcontinent is second only to Africa in human genetic diversity. This high level of diversity is attributed to the region's long occupation by early humans, who initially lived in varying forms of isolation as hunter-gatherers.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_1_block_3"
+                    },
+                    {
+                        "block_id": "card_1_block_4",
+                        "block_type": "text",
+                        "text_content": "This deep history of human occupation set the stage for the eventual transition from nomadic wandering to settled society. But when exactly did this shift occur?"
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Ancient India: Early Humans and the Indus Valley Civilisation",
+                "created_at": "2026-05-20T17:55:37.928387+00:00",
+                "card_title": "The Dawn of Settlement",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "The shift toward a settled existence began in the western margins of the **Indus river basin**. Evidence from **Mehrgarh** in Balochistan, Pakistan, points to a Neolithic period dating back to after **7000 BCE**."
+                    },
+                    {
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w0",
+                        "block_type": "fact_grid",
+                        "fact_grid_data": {
+                            "grid_type": "quantitative",
+                            "title": "Early Human and Civilisation Timeline",
+                            "intro_text": "A timeline of the earliest human presence and the emergence of settled society on the Indian subcontinent.",
+                            "items": [
+                                {
+                                    "label": "Earliest Human Arrival",
+                                    "value": "80,000-50,000 years ago",
+                                    "icon_emoji": "👣"
+                                },
+                                {
+                                    "label": "Neolithic Period (Mehrgarh)",
+                                    "value": "after 7000 BCE",
+                                    "icon_emoji": "🌾"
+                                },
+                                {
+                                    "label": "Indus Valley Civilisation Flourishing",
+                                    "value": "2500-1900 BCE",
+                                    "icon_emoji": "🏛️"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n3",
+                            "n5"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "At Mehrgarh, humans began the critical process of domestication. They started cultivating grain-producing plants, such as **barley**, and taming animals, including the **humped zebu cattle**. This transition from foraging to farming was the catalyst for everything that followed."
+                    },
+                    {
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w2",
+                        "block_type": "before_and_after",
+                        "before_and_after_data": {
+                            "entity": "Early cultures in the western margins of the Indus river basin",
+                            "state_before": "Neolithic cultures domesticating plants and animals",
+                            "catalyst": "These cultures gradually evolved over time into a more complex society.",
+                            "state_after": "The urbanized Indus Valley Civilisation"
+                        },
+                        "source_notes_consumed": [
+                            "n3",
+                            "n4",
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_2_block_3"
+                    },
+                    {
+                        "block_id": "card_2_block_4",
+                        "block_type": "text",
+                        "text_content": "As these early farming communities grew in complexity and scale, they evolved into one of the most sophisticated societies of the ancient world: the **Indus Valley Civilisation**."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Ancient India: Early Humans and the Indus Valley Civilisation",
+                "created_at": "2026-05-20T17:55:37.928387+00:00",
+                "card_title": "The Urban Revolution",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Flourishing between **2500 and 1900 BCE**, the Indus Valley Civilisation spanned across present-day **Pakistan** and **western India**. It was not merely a collection of villages, but a network of highly organized urban centers."
+                    },
+                    {
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w1",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Indus Valley Civilisation: Major Urban Hubs",
+                            "intro_text": "These cities served as the central hubs of the civilisation's urban planning and public works, featuring standardised weights and a written script.",
+                            "entities": [
+                                {
+                                    "name": "Mohenjo-daro",
+                                    "role": "Central Urban Hub",
+                                    "description": "A major city of the Indus Valley Civilisation known for its urban planning and the excavation of the Pashupati seal."
+                                },
+                                {
+                                    "name": "Harappa",
+                                    "role": "Central Urban Hub",
+                                    "description": "One of the primary cities that served as a center for the civilisation's public works and urban planning."
+                                },
+                                {
+                                    "name": "Dholavira",
+                                    "role": "Central Urban Hub",
+                                    "description": "A key urban center characterized by the civilisation's standardised weights and public works."
+                                },
+                                {
+                                    "name": "Ganweriwala",
+                                    "role": "Central Urban Hub",
+                                    "description": "A central city that contributed to the characteristic urban planning of the Indus Valley Civilisation."
+                                },
+                                {
+                                    "name": "Rakhigarhi",
+                                    "role": "Central Urban Hub",
+                                    "description": "A major urban hub involved in the civilisation's arts, crafts, and public works."
+                                }
+                            ],
+                            "entity_type": "factions"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "What truly set this civilisation apart was its extraordinary level of standardization and planning. From the way their streets were laid out to the tools they used for trade, there was a consistent logic applied across vast distances."
+                    },
+                    {
+                        "widget_id": "prebuilt_AncientIndiaEarlyHumansandtheIndusValleyCivilisation_w4",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Characteristic Features",
+                            "context_text": "The Indus Valley Civilisation was defined by several distinct archaeological and cultural markers.",
+                            "items": [
+                                "Standardised weights",
+                                "Steatite seals",
+                                "A written script",
+                                "Urban planning",
+                                "Public works",
+                                "Arts and crafts, including pottery styles, terracotta human figures and animal statuettes"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_3_block_3"
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "Through their mastery of **urban planning**, **public works**, and **arts and crafts**, the people of the Indus Valley created a blueprint for civilization that would echo through the millennia, leaving behind a legacy of precision and sophistication."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "Which DNA data helped researchers identify early human arrivals?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Mitochondrial DNA",
+                    "isCorrect": true,
+                    "feedback": "Mitochondrial DNA and Y Chromosome data were used for analysis."
+                },
+                {
+                    "text": "Nuclear DNA",
+                    "isCorrect": false,
+                    "feedback": "Nuclear DNA is not mentioned as the primary source for this analysis."
+                },
+                {
+                    "text": "Autosomal DNA",
+                    "isCorrect": false,
+                    "feedback": "Autosomal DNA is not cited in the source text."
+                },
+                {
+                    "text": "Chloroplast DNA",
+                    "isCorrect": false,
+                    "feedback": "Chloroplast DNA is found in plants, not humans."
+                },
+                {
+                    "text": "Epigenetic DNA",
+                    "isCorrect": false,
+                    "feedback": "Epigenetic data is not mentioned in the source text."
+                },
+                {
+                    "text": "Regulatory DNA",
+                    "isCorrect": false,
+                    "feedback": "Regulatory DNA is not mentioned in the source text."
+                },
+                {
+                    "text": "Viral DNA",
+                    "isCorrect": false,
+                    "feedback": "Viral DNA is not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "When did early humans likely reach the Indian subcontinent?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "By 55,000 years ago",
+                    "isCorrect": true,
+                    "feedback": "They likely arrived by 55,000 years ago."
+                },
+                {
+                    "text": "By 30,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "30,000 years ago refers to the earliest known fossils."
+                },
+                {
+                    "text": "By 10,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "10,000 years ago is too recent for the first arrivals."
+                },
+                {
+                    "text": "By 100,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "100,000 years ago exceeds the 80,000-50,000 range."
+                },
+                {
+                    "text": "By 40,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "40,000 years ago is not the specific high-likelihood date."
+                },
+                {
+                    "text": "By 65,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "65,000 years ago is not mentioned in the source text."
+                },
+                {
+                    "text": "By 75,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "75,000 years ago is not the specific high-likelihood date."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Where is the Neolithic site of Mehrgarh located?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Balochistan, Pakistan",
+                    "isCorrect": true,
+                    "feedback": "Mehrgarh is located in Balochistan, Pakistan."
+                },
+                {
+                    "text": "Gujarat, India",
+                    "isCorrect": false,
+                    "feedback": "Gujarat is in western India, not Balochistan."
+                },
+                {
+                    "text": "Punjab, Pakistan",
+                    "isCorrect": false,
+                    "feedback": "Punjab is a different region of Pakistan."
+                },
+                {
+                    "text": "Sindh, Pakistan",
+                    "isCorrect": false,
+                    "feedback": "Sindh is where the Indus basin is, but not Mehrgarh."
+                },
+                {
+                    "text": "Rajasthan, India",
+                    "isCorrect": false,
+                    "feedback": "Rajasthan is in India, not Pakistan."
+                },
+                {
+                    "text": "Haryana, India",
+                    "isCorrect": false,
+                    "feedback": "Haryana is not the location of Mehrgarh."
+                },
+                {
+                    "text": "Kashmir, India",
+                    "isCorrect": false,
+                    "feedback": "Kashmir is not the location of Mehrgarh."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which grain was cultivated by early humans at Mehrgarh?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Barley",
+                    "isCorrect": true,
+                    "feedback": "Humans at Mehrgarh started cultivating barley."
+                },
+                {
+                    "text": "Wheat",
+                    "isCorrect": false,
+                    "feedback": "Wheat is not explicitly mentioned in the source text."
+                },
+                {
+                    "text": "Rice",
+                    "isCorrect": false,
+                    "feedback": "Rice is not mentioned as a Mehrgarh crop."
+                },
+                {
+                    "text": "Millet",
+                    "isCorrect": false,
+                    "feedback": "Millet is not mentioned in the source text."
+                },
+                {
+                    "text": "Corn",
+                    "isCorrect": false,
+                    "feedback": "Corn is not native to ancient India."
+                },
+                {
+                    "text": "Sorghum",
+                    "isCorrect": false,
+                    "feedback": "Sorghum is not mentioned in the source text."
+                },
+                {
+                    "text": "Oats",
+                    "isCorrect": false,
+                    "feedback": "Oats are not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which animal was tamed by early farmers at Mehrgarh?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Humped zebu cattle",
+                    "isCorrect": true,
+                    "feedback": "Early farmers tamed the humped zebu cattle."
+                },
+                {
+                    "text": "Water buffalo",
+                    "isCorrect": false,
+                    "feedback": "Water buffalo are not mentioned in the source text."
+                },
+                {
+                    "text": "Domestic sheep",
+                    "isCorrect": false,
+                    "feedback": "Domestic sheep are not mentioned in the source text."
+                },
+                {
+                    "text": "Domestic goats",
+                    "isCorrect": false,
+                    "feedback": "Domestic goats are not mentioned in the source text."
+                },
+                {
+                    "text": "Asian elephant",
+                    "isCorrect": false,
+                    "feedback": "Asian elephants were not domesticated at Mehrgarh."
+                },
+                {
+                    "text": "Indian boar",
+                    "isCorrect": false,
+                    "feedback": "Indian boars were not domesticated at Mehrgarh."
+                },
+                {
+                    "text": "Bengal tiger",
+                    "isCorrect": false,
+                    "feedback": "Bengal tigers were not domesticated at Mehrgarh."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "When did the Indus Valley Civilisation flourish?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2500-1900 BCE",
+                    "isCorrect": true,
+                    "feedback": "The civilisation flourished between 2500 and 1900 BCE."
+                },
+                {
+                    "text": "3000-2500 BCE",
+                    "isCorrect": false,
+                    "feedback": "3000-2500 BCE is too early for the flourishing period."
+                },
+                {
+                    "text": "2000-1500 BCE",
+                    "isCorrect": false,
+                    "feedback": "2000-1500 BCE is too late for the flourishing period."
+                },
+                {
+                    "text": "3500-3000 BCE",
+                    "isCorrect": false,
+                    "feedback": "3500-3000 BCE is too early for the flourishing period."
+                },
+                {
+                    "text": "1500-1000 BCE",
+                    "isCorrect": false,
+                    "feedback": "1500-1000 BCE is too late for the flourishing period."
+                },
+                {
+                    "text": "2200-1700 BCE",
+                    "isCorrect": false,
+                    "feedback": "2200-1700 BCE is not the specific range provided."
+                },
+                {
+                    "text": "2800-2300 BCE",
+                    "isCorrect": false,
+                    "feedback": "2800-2300 BCE is not the specific range provided."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which city was a central urban hub of the Indus Valley?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Mohenjo-daro",
+                    "isCorrect": true,
+                    "feedback": "Mohenjo-daro was a major central urban hub."
+                },
+                {
+                    "text": "Pataliputra",
+                    "isCorrect": false,
+                    "feedback": "Pataliputra is not mentioned as an Indus Valley hub."
+                },
+                {
+                    "text": "Taxila",
+                    "isCorrect": false,
+                    "feedback": "Taxila is not mentioned as an Indus Valley hub."
+                },
+                {
+                    "text": "Lothal",
+                    "isCorrect": false,
+                    "feedback": "Lothal is not mentioned as an Indus Valley hub."
+                },
+                {
+                    "text": "Kashi",
+                    "isCorrect": false,
+                    "feedback": "Kashi is not mentioned as an Indus Valley hub."
+                },
+                {
+                    "text": "Ujjain",
+                    "isCorrect": false,
+                    "feedback": "Ujjain is not mentioned as an Indus Valley hub."
+                },
+                {
+                    "text": "Mathura",
+                    "isCorrect": false,
+                    "feedback": "Ujjain is not mentioned as an Indus Valley hub."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which material was used for Indus Valley seals?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Steatite",
+                    "isCorrect": true,
+                    "feedback": "The civilisation used steatite seals."
+                },
+                {
+                    "text": "Terracotta",
+                    "isCorrect": false,
+                    "feedback": "Terracotta was used for figures, not seals."
+                },
+                {
+                    "text": "Gold",
+                    "isCorrect": false,
+                    "feedback": "Gold is not mentioned as seal material."
+                },
+                {
+                    "text": "Silver",
+                    "isCorrect": false,
+                    "feedback": "Silver is not mentioned as seal material."
+                },
+                {
+                    "text": "Copper",
+                    "isCorrect": false,
+                    "feedback": "Copper is not mentioned as seal material."
+                },
+                {
+                    "text": "Iron",
+                    "isCorrect": false,
+                    "feedback": "Iron is not mentioned as seal material."
+                },
+                {
+                    "text": "Jade",
+                    "isCorrect": false,
+                    "feedback": "Jade is not mentioned as seal material."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Earliest humans arrived from Africa ____ years ago.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "80,000-50,000",
+                    "isCorrect": true,
+                    "feedback": "Humans arrived between 80,000 and 50,000 years ago."
+                },
+                {
+                    "text": "30,000",
+                    "isCorrect": false,
+                    "feedback": "30,000 years ago is when the earliest fossils date to."
+                },
+                {
+                    "text": "55,000",
+                    "isCorrect": false,
+                    "feedback": "55,000 is the high likelihood arrival date."
+                },
+                {
+                    "text": "7,000",
+                    "isCorrect": false,
+                    "feedback": "7,000 BCE marks the Neolithic period at Mehrgarh."
+                },
+                {
+                    "text": "10,000",
+                    "isCorrect": false,
+                    "feedback": "10,000 is not mentioned as an arrival date."
+                },
+                {
+                    "text": "15,000",
+                    "isCorrect": false,
+                    "feedback": "15,000 is not mentioned as an arrival date."
+                },
+                {
+                    "text": "20,000",
+                    "isCorrect": false,
+                    "feedback": "20,000 is not mentioned as an arrival date."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Neolithic period at ____ began after 7000 BCE.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Mehrgarh",
+                    "isCorrect": true,
+                    "feedback": "Mehrgarh in Balochistan shows Neolithic evidence after 7000 BCE."
+                },
+                {
+                    "text": "Mohenjo-daro",
+                    "isCorrect": false,
+                    "feedback": "Mohenjo-daro was a later urban hub."
+                },
+                {
+                    "text": "Harappa",
+                    "isCorrect": false,
+                    "feedback": "Harappa was a later urban hub."
+                },
+                {
+                    "text": "Dholavira",
+                    "isCorrect": false,
+                    "feedback": "Dholavira was a later urban hub."
+                },
+                {
+                    "text": "Ganweriwala",
+                    "isCorrect": false,
+                    "feedback": "Ganweriwala was a later urban hub."
+                },
+                {
+                    "text": "Rakhigarhi",
+                    "isCorrect": false,
+                    "feedback": "Rakhigarhi was a later urban hub."
+                },
+                {
+                    "text": "Lothal",
+                    "isCorrect": false,
+                    "feedback": "Lothal is not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Early farmers at Mehrgarh cultivated ____ as a grain.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Barley",
+                    "isCorrect": true,
+                    "feedback": "Barley was one of the grain-producing plants cultivated."
+                },
+                {
+                    "text": "Wheat",
+                    "isCorrect": false,
+                    "feedback": "Wheat is not explicitly mentioned in the source text."
+                },
+                {
+                    "text": "Rice",
+                    "isCorrect": false,
+                    "feedback": "Rice is not explicitly mentioned in the source text."
+                },
+                {
+                    "text": "Millet",
+                    "isCorrect": false,
+                    "feedback": "Millet is not explicitly mentioned in the source text."
+                },
+                {
+                    "text": "Corn",
+                    "isCorrect": false,
+                    "feedback": "Corn is not explicitly mentioned in the source text."
+                },
+                {
+                    "text": "Sorghum",
+                    "isCorrect": false,
+                    "feedback": "Sorghum is not explicitly mentioned in the source text."
+                },
+                {
+                    "text": "Oats",
+                    "isCorrect": false,
+                    "feedback": "Oats is not explicitly mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Mehrgarh farmers tamed the ____ cattle.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Humped zebu",
+                    "isCorrect": true,
+                    "feedback": "Humped zebu cattle were tamed at Mehrgarh."
+                },
+                {
+                    "text": "Brahman",
+                    "isCorrect": false,
+                    "feedback": "Brahman cattle are not mentioned in the source text."
+                },
+                {
+                    "text": "Angus",
+                    "isCorrect": false,
+                    "feedback": "Angus cattle are not mentioned in the source text."
+                },
+                {
+                    "text": "Hereford",
+                    "isCorrect": false,
+                    "feedback": "Hereford cattle are not mentioned in the source text."
+                },
+                {
+                    "text": "Holstein",
+                    "isCorrect": false,
+                    "feedback": "Holstein cattle are not mentioned in the source text."
+                },
+                {
+                    "text": "Jersey",
+                    "isCorrect": false,
+                    "feedback": "Jersey cattle are not mentioned in the source text."
+                },
+                {
+                    "text": "Limousin",
+                    "isCorrect": false,
+                    "feedback": "Limousin cattle are not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Indus Valley Civilisation flourished between ____ BCE.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2500-1900",
+                    "isCorrect": true,
+                    "feedback": "The civilisation flourished between 2500 and 1900 BCE."
+                },
+                {
+                    "text": "7000-3000",
+                    "isCorrect": false,
+                    "feedback": "7000 BCE relates to the Neolithic period."
+                },
+                {
+                    "text": "3000-2000",
+                    "isCorrect": false,
+                    "feedback": "3000-2000 is not the specified range."
+                },
+                {
+                    "text": "2000-1000",
+                    "isCorrect": false,
+                    "feedback": "2000-1000 is not the specified range."
+                },
+                {
+                    "text": "1500-1200",
+                    "isCorrect": false,
+                    "feedback": "1500-1200 BCE relates to Sanskrit diffusion."
+                },
+                {
+                    "text": "400-100",
+                    "isCorrect": false,
+                    "feedback": "400-100 is not the specified range."
+                },
+                {
+                    "text": "500-100",
+                    "isCorrect": false,
+                    "feedback": "500-100 is not the specified range."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ seal was excavated in Mohenjo-daro.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Pashupati",
+                    "isCorrect": true,
+                    "feedback": "The Pashupati seal was found in Mohenjo-daro."
+                },
+                {
+                    "text": "Steatite",
+                    "isCorrect": false,
+                    "feedback": "Steatite is the material, not the specific seal name."
+                },
+                {
+                    "text": "Harappan",
+                    "isCorrect": false,
+                    "feedback": "Harappan is a general term for the civilisation."
+                },
+                {
+                    "text": "Dholavira",
+                    "isCorrect": false,
+                    "feedback": "Dholavira is a city, not a seal."
+                },
+                {
+                    "text": "Rakhigarhi",
+                    "isCorrect": false,
+                    "feedback": "Rakhigarhi is a city, not a seal."
+                },
+                {
+                    "text": "Ganweriwala",
+                    "isCorrect": false,
+                    "feedback": "Ganweriwala is a city, not a seal."
+                },
+                {
+                    "text": "Indus",
+                    "isCorrect": false,
+                    "feedback": "Indus is the river/civilisation name."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Indus Valley cities used ____ weights.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Standardised",
+                    "isCorrect": true,
+                    "feedback": "Standardised weights were a characteristic feature."
+                },
+                {
+                    "text": "Variable",
+                    "isCorrect": false,
+                    "feedback": "Weights were consistent, not variable."
+                },
+                {
+                    "text": "Random",
+                    "isCorrect": false,
+                    "feedback": "Weights were not random."
+                },
+                {
+                    "text": "Imperial",
+                    "isCorrect": false,
+                    "feedback": "Imperial weights are not mentioned."
+                },
+                {
+                    "text": "Regional",
+                    "isCorrect": false,
+                    "feedback": "Regional weights are not mentioned."
+                },
+                {
+                    "text": "Metric",
+                    "isCorrect": false,
+                    "feedback": "Metric weights are a modern system."
+                },
+                {
+                    "text": "Binary",
+                    "isCorrect": false,
+                    "feedback": "Binary weights are not mentioned."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the arrival of modern humans in India?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Arrived from Africa",
+                    "isCorrect": true,
+                    "feedback": "Modern humans arrived from Africa long before recorded history."
+                },
+                {
+                    "text": "Migrated from Europe",
+                    "isCorrect": false,
+                    "feedback": "There is no evidence of European migration for early humans."
+                },
+                {
+                    "text": "Evolved in India",
+                    "isCorrect": false,
+                    "feedback": "Humans arrived from Africa rather than evolving locally."
+                },
+                {
+                    "text": "Came from Asia",
+                    "isCorrect": false,
+                    "feedback": "The source specifies Africa as the point of origin."
+                },
+                {
+                    "text": "Arrived from Americas",
+                    "isCorrect": false,
+                    "feedback": "Humans did not migrate from the Americas to India."
+                },
+                {
+                    "text": "Migrated from Oceania",
+                    "isCorrect": false,
+                    "feedback": "There is no evidence of migration from Oceania."
+                },
+                {
+                    "text": "Came from Antarctica",
+                    "isCorrect": false,
+                    "feedback": "Humans did not migrate from Antarctica to India."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the genetic landscape of early India?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "High genetic diversity",
+                    "isCorrect": true,
+                    "feedback": "Long occupation by isolated hunter-gatherers created high diversity."
+                },
+                {
+                    "text": "Uniform genetic makeup",
+                    "isCorrect": false,
+                    "feedback": "The region is remarkably diverse, not uniform."
+                },
+                {
+                    "text": "Low genetic variation",
+                    "isCorrect": false,
+                    "feedback": "India is second only to Africa in genetic diversity."
+                },
+                {
+                    "text": "Recent genetic convergence",
+                    "isCorrect": false,
+                    "feedback": "Diversity resulted from millennia of isolation, not convergence."
+                },
+                {
+                    "text": "Limited ancestral lineages",
+                    "isCorrect": false,
+                    "feedback": "The region has a deep history of diverse lineages."
+                },
+                {
+                    "text": "Homogeneous population groups",
+                    "isCorrect": false,
+                    "feedback": "Early populations lived in varying states of isolation."
+                },
+                {
+                    "text": "Static genetic profile",
+                    "isCorrect": false,
+                    "feedback": "The genetic landscape was shaped by long-term occupation."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the Neolithic period at Mehrgarh?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Transition to farming",
+                    "isCorrect": true,
+                    "feedback": "Mehrgarh marks the shift from foraging to farming."
+                },
+                {
+                    "text": "First urban centers",
+                    "isCorrect": false,
+                    "feedback": "Mehrgarh was Neolithic, preceding the urbanized Indus Valley."
+                },
+                {
+                    "text": "Purely nomadic life",
+                    "isCorrect": false,
+                    "feedback": "Mehrgarh shows the beginning of settled existence."
+                },
+                {
+                    "text": "Industrial metal working",
+                    "isCorrect": false,
+                    "feedback": "The focus at Mehrgarh was domestication and cultivation."
+                },
+                {
+                    "text": "Global trade networks",
+                    "isCorrect": false,
+                    "feedback": "Mehrgarh represents early local domestication and settlement."
+                },
+                {
+                    "text": "Strictly hunter-gatherer",
+                    "isCorrect": false,
+                    "feedback": "Mehrgarh is defined by the start of domestication."
+                },
+                {
+                    "text": "Maritime trade hubs",
+                    "isCorrect": false,
+                    "feedback": "Mehrgarh was located in the western margins of the basin."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the domestication at Mehrgarh?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Barley and zebu",
+                    "isCorrect": true,
+                    "feedback": "Humans cultivated barley and tamed humped zebu cattle."
+                },
+                {
+                    "text": "Wheat and sheep",
+                    "isCorrect": false,
+                    "feedback": "The text specifies barley and humped zebu cattle."
+                },
+                {
+                    "text": "Rice and goats",
+                    "isCorrect": false,
+                    "feedback": "The text specifies barley and humped zebu cattle."
+                },
+                {
+                    "text": "Corn and pigs",
+                    "isCorrect": false,
+                    "feedback": "The text specifies barley and humped zebu cattle."
+                },
+                {
+                    "text": "Millet and horses",
+                    "isCorrect": false,
+                    "feedback": "The text specifies barley and humped zebu cattle."
+                },
+                {
+                    "text": "Oats and llamas",
+                    "isCorrect": false,
+                    "feedback": "The text specifies barley and humped zebu cattle."
+                },
+                {
+                    "text": "Soy and camels",
+                    "isCorrect": false,
+                    "feedback": "The text specifies barley and humped zebu cattle."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the Indus Valley Civilisation?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Highly organized urbanism",
+                    "isCorrect": true,
+                    "feedback": "It was a network of highly organized urban centers."
+                },
+                {
+                    "text": "Small farming villages",
+                    "isCorrect": false,
+                    "feedback": "It evolved beyond villages into sophisticated urban centers."
+                },
+                {
+                    "text": "Nomadic tribal groups",
+                    "isCorrect": false,
+                    "feedback": "The civilisation was defined by settled, urban planning."
+                },
+                {
+                    "text": "Isolated city-states",
+                    "isCorrect": false,
+                    "feedback": "It was a network of centers with consistent logic."
+                },
+                {
+                    "text": "Purely agrarian society",
+                    "isCorrect": false,
+                    "feedback": "It featured advanced urban planning and public works."
+                },
+                {
+                    "text": "Primitive stone tools",
+                    "isCorrect": false,
+                    "feedback": "It was one of the most sophisticated ancient societies."
+                },
+                {
+                    "text": "Unplanned settlements",
+                    "isCorrect": false,
+                    "feedback": "It was characterized by extraordinary standardization."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the urban planning of Indus cities?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Consistent standardization",
+                    "isCorrect": true,
+                    "feedback": "A consistent logic was applied across vast distances."
+                },
+                {
+                    "text": "Random city layouts",
+                    "isCorrect": false,
+                    "feedback": "The civilisation was known for extraordinary planning."
+                },
+                {
+                    "text": "Varying local styles",
+                    "isCorrect": false,
+                    "feedback": "Standardization was a key feature across the region."
+                },
+                {
+                    "text": "Organic growth patterns",
+                    "isCorrect": false,
+                    "feedback": "The cities were highly organized and planned."
+                },
+                {
+                    "text": "Minimal public works",
+                    "isCorrect": false,
+                    "feedback": "Public works were a defining characteristic feature."
+                },
+                {
+                    "text": "Lack of weights",
+                    "isCorrect": false,
+                    "feedback": "Standardised weights were a characteristic feature."
+                },
+                {
+                    "text": "Informal street layouts",
+                    "isCorrect": false,
+                    "feedback": "Streets were laid out with consistent logic."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the Indus Valley's cultural markers?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Seals and script",
+                    "isCorrect": true,
+                    "feedback": "Steatite seals and a written script were key markers."
+                },
+                {
+                    "text": "Pyramids and hieroglyphs",
+                    "isCorrect": false,
+                    "feedback": "These are markers of Ancient Egypt, not Indus Valley."
+                },
+                {
+                    "text": "Ziggurats and cuneiform",
+                    "isCorrect": false,
+                    "feedback": "These are markers of Mesopotamia, not Indus Valley."
+                },
+                {
+                    "text": "Obelisks and alphabet",
+                    "isCorrect": false,
+                    "feedback": "These are not characteristic markers of the Indus Valley."
+                },
+                {
+                    "text": "Temples and statues",
+                    "isCorrect": false,
+                    "feedback": "While they had arts, seals and script are specific markers."
+                },
+                {
+                    "text": "Castles and knights",
+                    "isCorrect": false,
+                    "feedback": "These are not markers of the Indus Valley Civilisation."
+                },
+                {
+                    "text": "Paper and ink",
+                    "isCorrect": false,
+                    "feedback": "The civilisation used steatite seals and a written script."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        }
+    ]
+}

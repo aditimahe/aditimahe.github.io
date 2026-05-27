@@ -1,0 +1,3466 @@
+{
+    "module_name": "The Berlin Blockade and German Division",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "The US and Britain merged their western German occupation zones into \"Bizone\" (1 January 1947, later \"Trizone\" with the addition of France's zone, April 1949)."
+        },
+        {
+            "note_id": "n2",
+            "text": "in early 1948, representatives of a number of Western European governments and the United States announced an agreement for a merger of western German areas into a federal governmental system."
+        },
+        {
+            "note_id": "n3",
+            "text": "in accordance with the Marshall Plan, they began to re-industrialize and rebuild the West German economy, including the introduction of a new Deutsche Mark currency to replace the old Reichsmark currency that the Soviets had debased."
+        },
+        {
+            "note_id": "n4",
+            "text": "Stalin instituted the Berlin Blockade (June 1948 - May 1949), one of the first major crises of the Cold War, preventing Western supplies from reaching West Germany's enclave of West Berlin."
+        },
+        {
+            "note_id": "n5",
+            "text": "The United States (primarily), Britain, France, Canada, Australia, New Zealand, and several other countries began the massive \"Berlin airlift\", supplying West Berlin with provisions despite Soviet threats."
+        },
+        {
+            "note_id": "n6",
+            "text": "the East Berlin communists attempted to disrupt the Berlin municipal elections, which were held on 5 December 1948 and produced a turnout of 86% and an overwhelming victory for the non-communist parties."
+        },
+        {
+            "note_id": "n7",
+            "text": "The results effectively divided the city into East and West, the latter comprising US, British and French sectors."
+        },
+        {
+            "note_id": "n8",
+            "text": "US Air Force pilot Gail Halvorsen created \"Operation Vittles\", which supplied candy to German children."
+        },
+        {
+            "note_id": "n9",
+            "text": "In May 1949, Stalin lifted the blockade."
+        },
+        {
+            "note_id": "n10",
+            "text": "In 1952, Stalin repeatedly proposed a plan to unify East and West Germany under a single government chosen in elections supervised by the United Nations, if the new Germany were to stay out of Western military alliances, but this proposal was turned down by the Western powers."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the 86% turnout for the Berlin municipal elections on 5 December 1948. Use the 'waffle_grid' display style.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides a single, explicit percentage metric for election turnout."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the following groups: The United States, Britain, France, Canada, Australia, and New Zealand. Classify them as 'factions'. Their distinct roles during the Berlin Blockade were as participants in the 'Berlin airlift' to supply West Berlin with provisions despite Soviet threats (n5).",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The notes provide a list of distinct nations acting as a unified faction to perform a specific, distinct action during the crisis."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Illustrate the synthesis of the US and British occupation zones into the 'Bizone' as described in note n1. Input A: US occupation zone, Input B: British occupation zone, Result: 'Bizone'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 explicitly describes two distinct elements (US and British zones) combining to create a brand new outcome (Bizone)."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Visualize the cause-and-effect chain leading to the blockade. Trigger: Introduction of a new Deutsche Mark currency to replace the debased Reichsmark (n3), Mechanism: Stalin's reaction to Western efforts to rebuild the West German economy (n3, n4), Outcome: Institution of the Berlin Blockade (n4).",
+            "source_notes_used": [
+                "n3",
+                "n4"
+            ],
+            "rationale": "The notes describe a sequence where the introduction of a new currency and economic rebuilding (trigger) led to Stalin's action (mechanism) and the resulting blockade (n4)."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Break down the chronological sequence of the Berlin Blockade crisis. Step 1: Stalin institutes the Berlin Blockade (June 1948 - May 1949) (n4). Step 2: Western powers launch the 'Berlin airlift' to supply provisions (n5). Step 3: Stalin lifts the blockade in May 1949 (n9).",
+            "source_notes_used": [
+                "n4",
+                "n5",
+                "n9"
+            ],
+            "rationale": "These notes provide a a chronological sequence of 3 distinct steps belonging to the same isolated event (the Berlin Blockade crisis)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Bizone' as the merger of US and British western German occupation zones on 1 January 1947, and 'Trizone' as the addition of France's zone in April 1949.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, technical term for the administrative merger of occupation zones and its definition."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'tags' style to list the countries involved in the Berlin airlift, as mentioned in note n5. Include the United States, Britain, France, Canada, Australia, and New Zealand.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides a clear list of multiple countries that participated in the Berlin airlift, fitting the 'tags' style of the itemized breakdown."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the dates of the Berlin Blockade (June 1948 - May 1949) and its significance as one of the first major crises of the Cold War. Use the 'floating_overhang' display style because it features a specific time period.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note provides a precise date range and a pivotal event, fitting the insight_badge requirements."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the 86% turnout for the Berlin municipal elections on 5 December 1948 and the victory of non-communist parties. Use the 'attention_pulse' display style for the shocking fact of the high turnout and victory.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note contains a specific statistic (86% turnout) and a pivotal event, fitting the insight_badge insight_badge requirements."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the ",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides specific dates for the merger of occupation zones into Bizone and Trizone."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while prioritizing structural complexity over simple badges. Specifically, raw_w0 (percentage_display) was kept over raw_w8 (insight_badge) because it provides a more specialized visualization for the 86% turnout metric. raw_w1 (entity_profiles) was kept over raw_w6 (itemized_breakdown) because it provides richer context (factions and roles) for the nations involved in the airlift rather than just a list of tags. raw_w2 (synthesis) was kept over raw_w5 (jargon_buster) and raw_w9 (insight_badge) because it visually represents the structural merger of the zones, which is more impactful than a definition or a date badge. raw_w3 (causal_chain) and raw_w4 (stepper) both survive because they offer distinct angles: raw_w3 focuses on the 'why' (economic triggers), while raw_w4 focuses on the 'when' (chronological sequence). raw_w7 (insight_badge) survives as it is the only widget targeting the specific dates and significance of the blockade start/end.",
+        "surviving_widget_ids": [
+            "raw_w0",
+            "raw_w1",
+            "raw_w2",
+            "raw_w3",
+            "raw_w4",
+            "raw_w7"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the 86% turnout for the Berlin municipal elections on 5 December 1948. Use the 'waffle_grid' display style.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides a single, explicit percentage metric for election turnout."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the following groups: The United States, Britain, France, Canada, Australia, and New Zealand. Classify them as 'factions'. Their distinct roles during the Berlin Blockade were as participants in the 'Berlin airlift' to supply West Berlin with provisions despite Soviet threats (n5).",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The notes provide a list of distinct nations acting as a unified faction to perform a specific, distinct action during the crisis."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Illustrate the synthesis of the US and British occupation zones into the 'Bizone' as described in note n1. Input A: US occupation zone, Input B: British occupation zone, Result: 'Bizone'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 explicitly describes two distinct elements (US and British zones) combining to create a brand new outcome (Bizone)."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Visualize the cause-and-effect chain leading to the blockade. Trigger: Introduction of a new Deutsche Mark currency to replace the debased Reichsmark (n3), Mechanism: Stalin's reaction to Western efforts to rebuild the West German economy (n3, n4), Outcome: Institution of the Berlin Blockade (n4).",
+            "source_notes_used": [
+                "n3",
+                "n4"
+            ],
+            "rationale": "The notes describe a sequence where the introduction of a new currency and economic rebuilding (trigger) led to Stalin's action (mechanism) and the resulting blockade (n4)."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Break down the chronological sequence of the Berlin Blockade crisis. Step 1: Stalin institutes the Berlin Blockade (June 1948 - May 1949) (n4). Step 2: Western powers launch the 'Berlin airlift' to supply provisions (n5). Step 3: Stalin lifts the blockade in May 1949 (n9).",
+            "source_notes_used": [
+                "n4",
+                "n5",
+                "n9"
+            ],
+            "rationale": "These notes provide a a chronological sequence of 3 distinct steps belonging to the same isolated event (the Berlin Blockade crisis)."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the dates of the Berlin Blockade (June 1948 - May 1949) and its significance as one of the first major crises of the Cold War. Use the 'floating_overhang' display style because it features a specific time period.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note provides a precise date range and a pivotal event, fitting the insight_badge requirements."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w0",
+            "block_type": "percentage_display",
+            "percentage_display_data": {
+                "title": "Berlin Municipal Election Turnout",
+                "context_text": "Despite attempts by East Berlin communists to disrupt the process, the municipal elections held on 5 December 1948 saw a high level of citizen participation.",
+                "items": [
+                    {
+                        "label": "Voter Turnout",
+                        "percentage": 86.0
+                    }
+                ],
+                "display_style": "waffle_grid"
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w1",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Berlin Blockade: Allied Factions",
+                "intro_text": "Several nations collaborated to sustain West Berlin during the Soviet blockade, ensuring the city remained supplied despite threats.",
+                "entities": [
+                    {
+                        "name": "United States",
+                        "role": "Primary Airlift Participant",
+                        "description": "Led the massive Berlin airlift to supply West Berlin with essential provisions."
+                    },
+                    {
+                        "name": "Britain",
+                        "role": "Airlift Participant",
+                        "description": "Collaborated in the Berlin airlift to provide provisions to West Berlin."
+                    },
+                    {
+                        "name": "France",
+                        "role": "Airlift Participant",
+                        "description": "Participated in the Berlin airlift to supply West Berlin despite Soviet threats."
+                    },
+                    {
+                        "name": "Canada",
+                        "role": "Airlift Participant",
+                        "description": "Joined the international effort to supply West Berlin via the Berlin airlift."
+                    }
+                ],
+                "entity_type": "factions"
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w2",
+            "block_type": "synthesis",
+            "synthesis_data": {
+                "element_a": "US occupation zone",
+                "element_b": "British occupation zone",
+                "result": "Bizone",
+                "context_text": "On 1 January 1947, the United States and Britain merged their respective western German occupation zones to create the Bizone."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w3",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "The introduction of a new Deutsche Mark currency to replace the debased Reichsmark.",
+                "mechanism": "Stalin reacted to Western efforts to rebuild the West German economy, including the currency reform.",
+                "outcome": "The institution of the Berlin Blockade from June 1948 to May 1949."
+            },
+            "source_notes_consumed": [
+                "n3",
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w4",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "The Berlin Blockade Crisis",
+                "intro_text": "A chronological sequence of the early Cold War confrontation where the Soviet Union attempted to isolate West Berlin.",
+                "steps": [
+                    "Stalin institutes the Berlin Blockade from June 1948 to May 1949, preventing Western supplies from reaching West Berlin.",
+                    "The United States, Britain, France, and other nations launch the Berlin airlift to supply the city with provisions.",
+                    "Stalin lifts the blockade in May 1949."
+                ]
+            },
+            "source_notes_consumed": [
+                "n4",
+                "n5",
+                "n9"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w5",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "📦",
+                "short_title": "June 1948 - May 1949",
+                "expanded_detail": "Stalin instituted the Berlin Blockade to prevent Western supplies from reaching West Berlin. This event stands as one of the first major crises of the Cold War.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Berlin Blockade and German Division",
+        "cards": [
+            {
+                "card_title": "A Divided Germany",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the post-war division of Germany and the initial steps toward consolidation of the Western zones.",
+                        "text_content": "Following the end of the Second World War, Germany was split into occupation zones. To streamline administration and economic recovery, the **United States** and **Britain** began merging their territories. This initial consolidation was a critical step in the formation of a more stable Western German state."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The synthesis widget perfectly illustrates the merger of the US and British zones into the Bizone.",
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the expansion of the Bizone and the move toward a federal system, providing a transition to the economic triggers of the blockade.",
+                        "text_content": "By **April 1949**, this arrangement expanded to include France's zone, becoming the **Trizone**. Simultaneously, Western powers announced plans to merge these areas into a federal governmental system, signaling a clear move toward a permanent political division of the country."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Spark of Conflict",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the Marshall Plan and the currency reform that triggered the Soviet reaction.",
+                        "text_content": "Under the **Marshall Plan**, the West began re-industrializing the German economy. A pivotal move was the introduction of the **Deutsche Mark** to replace the old, debased **Reichsmark**, a move intended to stabilize the economy but one that the Soviet Union viewed as a provocation."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The causal chain widget explicitly links the currency reform to Stalin's decision to institute the blockade.",
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the specific nature of the blockade and transitions to the timeline of the crisis.",
+                        "text_content": "This economic friction escalated into a geopolitical crisis. **Stalin** sought to isolate the Western powers by cutting off all land and water access to West Berlin, an enclave deep within the Soviet zone."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Siege of Berlin",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Sets the stage for the blockade's duration and its significance as a Cold War milestone.",
+                        "text_content": "The blockade became one of the first major confrontations of the Cold War, testing the resolve of the Western allies to maintain their presence in the city."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight badge provides a concise summary of the blockade's dates and its primary objective.",
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w5"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The stepper widget provides the necessary chronological overview of the entire crisis.",
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the general timeline to the specific Western response: the airlift.",
+                        "text_content": "Faced with a total blockade, the Western powers refused to abandon the city. Instead, they launched an unprecedented logistical operation to keep the population alive."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Great Airlift",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Describes the Berlin Airlift and the international cooperation involved.",
+                        "text_content": "The **Berlin Airlift** was a massive effort to fly provisions into the city. While led primarily by the **United States**, it was a collaborative international effort that defied Soviet threats to ensure West Berlin's survival."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity profiles widget lists the various nations that collaborated to sustain the city.",
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Adds a human element to the story via Gail Halvorsen and transitions to the political struggle within the city.",
+                        "text_content": "The operation wasn't just about food and fuel; it was also a psychological victory. US Air Force pilot **Gail Halvorsen** famously launched *Operation Vittles*, dropping candy to German children. This gesture helped win the hearts and minds of the Berliners, who remained steadfast despite Soviet pressure."
+                    }
+                ]
+            },
+            {
+                "card_title": "A City Divided",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the municipal elections and the attempt by communists to disrupt them.",
+                        "text_content": "The struggle for Berlin extended beyond logistics to the ballot box. In **December 1948**, municipal elections were held to determine the city's political direction, despite attempts by East Berlin communists to disrupt the process."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The percentage display widget shows the high turnout and the victory of non-communist parties.",
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concludes the module by explaining the outcome of the blockade and the long-term division of Germany.",
+                        "text_content": "The election results effectively cemented the division of the city into **East and West**. By **May 1949**, Stalin finally lifted the blockade, but the damage was done. The crisis accelerated the formal creation of two separate German states and established a pattern of confrontation that would define the Cold War for decades to come."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Berlin Blockade: A City Divided",
+        "module_description": "Step into the heart of the early Cold War as the Soviet Union attempts to isolate West Berlin, sparking a massive international airlift to save a city.",
+        "alternative_descriptions": [
+            "Can the West sustain a city by air alone? Experience the high-stakes geopolitical gamble of the Berlin Blockade.",
+            "One city, two ideologies. Discover how a currency change sparked a siege that divided a nation for decades.",
+            "Fly into the fray! Join the daring logistical mission to defy Stalin's blockade and keep West Berlin alive."
+        ],
+        "tags": [
+            "Berlin Blockade",
+            "Cold War",
+            "Berlin Airlift",
+            "Soviet Union",
+            "German Division"
+        ],
+        "loading_screen_trivia": "US Air Force pilot Gail Halvorsen famously dropped candy to German children during the Berlin Airlift as part of Operation Vittles.",
+        "timeline": [
+            {
+                "year": "1 January 1947",
+                "event": "US and Britain create Bizone",
+                "related_card_id": 1
+            },
+            {
+                "year": "June 1948",
+                "event": "Stalin institutes the Berlin Blockade",
+                "related_card_id": 3
+            },
+            {
+                "year": "December 1948",
+                "event": "Berlin municipal elections are held",
+                "related_card_id": 5
+            },
+            {
+                "year": "April 1949",
+                "event": "Trizone forms with France's zone",
+                "related_card_id": 1
+            },
+            {
+                "year": "May 1949",
+                "event": "Stalin lifts the Berlin Blockade",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Stalin",
+                "emoji_avatar": "🚩",
+                "historical_role": "Soviet Union Leader",
+                "core_contribution": "He instituted the Berlin Blockade to isolate Western powers and prevent supplies from reaching West Berlin."
+            },
+            {
+                "name": "Gail Halvorsen",
+                "emoji_avatar": "✈️",
+                "historical_role": "US Air Force Pilot",
+                "core_contribution": "He launched Operation Vittles, dropping candy to children to win the hearts and minds of Berliners."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The crisis accelerated the formal creation of two separate German states and established a pattern of confrontation that defined the Cold War for decades."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "A Divided Germany",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Following the end of the Second World War, Germany was split into occupation zones. To streamline administration and economic recovery, the **United States** and **Britain** began merging their territories. This initial consolidation was a critical step in the formation of a more stable Western German state."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w2",
+                        "block_type": "synthesis",
+                        "synthesis_data": {
+                            "element_a": "US occupation zone",
+                            "element_b": "British occupation zone",
+                            "result": "Bizone",
+                            "context_text": "On 1 January 1947, the United States and Britain merged their respective western German occupation zones to create the Bizone."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "By **April 1949**, this arrangement expanded to include France's zone, becoming the **Trizone**. Simultaneously, Western powers announced plans to merge these areas into a federal governmental system, signaling a clear move toward a permanent political division of the country."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "The Spark of Conflict",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Under the **Marshall Plan**, the West began re-industrializing the German economy. A pivotal move was the introduction of the **Deutsche Mark** to replace the old, debased **Reichsmark**, a move intended to stabilize the economy but one that the Soviet Union viewed as a provocation."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w3",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "The introduction of a new Deutsche Mark currency to replace the debased Reichsmark.",
+                            "mechanism": "Stalin reacted to Western efforts to rebuild the West German economy, including the currency reform.",
+                            "outcome": "The institution of the Berlin Blockade from June 1948 to May 1949."
+                        },
+                        "source_notes_consumed": [
+                            "n3",
+                            "n4"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This economic friction escalated into a geopolitical crisis. **Stalin** sought to isolate the Western powers by cutting off all land and water access to West Berlin, an enclave deep within the Soviet zone."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "The Siege of Berlin",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "The blockade became one of the first major confrontations of the Cold War, testing the resolve of the Western allies to maintain their presence in the city."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "📦",
+                            "short_title": "June 1948 - May 1949",
+                            "expanded_detail": "Stalin instituted the Berlin Blockade to prevent Western supplies from reaching West Berlin. This event stands as one of the first major crises of the Cold War.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w4",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "The Berlin Blockade Crisis",
+                            "intro_text": "A chronological sequence of the early Cold War confrontation where the Soviet Union attempted to isolate West Berlin.",
+                            "steps": [
+                                "Stalin institutes the Berlin Blockade from June 1948 to May 1949, preventing Western supplies from reaching West Berlin.",
+                                "The United States, Britain, France, and other nations launch the Berlin airlift to supply the city with provisions.",
+                                "Stalin lifts the blockade in May 1949."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n5",
+                            "n9"
+                        ],
+                        "block_id": "card_3_block_2"
+                    },
+                    {
+                        "block_id": "card_3_block_3",
+                        "block_type": "text",
+                        "text_content": "Faced with a total blockade, the Western powers refused to abandon the city. Instead, they launched an unprecedented logistical operation to keep the population alive."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "The Great Airlift",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "The **Berlin Airlift** was a massive effort to fly provisions into the city. While led primarily by the **United States**, it was a collaborative international effort that defied Soviet threats to ensure West Berlin's survival."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w1",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Berlin Blockade: Allied Factions",
+                            "intro_text": "Several nations collaborated to sustain West Berlin during the Soviet blockade, ensuring the city remained supplied despite threats.",
+                            "entities": [
+                                {
+                                    "name": "United States",
+                                    "role": "Primary Airlift Participant",
+                                    "description": "Led the massive Berlin airlift to supply West Berlin with essential provisions."
+                                },
+                                {
+                                    "name": "Britain",
+                                    "role": "Airlift Participant",
+                                    "description": "Collaborated in the Berlin airlift to provide provisions to West Berlin."
+                                },
+                                {
+                                    "name": "France",
+                                    "role": "Airlift Participant",
+                                    "description": "Participated in the Berlin airlift to supply West Berlin despite Soviet threats."
+                                },
+                                {
+                                    "name": "Canada",
+                                    "role": "Airlift Participant",
+                                    "description": "Joined the international effort to supply West Berlin via the Berlin airlift."
+                                }
+                            ],
+                            "entity_type": "factions"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "The operation wasn't just about food and fuel; it was also a psychological victory. US Air Force pilot **Gail Halvorsen** famously launched *Operation Vittles*, dropping candy to German children. This gesture helped win the hearts and minds of the Berliners, who remained steadfast despite Soviet pressure."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "A City Divided",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "The struggle for Berlin extended beyond logistics to the ballot box. In **December 1948**, municipal elections were held to determine the city's political direction, despite attempts by East Berlin communists to disrupt the process."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w0",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "Berlin Municipal Election Turnout",
+                            "context_text": "Despite attempts by East Berlin communists to disrupt the process, the municipal elections held on 5 December 1948 saw a high level of citizen participation.",
+                            "items": [
+                                {
+                                    "label": "Voter Turnout",
+                                    "percentage": 86.0
+                                }
+                            ],
+                            "display_style": "waffle_grid"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "The election results effectively cemented the division of the city into **East and West**. By **May 1949**, Stalin finally lifted the blockade, but the damage was done. The crisis accelerated the formal creation of two separate German states and established a pattern of confrontation that would define the Cold War for decades to come."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is factually accurate and aligns well with the provided notes. However, there is a slight redundancy between the text in block 0 and the synthesis widget in block 1, as both mention the merger of US and British zones. Additionally, the phrasing 'critical step in the formation of a more stable Western German state' in block 0 is a narrative bridge/interpretation not explicitly stated in the source text.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified narrative claim about it being a 'critical step' and reduce redundancy with the following widget which explicitly explains the Bizone merger.",
+                        "new_content_or_instructions": "Following the end of the Second World War, Germany was split into occupation zones. To streamline administration and economic recovery, the United States and Britain began consolidating their territories."
+                    },
+                    {
+                        "target_block_id": "card_1_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Ensure the flow is smooth and strictly factual, maintaining the forward-looking intent of the card as the introduction to the division of Germany.",
+                        "new_content_or_instructions": "By April 1949, this arrangement expanded to include France's zone, becoming the Trizone. Simultaneously, Western powers announced plans to merge these areas into a federal governmental system, signaling a move toward a permanent political division of the country."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual, but it introduces unverified emotional claims and narrative bridging. Specifically, it describes the currency change as a 'move intended to stabilize the economy' and 'one that the Soviet Union viewed as a provocation'. While the source text mentions the currency was introduced to replace a debased one, it does not explicitly state the 'intent' was stabilization or that the Soviets 'viewed it as a provocation' (though it's a logical inference, it's 'narrative bridging'). Additionally, the text in block 0 and block 2 repeats the data already present in the causal chain widget, creating redundancy.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified claims about 'intent to stabilize' and 'Soviet provocation' and strip out redundant data that is already explicitly listed in the causal chain widget (the currency names).",
+                        "new_content_or_instructions": "Under the **Marshall Plan**, the West began re-industrializing the German economy. This effort included a significant shift in the financial system that triggered a severe reaction from the Soviet Union."
+                    },
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the specific details of the Berlin Blockade (cutting off access) which is the 'outcome' of the widget. It should instead provide a broader context or transition to the next card.",
+                        "new_content_or_instructions": "This economic friction escalated into a geopolitical crisis, as **Stalin** sought to isolate the Western powers by cutting off all land and water access to West Berlin, an enclave deep within the Soviet zone."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the notes, but it suffers from significant redundancy. The text blocks (block 0, 3) essentially repeat the information already presented in the insight badge (block 1) and the stepper (block 2). Specifically, block 0 introduces the blockade as a 'major confrontation' which is already in the badge, and block 3 describes the 'refusal to abandon' and 'logistical operation' which is explicitly detailed in the stepper's second step. I will rewrite the text blocks to provide narrative flow and context without repeating the specific data points of the blockade's dates, the act of blocking supplies, or the airlift's purpose.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the 'major confrontation' claim already found in the insight badge. It needs to be a narrative introduction that sets the stage for the blockade without spoiling the specific details in the widget.",
+                        "new_content_or_instructions": "Tensions reached a breaking point in 1948. As the Western allies moved to rebuild Germany, the Soviet Union responded with a bold move to force them out of the city."
+                    },
+                    {
+                        "target_block_id": "card_3_block_3",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "This block repeats the 'logistical operation' and 'refusal to abandon' which is already clearly shown in the stepper. It should instead act as a transition/hook to the next card, which will likely cover the airlift's specific details or the municipal elections.",
+                        "new_content_or_instructions": "The airlift was a triumph of logistics and psychology, but the struggle for Berlin's future was not just about food and fuel—it was also about the will of the people."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual, but it contains unverified emotional claims and narrative bridging. Specifically, the phrase 'ensure West Berlin's survival' in block 0 and 'win the hearts and minds' in block 2 are not explicitly stated in the source text. Additionally, block 0 repeats the information about the US leading the effort and the international collaboration, which is then detailed in the widget. I will rewrite these blocks to remove the fluff and redundancy.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove redundancy with the widget and unverified emotional claim ('ensure West Berlin's survival').",
+                        "new_content_or_instructions": "The **Berlin Airlift** was a massive operation to fly provisions into the city, defying Soviet threats to keep West Berlin supplied."
+                    },
+                    {
+                        "target_block_id": "card_4_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified emotional claims ('psychological victory', 'win the hearts and minds') and narrative bridging that is not in the source.",
+                        "new_content_or_instructions": "The operation extended beyond basic provisions. US Air Force pilot **Gail Halvorsen** created *Operation Vittles*, a mission to supply candy to German children."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual, but block 2 contains 'unverified narrative bridging' and dramatic fluff. Specifically, the phrase 'but the damage was done' and the claim that the crisis 'established a pattern of confrontation that would define the Cold War for decades to come' are narrative interpretations not explicitly stated in the source text or notes. Additionally, block 0 and the widget's context_text repeat the same information about the communists attempting to disrupt the process.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove redundancy with the widget's context_text regarding the communist disruption of the elections.",
+                        "new_content_or_instructions": "The struggle for Berlin extended beyond logistics to the ballot box. In **December 1948**, municipal elections were held to determine the city's political direction."
+                    },
+                    {
+                        "target_block_id": "card_5_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified emotional claims ('but the damage was done') and dramatic narrative bridging ('established a pattern of confrontation that would define the Cold War for decades to come') that are not in the source text.",
+                        "new_content_or_instructions": "The election results effectively cemented the division of the city into **East and West**. By **May 1949**, Stalin finally lifted the blockade. This crisis accelerated the formal creation of two separate German states."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "The Berlin Blockade: A City Divided",
+        "module_description": "Step into the heart of the early Cold War as the Soviet Union attempts to isolate West Berlin, sparking a massive international airlift to save a city.",
+        "alternative_descriptions": [
+            "Can the West sustain a city by air alone? Experience the high-stakes geopolitical gamble of the Berlin Blockade.",
+            "One city, two ideologies. Discover how a currency change sparked a siege that divided a nation for decades.",
+            "Fly into the fray! Join the daring logistical mission to defy Stalin's blockade and keep West Berlin alive."
+        ],
+        "tags": [
+            "Berlin Blockade",
+            "Cold War",
+            "Berlin Airlift",
+            "Soviet Union",
+            "German Division"
+        ],
+        "loading_screen_trivia": "US Air Force pilot Gail Halvorsen famously dropped candy to German children during the Berlin Airlift as part of Operation Vittles.",
+        "timeline": [
+            {
+                "year": "1 January 1947",
+                "event": "US and Britain create Bizone",
+                "related_card_id": 1
+            },
+            {
+                "year": "June 1948",
+                "event": "Stalin institutes the Berlin Blockade",
+                "related_card_id": 3
+            },
+            {
+                "year": "December 1948",
+                "event": "Berlin municipal elections are held",
+                "related_card_id": 5
+            },
+            {
+                "year": "April 1949",
+                "event": "Trizone forms with France's zone",
+                "related_card_id": 1
+            },
+            {
+                "year": "May 1949",
+                "event": "Stalin lifts the Berlin Blockade",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Stalin",
+                "emoji_avatar": "🚩",
+                "historical_role": "Soviet Union Leader",
+                "core_contribution": "He instituted the Berlin Blockade to isolate Western powers and prevent supplies from reaching West Berlin."
+            },
+            {
+                "name": "Gail Halvorsen",
+                "emoji_avatar": "✈️",
+                "historical_role": "US Air Force Pilot",
+                "core_contribution": "He launched Operation Vittles, dropping candy to children to win the hearts and minds of Berliners."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The crisis accelerated the formal creation of two separate German states and established a pattern of confrontation that defined the Cold War for decades."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "A Divided Germany",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Following the end of the Second World War, Germany was split into occupation zones. To streamline administration and economic recovery, the United States and Britain began consolidating their territories."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w2",
+                        "block_type": "synthesis",
+                        "synthesis_data": {
+                            "element_a": "US occupation zone",
+                            "element_b": "British occupation zone",
+                            "result": "Bizone",
+                            "context_text": "On 1 January 1947, the United States and Britain merged their respective western German occupation zones to create the Bizone."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "By April 1949, this arrangement expanded to include France's zone, becoming the Trizone. Simultaneously, Western powers announced plans to merge these areas into a federal governmental system, signaling a move toward a permanent political division of the country."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "The Spark of Conflict",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Under the **Marshall Plan**, the West began re-industrializing the German economy. This effort included a significant shift in the financial system that triggered a severe reaction from the Soviet Union."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w3",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "The introduction of a new Deutsche Mark currency to replace the debased Reichsmark.",
+                            "mechanism": "Stalin reacted to Western efforts to rebuild the West German economy, including the currency reform.",
+                            "outcome": "The institution of the Berlin Blockade from June 1948 to May 1949."
+                        },
+                        "source_notes_consumed": [
+                            "n3",
+                            "n4"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This economic friction escalated into a geopolitical crisis, as **Stalin** sought to isolate the Western powers by cutting off all land and water access to West Berlin, an enclave deep within the Soviet zone."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "The Siege of Berlin",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Tensions reached a breaking point in 1948. As the Western allies moved to rebuild Germany, the Soviet Union responded with a bold move to force them out of the city."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "📦",
+                            "short_title": "June 1948 - May 1949",
+                            "expanded_detail": "Stalin instituted the Berlin Blockade to prevent Western supplies from reaching West Berlin. This event stands as one of the first major crises of the Cold War.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w4",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "The Berlin Blockade Crisis",
+                            "intro_text": "A chronological sequence of the early Cold War confrontation where the Soviet Union attempted to isolate West Berlin.",
+                            "steps": [
+                                "Stalin institutes the Berlin Blockade from June 1948 to May 1949, preventing Western supplies from reaching West Berlin.",
+                                "The United States, Britain, France, and other nations launch the Berlin airlift to supply the city with provisions.",
+                                "Stalin lifts the blockade in May 1949."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n5",
+                            "n9"
+                        ],
+                        "block_id": "card_3_block_2"
+                    },
+                    {
+                        "block_id": "card_3_block_3",
+                        "block_type": "text",
+                        "text_content": "The airlift was a triumph of logistics and psychology, but the struggle for Berlin's future was not just about food and fuel—it was also about the will of the people."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "The Great Airlift",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "The **Berlin Airlift** was a massive operation to fly provisions into the city, defying Soviet threats to keep West Berlin supplied."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w1",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Berlin Blockade: Allied Factions",
+                            "intro_text": "Several nations collaborated to sustain West Berlin during the Soviet blockade, ensuring the city remained supplied despite threats.",
+                            "entities": [
+                                {
+                                    "name": "United States",
+                                    "role": "Primary Airlift Participant",
+                                    "description": "Led the massive Berlin airlift to supply West Berlin with essential provisions."
+                                },
+                                {
+                                    "name": "Britain",
+                                    "role": "Airlift Participant",
+                                    "description": "Collaborated in the Berlin airlift to provide provisions to West Berlin."
+                                },
+                                {
+                                    "name": "France",
+                                    "role": "Airlift Participant",
+                                    "description": "Participated in the Berlin airlift to supply West Berlin despite Soviet threats."
+                                },
+                                {
+                                    "name": "Canada",
+                                    "role": "Airlift Participant",
+                                    "description": "Joined the international effort to supply West Berlin via the Berlin airlift."
+                                }
+                            ],
+                            "entity_type": "factions"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "The operation extended beyond basic provisions. US Air Force pilot **Gail Halvorsen** created *Operation Vittles*, a mission to supply candy to German children."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "The Berlin Blockade and German Division",
+                "created_at": "2026-05-22T06:43:05.501051+00:00",
+                "card_title": "A City Divided",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "The struggle for Berlin extended beyond logistics to the ballot box. In **December 1948**, municipal elections were held to determine the city's political direction."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w0",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "Berlin Municipal Election Turnout",
+                            "context_text": "Despite attempts by East Berlin communists to disrupt the process, the municipal elections held on 5 December 1948 saw a high level of citizen participation.",
+                            "items": [
+                                {
+                                    "label": "Voter Turnout",
+                                    "percentage": 86.0
+                                }
+                            ],
+                            "display_style": "waffle_grid"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "The election results effectively cemented the division of the city into **East and West**. By **May 1949**, Stalin finally lifted the blockade. This crisis accelerated the formal creation of two separate German states."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "Which two nations first merged their occupation zones in Germany to create the Bizone on 1 January 1947?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "United States and Britain",
+                    "isCorrect": true,
+                    "feedback": "The United States and Britain merged their zones on 1 January 1947 to streamline administration and economic recovery."
+                },
+                {
+                    "text": "United States and France",
+                    "isCorrect": false,
+                    "feedback": "France's zone did not join the others until April 1949, forming the Trizone."
+                },
+                {
+                    "text": "Britain and France",
+                    "isCorrect": false,
+                    "feedback": "Britain merged with the US first; France joined later to form the Trizone."
+                },
+                {
+                    "text": "United States and Soviet Union",
+                    "isCorrect": false,
+                    "feedback": "The US and Soviet Union were opposing powers in the Cold War and did not merge zones."
+                },
+                {
+                    "text": "Britain and Soviet Union",
+                    "isCorrect": false,
+                    "feedback": "Britain and the Soviet Union were on opposite sides of the geopolitical divide."
+                },
+                {
+                    "text": "France and Soviet Union",
+                    "isCorrect": false,
+                    "feedback": "France and the Soviet Union did not merge occupation zones in Germany."
+                },
+                {
+                    "text": "Canada and Britain",
+                    "isCorrect": false,
+                    "feedback": "Canada participated in the airlift, but did not have an occupation zone to merge."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the name of the currency introduced to replace the debased Reichsmark in order to stabilize the West German economy?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": true,
+                    "feedback": "The Deutsche Mark was introduced to replace the Reichsmark and stabilize the economy."
+                },
+                {
+                    "text": "Euro",
+                    "isCorrect": false,
+                    "feedback": "The Euro was not introduced until decades after the Berlin Blockade."
+                },
+                {
+                    "text": "Deutsche Pfennig",
+                    "isCorrect": false,
+                    "feedback": "The Pfennig was a subunit of the currency, not the replacement currency itself."
+                },
+                {
+                    "text": "Reichsmark",
+                    "isCorrect": false,
+                    "feedback": "The Reichsmark was the debased currency that was being replaced."
+                },
+                {
+                    "text": "Gold Mark",
+                    "isCorrect": false,
+                    "feedback": "The Gold Mark is not mentioned as the replacement currency in the source text."
+                },
+                {
+                    "text": "West Mark",
+                    "isCorrect": false,
+                    "feedback": "The correct term for the new currency was the Deutsche Mark."
+                },
+                {
+                    "text": "Allied Mark",
+                    "isCorrect": false,
+                    "feedback": "The currency was specifically named the Deutsche Mark."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Who instituted the Berlin Blockade from June 1948 to May 1949 to isolate West Berlin?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Stalin",
+                    "isCorrect": true,
+                    "feedback": "Stalin instituted the blockade to prevent Western supplies from reaching West Berlin."
+                },
+                {
+                    "text": "Khrushchev",
+                    "isCorrect": false,
+                    "feedback": "Khrushchev came to power after Stalin's death in 1953."
+                },
+                {
+                    "text": "Truman",
+                    "isCorrect": false,
+                    "feedback": "Truman was the US President who responded to the blockade, not the one who started it."
+                },
+                {
+                    "text": "Churchill",
+                    "isCorrect": false,
+                    "feedback": "Churchill was a British leader and ally of the US, not the Soviet leader."
+                },
+                {
+                    "text": "Mao Zedong",
+                    "isCorrect": false,
+                    "feedback": "Mao Zedong was the leader of China, not the Soviet Union."
+                },
+                {
+                    "text": "Adenauer",
+                    "isCorrect": false,
+                    "feedback": "Adenauer was the chancellor of West Germany, not the Soviet leader."
+                },
+                {
+                    "text": "Molotov",
+                    "isCorrect": false,
+                    "feedback": "While a Soviet official, the blockade was specifically attributed to Stalin."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which logistical operation was launched by Western powers to supply West Berlin with provisions during the blockade?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Berlin Airlift",
+                    "isCorrect": true,
+                    "feedback": "The Berlin Airlift was a massive international effort to fly provisions into the city."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a specific subset of the airlift where candy was dropped to children."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was a broader economic aid package for Europe, not a specific airlift operation."
+                },
+                {
+                    "text": "Trizone Merger",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a political merger of zones, not a logistical supply operation."
+                },
+                {
+                    "text": "Operation Overlord",
+                    "isCorrect": false,
+                    "feedback": "Operation Overlord was the WWII D-Day invasion, not a Cold War airlift."
+                },
+                {
+                    "text": "The Bizone Initiative",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the initial merger of US and British zones, not the airlift."
+                },
+                {
+                    "text": "Operation Barbarossa",
+                    "isCorrect": false,
+                    "feedback": "Operation Barbarossa was the Nazi invasion of the USSR during WWII."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which US Air Force pilot famously dropped candy to German children as part of Operation Vittles?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Gail Halvorsen",
+                    "isCorrect": true,
+                    "feedback": "Gail Halvorsen launched Operation Vittles to win the hearts and minds of Berliners."
+                },
+                {
+                    "text": "Dwight Eisenhower",
+                    "isCorrect": false,
+                    "feedback": "Eisenhower was a general/president, not the pilot of Operation Vittles."
+                },
+                {
+                    "text": "Harry Truman",
+                    "isCorrect": false,
+                    "feedback": "Truman was the US President, not the pilot who dropped candy."
+                },
+                {
+                    "text": "George Marshall",
+                    "isCorrect": false,
+                    "feedback": "Marshall was the architect of the economic plan, not the pilot of the airlift."
+                },
+                {
+                    "text": "Douglas MacArthur",
+                    "isCorrect": false,
+                    "feedback": "MacArthur was a general primarily active in Asia, not the Berlin airlift."
+                },
+                {
+                    "text": "Bernard Baruch",
+                    "isCorrect": false,
+                    "feedback": "Baruch was an advisor to presidents, not a pilot in the airlift."
+                },
+                {
+                    "text": "John Foster Dulles",
+                    "isCorrect": false,
+                    "feedback": "Dulles was a diplomat, not a pilot in the airlift."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the voter turnout percentage for the Berlin municipal elections held on 5 December 1948?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "86%",
+                    "isCorrect": true,
+                    "feedback": "The municipal elections on 5 December 1948 saw a high voter turnout of 86%."
+                },
+                {
+                    "text": "50%",
+                    "isCorrect": false,
+                    "feedback": "The actual turnout was significantly higher at 86%."
+                },
+                {
+                    "text": "65%",
+                    "isCorrect": false,
+                    "feedback": "The actual turnout was 86%."
+                },
+                {
+                    "text": "75%",
+                    "isCorrect": false,
+                    "feedback": "The actual turnout was 86%."
+                },
+                {
+                    "text": "90%",
+                    "isCorrect": false,
+                    "feedback": "The actual turnout was 86%."
+                },
+                {
+                    "text": "95%",
+                    "isCorrect": false,
+                    "feedback": "The actual turnout was 86%."
+                },
+                {
+                    "text": "40%",
+                    "isCorrect": false,
+                    "feedback": "The actual turnout was 86%."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "On 1 January 1947, the United States and Britain merged their western German occupation zones to create the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Bizone",
+                    "isCorrect": true,
+                    "feedback": "The Bizone was the initial merger of US and British zones to streamline administration and economic recovery."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the later expansion of the merger to include France's zone in April 1949."
+                },
+                {
+                    "text": "Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain was a metaphorical and physical divide between Western and Eastern Europe, not a merged zone."
+                },
+                {
+                    "text": "Warsaw Pact",
+                    "isCorrect": false,
+                    "feedback": "The Warsaw Pact was a Soviet-led military alliance, not a merged occupation zone."
+                },
+                {
+                    "text": "NATO",
+                    "isCorrect": false,
+                    "feedback": "NATO was a Western military alliance formed in 1949, not a merged occupation zone."
+                },
+                {
+                    "text": "Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Federal Republic refers to the later formal state of West Germany."
+                },
+                {
+                    "text": "Democratic Republic",
+                    "isCorrect": false,
+                    "feedback": "The Democratic Republic refers to the later formal state of East Germany."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "To stabilize the economy, the West introduced the ____ to replace the debased Reichsmark.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": true,
+                    "feedback": "The Deutsche Mark was introduced to replace the Reichsmark and stabilize the West German economy."
+                },
+                {
+                    "text": "Reichsmark",
+                    "isCorrect": false,
+                    "feedback": "The Reichsmark was the old, debased currency that the Deutsche Mark replaced."
+                },
+                {
+                    "text": "Euro",
+                    "isCorrect": false,
+                    "feedback": "The Euro is a much later common currency for the European Union."
+                },
+                {
+                    "text": "Dollar",
+                    "isCorrect": false,
+                    "feedback": "The Dollar is the currency of the United States, not the specific replacement for the Reichsmark."
+                },
+                {
+                    "text": "Pound Sterling",
+                    "isCorrect": false,
+                    "feedback": "The Pound Sterling is the currency of Britain."
+                },
+                {
+                    "text": "Franc",
+                    "isCorrect": false,
+                    "feedback": "The Franc was the currency of France."
+                },
+                {
+                    "text": "Ruble",
+                    "isCorrect": false,
+                    "feedback": "The Ruble is the currency of the Soviet Union."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ was a massive international effort led by the United States to fly provisions into West Berlin during the Soviet blockade.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Berlin Airlift",
+                    "isCorrect": true,
+                    "feedback": "The Berlin Airlift was the logistical operation used to supply West Berlin by air when land and water access were cut."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a specific psychological gesture within the airlift where candy was dropped to children."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was a broad economic aid package for Europe, not a specific airlift operation."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the merger of three Western occupation zones."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the merger of the US and British occupation zones."
+                },
+                {
+                    "text": "Truman Doctrine",
+                    "isCorrect": false,
+                    "feedback": "The Truman Doctrine was a US policy of containment, not a logistical airlift."
+                },
+                {
+                    "text": "Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain describes the division of Europe, not a specific supply operation."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Soviet leader who instituted the Berlin Blockade to isolate the Western powers was ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Nikita Khrushchev",
+                    "isCorrect": false,
+                    "feedback": "Khrushchev succeeded Stalin and was involved in later Berlin crises, but not the 1948 blockade."
+                },
+                {
+                    "text": "Joseph Stalin",
+                    "isCorrect": true,
+                    "feedback": "Stalin was the Soviet leader who ordered the blockade of West Berlin from June 1948 to May 1949."
+                },
+                {
+                    "text": "Leonid Brezhnev",
+                    "isCorrect": false,
+                    "feedback": "Brezhnev was a later Soviet leader during the period of detente."
+                },
+                {
+                    "text": "Mikhail Gorbachev",
+                    "isCorrect": false,
+                    "feedback": "Gorbachev was the final Soviet leader who oversaw the end of the Cold War."
+                },
+                {
+                    "text": "Vladimir Putin",
+                    "isCorrect": false,
+                    "feedback": "Putin is a post-Soviet leader of the Russian Federation."
+                },
+                {
+                    "text": "Harry Truman",
+                    "isCorrect": false,
+                    "feedback": "Truman was the US President, not the Soviet leader."
+                },
+                {
+                    "text": "Dwight Eisenhower",
+                    "isCorrect": false,
+                    "feedback": "Dwight Eisenhower was a US President, not the Soviet leader."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In December 1948, Berlin municipal elections were held with a voter turnout of ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "86%",
+                    "isCorrect": true,
+                    "feedback": "The municipal elections on 5 December 1948 saw a high citizen participation rate of 86%."
+                },
+                {
+                    "text": "50%",
+                    "isCorrect": false,
+                    "feedback": "50% is an incorrect percentage for the Berlin municipal election turnout."
+                },
+                {
+                    "text": "60%",
+                    "isCorrect": false,
+                    "feedback": "60% is an incorrect percentage for the Berlin municipal election turnout."
+                },
+                {
+                    "text": "70%",
+                    "isCorrect": false,
+                    "feedback": "70% is an incorrect percentage for the Berlin municipal election turnout."
+                },
+                {
+                    "text": "75%",
+                    "isCorrect": false,
+                    "feedback": "75% is an incorrect percentage for the Berlin municipal election turnout."
+                },
+                {
+                    "text": "90%",
+                    "isCorrect": false,
+                    "feedback": "90% is an incorrect percentage for the Berlin municipal election turnout."
+                },
+                {
+                    "text": "95%",
+                    "isCorrect": false,
+                    "feedback": "95% is an incorrect percentage for the Berlin municipal election turnout."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The US Air Force pilot who dropped candy to German children during the airlift was ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Gail Halvorsen",
+                    "isCorrect": true,
+                    "feedback": "Gail Halvorsen launched Operation Vittles to win the hearts and minds of Berliners by dropping candy."
+                },
+                {
+                    "text": "Harry Truman",
+                    "isCorrect": false,
+                    "feedback": "Truman was the US President who authorized the containment policy."
+                },
+                {
+                    "text": "Dwight Eisenhower",
+                    "isCorrect": false,
+                    "feedback": "Dwight Eisenhower was a later US President and NATO commander."
+                },
+                {
+                    "text": "George Marshall",
+                    "isCorrect": false,
+                    "feedback": "George Marshall was the architect of the Marshall Plan."
+                },
+                {
+                    "text": "John F. Kennedy",
+                    "isCorrect": false,
+                    "feedback": "John F. Kennedy was a later US President during the 1961 Berlin Crisis."
+                },
+                {
+                    "text": "Douglas MacArthur",
+                    "isCorrect": false,
+                    "feedback": "Douglas MacArthur was a general during the Korean War."
+                },
+                {
+                    "text": "Bernard Baruch",
+                    "isCorrect": false,
+                    "feedback": "Bernard Baruch was an advisor who first used the term 'cold war'."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the primary purpose of the Bizone's creation in 1947?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "To establish a permanent military alliance with France",
+                    "isCorrect": false,
+                    "feedback": "France's zone did not join the arrangement until April 1949, forming the Trizone."
+                },
+                {
+                    "text": "To streamline administration and economic recovery",
+                    "isCorrect": true,
+                    "feedback": "The US and Britain merged their zones specifically to improve administrative efficiency and economic recovery."
+                },
+                {
+                    "text": "To create a unified German government with the Soviets",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was a move toward a Western German state, not a unification with the Soviet zone."
+                },
+                {
+                    "text": "To replace the Reichsmark with the Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The currency reform happened later as part of the Marshall Plan's re-industrialization efforts."
+                },
+                {
+                    "text": "To isolate West Berlin from the Soviet zone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was an administrative merger of zones, not a tactical blockade of the city."
+                },
+                {
+                    "text": "To implement the Truman Doctrine in East Germany",
+                    "isCorrect": false,
+                    "feedback": "The Bizone focused on the Western occupation zones, not the East."
+                },
+                {
+                    "text": "To prevent the 'brain drain' of professionals",
+                    "isCorrect": false,
+                    "feedback": "The 'brain drain' was a later issue that led to the construction of the Berlin Wall in 1961."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the catalyst for the institution of the Berlin Blockade?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The formal creation of the Trizone in April 1949",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was formed during the blockade, but the blockade began in June 1948."
+                },
+                {
+                    "text": "The launch of the Berlin Airlift by the Western powers",
+                    "isCorrect": false,
+                    "feedback": "The Airlift was the response to the blockade, not the cause of it."
+                },
+                {
+                    "text": "The introduction of the Deutsche Mark to replace the Reichsmark",
+                    "isCorrect": true,
+                    "feedback": "The Soviet Union viewed the introduction of the new currency as a provocation, triggering the blockade."
+                },
+                {
+                    "text": "The results of the December 1948 municipal elections",
+                    "isCorrect": false,
+                    "feedback": "The elections occurred during the blockade and cemented the city's division."
+                },
+                {
+                    "text": "The signing of the North Atlantic Treaty in 1949",
+                    "isCorrect": false,
+                    "feedback": "NATO was established after the blockade had already begun."
+                },
+                {
+                    "text": "The implementation of Operation Vittles by Gail Halvorsen",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a psychological effort during the airlift, not a cause of the crisis."
+                },
+                {
+                    "text": "The merger of the US and British zones into the Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was created in 1947, well before the 1948 blockade."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the nature of the Berlin Airlift?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "A unilateral US military operation to seize West Berlin",
+                    "isCorrect": false,
+                    "feedback": "The Airlift was a collaborative international effort, not a unilateral seizure."
+                },
+                {
+                    "text": "A diplomatic negotiation to end the Soviet blockade",
+                    "isCorrect": false,
+                    "feedback": "The Airlift was a logistical operation to supply the city, not a negotiation."
+                },
+                {
+                    "text": "A massive international effort to fly provisions into the city",
+                    "isCorrect": true,
+                    "feedback": "The Airlift was a collaborative effort led by the US to ensure West Berlin's survival via air supplies."
+                },
+                {
+                    "text": "A secret operation to drop candy to German children",
+                    "isCorrect": false,
+                    "feedback": "While candy was dropped, the primary nature of the operation was supplying essential provisions."
+                },
+                {
+                    "text": "A strategy to force the Soviet Union to merge the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was an administrative merger of zones, not the goal of the Airlift."
+                },
+                {
+                    "text": "A naval blockade to prevent Soviet supplies from entering",
+                    "isCorrect": false,
+                    "feedback": "The Airlift was an aerial supply mission, not a naval blockade."
+                },
+                {
+                    "text": "A method to disrupt the December 1948 municipal elections",
+                    "isCorrect": false,
+                    "feedback": "The Airlift sustained the population so that elections could eventually be held."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the outcome of the December 1948 municipal elections in Berlin?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "They led to the immediate reunification of East and West Berlin",
+                    "isCorrect": false,
+                    "feedback": "The elections actually cemented the division of the city into East and West."
+                },
+                {
+                    "text": "They forced Stalin to lift the blockade in June 1948",
+                    "isCorrect": false,
+                    "feedback": "The blockade was lifted in May 1949, months after the elections."
+                },
+                {
+                    "text": "They resulted in a communist victory in West Berlin",
+                    "isCorrect": false,
+                    "feedback": "The elections saw a high turnout and a victory for non-communist parties."
+                },
+                {
+                    "text": "They effectively cemented the division of the city into East and West",
+                    "isCorrect": true,
+                    "feedback": "The election results solidified the political split of the city, mirroring the broader German division."
+                },
+                {
+                    "text": "They abolished the Trizone and restored the Bizone",
+                    "isCorrect": false,
+                    "feedback": "The elections had no effect on the administrative structure of the occupation zones."
+                },
+                {
+                    "text": "They ended the Cold War confrontation in Germany",
+                    "isCorrect": false,
+                    "feedback": "The crisis accelerated the formal creation of two separate German states."
+                },
+                {
+                    "text": "They prevented the introduction of the Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The currency reform had already occurred before the elections were held."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why did the Soviet Union institute the Berlin Blockade from June 1948 to May 1949?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "To prevent the formation of the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a result of the consolidation of zones, but not the specific trigger for the blockade."
+                },
+                {
+                    "text": "To protest the introduction of the Deutsche Mark",
+                    "isCorrect": true,
+                    "feedback": "The Soviet Union viewed the introduction of the Deutsche Mark to replace the Reichsmark as a provocation, leading to the blockade."
+                },
+                {
+                    "text": "To force the Western powers to abandon West Berlin",
+                    "isCorrect": false,
+                    "feedback": "While this was an outcome of the blockade's pressure, the cause was the economic friction regarding currency reform."
+                },
+                {
+                    "text": "To stop the Berlin Airlift from starting",
+                    "isCorrect": false,
+                    "feedback": "The airlift was the Western response to the blockade, not the cause of it."
+                },
+                {
+                    "text": "To prevent the Marshall Plan from funding East Germany",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan focused on Western Europe's recovery; the blockade was specifically triggered by currency reform."
+                },
+                {
+                    "text": "To stop the municipal elections of December 1948",
+                    "isCorrect": false,
+                    "feedback": "The elections happened during the blockade, but the blockade was instituted before the elections occurred."
+                },
+                {
+                    "text": "To prevent the formation of NATO",
+                    "isCorrect": false,
+                    "feedback": "NATO was established in April 1949, after the blockade had already begun."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The Soviet Union viewed the introduction of the ____ as a provocation, leading to the institution of the Berlin Blockade.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": true,
+                    "feedback": "The introduction of the Deutsche Mark to replace the debased Reichsmark was seen by Stalin as a provocation and a trigger for the blockade."
+                },
+                {
+                    "text": "Reichsmark",
+                    "isCorrect": false,
+                    "feedback": "The Reichsmark was the old, debased currency that the Deutsche Mark was introduced to replace."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was the overall economic aid program, not the specific currency introduced."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the merger of US and British zones, not a currency."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the merger of US, British, and French zones, not a currency."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was the candy-drop mission, not a currency."
+                },
+                {
+                    "text": "Rubles",
+                    "isCorrect": false,
+                    "feedback": "The Ruble is the Soviet currency, not the one introduced in West Germany."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "To streamline administration and economic recovery, the United States and Britain merged their territories to create the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Bizone",
+                    "isCorrect": true,
+                    "feedback": "The Bizone was created on 1 January 1947 by merging the US and British occupation zones."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the expanded arrangement that included France's zone by April 1949."
+                },
+                {
+                    "text": "West Berlin",
+                    "isCorrect": false,
+                    "feedback": "West Berlin was an enclave within the Soviet zone, not the name of the merged territories."
+                },
+                {
+                    "text": "Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Federal Republic was the later formal state created from the Western zones."
+                },
+                {
+                    "text": "East Germany",
+                    "isCorrect": false,
+                    "feedback": "East Germany was the state created from the Soviet occupation zone."
+                },
+                {
+                    "text": "The Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain was the ideological and physical divide of Europe, not a specific administrative zone."
+                },
+                {
+                    "text": "The Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was an economic aid package, not a territorial merger."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Berlin Airlift was primarily led by the ____, though it was a collaborative international effort to ensure West Berlin's survival.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "United States",
+                    "isCorrect": true,
+                    "feedback": "While collaborative, the United States led the massive effort to fly provisions into the city."
+                },
+                {
+                    "text": "Britain",
+                    "isCorrect": false,
+                    "feedback": "Britain was a participant in the airlift, but the US led the operation."
+                },
+                {
+                    "text": "France",
+                    "isCorrect": false,
+                    "feedback": "France was a participant in the airlift, but the US led the operation."
+                },
+                {
+                    "text": "Canada",
+                    "isCorrect": false,
+                    "feedback": "Canada was a participant in the airlift, but the US led the operation."
+                },
+                {
+                    "text": "Soviet Union",
+                    "isCorrect": false,
+                    "feedback": "The Soviet Union instituted the blockade that the airlift was designed to bypass."
+                },
+                {
+                    "text": "East Germany",
+                    "isCorrect": false,
+                    "feedback": "East Germany was the state created from the Soviet zone."
+                },
+                {
+                    "text": "United Nations",
+                    "isCorrect": false,
+                    "feedback": "The United Nations was not the primary leader of the Berlin Airlift."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ was a psychological victory for the West, as pilot Gail Halvorsen dropped candy to German children to win their hearts and minds.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": true,
+                    "feedback": "Operation Vittles was the specific gesture of dropping candy to children to win psychological support."
+                },
+                {
+                    "text": "Berlin Airlift",
+                    "isCorrect": false,
+                    "feedback": "The Berlin Airlift was the overall logistical operation; Operation Vittles was the specific candy-drop component."
+                },
+                {
+                    "text": "Berlin Blockade",
+                    "isCorrect": false,
+                    "feedback": "The Berlin Blockade was the Soviet action of cutting off access to the city."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the administrative merger of US and British zones."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the administrative merger of US, British, and French zones."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was the economic aid program for European recovery."
+                },
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was the currency reform that triggered the blockade."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The division of Berlin into East and West was effectively cemented by the results of the ____ held in December 1948.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "municipal elections",
+                    "isCorrect": true,
+                    "feedback": "The municipal elections of December 1948 determined the city's political direction and cemented its division."
+                },
+                {
+                    "text": "national referendum",
+                    "isCorrect": false,
+                    "feedback": "No national referendum is mentioned as the cause of the city's division in the source text."
+                },
+                {
+                    "text": "Trizone agreement",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a territorial merger of occupation zones, not an election."
+                },
+                {
+                    "text": "Marshall Plan vote",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was an economic aid package, not a municipal election."
+                },
+                {
+                    "text": "Allied Control Council",
+                    "isCorrect": false,
+                    "feedback": "The Allied Control Council was a governing body, not an election."
+                },
+                {
+                    "text": "Soviet ultimatum",
+                    "isCorrect": false,
+                    "feedback": "The Soviet ultimatum was the act of cutting off access, not the electoral process."
+                },
+                {
+                    "text": "Bizone merger",
+                    "isCorrect": false,
+                    "feedback": "The Bizone merger was an administrative step, not an election."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Stalin sought to isolate the Western powers by cutting off all land and water access to ____, an enclave deep within the Soviet zone.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "West Berlin",
+                    "isCorrect": true,
+                    "feedback": "West Berlin was the specific enclave within the Soviet zone that Stalin targeted with the blockade."
+                },
+                {
+                    "text": "West Germany",
+                    "isCorrect": false,
+                    "feedback": "West Germany was the broader region; West Berlin was the specific city enclave targeted."
+                },
+                {
+                    "text": "The Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the merger of US and British zones, not a city enclave."
+                },
+                {
+                    "text": "The Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the merger of US, British, and French zones, not a city enclave."
+                },
+                {
+                    "text": "East Berlin",
+                    "isCorrect": false,
+                    "feedback": "East Berlin was the part of the city controlled by the Soviet Union."
+                },
+                {
+                    "text": "The Ruhr",
+                    "isCorrect": false,
+                    "feedback": "The Ruhr was not mentioned as the target of the blockade in the source text."
+                },
+                {
+                    "text": "The Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain was the general divide of Europe, not a specific city enclave."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What was the direct result of the municipal elections held in Berlin in December 1948?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The formal reunification of Germany",
+                    "isCorrect": false,
+                    "feedback": "The elections actually cemented the division of the city into East and West rather than reunifying the country."
+                },
+                {
+                    "text": "The immediate lifting of the Soviet blockade",
+                    "isCorrect": false,
+                    "feedback": "Stalin did not lift the blockade until May 1949, months after the December 1948 elections."
+                },
+                {
+                    "text": "The division of the city into East and West",
+                    "isCorrect": true,
+                    "feedback": "The election results effectively cemented the political division of Berlin into East and West sectors."
+                },
+                {
+                    "text": "The establishment of a neutral buffer zone",
+                    "isCorrect": false,
+                    "feedback": "The elections led to a permanent political division, not the creation of a neutral zone."
+                },
+                {
+                    "text": "The dissolution of the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a consolidation of Western zones, whereas the elections divided the city of Berlin."
+                },
+                {
+                    "text": "The abolition of the Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was introduced to stabilize the economy, not abolished by the elections."
+                },
+                {
+                    "text": "The creation of the Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was formed in 1947, well before the December 1948 municipal elections."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the primary difference between the Bizone and the Trizone in terms of their composition?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The inclusion of France's zone",
+                    "isCorrect": true,
+                    "feedback": "The Trizone expanded the initial US-British Bizone to include France's occupation zone by April 1949."
+                },
+                {
+                    "text": "The inclusion of the Soviet zone",
+                    "isCorrect": false,
+                    "feedback": "The Soviet zone remained separate and was never part of the Bizone or Trizone."
+                },
+                {
+                    "text": "The use of the Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "Currency reform was a separate economic move, not the defining difference between the Bizone and Trizone structures."
+                },
+                {
+                    "text": "The establishment of the Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was a broad economic aid program, not a specific territorial merger of zones."
+                },
+                {
+                    "text": "The creation of the Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Federal Republic was the eventual political outcome of these mergers, not the difference between the two stages."
+                },
+                {
+                    "text": "The role of Canada in the airlift",
+                    "isCorrect": false,
+                    "feedback": "Canada's participation in the airlift was a logistical effort, unrelated to the territorial merger of zones."
+                },
+                {
+                    "text": "The timing of the Berlin elections",
+                    "isCorrect": false,
+                    "feedback": "The municipal elections occurred in December 1948, while the Trizone was formed in April 1949."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did the Deutsche Mark differ from the Reichsmark in the context of the post-war German economy?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It replaced a debased currency",
+                    "isCorrect": true,
+                    "feedback": "The Deutsche Mark was introduced to replace the old, debased Reichsmark to stabilize the economy."
+                },
+                {
+                    "text": "It was accepted by the Soviets",
+                    "isCorrect": false,
+                    "feedback": "The Soviet Union viewed the introduction of the Deutsche Mark as a provocation, not an acceptance."
+                },
+                {
+                    "text": "It was used in the Soviet zone",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was a Western move to re-industrialize the West German economy, opposing Soviet interests."
+                },
+                {
+                    "text": "It was created by the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The currency reform was a pivotal move under the Marshall Plan, not a product of the Trizone's administrative merger."
+                },
+                {
+                    "text": "It was used to fund the airlift",
+                    "isCorrect": false,
+                    "feedback": "The airlift was a logistical operation to supply provisions, not a currency-based funding mechanism."
+                },
+                {
+                    "text": "It was introduced by Stalin",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was introduced by the West; Stalin reacted to it by instituting the blockade."
+                },
+                {
+                    "text": "It was a form of digital currency",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was a physical currency introduced in the late 1940s."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What distinguished the role of the United States from that of other nations like Canada and France in the Berlin Airlift?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It led the massive effort",
+                    "isCorrect": true,
+                    "feedback": "While a collaborative international effort, the Berlin Airlift was led primarily by the United States."
+                },
+                {
+                    "text": "It provided the only aircraft",
+                    "isCorrect": false,
+                    "feedback": "Britain, France, and Canada also participated in the airlift to supply the city."
+                },
+                {
+                    "text": "It managed the municipal elections",
+                    "isCorrect": false,
+                    "feedback": "The elections were held to determine the city's political direction, not managed by the US airlift leadership."
+                },
+                {
+                    "text": "It operated Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a specific gesture by pilot Gail Halvorsen, not the defining role of the US government compared to others."
+                },
+                {
+                    "text": "It was the only nation to defy threats",
+                    "isCorrect": false,
+                    "feedback": "France and other nations also participated in the airlift despite Soviet threats."
+                },
+                {
+                    "text": "It established the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a territorial merger, not a role within the logistical operation of the airlift."
+                },
+                {
+                    "text": "It provided the food and fuel",
+                    "isCorrect": false,
+                    "feedback": "All participating nations, including Britain and France, collaborated to provide provisions to the city."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "While the Bizone was the initial merger of the United States and British occupation zones, the ____ expanded this arrangement in April 1949 to include France's zone.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Trizone",
+                    "isCorrect": true,
+                    "feedback": "The Trizone was the expanded merger that included the French zone alongside the US and British zones."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone only consisted of the US and British zones before France joined to form the Trizone."
+                },
+                {
+                    "text": "Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Federal Republic was the resulting state, not the name of the three-zone merger arrangement."
+                },
+                {
+                    "text": "Allied Control Council",
+                    "isCorrect": false,
+                    "feedback": "The Allied Control Council was the governing body, not the specific name of the merged occupation zones."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was an economic aid program, not a territorial merger of occupation zones."
+                },
+                {
+                    "text": "Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain was a metaphorical divide between East and West, not a specific administrative zone."
+                },
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was the currency introduced to stabilize the economy, not a territorial zone."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "How did the Western powers resolve the problem of the Soviet blockade that cut off all land and water access to West Berlin?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The Berlin Airlift",
+                    "isCorrect": true,
+                    "feedback": "The Western powers launched a massive logistical operation to fly provisions into the city, bypassing the land and water blockade."
+                },
+                {
+                    "text": "The Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan provided economic assistance for European recovery but did not resolve the physical blockade of Berlin."
+                },
+                {
+                    "text": "The Trizone merger",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the administrative merger of US, British, and French zones, not a solution to the blockade."
+                },
+                {
+                    "text": "The Bizone merger",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the initial merger of US and British zones and occurred before the blockade began."
+                },
+                {
+                    "text": "The Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The introduction of the Deutsche Mark was a trigger for the blockade, not the solution to it."
+                },
+                {
+                    "text": "The Helsinki Accords",
+                    "isCorrect": false,
+                    "feedback": "The Helsinki Accords were signed in 1975 to stabilize relations, long after the Berlin Blockade ended."
+                },
+                {
+                    "text": "The Warsaw Pact",
+                    "isCorrect": false,
+                    "feedback": "The Warsaw Pact was a Soviet-led military alliance and not a Western intervention to save Berlin."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "To resolve the crisis of the Berlin Blockade and ensure the survival of West Berlin, the Western powers launched the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Berlin Airlift",
+                    "isCorrect": true,
+                    "feedback": "The Berlin Airlift was the massive logistical operation used to fly provisions into the city to bypass the Soviet blockade."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan provided economic aid for European recovery but did not directly resolve the physical blockade of Berlin."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a specific psychological gesture of dropping candy to children, not the overall resolution to the blockade."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the merger of three occupation zones, not a logistical solution to a blockade."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the initial merger of US and British zones to streamline administration."
+                },
+                {
+                    "text": "Truman Doctrine",
+                    "isCorrect": false,
+                    "feedback": "The Truman Doctrine was a policy of containment, not a specific operational solution to the Berlin Blockade."
+                },
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The Deutsche Mark was a currency reform that actually acted as a trigger for the blockade rather than its resolution."
+                },
+                {
+                    "text": "Helsinki Accords",
+                    "isCorrect": false,
+                    "feedback": "The Helsinki Accords were later agreements to stabilize Europe, occurring long after the 1948-1949 crisis."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which of the following nations was a participant in the international effort to supply West Berlin via the Berlin airlift?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Canada",
+                    "isCorrect": true,
+                    "feedback": "Canada joined the international effort to supply West Berlin via the Berlin airlift."
+                },
+                {
+                    "text": "Poland",
+                    "isCorrect": false,
+                    "feedback": "Poland was not a participant in the airlift; it was a Soviet satellite state."
+                },
+                {
+                    "text": "Hungary",
+                    "isCorrect": false,
+                    "feedback": "Hungary was not a participant in the airlift; it was a Soviet satellite state."
+                },
+                {
+                    "text": "Czechoslovakia",
+                    "isCorrect": false,
+                    "feedback": "Czechoslovakia was not a participant in the airlift; it was a Soviet satellite state."
+                },
+                {
+                    "text": "Italy",
+                    "isCorrect": false,
+                    "feedback": "Italy was not a participant in the airlift; it was a member of the Western Bloc but not listed as an airlift participant."
+                },
+                {
+                    "text": "Spain",
+                    "isCorrect": false,
+                    "feedback": "Spain was not a participant in the airlift; it is not mentioned as part of the operation."
+                },
+                {
+                    "text": "Greece",
+                    "isCorrect": false,
+                    "feedback": "Greece was not a participant in the airlift; it was a recipient of Truman Doctrine aid."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The 'Trizone' was a consolidation of occupation zones belonging to which group of powers?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "US, Britain, and France",
+                    "isCorrect": true,
+                    "feedback": "The Trizone expanded the Bizone to include France's zone by April 1949."
+                },
+                {
+                    "text": "US, Britain, and Canada",
+                    "isCorrect": false,
+                    "feedback": "Canada participated in the airlift but did not have an occupation zone in Germany."
+                },
+                {
+                    "text": "US, France, and Canada",
+                    "isCorrect": false,
+                    "feedback": "Canada did not have an occupation zone in Germany."
+                },
+                {
+                    "text": "Britain, France, and Canada",
+                    "isCorrect": false,
+                    "feedback": "Canada did not have an occupation zone in Germany."
+                },
+                {
+                    "text": "US, Britain, and USSR",
+                    "isCorrect": false,
+                    "feedback": "The USSR was the adversary in this conflict and controlled the Soviet zone."
+                },
+                {
+                    "text": "France, Britain, and USSR",
+                    "isCorrect": false,
+                    "feedback": "The USSR was the adversary in this conflict and controlled the Soviet zone."
+                },
+                {
+                    "text": "US, France, and USSR",
+                    "isCorrect": false,
+                    "feedback": "The USSR was the adversary in this conflict and controlled the Soviet zone."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The Deutsche Mark was introduced as a replacement for which specific currency?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Reichsmark",
+                    "isCorrect": true,
+                    "feedback": "The Deutsche Mark replaced the old, debased Reichsmark to stabilize the economy."
+                },
+                {
+                    "text": "Ostmark",
+                    "isCorrect": false,
+                    "feedback": "The Ostmark is not mentioned in the source text as the currency being replaced."
+                },
+                {
+                    "text": "Euro",
+                    "isCorrect": false,
+                    "feedback": "The Euro was created much later and is not mentioned in the source text."
+                },
+                {
+                    "text": "Franc",
+                    "isCorrect": false,
+                    "feedback": "The Franc is the currency of France, not the debased German currency being replaced."
+                },
+                {
+                    "text": "Pound Sterling",
+                    "isCorrect": false,
+                    "feedback": "The Pound Sterling is the currency of Britain, not the debased German currency being replaced."
+                },
+                {
+                    "text": "Dollar",
+                    "isCorrect": false,
+                    "feedback": "The Dollar is the currency of the US, not the debased German currency being replaced."
+                },
+                {
+                    "text": "Lira",
+                    "isCorrect": false,
+                    "feedback": "The Lira is not mentioned in the source text as the currency being replaced."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The merger of the United States and British occupation zones on 1 January 1947 created a consolidated territory known as the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Bizone",
+                    "isCorrect": true,
+                    "feedback": "The Bizone was the initial merger of the US and British zones to streamline administration and economic recovery."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was the later expansion of the Bizone to include France's zone in April 1949."
+                },
+                {
+                    "text": "West Berlin",
+                    "isCorrect": false,
+                    "feedback": "West Berlin was an enclave within the Soviet zone, not the name of the merged occupation zones."
+                },
+                {
+                    "text": "Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Federal Republic of Germany was the formal state created later from the Western zones."
+                },
+                {
+                    "text": "German Democratic Republic",
+                    "isCorrect": false,
+                    "feedback": "The GDR was the state created from the Soviet occupation zone."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was an economic aid program, not a territorial merger."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was the specific effort to drop candy to children during the airlift."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which event immediately preceded the institution of the Berlin Blockade in June 1948?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The creation of the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was formed in April 1949, which occurred after the blockade began."
+                },
+                {
+                    "text": "The introduction of the Deutsche Mark",
+                    "isCorrect": true,
+                    "feedback": "The introduction of the Deutsche Mark to replace the Reichsmark was the trigger that led Stalin to institute the blockade."
+                },
+                {
+                    "text": "The Berlin municipal elections",
+                    "isCorrect": false,
+                    "feedback": "The municipal elections took place in December 1948, while the blockade began in June 1948."
+                },
+                {
+                    "text": "The formation of the Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was created on 1 January 1947, well before the currency reform of 1948."
+                },
+                {
+                    "text": "The launch of the Berlin Airlift",
+                    "isCorrect": false,
+                    "feedback": "The airlift was the Western response to the blockade, not an event that preceded it."
+                },
+                {
+                    "text": "The creation of the Federal Republic of Germany",
+                    "isCorrect": false,
+                    "feedback": "The formal creation of the West German state occurred in 1949, following the blockade."
+                },
+                {
+                    "text": "The signing of the North Atlantic Treaty",
+                    "isCorrect": false,
+                    "feedback": "The North Atlantic Treaty was signed in April 1949, during the final stages of the blockade."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the sequence of the Berlin Blockade crisis, what occurred immediately after the Western powers launched the Berlin Airlift?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The introduction of the Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The currency reform was the trigger for the blockade, occurring before the airlift."
+                },
+                {
+                    "text": "The formation of the Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was established in April 1949, but the airlift was the primary response to the blockade's start."
+                },
+                {
+                    "text": "Stalin lifting the blockade",
+                    "isCorrect": true,
+                    "feedback": "Following the successful airlift operation, Stalin finally lifted the blockade in May 1949."
+                },
+                {
+                    "text": "The Berlin municipal elections",
+                    "isCorrect": false,
+                    "feedback": "The elections occurred in December 1948, during the airlift, but the final resolution was the lifting of the blockade."
+                },
+                {
+                    "text": "The creation of the Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was created in 1947, long before the airlift began."
+                },
+                {
+                    "text": "The start of the Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan provided the economic framework for recovery before the blockade began."
+                },
+                {
+                    "text": "The formation of the Warsaw Pact",
+                    "isCorrect": false,
+                    "feedback": "The Warsaw Pact was formed in 1955, years after the blockade crisis ended."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the correct chronological order of the consolidation of Western occupation zones in Germany?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Trizone, then Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone (US and Britain) came first in 1947, followed by the Trizone (adding France) in 1949."
+                },
+                {
+                    "text": "Bizone, then Trizone",
+                    "isCorrect": true,
+                    "feedback": "The US and Britain merged zones in January 1947 (Bizone), and France joined in April 1949 (Trizone)."
+                },
+                {
+                    "text": "Trizone, then Bizone, then Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the first step in consolidation, not the Trizone."
+                },
+                {
+                    "text": "Bizone, then Federal Republic, then Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was established in April 1949, preceding the formal statehood of the Federal Republic."
+                },
+                {
+                    "text": "Federal Republic, then Bizone, then Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the earliest consolidation effort, starting in 1947."
+                },
+                {
+                    "text": "Trizone, then Federal Republic, then Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the first merger of zones, occurring in 1947."
+                },
+                {
+                    "text": "Bizone, then Trizone, then Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "While this is the general flow, the specific sequence of zone mergers was Bizone then Trizone."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "On 1 January 1947, the United States and Britain merged their western German occupation zones to create the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Bizone",
+                    "isCorrect": true,
+                    "feedback": "The Bizone was the initial merger of US and British zones on January 1, 1947."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was formed later, in April 1949, when France's zone joined the merger."
+                },
+                {
+                    "text": "Federal Republic",
+                    "isCorrect": false,
+                    "feedback": "The Federal Republic of Germany was established later in April 1949."
+                },
+                {
+                    "text": "German Democratic Republic",
+                    "isCorrect": false,
+                    "feedback": "The GDR was the Soviet-controlled state proclaimed in October 1949."
+                },
+                {
+                    "text": "Allied Control Council",
+                    "isCorrect": false,
+                    "feedback": "The Allied Control Council was the governing body for occupied Germany, not a merged zone."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was an economic aid program, not a territorial merger."
+                },
+                {
+                    "text": "Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain was a metaphorical divide between East and West Europe."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The merger of the US and British zones expanded to include France's zone in ____, becoming the Trizone.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "April 1949",
+                    "isCorrect": true,
+                    "feedback": "The Trizone was officially formed in April 1949 with the addition of the French zone."
+                },
+                {
+                    "text": "January 1947",
+                    "isCorrect": false,
+                    "feedback": "This was the date the Bizone was created by the US and Britain."
+                },
+                {
+                    "text": "June 1948",
+                    "isCorrect": false,
+                    "feedback": "This date marks the beginning of the Berlin Blockade."
+                },
+                {
+                    "text": "May 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when Stalin finally lifted the Berlin Blockade."
+                },
+                {
+                    "text": "December 1948",
+                    "isCorrect": false,
+                    "feedback": "This was when the Berlin municipal elections were held."
+                },
+                {
+                    "text": "October 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the German Democratic Republic was proclaimed."
+                },
+                {
+                    "text": "March 1947",
+                    "isCorrect": false,
+                    "feedback": "This date is not associated with the formation of the Trizone."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The introduction of the Deutsche Mark to replace the Reichsmark served as the trigger for Stalin to institute the ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Berlin Blockade",
+                    "isCorrect": true,
+                    "feedback": "Stalin reacted to the currency reform and economic rebuilding by blocking access to West Berlin."
+                },
+                {
+                    "text": "Berlin Airlift",
+                    "isCorrect": false,
+                    "feedback": "The Airlift was the Western response to the blockade, not the trigger for it."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a territorial merger, not a response to currency reform."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan provided the funding for the re-industrialization that led to the currency change."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a specific humanitarian effort within the larger Airlift."
+                },
+                {
+                    "text": "Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain describes the general geopolitical divide, not a specific event triggered by currency."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the initial merger of zones that preceded the currency reform."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Following the institution of the Berlin Blockade in June 1948, the Western powers responded by launching the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Berlin Airlift",
+                    "isCorrect": true,
+                    "feedback": "The Airlift was the massive logistical operation used to supply West Berlin after land and water access were cut."
+                },
+                {
+                    "text": "Trizone",
+                    "isCorrect": false,
+                    "feedback": "The Trizone was a territorial merger, not a direct response to the blockade."
+                },
+                {
+                    "text": "Deutsche Mark",
+                    "isCorrect": false,
+                    "feedback": "The currency reform happened before the blockade began."
+                },
+                {
+                    "text": "Operation Vittles",
+                    "isCorrect": false,
+                    "feedback": "Operation Vittles was a part of the Airlift, not the overall strategic response."
+                },
+                {
+                    "text": "Marshall Plan",
+                    "isCorrect": false,
+                    "feedback": "The Marshall Plan was the broader economic framework that preceded the crisis."
+                },
+                {
+                    "text": "Bizone",
+                    "isCorrect": false,
+                    "feedback": "The Bizone was the initial merger of zones that occurred in 1947."
+                },
+                {
+                    "text": "Iron Curtain",
+                    "isCorrect": false,
+                    "feedback": "The Iron Curtain is a general term for the Cold War divide."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Berlin Blockade, which began in June 1948, was finally lifted by Stalin in ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "May 1949",
+                    "isCorrect": true,
+                    "feedback": "Stalin lifted the blockade in May 1949 after the Airlift proved successful."
+                },
+                {
+                    "text": "April 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the Trizone was formed."
+                },
+                {
+                    "text": "December 1948",
+                    "isCorrect": false,
+                    "feedback": "This was when the municipal elections in Berlin were held."
+                },
+                {
+                    "text": "January 1947",
+                    "isCorrect": false,
+                    "feedback": "This was the date the Bizone was created."
+                },
+                {
+                    "text": "October 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the GDR was proclaimed."
+                },
+                {
+                    "text": "June 1948",
+                    "isCorrect": false,
+                    "feedback": "This was the start date of the blockade."
+                },
+                {
+                    "text": "August 1949",
+                    "isCorrect": false,
+                    "feedback": "This date is not associated with the end of the blockade."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                5
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In ____, municipal elections were held in Berlin to determine the city's political direction, despite communist attempts to disrupt them.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "December 1948",
+                    "isCorrect": true,
+                    "feedback": "The municipal elections took place on 5 December 1948 during the blockade."
+                },
+                {
+                    "text": "May 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the blockade was lifted."
+                },
+                {
+                    "text": "June 1948",
+                    "isCorrect": false,
+                    "feedback": "This was when the blockade began."
+                },
+                {
+                    "text": "April 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the Trizone was formed."
+                },
+                {
+                    "text": "January 1947",
+                    "isCorrect": false,
+                    "feedback": "This was when the Bizone was created."
+                },
+                {
+                    "text": "October 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the GDR was proclaimed."
+                },
+                {
+                    "text": "August 1949",
+                    "isCorrect": false,
+                    "feedback": "This was when the first Soviet atomic device was detonated."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        }
+    ],
+    "true_false_games": [
+        {
+            "statement": "The Bizone was created on 1 January 1947 through the merger of the United States and British occupation zones in Germany.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The United States and Britain merged their western German occupation zones on 1 January 1947 to create the Bizone.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Trizone was established in April 1949 when France's occupation zone joined the existing Bizone.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "By April 1949, the Bizone expanded to include France's zone, becoming the Trizone.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Soviet Union viewed the introduction of the Deutsche Mark as a stabilizing economic move and supported its implementation.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The Soviet Union actually viewed the introduction of the Deutsche Mark as a provocation.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Berlin Blockade lasted from June 1948 to May 1949.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Stalin instituted the Berlin Blockade from June 1948 to May 1949.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Berlin Airlift was a unilateral operation led exclusively by the United States to supply West Berlin.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "While led primarily by the US, it was a collaborative international effort involving Britain, France, and Canada.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Operation Vittles involved US Air Force pilot Gail Halvorsen dropping candy to German children in Berlin.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Gail Halvorsen launched Operation Vittles, dropping candy to children to win their hearts and minds.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Berlin municipal elections held in December 1948 were boycotted by the majority of citizens, resulting in a very low voter turnout.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The elections on 5 December 1948 actually saw a high level of citizen participation, with a voter turnout of 86%.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Berlin Blockade was lifted by Stalin in May 1949.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Stalin finally lifted the blockade in May 1949.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Bizone was created through the merger of the United States and British occupation zones in January 1947.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "On 1 January 1947, the US and Britain merged their western German occupation zones to create the Bizone.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The Trizone was established in April 1949 when France's zone was added to the existing US and British merger.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "By April 1949, the Bizone arrangement expanded to include France's zone, becoming the Trizone.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The Soviet Union viewed the introduction of the Deutsche Mark as a stabilizing economic move that would benefit all German zones.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The Soviet Union actually viewed the introduction of the Deutsche Mark to replace the Reichsmark as a provocation.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The Berlin Blockade was triggered by Western efforts to rebuild the West German economy, including the introduction of a new currency.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The introduction of the Deutsche Mark and Western re-industrialization efforts led Stalin to institute the blockade from June 1948 to May 1949.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Stalin's primary goal in cutting off land and water access to West Berlin was to integrate the city into the Soviet zone.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Stalin sought to isolate the Western powers by cutting off access to West Berlin, which was an enclave deep within the Soviet zone.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The Berlin Airlift was a unilateral operation led exclusively by the United States to supply West Berlin.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "While led primarily by the US, it was a collaborative international effort involving Britain, France, and Canada.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Operation Vittles, involving the dropping of candy to children, was designed to win the hearts and minds of Berliners.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "US Air Force pilot Gail Halvorsen's gesture helped ensure Berliners remained steadfast despite Soviet pressure.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The Berlin municipal elections of December 1948 were successfully disrupted by East Berlin communists, leading to low voter turnout.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Despite attempts by communists to disrupt the process, the elections saw a high voter turnout of 86%.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The lifting of the Berlin Blockade in May 1949 directly accelerated the formal creation of two separate German states.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The crisis established a pattern of confrontation and accelerated the formal division of Germany into two separate states.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The Berlin Blockade lasted from June 1947 to May 1948.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "The Berlin Blockade took place from June 1948 to May 1949.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The creation of the Bizone in 1947 was a preliminary step toward the eventual formation of a stable Western German state.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The merger of US and British zones into the Bizone was a critical initial step in establishing a more stable Western German state.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The Trizone was established in April 1949 when France's occupation zone merged with the existing US and British zones.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "By April 1949, the Bizone expanded to include France's zone, becoming the Trizone.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The introduction of the Deutsche Mark was intended to stabilize the German economy, but the Soviet Union perceived it as a provocation.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The Deutsche Mark replaced the debased Reichsmark to stabilize the economy, a move viewed as provocative by the Soviet Union.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The Berlin Blockade was triggered primarily by the Western powers' decision to abandon West Berlin to the Soviet Union.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The blockade was triggered by Western efforts to rebuild the West German economy, specifically the introduction of the Deutsche Mark currency reform.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Stalin's primary objective in instituting the Berlin Blockade was to isolate the Western powers by cutting off all land and water access to West Berlin.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Stalin sought to isolate the Western powers by cutting off all land and water access to the enclave of West Berlin.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The Berlin Blockade lasted from June 1948 until May 1950.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "The Berlin Blockade lasted from June 1948 to May 1949.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The Berlin Airlift was a collaborative international effort led primarily by the United States to ensure West Berlin's survival.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "While led by the US, the airlift was a collaborative effort involving nations like Britain, France, and Canada.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Operation Vittles, led by Gail Halvorsen, focused exclusively on delivering food and fuel to the city of Berlin.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Operation Vittles specifically involved dropping candy to German children to win 'hearts and minds'.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The Berlin municipal elections of December 1948 were successfully disrupted by East Berlin communists, resulting in low voter turnout.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Despite disruption attempts, the elections saw a high voter turnout of 86%.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The lifting of the Berlin Blockade in May 1949 accelerated the formal creation of two separate German states.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The crisis cemented the division of the city and accelerated the formal creation of two separate German states.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The Bizone was created by the merger of the United States and British occupation zones to streamline administration and economic recovery.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The US and Britain merged their zones on 1 January 1947 to create the Bizone for better administration and recovery.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The Trizone was established in April 1949 when France's occupation zone joined the existing Bizone.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "By April 1949, the arrangement expanded to include France's zone, forming the Trizone.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The Soviet Union viewed the introduction of the Deutsche Mark as a stabilizing economic measure that would benefit all occupation zones.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The Soviet Union actually viewed the introduction of the Deutsche Mark as a provocation.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Stalin instituted the Berlin Blockade specifically to prevent Western supplies from reaching West Berlin.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The blockade was designed to isolate the Western powers by cutting off land and water access to West Berlin.",
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The Berlin Airlift was a unilateral operation led exclusively by the United States to supply West Berlin.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "While led primarily by the US, it was a collaborative international effort involving Britain, France, and Canada.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Operation Vittles, led by Gail Halvorsen, focused on delivering essential fuel and food to the adult population of Berlin.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Operation Vittles specifically involved dropping candy to German children to win 'hearts and minds'.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The Berlin municipal elections of December 1948 were successfully boycotted by the citizens, resulting in low voter turnout.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The elections saw a high level of citizen participation, with a voter turnout of 86%.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The Berlin Blockade lasted from June 1948 until May 1949.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "The blockade was instituted in June 1948 and lifted by Stalin in May 1949.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The creation of the Trizone in April 1949 followed the initial merger of the United States and British occupation zones into the Bizone.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The US and Britain first created the Bizone on 1 January 1947, which then expanded to include France's zone as the Trizone by April 1949.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "The Berlin Blockade was instituted by Stalin as a direct response to the formal creation of the Trizone in April 1949.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The Berlin Blockade began in June 1948, preceding the formation of the Trizone in April 1949.",
+            "source_card_ids": [
+                1,
+                2,
+                3
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "The introduction of the Deutsche Mark occurred after the Berlin Blockade had already been lifted in May 1949.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The introduction of the Deutsche Mark was a trigger for the blockade, occurring before the crisis began in June 1948.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "The Berlin municipal elections of December 1948 took place while the city was still under the Soviet blockade.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The elections were held on 5 December 1948, while the blockade lasted from June 1948 to May 1949.",
+            "source_card_ids": [
+                3,
+                5
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "Stalin lifted the Berlin Blockade in May 1949, which subsequently accelerated the formal creation of two separate German states.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The lifting of the blockade in May 1949 followed the crisis and helped cement the division of Germany into two separate states.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence"
+        }
+    ]
+}

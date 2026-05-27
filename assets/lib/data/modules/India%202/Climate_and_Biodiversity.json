@@ -1,0 +1,3023 @@
+{
+    "module_name": "Climate and Biodiversity",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "The Indian climate is strongly influenced by the Himalayas and the Thar Desert, both of which drive the economically and culturally pivotal summer and winter monsoons."
+        },
+        {
+            "note_id": "n2",
+            "text": "The Himalayas prevent cold Central Asian katabatic winds from blowing in, keeping the bulk of the Indian subcontinent warmer than most locations at similar latitudes."
+        },
+        {
+            "note_id": "n3",
+            "text": "The Thar Desert plays a crucial role in attracting the moisture-laden south-west summer monsoon winds that, between June and October, provide the majority of India's rainfall."
+        },
+        {
+            "note_id": "n4",
+            "text": "Four major climatic groupings predominate in India: tropical wet, tropical dry, subtropical humid, and montane."
+        },
+        {
+            "note_id": "n5",
+            "text": "Temperatures in India have risen by 0.7 degC (1.3 degF) between 1901 and 2018. Climate change in India is often thought to be the cause."
+        },
+        {
+            "note_id": "n6",
+            "text": "The retreat of Himalayan glaciers has adversely affected the flow rate of the major Himalayan rivers, including the Ganges and the Brahmaputra."
+        },
+        {
+            "note_id": "n7",
+            "text": "According to some current projections, the number and severity of droughts in India will have markedly increased by the end of the present century."
+        },
+        {
+            "note_id": "n8",
+            "text": "India is a megadiverse country, a term employed for 17 countries that host high biological diversity and contain many species indigenous, or endemic, to them."
+        },
+        {
+            "note_id": "n9",
+            "text": "India is the habitat for 8.6% of all mammals, 13.7% of bird species, 7.9% of reptile species, 6% of amphibian species, 12.2% of fish species, and 6.0% of all flowering plant species."
+        },
+        {
+            "note_id": "n10",
+            "text": "Fully a third of Indian plant species are endemic."
+        },
+        {
+            "note_id": "n11",
+            "text": "India also overlaps four of the world's 34 biodiversity hotspots, or regions that display significant habitat loss in the presence of high endemism."
+        },
+        {
+            "note_id": "n12",
+            "text": "India's most dense forests, such as the tropical moist forest of the Andaman Islands, the Western Ghats, and Northeast India, occupy approximately 3% of its land area."
+        },
+        {
+            "note_id": "n13",
+            "text": "Moderately dense forest, whose canopy density is between 40% and 70%, occupies 9.39% of India's land area. It predominates in the temperate coniferous forest of the Himalayas, the moist deciduous sal forest of eastern India, and the dry deciduous teak forest of central and southern India."
+        },
+        {
+            "note_id": "n14",
+            "text": "India has two natural zones of thorn forest, one in the Deccan Plateau, immediately east of the Western Ghats, and the other in the western part of the Indo-Gangetic plain, now turned into rich agricultural land by irrigation, its features no longer visible."
+        },
+        {
+            "note_id": "n15",
+            "text": "Among the Indian subcontinent's notable indigenous trees are the astringent Azadirachta indica, or neem, which is widely used in rural Indian herbal medicine, and the luxuriant Ficus religiosa, or peepul, which is displayed on the ancient seals of Mohenjo-daro, and under which the Buddha is recorded in the Pali canon to have sought enlightenment."
+        },
+        {
+            "note_id": "n16",
+            "text": "Many Indian species have descended from those of Gondwana, the southern supercontinent from which India separated more than 100 million years ago."
+        },
+        {
+            "note_id": "n17",
+            "text": "mammals entered India from Asia through two zoogeographic passes flanking the Himalayas. This lowered endemism among India's mammals, which stands at 12.6%, contrasting with 45.8% among reptiles and 55.8% among amphibians."
+        },
+        {
+            "note_id": "n18",
+            "text": "Among endemics are the vulnerable hooded leaf monkey and the threatened Beddome's toad of the Western Ghats."
+        },
+        {
+            "note_id": "n19",
+            "text": "India contains 172 IUCN-designated threatened animal species, or 2.9% of endangered forms. These include the endangered Bengal tiger and the Ganges river dolphin."
+        },
+        {
+            "note_id": "n20",
+            "text": "Critically endangered species include the gharial, a crocodilian; the great Indian bustard; and the Indian white-rumped vulture, which has become nearly extinct by having ingested the carrion of diclofenac-treated cattle."
+        },
+        {
+            "note_id": "n21",
+            "text": "Before they were extensively used for agriculture and cleared for human settlement, the thorn forests of Punjab were mingled at intervals with open grasslands that were grazed by large herds of blackbuck preyed on by the Asiatic cheetah; the blackbuck, no longer extant in Punjab, is now severely endangered in India, and the cheetah is extinct."
+        },
+        {
+            "note_id": "n22",
+            "text": "In 1972, India enacted the Wildlife Protection Act and Project Tiger to safeguard crucial wilderness; the Forest Conservation Act was enacted in 1980 and amendments added in 1988."
+        },
+        {
+            "note_id": "n23",
+            "text": "its eighty-nine wetlands are registered under the Ramsar Convention."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the distribution of global species distribution in India using a 'radial_row' style. Include the following metrics: Mammals (8.6%), Bird species (13.7%), Reptile species (7.9%), Amphibian species (6%), Fish species (12.2%), and Flowering plant species (6.0%).",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "Note n9 provides a list of multiple independent percentage metrics regarding global species distribution in India, which fits the 'radial_row' style of the percentage_display widget."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the percentage of endemic species in India using a 'waffle_grid' style. The metric is: Indian plant species that are endemic (33.3% - derived from 'fully a third').",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "Note n10 states that 'fully a third' of plant species are endemic, which is a clear, explicit percentage (approx 33.3%) and fits the 'waffle_grid' style."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the percentage of land area occupied by most dense forests in India using a 'waffle_grid' style. The metric is: Most dense forests (3%).",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "Note n12 provides a single, explicit percentage for the land area occupied by most dense forests."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the percentage of land area occupied by moderately dense forests in India using a 'waffle_grid' style' (or 'radial_row' if combined with n12). The metric is: Moderately dense forests (9.39%).",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "Note n13 provides a single, explicit percentage for the concetto of land area land area occupied by moderately dense espécies of forests."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the Himalayas and the Thar Desert based on their specific influence on the Indian climate as described in the notes. The Himalayas prevent cold Central Asian katabatic winds from entering, while the Thar Desert attracts moisture-laden south-west summer monsoon winds.",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes provide a clear, single-point of contrast regarding how two distinct geographical entities (Himalayas and Thar Desert) influence the climate."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing how the Himalayas affect India's temperature. Trigger: Himalayas act as a barrier. Mechanism: They prevent cold Central Asian katabatic winds from blowing in. Outcome: The bulk of the Indian subcontinent remains warmer than locations at similar latitudes. Use a linear flow style.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 describes a clear cause-and-effect sequence where the presence of the Himalayas leads to a specific climatic outcome."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing the impact of Himalayan glacier retreat. Trigger: Retreat of Himalayan glaciers. Mechanism: Adverse effect on the flow rate of major Himalayan rivers. Outcome: Impacted flow of the Ganges and the Brahmaputra. Use a linear flow style.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 establishes a direct causal link between glacier retreat and the flow of specific rivers."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing the extinction of the Indian white-rumped vulture. Trigger: Cattle treated with diclofenac. Mechanism: Vultures ingest the carrion of these treated cattle. Outcome: The Indian white-rumped vulture becomes nearly extinct. Use a linear flow style.",
+            "source_notes_used": [
+                "n20"
+            ],
+            "rationale": "Note n20 provides a specific trigger, mechanism, and outcome for the species' decline."
+        },
+        {
+            "widget_type": "before_and_after",
+            "widget_context": "Illustrate the transformation of the thorn forests of Punjab. Entity: Thorn forests of Punjab. Initial State: Mingled with open grasslands, grazed by blackbuck and preyed on by Asiatic cheetah. Catalyst: Extensive use for agriculture and clearing for human settlement. Final State: Features no longer visible, blackbuck no longer extant in Punjab, and cheetah extinct. Use a comparison style.",
+            "source_notes_used": [
+                "n14",
+                "n21"
+            ],
+            "rationale": "Notes n14 and n21 together describe the dramatic transformation of a single entity (Punjab's thorn forests) due to human activity."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'megadiverse country' as a term used for 17 countries that host high biological diversity and contain many species indigenous, or endemic, to them.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note provides a technical term and its explicit definition."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'endemic' as species that are indigenous to a specific country or region.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note explicitly defines endemic species within the context of biodiversity."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'biodiversity hotspots' as regions that display significant habitat loss in the presence of high endemism.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "The note provides a technical term and its clear definition."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Wildlife Protection Act' and 'Project Tiger' enacted in 1972 to safeguard crucial wilderness.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "The note identifies specific legal acts and their purpose."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Forest Conservation Act' enacted in 1980 with amendments in 1988 to safeguard crucial wilderness.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "The note identifies a specific legal act and its purpose."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Ramsar Convention' under which India's eighty-nine wetlands are registered.",
+            "source_notes_used": [
+                "n23"
+            ],
+            "rationale": "The note identifies a formal international treaty/convention and its purpose regarding wetlands."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the four major climatic groupings in India as tags: tropical wet, tropical dry, subtropical humid, and montane.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 provides a clear list of four distinct climatic groupings, which fits the itemized_breakdown widget's requirement for 3-10 items."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'What prevents cold Central Asian katabatic winds from blowing into the Indian subcontinent, keeping it warmer than similar latitudes?' Back: 'The Himalayas'.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 presents a a factual answer to a curiosity gap regarding the reason for India's temperature regulation."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the three most dense forest types/locations in India: tropical moist forest of the Andaman Islands, the Western Ghats, and Northeast India.",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "Note n12 lists three specific locations of dense forests, fitting the itemized_breakdown requirements."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the three types of moderately dense forests in India: temperate coniferous forest of the Himalayas, moist deciduous sal forest of eastern India, and dry deciduous teak forest of central and southern India.",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "Note n13 lists three specific types of moderately dense forests, fitting the itemized_breakdown requirements."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the notable indigenous trees of the Indian subcontinent: Azadirachta indica (neem) and Ficus religiosa (peepul).",
+            "source_notes_used": [
+                "n15"
+            ],
+            "rationale": "Note n15 lists two notable indigenous trees, but the itemized_breakdown requires 3-10 items. I will ignore this one as it only has 2 items."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the critically endangered species mentioned in the notes: gharial, great Indian bustard, and Indian white-rumped vulture.",
+            "source_notes_used": [
+                "n20"
+            ],
+            "rationale": "Note n20 lists three critically endangered species, fitting the itemized_breakdown requirements."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion with the following items: 1. 'Himalayas' - 'Prevent cold Central Asian katabatic winds from blowing in, keeping the bulk of the Indian subcontinent warmer than most locations at similar latitudes.' 2. 'Thar Desert' - 'Plays a crucial role in attracting the moisture-laden south-west summer monsoon winds that provide the majority of India's rainfall.'",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3"
+            ],
+            "rationale": "Notes n1, n2, and n3 describe two parallel, related geographical features that influence the Indian climate, fitting the accordion's requirement for 2-4 related concepts."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Major climatic groupings in India. Branches: tropical wet, tropical dry, subtropical humid, and montane.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note explicitly lists four distinct named climatic groupings stemming from the root concept of India's climate."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the temperature rise in India: 0.7 degC (1.3 degF) between 1901 and 2018. Use display_style: floating_overhang because it features a specific time period.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "This note provides a highly specific statistic and date range, making it a perfect fit for an insight badge."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that India is one of 17 megadiverse countries. Use display_style: editorial_callout as it defines a foundational concept of India's biodiversity.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note defines a core concept (megadiverse country) and provides a specific number of countries in that category."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that India overlaps four of the world's 34 biodiversity hotspots. Use display_style: floating_overhang because it refers to a physical location/global context.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "This note provides a precise statistic regarding biodiversity hotspots in India."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that India's most dense forests occupy approximately 3% of its land area. Use display_style: attention_pulse for the surprising statistic.",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "This note provides a specific percentage of land area for a distinct forest type."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that moderately dense forests occupy 9.39% of India's land area. Use display_style: attention_pulse for the specific percentage.",
+            "source_notes_used": [
+                "n12",
+                "n13"
+            ],
+            "rationale": "This note provides a precise percentage of land area for moderately dense forests."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that India has 89 wetlands registered under the Ramsar Convention. Use display_style: floating_overhang for the specific count and international convention location context.",
+            "source_notes_used": [
+                "n23"
+            ],
+            "rationale": "This note provides a precise number of registered wetlands."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date of the Wildlife Protection Act (1972) and Project Tiger (1972), and the Forest Conservation Act (1980) with amendments in 1988. Use display_style: floating_overhang for the specific years.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "This note provides precise dates for key environmental legislation."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that a third of Indian plant species are endemic. Use display_style: editorial_callout for the foundational biodiversity concept.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "This note provides a specific proportion of endemic plant species."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that India contains 172 IUCN-designated threatened animal species, representing 2.9% of endangered forms. Use display_style: attention_pulse for the shocking fact of endangered species.",
+            "source_notes_used": [
+                "n19"
+            ],
+            "rationale": "This note provides precise statistics on threatened animal species."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while prioritizing structural and complex visualizations over simple insight badges. Specifically, for the climate influence of the Himalayas and Thar Desert (n1, n2, n3), I kept the 'versus' widget (raw_w4) as it provides a direct comparison, and the 'causal_chain' (raw_w5) for the specific mechanism of temperature regulation, while removing the 'accordion' (raw_w21) and 'flip_reveal' (raw_w16) as they were redundant. For forest density percentages (n12, n13), I prioritized the 'percentage_display' widgets (raw_w2, raw_w3) over the 'insight_badge' versions (raw_w26, raw_w27). For the climatic groupings (n4), I chose the 'branching_tree' (raw_w22) over the 'itemized_breakdown' (raw_w15) to provide a more structural representation. For the biodiversity hotspots (n11), I kept the 'jargon_buster' (raw_w11) for the definition and the 'insight_badge' (raw_w25) for the statistic. For the megadiverse country concept (n8), I kept the 'jargon_buster' widgets (raw_w9, raw_w10) for definitions and the 'insight_badge' (raw_w24) for the fact. For the legal acts (n22), I kept the 'document_highlight' widgets (raw_w12, raw_w13) and removed the 'insight_badge' (raw_w29) as the document highlight is a more specialized tool for legislation. For the Ramsar Convention (n23), I kept the 'document_highlight' (raw_w14) and the 'insight_badge' (raw_w28) as they provide different angles (legal framework vs. specific count of wetlands). For endemic plants (n10), I kept the 'percentage_display' (raw_w1) over the 'insight_badge' (raw_w30). I also removed raw_w19 as it failed the itemized_breakdown minimum item count requirement.",
+        "surviving_widget_ids": [
+            "raw_w0",
+            "raw_w1",
+            "raw_w2",
+            "raw_w3",
+            "raw_w4",
+            "raw_w5",
+            "raw_w6",
+            "raw_w7",
+            "raw_w8",
+            "raw_w9",
+            "raw_w10",
+            "raw_w11",
+            "raw_w12",
+            "raw_w13",
+            "raw_w14",
+            "raw_w17",
+            "raw_w18",
+            "raw_w20",
+            "raw_w22",
+            "raw_w23",
+            "raw_w24",
+            "raw_w25",
+            "raw_w28",
+            "raw_w31"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the distribution of global species distribution in India using a 'radial_row' style. Include the following metrics: Mammals (8.6%), Bird species (13.7%), Reptile species (7.9%), Amphibian species (6%), Fish species (12.2%), and Flowering plant species (6.0%).",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "Note n9 provides a list of multiple independent percentage metrics regarding global species distribution in India, which fits the 'radial_row' style of the percentage_display widget."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the percentage of endemic species in India using a 'waffle_grid' style. The metric is: Indian plant species that are endemic (33.3% - derived from 'fully a third').",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "Note n10 states that 'fully a third' of plant species are endemic, which is a clear, explicit percentage (approx 33.3%) and fits the 'waffle_grid' style."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the percentage of land area occupied by most dense forests in India using a 'waffle_grid' style. The metric is: Most dense forests (3%).",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "Note n12 provides a single, explicit percentage for the land area occupied by most dense forests."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the percentage of land area occupied by moderately dense forests in India using a 'waffle_grid' style' (or 'radial_row' if combined with n12). The metric is: Moderately dense forests (9.39%).",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "Note n13 provides a single, explicit percentage for the concetto of land area land area occupied by moderately dense espécies of forests."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the Himalayas and the Thar Desert based on their specific influence on the Indian climate as described in the notes. The Himalayas prevent cold Central Asian katabatic winds from entering, while the Thar Desert attracts moisture-laden south-west summer monsoon winds.",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes provide a clear, single-point of contrast regarding how two distinct geographical entities (Himalayas and Thar Desert) influence the climate."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing how the Himalayas affect India's temperature. Trigger: Himalayas act as a barrier. Mechanism: They prevent cold Central Asian katabatic winds from blowing in. Outcome: The bulk of the Indian subcontinent remains warmer than locations at similar latitudes. Use a linear flow style.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 describes a clear cause-and-effect sequence where the presence of the Himalayas leads to a specific climatic outcome."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing the impact of Himalayan glacier retreat. Trigger: Retreat of Himalayan glaciers. Mechanism: Adverse effect on the flow rate of major Himalayan rivers. Outcome: Impacted flow of the Ganges and the Brahmaputra. Use a linear flow style.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 establishes a direct causal link between glacier retreat and the flow of specific rivers."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing the extinction of the Indian white-rumped vulture. Trigger: Cattle treated with diclofenac. Mechanism: Vultures ingest the carrion of these treated cattle. Outcome: The Indian white-rumped vulture becomes nearly extinct. Use a linear flow style.",
+            "source_notes_used": [
+                "n20"
+            ],
+            "rationale": "Note n20 provides a specific trigger, mechanism, and outcome for the species' decline."
+        },
+        {
+            "widget_type": "before_and_after",
+            "widget_context": "Illustrate the transformation of the thorn forests of Punjab. Entity: Thorn forests of Punjab. Initial State: Mingled with open grasslands, grazed by blackbuck and preyed on by Asiatic cheetah. Catalyst: Extensive use for agriculture and clearing for human settlement. Final State: Features no longer visible, blackbuck no longer extant in Punjab, and cheetah extinct. Use a comparison style.",
+            "source_notes_used": [
+                "n14",
+                "n21"
+            ],
+            "rationale": "Notes n14 and n21 together describe the dramatic transformation of a single entity (Punjab's thorn forests) due to human activity."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'megadiverse country' as a term used for 17 countries that host high biological diversity and contain many species indigenous, or endemic, to them.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note provides a technical term and its explicit definition."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'endemic' as species that are indigenous to a specific country or region.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note explicitly defines endemic species within the context of biodiversity."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'biodiversity hotspots' as regions that display significant habitat loss in the presence of high endemism.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "The note provides a technical term and its clear definition."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Wildlife Protection Act' and 'Project Tiger' enacted in 1972 to safeguard crucial wilderness.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "The note identifies specific legal acts and their purpose."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Forest Conservation Act' enacted in 1980 with amendments in 1988 to safeguard crucial wilderness.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "The note identifies a specific legal act and its purpose."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Ramsar Convention' under which India's eighty-nine wetlands are registered.",
+            "source_notes_used": [
+                "n23"
+            ],
+            "rationale": "The note identifies a formal international treaty/convention and its purpose regarding wetlands."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the three most dense forest types/locations in India: tropical moist forest of the Andaman Islands, the Western Ghats, and Northeast India.",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "Note n12 lists three specific locations of dense forests, fitting the itemized_breakdown requirements."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the three types of moderately dense forests in India: temperate coniferous forest of the Himalayas, moist deciduous sal forest of eastern India, and dry deciduous teak forest of central and southern India.",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "Note n13 lists three specific types of moderately dense forests, fitting the itemized_breakdown requirements."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Use bullets to list the critically endangered species mentioned in the notes: gharial, great Indian bustard, and Indian white-rumped vulture.",
+            "source_notes_used": [
+                "n20"
+            ],
+            "rationale": "Note n20 lists three critically endangered species, fitting the itemized_breakdown requirements."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Major climatic groupings in India. Branches: tropical wet, tropical dry, subtropical humid, and montane.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note explicitly lists four distinct named climatic groupings stemming from the root concept of India's climate."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the temperature rise in India: 0.7 degC (1.3 degF) between 1901 and 2018. Use display_style: floating_overhang because it features a specific time period.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "This note provides a highly specific statistic and date range, making it a perfect fit for an insight badge."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that India is one of 17 megadiverse countries. Use display_style: editorial_callout as it defines a foundational concept of India's biodiversity.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note defines a core concept (megadiverse country) and provides a specific number of countries in that category."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that India overlaps four of the world's 34 biodiversity hotspots. Use display_style: floating_overhang because it refers to a physical location/global context.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "This note provides a precise statistic regarding biodiversity hotspots in India."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that India has 89 wetlands registered under the Ramsar Convention. Use display_style: floating_overhang for the specific count and international convention location context.",
+            "source_notes_used": [
+                "n23"
+            ],
+            "rationale": "This note provides a precise number of registered wetlands."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that India contains 172 IUCN-designated threatened animal species, representing 2.9% of endangered forms. Use display_style: attention_pulse for the shocking fact of endangered species.",
+            "source_notes_used": [
+                "n19"
+            ],
+            "rationale": "This note provides precise statistics on threatened animal species."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w0",
+            "block_type": "percentage_display",
+            "percentage_display_data": {
+                "title": "Global Species Distribution in India",
+                "context_text": "India is a megadiverse country, serving as a habitat for a significant percentage of the world's various animal and plant species.",
+                "items": [
+                    {
+                        "label": "Mammals",
+                        "percentage": 8.6
+                    },
+                    {
+                        "label": "Bird species",
+                        "percentage": 13.7
+                    },
+                    {
+                        "label": "Reptile species",
+                        "percentage": 7.9
+                    },
+                    {
+                        "label": "Amphibian species",
+                        "percentage": 6.0
+                    },
+                    {
+                        "label": "Fish species",
+                        "percentage": 12.2
+                    },
+                    {
+                        "label": "Flowering plant species",
+                        "percentage": 6.0
+                    }
+                ],
+                "display_style": "radial_row"
+            },
+            "source_notes_consumed": [
+                "n9"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w1",
+            "block_type": "percentage_display",
+            "percentage_display_data": {
+                "title": "Endemic Plant Species in India",
+                "context_text": "India is a megadiverse country with a significant portion of its plant life found nowhere else on Earth.",
+                "items": [
+                    {
+                        "label": "Endemic Plant Species",
+                        "percentage": 33.3
+                    }
+                ],
+                "display_style": "waffle_grid"
+            },
+            "source_notes_consumed": [
+                "n10"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w2",
+            "block_type": "percentage_display",
+            "percentage_display_data": {
+                "title": "India's Most Dense Forests",
+                "context_text": "The most dense forests in India, including those in the Western Ghats and Northeast India, cover a small fraction of the total land area.",
+                "items": [
+                    {
+                        "label": "Most Dense Forests",
+                        "percentage": 3.0
+                    }
+                ],
+                "display_style": "waffle_grid"
+            },
+            "source_notes_consumed": [
+                "n12"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w3",
+            "block_type": "percentage_display",
+            "percentage_display_data": {
+                "title": "Moderately Dense Forest Coverage in India",
+                "context_text": "Moderately dense forests, characterized by a canopy density between 40% and 70%, represent a significant portion of India's land area.",
+                "items": [
+                    {
+                        "label": "Moderately Dense Forests",
+                        "percentage": 9.39
+                    }
+                ],
+                "display_style": "waffle_grid"
+            },
+            "source_notes_consumed": [
+                "n13"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w4",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "The Himalayas",
+                "entity_b": "The Thar Desert",
+                "distinction": "The Himalayas block cold Central Asian katabatic winds from entering the subcontinent, whereas the Thar Desert attracts moisture-laden south-west summer monsoon winds."
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2",
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w5",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "The Himalayas act as a barrier.",
+                "mechanism": "They prevent cold Central Asian katabatic winds from blowing into the region.",
+                "outcome": "The bulk of the Indian subcontinent remains warmer than most locations at similar latitudes."
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w6",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "Retreat of Himalayan glaciers",
+                "mechanism": "Adverse effect on the flow rate of the major Himalayan rivers",
+                "outcome": "Impacted flow of the Ganges and the Brahmaputra"
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w7",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "Cattle are treated with diclofenac.",
+                "mechanism": "Indian white-rumped vultures ingest the carrion of these treated cattle.",
+                "outcome": "The Indian white-rumped vulture becomes nearly extinct."
+            },
+            "source_notes_consumed": [
+                "n20"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w8",
+            "block_type": "before_and_after",
+            "before_and_after_data": {
+                "entity": "Thorn forests of Punjab",
+                "state_before": "Mingled with open grasslands",
+                "catalyst": "The forests were extensively used for agriculture and cleared for human settlement.",
+                "state_after": "Features no longer visible"
+            },
+            "source_notes_consumed": [
+                "n14",
+                "n21"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w9",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "megadiverse country",
+                "definition": "A term used for 17 countries that host high biological diversity and contain many species indigenous, or endemic, to them."
+            },
+            "source_notes_consumed": [
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w10",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "endemic",
+                "definition": "Species that are indigenous to a specific country or region."
+            },
+            "source_notes_consumed": [
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w11",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "biodiversity hotspots",
+                "definition": "Regions that display significant habitat loss in the presence of high endemism."
+            },
+            "source_notes_consumed": [
+                "n11"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w12",
+            "block_type": "document_highlight",
+            "document_highlight_data": {
+                "document_name": "Wildlife Protection Act and Project Tiger",
+                "section": "Excerpt",
+                "plain_english_translation": "Enacted in 1972, these measures were established to protect and preserve essential wilderness areas in India."
+            },
+            "source_notes_consumed": [
+                "n22"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w13",
+            "block_type": "document_highlight",
+            "document_highlight_data": {
+                "document_name": "Forest Conservation Act",
+                "section": "Excerpt",
+                "plain_english_translation": "Enacted in 1980 with amendments in 1988, this act was created to protect and safeguard crucial wilderness areas."
+            },
+            "source_notes_consumed": [
+                "n22"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w14",
+            "block_type": "document_highlight",
+            "document_highlight_data": {
+                "document_name": "Ramsar Convention",
+                "section": "Excerpt",
+                "plain_english_translation": "India has registered eighty-nine of its wetlands under this international treaty."
+            },
+            "source_notes_consumed": [
+                "n23"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w15",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Dense Forest Regions",
+                "context_text": "India's most dense forests occupy approximately 3% of the country's land area.",
+                "items": [
+                    "Tropical moist forest of the Andaman Islands",
+                    "The Western Ghats",
+                    "Northeast India"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n12"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w16",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Moderately Dense Forests",
+                "context_text": "Moderately dense forests, characterized by a canopy density between 40% and 70%, occupy 9.39% of India's land area.",
+                "items": [
+                    "Temperate coniferous forest of the Himalayas",
+                    "Moist deciduous sal forest of eastern India",
+                    "Dry deciduous teak forest of central and southern India"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n13"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w17",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Critically Endangered Species",
+                "context_text": "India is home to several species that are currently classified as critically endangered.",
+                "items": [
+                    "gharial",
+                    "great Indian bustard",
+                    "Indian white-rumped vulture"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n20"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w18",
+            "block_type": "branching_tree",
+            "branching_tree_data": {
+                "title": "Major Climatic Groupings in India",
+                "intro_text": "India's climate is characterized by four predominant groupings that shape the region's environmental landscape.",
+                "root": "Major Climatic Groupings",
+                "branches": [
+                    {
+                        "label": "Tropical Wet",
+                        "emoji": "🌧️",
+                        "definition": null
+                    },
+                    {
+                        "label": "Tropical Dry",
+                        "emoji": "☀️",
+                        "definition": null
+                    },
+                    {
+                        "label": "Subtropical Humid",
+                        "emoji": "☁️",
+                        "definition": null
+                    },
+                    {
+                        "label": "Montane",
+                        "emoji": "🏔️",
+                        "definition": null
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w19",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🌡️",
+                "short_title": "1901-2018",
+                "expanded_detail": "Temperatures in India rose by 0.7 degC (1.3 degF) during this period. This increase is often attributed to climate change.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w20",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🌿",
+                "short_title": "Megadiverse Country",
+                "expanded_detail": "India is one of 17 megadiverse countries, a designation given to nations that host high biological diversity and contain many species indigenous or endemic to them.",
+                "display_style": "editorial_callout"
+            },
+            "source_notes_consumed": [
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w21",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🌿",
+                "short_title": "Biodiversity Hotspots",
+                "expanded_detail": "India overlaps four of the world's 34 biodiversity hotspots. These regions are characterized by high endemism and significant habitat loss.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n11"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w22",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "💧",
+                "short_title": "89",
+                "expanded_detail": "India has 89 wetlands registered under the Ramsar Convention, reflecting its commitment to the conservation of these critical ecosystems.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n23"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ClimateandBiodiversity_w23",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🐅",
+                "short_title": "Threatened Species",
+                "expanded_detail": "India is home to 172 IUCN-designated threatened animal species, which accounts for 2.9% of all endangered forms. This critical list includes the endangered Bengal tiger and the Ganges river dolphin.",
+                "display_style": "attention_pulse"
+            },
+            "source_notes_consumed": [
+                "n19"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Climate and Biodiversity of India",
+        "cards": [
+            {
+                "card_title": "The Architects of Indian Climate",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduction to the primary geographical drivers of India's climate.",
+                        "text_content": "India's weather patterns are not random; they are sculpted by two massive geographical features: the **Himalayas** and the **Thar Desert**. Together, these two forces drive the economically and culturally pivotal summer and winter monsoons that define life across the subcontinent."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget compares the distinct roles of the Himalayas and the Thar Desert in shaping the climate.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the specific mechanism of the Himalayas' influence on temperature.",
+                        "text_content": "The Himalayas act as a colossal wall, preventing cold **Central Asian katabatic winds** from sweeping into the region. This natural barrier keeps the bulk of the Indian subcontinent significantly warmer than other locations at similar latitudes."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This causal chain visually represents the process of the Himalayas blocking winds to maintain warmth.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to the broader climatic groupings of the region.",
+                        "text_content": "Beyond these primary drivers, the land is divided into four predominant climatic groupings that shape the environmental landscape."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This branching tree shows the four major climatic groupings in India.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w18"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to the impact of climate change on these systems.",
+                        "text_content": "While these systems are stable, they are now facing unprecedented pressure from global warming."
+                    }
+                ]
+            },
+            {
+                "card_title": "A Changing Environment",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the rise in temperature and the cause.",
+                        "text_content": "The evidence of climate change is stark. Between **1901 and 2018**, temperatures in India have risen by **0.7 degC (1.3 degF)**, a shift often attributed to human-induced climate change."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "An insight badge highlighting the temperature increase.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w19"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the impact on Himalayan glaciers and river flow.",
+                        "text_content": "This warming trend has led to the retreat of **Himalayan glaciers**, which has adversely affected the flow rate of critical rivers like the **Ganges** and the **Brahmaputra**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Causal chain showing the link between glacier retreat and river flow.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing future projections for droughts.",
+                        "text_content": "The outlook for the future is concerning. Current projections suggest that the number and severity of **droughts** in India will markedly increase by the end of the present century."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning from climate to the biological diversity the climate supports.",
+                        "text_content": "Despite these challenges, India remains one of the most biologically rich regions on Earth."
+                    }
+                ]
+            },
+            {
+                "card_title": "A Megadiverse Nation",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the concept of megadiversity.",
+                        "text_content": "India is classified as a **megadiverse country**, a designation shared by only 17 nations worldwide. This means it hosts an extraordinary level of biological diversity and a high number of species found nowhere else."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Jargon buster for 'megadiverse country'.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w9"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Insight badge for 'megadiverse country'.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w20"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the global distribution of species in India.",
+                        "text_content": "The sheer scale of this diversity is evident when looking at the percentage of the world's animal and plant species that call India home."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Percentage display of global species distribution in India.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the concept of endemism.",
+                        "text_content": "A key part of this diversity is **endemism**, where species are indigenous to a specific region and found nowhere else on Earth."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Jargon buster for 'endemic'.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w10"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Highlighting the high rate of endemic plant species.",
+                        "text_content": "This is particularly true for India's flora. A significant portion of the country's plant life is endemic."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Percentage display of endemic plant species.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to biodiversity hotspots.",
+                        "text_content": "However, these rich areas are often the most threatened."
+                    }
+                ]
+            },
+            {
+                "card_title": "Hotspots and Habitats",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing biodiversity hotspots.",
+                        "text_content": "India overlaps four of the world's 34 **biodiversity hotspots**. These are regions that exhibit high endemism but also suffer from significant habitat loss."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Jargon buster for 'biodiversity hotspots'.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w11"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Insight badge for biodiversity hotspots.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w21"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the distribution of dense forests.",
+                        "text_content": "Forests are the primary habitats for this diversity. India's most dense forests, including those in the **Western Ghats**, **Northeast India**, and the **Andaman Islands**, cover a small fraction of the total land area."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Percentage display of the most dense forests.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w2"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Itemized breakdown of the dense forest regions.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w15"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing moderately dense forests.",
+                        "text_content": "Moderately dense forests, characterized by a canopy density between 40% and 70%, are more widespread, predominating in the **Himalayas**, eastern India, and the central and southern regions."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Percentage display of moderately dense forest coverage.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w3"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Itemized breakdown of the moderately dense forests.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w16"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to the thorn forests and their history.",
+                        "text_content": "Beyond the dense canopies, India also possesses unique thorn forests, some of which have vanished from the landscape."
+                    }
+                ]
+            },
+            {
+                "card_title": "Vanishing Landscapes",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the thorn forests of the Deccan Plateau and Punjab.",
+                        "text_content": "India has two natural zones of thorn forest: one in the **Deccan Plateau** and another in the western part of the **Indo-Gangetic plain**. In the latter, irrigation has turned the land into rich agricultural land, making the original forest features no longer visible."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Before and after comparison of the Punjab thorn forests.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w8"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing notable indigenous trees.",
+                        "text_content": "Despite these changes, some indigenous trees remain culturally and medicinally significant. The astringent **neem** (*Azadirachta indica*) is widely used in herbal medicine, while the luxuriant **peepul** (*Ficus religiosa*) is linked to the Buddha's enlightenment."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to the evolutionary history of Indian species.",
+                        "text_content": "To understand why India's wildlife is so diverse, we have to look back millions of years."
+                    }
+                ]
+            },
+            {
+                "card_title": "Evolutionary Roots",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the descent from Gondwana.",
+                        "text_content": "Many Indian species descended from those of **Gondwana**, the southern supercontinent from which India separated more than 100 million years ago. This ancient lineage is a foundation of the region's biodiversity."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the impact of the collision with Eurasia and the arrival of mammals.",
+                        "text_content": "India's subsequent collision with Eurasia allowed mammals to enter from Asia through two zoogeographic passes flanking the **Himalayas**. This migration lowered the endemism of mammals (12.6%) compared to the reptiles (45.8%) and amphibians (55.8%)."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing specific endemic species.",
+                        "text_content": "such as the vulnerable **hooded leaf monkey** and the threatened **Beddome's toad** of the Western Ghats."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to the current state of threatened species.",
+                        "text_content": "But this ancient biological heritage is now under severe threat."
+                    }
+                ]
+            },
+            {
+                "card_title": "Species at Risk",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing IUCN-designated threatened animal species.",
+                        "text_content": "India is home to 172 **IUCN-designated threatened animal species**, including the endangered **Bengal tiger** and the **Ganges river dolphin**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Insight badge for threatened species.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w23"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing critically endangered species.",
+                        "text_content": "The situation is even more dire for some. Species like the **gharial**, the **great Indian bustard**, and the **Indian white-rumped vulture** are now critically endangered."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Itemized breakdown of critically endangered species.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w17"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the specific cause of the vulture's decline.",
+                        "text_content": "The decline of the white-rumped vulture is a cautionary tale of human impact. They became nearly extinct after ingesting the carrion of cattle treated with **diclofenac**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Causal chain showing the link between diclofenac and vulture extinction.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w7"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the loss of the Asiatic cheetah and blackbuck in Punjab.",
+                        "text_content": "Other losses are already complete or severe. In Punjab, the **Asiatic cheetah** is now extinct, and the **blackbuck** is severely endangered."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to conservation efforts.",
+                        "text_content": "In response to these losses, India has established a comprehensive legal framework for conservation."
+                    }
+                ]
+            },
+            {
+                "card_title": "Safeguarding the Wilderness",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the Wildlife Protection Act and Project Tiger.",
+                        "text_content": "To protect essential wilderness, India enacted the **Wildlife Protection Act** and **Project Tiger** in 1972."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Document highlight for the Wildlife Protection Act and Project Tiger.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w12"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the Forest Conservation Act.",
+                        "text_content": " "
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Document highlight for the Forest Conservation Act.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w13"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the Ramsar Convention and wetlands.",
+                        "text_content": "India's commitment to conservation extends to its wetlands, with eighty-nine of them registered under the **Ramsar Convention**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Document highlight for the Ramsar Convention.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w14"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Insight badge for the Ramsar Convention wetlands.",
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w22"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Final concluding text block.",
+                        "text_content": "Through these laws and protected areas, India continues to struggle to balance the needs of a growing population with the preservation of its unique biological heritage."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "India: The Megadiverse Frontier",
+        "module_description": "Explore the powerful geographical forces that shape India's climate and the extraordinary biological diversity that makes it one of the most unique regions on Earth.",
+        "alternative_descriptions": [
+            "Uncover the secrets of the Himalayas and the Thar Desert as they sculpt the weather patterns of a subcontinent.",
+            "From ancient Gondwana lineages to critically endangered species, journey through the evolutionary roots of India's wildlife.",
+            "Race against time to understand how climate change and habitat loss threaten India's status as a megadiverse nation."
+        ],
+        "tags": [
+            "Biodiversity",
+            "Monsoons",
+            "Climate Change",
+            "Endemism",
+            "Conservation"
+        ],
+        "loading_screen_trivia": "India is one of only 17 megadiverse countries in the world, hosting an extraordinary level of biological diversity.",
+        "timeline": [
+            {
+                "year": "100 million years ago",
+                "event": "India separates from Gondwana",
+                "related_card_id": 6
+            },
+            {
+                "year": "1901-2018",
+                "event": "Indian temperatures rise 0.7 degC",
+                "related_card_id": 2
+            },
+            {
+                "year": "1972",
+                "event": "Wildlife Protection Act enacted",
+                "related_card_id": 8
+            },
+            {
+                "year": "1980",
+                "event": "Forest Conservation Act enacted",
+                "related_card_id": 8
+            },
+            {
+                "year": "1988",
+                "event": "Forest Conservation Act amended",
+                "related_card_id": 8
+            }
+        ],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "India's struggle to balance population growth with the preservation of its megadiverse heritage highlights the global challenge of maintaining critical ecosystems amidst human-induced climate change."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "The Architects of Indian Climate",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "India's weather patterns are not random; they are sculpted by two massive geographical features: the **Himalayas** and the **Thar Desert**. Together, these two forces drive the economically and culturally pivotal summer and winter monsoons that define life across the subcontinent."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w4",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "The Himalayas",
+                            "entity_b": "The Thar Desert",
+                            "distinction": "The Himalayas block cold Central Asian katabatic winds from entering the subcontinent, whereas the Thar Desert attracts moisture-laden south-west summer monsoon winds."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "The Himalayas act as a colossal wall, preventing cold **Central Asian katabatic winds** from sweeping into the region. This natural barrier keeps the bulk of the Indian subcontinent significantly warmer than other locations at similar latitudes."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w5",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "The Himalayas act as a barrier.",
+                            "mechanism": "They prevent cold Central Asian katabatic winds from blowing into the region.",
+                            "outcome": "The bulk of the Indian subcontinent remains warmer than most locations at similar latitudes."
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_1_block_3"
+                    },
+                    {
+                        "block_id": "card_1_block_4",
+                        "block_type": "text",
+                        "text_content": "Beyond these primary drivers, the land is divided into four predominant climatic groupings that shape the environmental landscape."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w18",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Major Climatic Groupings in India",
+                            "intro_text": "India's climate is characterized by four predominant groupings that shape the region's environmental landscape.",
+                            "root": "Major Climatic Groupings",
+                            "branches": [
+                                {
+                                    "label": "Tropical Wet",
+                                    "emoji": "🌧️",
+                                    "definition": null
+                                },
+                                {
+                                    "label": "Tropical Dry",
+                                    "emoji": "☀️",
+                                    "definition": null
+                                },
+                                {
+                                    "label": "Subtropical Humid",
+                                    "emoji": "☁️",
+                                    "definition": null
+                                },
+                                {
+                                    "label": "Montane",
+                                    "emoji": "🏔️",
+                                    "definition": null
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_1_block_5"
+                    },
+                    {
+                        "block_id": "card_1_block_6",
+                        "block_type": "text",
+                        "text_content": "While these systems are stable, they are now facing unprecedented pressure from global warming."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "A Changing Environment",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "The evidence of climate change is stark. Between **1901 and 2018**, temperatures in India have risen by **0.7 degC (1.3 degF)**, a shift often attributed to human-induced climate change."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w19",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🌡️",
+                            "short_title": "1901-2018",
+                            "expanded_detail": "Temperatures in India rose by 0.7 degC (1.3 degF) during this period. This increase is often attributed to climate change.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This warming trend has led to the retreat of **Himalayan glaciers**, which has adversely affected the flow rate of critical rivers like the **Ganges** and the **Brahmaputra**."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w6",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Retreat of Himalayan glaciers",
+                            "mechanism": "Adverse effect on the flow rate of the major Himalayan rivers",
+                            "outcome": "Impacted flow of the Ganges and the Brahmaputra"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_2_block_3"
+                    },
+                    {
+                        "block_id": "card_2_block_4",
+                        "block_type": "text",
+                        "text_content": "The outlook for the future is concerning. Current projections suggest that the number and severity of **droughts** in India will markedly increase by the end of the present century."
+                    },
+                    {
+                        "block_id": "card_2_block_5",
+                        "block_type": "text",
+                        "text_content": "Despite these challenges, India remains one of the most biologically rich regions on Earth."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "A Megadiverse Nation",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "India is classified as a **megadiverse country**, a designation shared by only 17 nations worldwide. This means it hosts an extraordinary level of biological diversity and a high number of species found nowhere else."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w9",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "megadiverse country",
+                            "definition": "A term used for 17 countries that host high biological diversity and contain many species indigenous, or endemic, to them."
+                        },
+                        "source_notes_consumed": [
+                            "n8"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w20",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🌿",
+                            "short_title": "Megadiverse Country",
+                            "expanded_detail": "India is one of 17 megadiverse countries, a designation given to nations that host high biological diversity and contain many species indigenous or endemic to them.",
+                            "display_style": "editorial_callout"
+                        },
+                        "source_notes_consumed": [
+                            "n8"
+                        ],
+                        "block_id": "card_3_block_2"
+                    },
+                    {
+                        "block_id": "card_3_block_3",
+                        "block_type": "text",
+                        "text_content": "The sheer scale of this diversity is evident when looking at the percentage of the world's animal and plant species that call India home."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w0",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "Global Species Distribution in India",
+                            "context_text": "India is a megadiverse country, serving as a habitat for a significant percentage of the world's various animal and plant species.",
+                            "items": [
+                                {
+                                    "label": "Mammals",
+                                    "percentage": 8.6
+                                },
+                                {
+                                    "label": "Bird species",
+                                    "percentage": 13.7
+                                },
+                                {
+                                    "label": "Reptile species",
+                                    "percentage": 7.9
+                                },
+                                {
+                                    "label": "Amphibian species",
+                                    "percentage": 6.0
+                                },
+                                {
+                                    "label": "Fish species",
+                                    "percentage": 12.2
+                                },
+                                {
+                                    "label": "Flowering plant species",
+                                    "percentage": 6.0
+                                }
+                            ],
+                            "display_style": "radial_row"
+                        },
+                        "source_notes_consumed": [
+                            "n9"
+                        ],
+                        "block_id": "card_3_block_4"
+                    },
+                    {
+                        "block_id": "card_3_block_5",
+                        "block_type": "text",
+                        "text_content": "A key part of this diversity is **endemism**, where species are indigenous to a specific region and found nowhere else on Earth."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w10",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "endemic",
+                            "definition": "Species that are indigenous to a specific country or region."
+                        },
+                        "source_notes_consumed": [
+                            "n8"
+                        ],
+                        "block_id": "card_3_block_6"
+                    },
+                    {
+                        "block_id": "card_3_block_7",
+                        "block_type": "text",
+                        "text_content": "This is particularly true for India's flora. A significant portion of the country's plant life is endemic."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w1",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "Endemic Plant Species in India",
+                            "context_text": "India is a megadiverse country with a significant portion of its plant life found nowhere else on Earth.",
+                            "items": [
+                                {
+                                    "label": "Endemic Plant Species",
+                                    "percentage": 33.3
+                                }
+                            ],
+                            "display_style": "waffle_grid"
+                        },
+                        "source_notes_consumed": [
+                            "n10"
+                        ],
+                        "block_id": "card_3_block_8"
+                    },
+                    {
+                        "block_id": "card_3_block_9",
+                        "block_type": "text",
+                        "text_content": "However, these rich areas are often the most threatened."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "Hotspots and Habitats",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "India overlaps four of the world's 34 **biodiversity hotspots**. These are regions that exhibit high endemism but also suffer from significant habitat loss."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w11",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "biodiversity hotspots",
+                            "definition": "Regions that display significant habitat loss in the presence of high endemism."
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w21",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🌿",
+                            "short_title": "Biodiversity Hotspots",
+                            "expanded_detail": "India overlaps four of the world's 34 biodiversity hotspots. These regions are characterized by high endemism and significant habitat loss.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_4_block_2"
+                    },
+                    {
+                        "block_id": "card_4_block_3",
+                        "block_type": "text",
+                        "text_content": "Forests are the primary habitats for this diversity. India's most dense forests, including those in the **Western Ghats**, **Northeast India**, and the **Andaman Islands**, cover a small fraction of the total land area."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w2",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "India's Most Dense Forests",
+                            "context_text": "The most dense forests in India, including those in the Western Ghats and Northeast India, cover a small fraction of the total land area.",
+                            "items": [
+                                {
+                                    "label": "Most Dense Forests",
+                                    "percentage": 3.0
+                                }
+                            ],
+                            "display_style": "waffle_grid"
+                        },
+                        "source_notes_consumed": [
+                            "n12"
+                        ],
+                        "block_id": "card_4_block_4"
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w15",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Dense Forest Regions",
+                            "context_text": "India's most dense forests occupy approximately 3% of the country's land area.",
+                            "items": [
+                                "Tropical moist forest of the Andaman Islands",
+                                "The Western Ghats",
+                                "Northeast India"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n12"
+                        ],
+                        "block_id": "card_4_block_5"
+                    },
+                    {
+                        "block_id": "card_4_block_6",
+                        "block_type": "text",
+                        "text_content": "Moderately dense forests, characterized by a canopy density between 40% and 70%, are more widespread, predominating in the **Himalayas**, eastern India, and the central and southern regions."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w3",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "Moderately Dense Forest Coverage in India",
+                            "context_text": "Moderately dense forests, characterized by a canopy density between 40% and 70%, represent a significant portion of India's land area.",
+                            "items": [
+                                {
+                                    "label": "Moderately Dense Forests",
+                                    "percentage": 9.39
+                                }
+                            ],
+                            "display_style": "waffle_grid"
+                        },
+                        "source_notes_consumed": [
+                            "n13"
+                        ],
+                        "block_id": "card_4_block_7"
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w16",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Moderately Dense Forests",
+                            "context_text": "Moderately dense forests, characterized by a canopy density between 40% and 70%, occupy 9.39% of India's land area.",
+                            "items": [
+                                "Temperate coniferous forest of the Himalayas",
+                                "Moist deciduous sal forest of eastern India",
+                                "Dry deciduous teak forest of central and southern India"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n13"
+                        ],
+                        "block_id": "card_4_block_8"
+                    },
+                    {
+                        "block_id": "card_4_block_9",
+                        "block_type": "text",
+                        "text_content": "Beyond the dense canopies, India also possesses unique thorn forests, some of which have vanished from the landscape."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "Vanishing Landscapes",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "India has two natural zones of thorn forest: one in the **Deccan Plateau** and another in the western part of the **Indo-Gangetic plain**. In the latter, irrigation has turned the land into rich agricultural land, making the original forest features no longer visible."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w8",
+                        "block_type": "before_and_after",
+                        "before_and_after_data": {
+                            "entity": "Thorn forests of Punjab",
+                            "state_before": "Mingled with open grasslands",
+                            "catalyst": "The forests were extensively used for agriculture and cleared for human settlement.",
+                            "state_after": "Features no longer visible"
+                        },
+                        "source_notes_consumed": [
+                            "n14",
+                            "n21"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "Despite these changes, some indigenous trees remain culturally and medicinally significant. The astringent **neem** (*Azadirachta indica*) is widely used in herbal medicine, while the luxuriant **peepul** (*Ficus religiosa*) is linked to the Buddha's enlightenment."
+                    },
+                    {
+                        "block_id": "card_5_block_3",
+                        "block_type": "text",
+                        "text_content": "To understand why India's wildlife is so diverse, we have to look back millions of years."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "Evolutionary Roots",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "Many Indian species descended from those of **Gondwana**, the southern supercontinent from which India separated more than 100 million years ago. This ancient lineage is a foundation of the region's biodiversity."
+                    },
+                    {
+                        "block_id": "card_6_block_1",
+                        "block_type": "text",
+                        "text_content": "India's subsequent collision with Eurasia allowed mammals to enter from Asia through two zoogeographic passes flanking the **Himalayas**. This migration lowered the endemism of mammals (12.6%) compared to the reptiles (45.8%) and amphibians (55.8%)."
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "such as the vulnerable **hooded leaf monkey** and the threatened **Beddome's toad** of the Western Ghats."
+                    },
+                    {
+                        "block_id": "card_6_block_3",
+                        "block_type": "text",
+                        "text_content": "But this ancient biological heritage is now under severe threat."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "Species at Risk",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "India is home to 172 **IUCN-designated threatened animal species**, including the endangered **Bengal tiger** and the **Ganges river dolphin**."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w23",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🐅",
+                            "short_title": "Threatened Species",
+                            "expanded_detail": "India is home to 172 IUCN-designated threatened animal species, which accounts for 2.9% of all endangered forms. This critical list includes the endangered Bengal tiger and the Ganges river dolphin.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n19"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "The situation is even more dire for some. Species like the **gharial**, the **great Indian bustard**, and the **Indian white-rumped vulture** are now critically endangered."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w17",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Critically Endangered Species",
+                            "context_text": "India is home to several species that are currently classified as critically endangered.",
+                            "items": [
+                                "gharial",
+                                "great Indian bustard",
+                                "Indian white-rumped vulture"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n20"
+                        ],
+                        "block_id": "card_7_block_3"
+                    },
+                    {
+                        "block_id": "card_7_block_4",
+                        "block_type": "text",
+                        "text_content": "The decline of the white-rumped vulture is a cautionary tale of human impact. They became nearly extinct after ingesting the carrion of cattle treated with **diclofenac**."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w7",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Cattle are treated with diclofenac.",
+                            "mechanism": "Indian white-rumped vultures ingest the carrion of these treated cattle.",
+                            "outcome": "The Indian white-rumped vulture becomes nearly extinct."
+                        },
+                        "source_notes_consumed": [
+                            "n20"
+                        ],
+                        "block_id": "card_7_block_5"
+                    },
+                    {
+                        "block_id": "card_7_block_6",
+                        "block_type": "text",
+                        "text_content": "Other losses are already complete or severe. In Punjab, the **Asiatic cheetah** is now extinct, and the **blackbuck** is severely endangered."
+                    },
+                    {
+                        "block_id": "card_7_block_7",
+                        "block_type": "text",
+                        "text_content": "In response to these losses, India has established a comprehensive legal framework for conservation."
+                    }
+                ]
+            },
+            {
+                "card_id": 8,
+                "order_index": 7,
+                "parent_topic": "Climate and Biodiversity",
+                "created_at": "2026-05-20T20:01:20.773163+00:00",
+                "card_title": "Safeguarding the Wilderness",
+                "blocks": [
+                    {
+                        "block_id": "card_8_block_0",
+                        "block_type": "text",
+                        "text_content": "To protect essential wilderness, India enacted the **Wildlife Protection Act** and **Project Tiger** in 1972."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w12",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Wildlife Protection Act and Project Tiger",
+                            "section": "Excerpt",
+                            "plain_english_translation": "Enacted in 1972, these measures were established to protect and preserve essential wilderness areas in India."
+                        },
+                        "source_notes_consumed": [
+                            "n22"
+                        ],
+                        "block_id": "card_8_block_1"
+                    },
+                    {
+                        "block_id": "card_8_block_2",
+                        "block_type": "text",
+                        "text_content": " "
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w13",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Forest Conservation Act",
+                            "section": "Excerpt",
+                            "plain_english_translation": "Enacted in 1980 with amendments in 1988, this act was created to protect and safeguard crucial wilderness areas."
+                        },
+                        "source_notes_consumed": [
+                            "n22"
+                        ],
+                        "block_id": "card_8_block_3"
+                    },
+                    {
+                        "block_id": "card_8_block_4",
+                        "block_type": "text",
+                        "text_content": "India's commitment to conservation extends to its wetlands, with eighty-nine of them registered under the **Ramsar Convention**."
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w14",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Ramsar Convention",
+                            "section": "Excerpt",
+                            "plain_english_translation": "India has registered eighty-nine of its wetlands under this international treaty."
+                        },
+                        "source_notes_consumed": [
+                            "n23"
+                        ],
+                        "block_id": "card_8_block_5"
+                    },
+                    {
+                        "widget_id": "prebuilt_ClimateandBiodiversity_w22",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "💧",
+                            "short_title": "89",
+                            "expanded_detail": "India has 89 wetlands registered under the Ramsar Convention, reflecting its commitment to the conservation of these critical ecosystems.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n23"
+                        ],
+                        "block_id": "card_8_block_6"
+                    },
+                    {
+                        "block_id": "card_8_block_7",
+                        "block_type": "text",
+                        "text_content": "Through these laws and protected areas, India continues to struggle to balance the needs of a growing population with the preservation of its unique biological heritage."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "Which geographical feature blocks cold Central Asian katabatic winds?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The Himalayas",
+                    "isCorrect": true,
+                    "feedback": "The Himalayas act as a wall blocking cold Central Asian katabatic winds."
+                },
+                {
+                    "text": "The Thar Desert",
+                    "isCorrect": false,
+                    "feedback": "The Thar Desert attracts moisture-laden south-west summer monsoon winds."
+                },
+                {
+                    "text": "The Deccan Plateau",
+                    "isCorrect": false,
+                    "feedback": "The Deccan Plateau is a natural zone for thorn forests."
+                },
+                {
+                    "text": "The Western Ghats",
+                    "isCorrect": false,
+                    "feedback": "The Western Ghats are home to dense forests and endemic species."
+                },
+                {
+                    "text": "The Aravalli Range",
+                    "isCorrect": false,
+                    "feedback": "The Aravalli Range checks the eastern spread of the Thar Desert."
+                },
+                {
+                    "text": "The Indo-Gangetic Plain",
+                    "isCorrect": false,
+                    "feedback": "The Indo-Gangetic Plain is a crescent-shaped trough of river sediment."
+                },
+                {
+                    "text": "The Andaman Islands",
+                    "isCorrect": false,
+                    "feedback": "The Andaman Islands contain tropical moist forests."
+                },
+                {
+                    "text": "The Eastern Ghats",
+                    "isCorrect": false,
+                    "feedback": "The Eastern Ghats are coastal ranges flanking the Deccan Plateau."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How many nations worldwide are classified as megadiverse countries?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "17",
+                    "isCorrect": true,
+                    "feedback": "Only 17 nations worldwide share the megadiverse country designation."
+                },
+                {
+                    "text": "34",
+                    "isCorrect": false,
+                    "feedback": "There are 34 biodiversity hotspots globally, not 17 megadiverse countries."
+                },
+                {
+                    "text": "89",
+                    "isCorrect": false,
+                    "feedback": "India has 89 wetlands registered under the Ramsar Convention."
+                },
+                {
+                    "text": "12",
+                    "isCorrect": false,
+                    "feedback": "12 is not a mentioned count for megadiverse nations."
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false,
+                    "feedback": "20 is not a mentioned count for megadiverse nations."
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false,
+                    "feedback": "15 is not a mentioned count for megadiverse nations."
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false,
+                    "feedback": "10 is not a mentioned count for megadiverse nations."
+                },
+                {
+                    "text": "5",
+                    "isCorrect": false,
+                    "feedback": "5 is not a mentioned count for megadiverse nations."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What percentage of Indian plant species are endemic?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "33.3%",
+                    "isCorrect": true,
+                    "feedback": "Exactly 33.3% of India's plant species are endemic."
+                },
+                {
+                    "text": "13.7%",
+                    "isCorrect": false,
+                    "feedback": "13.7% refers to the percentage of global bird species in India."
+                },
+                {
+                    "text": "12.2%",
+                    "isCorrect": false,
+                    "feedback": "12.2% refers to the percentage of global fish species in India."
+                },
+                {
+                    "text": "8.6%",
+                    "isCorrect": false,
+                    "feedback": "8.6% refers to the percentage of global mammals in India."
+                },
+                {
+                    "text": "7.9%",
+                    "isCorrect": false,
+                    "feedback": "7.9% refers to the percentage of global reptile species in India."
+                },
+                {
+                    "text": "6.0%",
+                    "isCorrect": false,
+                    "feedback": "6.0% refers to global amphibian and flowering plant species."
+                },
+                {
+                    "text": "9.39%",
+                    "isCorrect": false,
+                    "feedback": "9.39% is the coverage of moderately dense forests."
+                },
+                {
+                    "text": "3.0%",
+                    "isCorrect": false,
+                    "feedback": "3.0% is the coverage of the most dense forests."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which drug caused the near extinction of white-rumped vultures?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Diclofenac",
+                    "isCorrect": true,
+                    "feedback": "Vultures ingested carrion of cattle treated with diclofenac, leading to decline."
+                },
+                {
+                    "text": "Neem",
+                    "isCorrect": false,
+                    "feedback": "Neem is an astringent tree used in herbal medicine."
+                },
+                {
+                    "text": "Peepul",
+                    "isCorrect": false,
+                    "feedback": "Peepul is a tree linked to Buddha's enlightenment."
+                },
+                {
+                    "text": "Salgut",
+                    "isCorrect": false,
+                    "feedback": "Salgut is not a mentioned drug in the text."
+                },
+                {
+                    "text": "Atropine",
+                    "isCorrect": false,
+                    "feedback": "Atropine is not a mentioned drug in the text."
+                },
+                {
+                    "text": "Morphine",
+                    "isCorrect": false,
+                    "feedback": "Morphine is not a mentioned drug in the text."
+                },
+                {
+                    "text": "Quinine",
+                    "isCorrect": false,
+                    "feedback": "Quinine is not a mentioned drug in the text."
+                },
+                {
+                    "text": "Insulin",
+                    "isCorrect": false,
+                    "feedback": "Insulin is not a mentioned drug in the text."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In what year were the Wildlife Protection Act and Project Tiger enacted?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "1972",
+                    "isCorrect": true,
+                    "feedback": "The Wildlife Protection Act and Project Tiger were enacted in 1972."
+                },
+                {
+                    "text": "1980",
+                    "isCorrect": false,
+                    "feedback": "The Forest Conservation Act was enacted in 1980."
+                },
+                {
+                    "text": "1988",
+                    "isCorrect": false,
+                    "feedback": "The Forest Conservation Act was amended in 1988."
+                },
+                {
+                    "text": "1935",
+                    "isCorrect": false,
+                    "feedback": "National parks were first established in 1935."
+                },
+                {
+                    "text": "1950",
+                    "isCorrect": false,
+                    "feedback": "1950 is not a mentioned enactment date for these acts."
+                },
+                {
+                    "text": "1960",
+                    "isCorrect": false,
+                    "feedback": "1960 is not a mentioned enactment date for these acts."
+                },
+                {
+                    "text": "1965",
+                    "isCorrect": false,
+                    "feedback": "1965 is not a mentioned enactment date for these acts."
+                },
+                {
+                    "text": "1970",
+                    "isCorrect": false,
+                    "feedback": "1970 is not a mentioned enactment date for these acts."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which supercontinent is the ancestor of many Indian species?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Gondwana",
+                    "isCorrect": true,
+                    "feedback": "Many Indian species descended from the southern supercontinent Gondwana."
+                },
+                {
+                    "text": "Pangaea",
+                    "isCorrect": false,
+                    "feedback": "Pangaea is not mentioned as the source of Indian species."
+                },
+                {
+                    "text": "Laurasia",
+                    "isCorrect": false,
+                    "feedback": "Laurasia is not mentioned as the source of Indian species."
+                },
+                {
+                    "text": "Eurasia",
+                    "isCorrect": false,
+                    "feedback": "Eurasia is where India collided, allowing Asian mammal migration."
+                },
+                {
+                    "text": "Tethys",
+                    "isCorrect": false,
+                    "feedback": "Tethys refers to the oceanic crust that subducted."
+                },
+                {
+                    "text": "Rodinia",
+                    "isCorrect": false,
+                    "feedback": "Rodinia is not mentioned as the source of Indian species."
+                },
+                {
+                    "text": "Columbia",
+                    "isCorrect": false,
+                    "feedback": "Columbia is not mentioned as the source of Indian species."
+                },
+                {
+                    "text": "Atlantica",
+                    "isCorrect": false,
+                    "feedback": "Atlantica is not mentioned as the source of Indian species."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How many wetlands are registered under the Ramsar Convention?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "89",
+                    "isCorrect": true,
+                    "feedback": "India has registered eighty-nine of its wetlands under the Ramsar Convention."
+                },
+                {
+                    "text": "34",
+                    "isCorrect": false,
+                    "feedback": "34 is the total number of global biodiversity hotspots."
+                },
+                {
+                    "text": "17",
+                    "isCorrect": false,
+                    "feedback": "17 is the number of global megadiverse countries."
+                },
+                {
+                    "text": "172",
+                    "isCorrect": false,
+                    "feedback": "172 is the number of IUCN-designated threatened animal species."
+                },
+                {
+                    "text": "100",
+                    "isCorrect": false,
+                    "feedback": "100 is not a mentioned count for wetlands."
+                },
+                {
+                    "text": "50",
+                    "isCorrect": false,
+                    "feedback": "50 is not a mentioned count for wetlands."
+                },
+                {
+                    "text": "25",
+                    "isCorrect": false,
+                    "feedback": "25 is not a mentioned count for wetlands."
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false,
+                    "feedback": "10 is not a mentioned count for wetlands."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The Himalayas block cold ____ winds from entering the subcontinent.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Central Asian katabatic",
+                    "isCorrect": true,
+                    "feedback": "The Himalayas block cold Central Asian katabatic winds."
+                },
+                {
+                    "text": "South-west monsoon",
+                    "isCorrect": false,
+                    "feedback": "South-west monsoon winds bring moisture, not cold katabatic winds."
+                },
+                {
+                    "text": "North-east monsoon",
+                    "isCorrect": false,
+                    "feedback": "North-east monsoon winds are not the primary cold winds blocked."
+                },
+                {
+                    "text": "Tropical wet",
+                    "isCorrect": false,
+                    "feedback": "Tropical wet is a climatic grouping, not a wind type."
+                },
+                {
+                    "text": "Subtropical humid",
+                    "isCorrect": false,
+                    "feedback": "Subtropical humid is a climatic grouping, not a wind type."
+                },
+                {
+                    "text": "Montane",
+                    "isCorrect": false,
+                    "feedback": "Montane is a climatic grouping, not a wind type."
+                },
+                {
+                    "text": "Tropical dry",
+                    "isCorrect": false,
+                    "feedback": "Tropical dry is a climatic grouping, not a wind type."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "India is one of ____ megadiverse countries worldwide.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "17",
+                    "isCorrect": true,
+                    "feedback": "India is one of only 17 megadiverse countries."
+                },
+                {
+                    "text": "34",
+                    "isCorrect": false,
+                    "feedback": "There are 34 biodiversity hotspots, not 17 megadiverse countries."
+                },
+                {
+                    "text": "89",
+                    "isCorrect": false,
+                    "feedback": "India has 89 wetlands registered under the Ramsar Convention."
+                },
+                {
+                    "text": "172",
+                    "isCorrect": false,
+                    "feedback": "India has 172 IUCN-designated threatened animal species."
+                },
+                {
+                    "text": "4",
+                    "isCorrect": false,
+                    "feedback": "India overlaps four biodiversity hotspots."
+                },
+                {
+                    "text": "12",
+                    "isCorrect": false,
+                    "feedback": "12 is not a count of megadiverse countries."
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false,
+                    "feedback": "20 is not a count of megadiverse countries."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "____ are regions with high endemism but significant habitat loss.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Biodiversity hotspots",
+                    "isCorrect": true,
+                    "feedback": "Biodiversity hotspots exhibit high endemism and significant habitat loss."
+                },
+                {
+                    "text": "Megadiverse countries",
+                    "isCorrect": false,
+                    "feedback": "Megadiverse countries host high biological diversity overall."
+                },
+                {
+                    "text": "Thorn forests",
+                    "isCorrect": false,
+                    "feedback": "Thorn forests are a specific forest type, not a hotspot."
+                },
+                {
+                    "text": "Dense forests",
+                    "isCorrect": false,
+                    "feedback": "Dense forests are primary habitats for diversity."
+                },
+                {
+                    "text": "Ramsar wetlands",
+                    "isCorrect": false,
+                    "feedback": "Ramsar wetlands are protected wetland ecosystems."
+                },
+                {
+                    "text": "Montane regions",
+                    "isCorrect": false,
+                    "feedback": "Montane regions are a climatic grouping."
+                },
+                {
+                    "text": "Tropical wet",
+                    "isCorrect": false,
+                    "feedback": "Tropical wet is a climatic grouping."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ is used in herbal medicine and is astringent.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "neem",
+                    "isCorrect": true,
+                    "feedback": "The astringent neem is widely used in herbal medicine."
+                },
+                {
+                    "text": "peepul",
+                    "isCorrect": false,
+                    "feedback": "The peepul is linked to Buddha's enlightenment."
+                },
+                {
+                    "text": "sal",
+                    "isCorrect": false,
+                    "feedback": "Sal is found in moist deciduous forests."
+                },
+                {
+                    "text": "teak",
+                    "isCorrect": false,
+                    "feedback": "Himalayan teak is found in dry deciduous forests."
+                },
+                {
+                    "text": "coniferous",
+                    "isCorrect": false,
+                    "feedback": "Coniferous trees are found in the Himalayas."
+                },
+                {
+                    "text": "mangrove",
+                    "isCorrect": false,
+                    "feedback": "Mangroves are not mentioned as medicinal trees."
+                },
+                {
+                    "text": "banyan",
+                    "isCorrect": false,
+                    "feedback": "Banyan is not mentioned as a medicinal tree."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Many Indian species descended from the southern supercontinent ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Gondwana",
+                    "isCorrect": true,
+                    "feedback": "Many Indian species descended from the supercontinent Gondwana."
+                },
+                {
+                    "text": "Eurasia",
+                    "isCorrect": false,
+                    "feedback": "India collided with Eurasia, but didn't descend from it."
+                },
+                {
+                    "text": "Pangaea",
+                    "isCorrect": false,
+                    "feedback": "Pangaea is not mentioned in the source text."
+                },
+                {
+                    "text": "Tethys",
+                    "isCorrect": false,
+                    "feedback": "Tethys refers to the oceanic crust, not a supercontinent."
+                },
+                {
+                    "text": "Laurasia",
+                    "isCorrect": false,
+                    "feedback": "Laurasia is not mentioned in the source text."
+                },
+                {
+                    "text": "Indo-Australian",
+                    "isCorrect": false,
+                    "feedback": "Indo-Australian is a tectonic plate, not a supercontinent."
+                },
+                {
+                    "text": "Tibet",
+                    "isCorrect": false,
+                    "feedback": "Tibet is a landmass, not a supercontinent."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ is a critically endangered crocodilian in India.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "gharial",
+                    "isCorrect": true,
+                    "feedback": "The gharial is a critically endangered crocodilian."
+                },
+                {
+                    "text": "Bengal tiger",
+                    "isCorrect": false,
+                    "feedback": "The Bengal tiger is listed as endangered."
+                },
+                {
+                    "text": "Ganges dolphin",
+                    "isCorrect": false,
+                    "feedback": "The Ganges river dolphin is listed as endangered."
+                },
+                {
+                    "text": "blackbuck",
+                    "isCorrect": false,
+                    "feedback": "The blackbuck is severely endangered."
+                },
+                {
+                    "text": "Asiatic cheetah",
+                    "isCorrect": false,
+                    "feedback": "The Asiatic cheetah is extinct in Punjab."
+                },
+                {
+                    "text": "Beddome's toad",
+                    "isCorrect": false,
+                    "feedback": "Beddome's toad is threatened."
+                },
+                {
+                    "text": "hooded leaf monkey",
+                    "isCorrect": false,
+                    "feedback": "The hooded leaf monkey is vulnerable."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "India registered 89 wetlands under the ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Ramsar Convention",
+                    "isCorrect": true,
+                    "feedback": "India has 89 wetlands registered under the Ramsar Convention."
+                },
+                {
+                    "text": "Wildlife Protection Act",
+                    "isCorrect": false,
+                    "feedback": "The Wildlife Protection Act protects general wilderness."
+                },
+                {
+                    "text": "Project Tiger",
+                    "isCorrect": false,
+                    "feedback": "Project Tiger specifically targets tiger conservation."
+                },
+                {
+                    "text": "Forest Conservation Act",
+                    "isCorrect": false,
+                    "feedback": "The Forest Conservation Act safeguards wilderness areas."
+                },
+                {
+                    "text": "IUCN",
+                    "isCorrect": false,
+                    "feedback": "IUCN designates threatened species."
+                },
+                {
+                    "text": "CITES",
+                    "isCorrect": false,
+                    "feedback": "CITES is not mentioned in the source text."
+                },
+                {
+                    "text": "UNESCO",
+                    "isCorrect": false,
+                    "feedback": "UNESCO is not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the role of the Himalayas in India's climate?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Blocks cold Asian winds",
+                    "isCorrect": true,
+                    "feedback": "The Himalayas prevent cold Central Asian katabatic winds from entering."
+                },
+                {
+                    "text": "Attracts summer monsoon winds",
+                    "isCorrect": false,
+                    "feedback": "The Thar Desert, not the Himalayas, attracts these winds."
+                },
+                {
+                    "text": "Creates tropical wet zones",
+                    "isCorrect": false,
+                    "feedback": "The Himalayas are associated with montane climatic groupings."
+                },
+                {
+                    "text": "Increases winter rainfall",
+                    "isCorrect": false,
+                    "feedback": "The Himalayas act as a barrier to cold winds, not rainfall."
+                },
+                {
+                    "text": "Drives the winter monsoon",
+                    "isCorrect": false,
+                    "feedback": "Both Himalayas and Thar Desert drive monsoons together."
+                },
+                {
+                    "text": "Prevents all katabatic winds",
+                    "isCorrect": false,
+                    "feedback": "Specifically, it blocks Central Asian katabatic winds."
+                },
+                {
+                    "text": "Lowers subcontinent temperatures",
+                    "isCorrect": false,
+                    "feedback": "The barrier actually keeps the subcontinent warmer."
+                },
+                {
+                    "text": "Controls the Deccan Plateau",
+                    "isCorrect": false,
+                    "feedback": "The Himalayas are in the north, far from the Deccan."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes India's status as a megadiverse country?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "High diversity and endemism",
+                    "isCorrect": true,
+                    "feedback": "Megadiverse nations host high biological diversity and many endemic species."
+                },
+                {
+                    "text": "Contains all 34 hotspots",
+                    "isCorrect": false,
+                    "feedback": "India overlaps only four of the world's 34 hotspots."
+                },
+                {
+                    "text": "Only 17 nations total",
+                    "isCorrect": false,
+                    "feedback": "It is one of 17 nations with this designation."
+                },
+                {
+                    "text": "Zero habitat loss",
+                    "isCorrect": false,
+                    "feedback": "Biodiversity hotspots specifically suffer from significant habitat loss."
+                },
+                {
+                    "text": "Purely indigenous mammals",
+                    "isCorrect": false,
+                    "feedback": "Mammal endemism is lower due to Asian migrations."
+                },
+                {
+                    "text": "Global species center",
+                    "isCorrect": false,
+                    "feedback": "It hosts a percentage of global species, not all."
+                },
+                {
+                    "text": "Exclusive plant endemism",
+                    "isCorrect": false,
+                    "feedback": "Endemism applies to animals and plants, not just plants."
+                },
+                {
+                    "text": "Total forest coverage",
+                    "isCorrect": false,
+                    "feedback": "Dense forests cover only a small fraction of land."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the nature of biodiversity hotspots?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "High endemism, high loss",
+                    "isCorrect": true,
+                    "feedback": "Hotspots exhibit high endemism but suffer significant habitat loss."
+                },
+                {
+                    "text": "Low endemism, high loss",
+                    "isCorrect": false,
+                    "feedback": "Hotspots must have high endemism to be classified as such."
+                },
+                {
+                    "text": "High endemism, no loss",
+                    "isCorrect": false,
+                    "feedback": "Hotspots are defined by the presence of significant habitat loss."
+                },
+                {
+                    "text": "Low endemism, no loss",
+                    "isCorrect": false,
+                    "feedback": "Hotspots require both high endemism and significant loss."
+                },
+                {
+                    "text": "Only found in forests",
+                    "isCorrect": false,
+                    "feedback": "Hotspots are regions, not limited to a single habitat."
+                },
+                {
+                    "text": "Protected from human impact",
+                    "isCorrect": false,
+                    "feedback": "Hotspots are specifically threatened by habitat loss."
+                },
+                {
+                    "text": "Exclusive to India",
+                    "isCorrect": false,
+                    "feedback": "There are 34 hotspots worldwide; India has four."
+                },
+                {
+                    "text": "Stable biological environments",
+                    "isCorrect": false,
+                    "feedback": "Hotspots are characterized by their threatened status."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the impact of climate change on rivers?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Glacial retreat affects flow",
+                    "isCorrect": true,
+                    "feedback": "Himalayan glacier retreat adversely affects Ganges and Brahmaputra flow."
+                },
+                {
+                    "text": "Increases river volume",
+                    "isCorrect": false,
+                    "feedback": "Glacial retreat adversely affects flow, not necessarily increasing it."
+                },
+                {
+                    "text": "Stops all river flow",
+                    "isCorrect": false,
+                    "feedback": "It affects the flow rate, not stops it entirely."
+                },
+                {
+                    "text": "Creates new glaciers",
+                    "isCorrect": false,
+                    "feedback": "Global warming causes glaciers to retreat, not form."
+                },
+                {
+                    "text": "Eliminates river silt",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention silt in relation to climate change."
+                },
+                {
+                    "text": "Prevents monsoon rainfall",
+                    "isCorrect": false,
+                    "feedback": "Climate change affects glaciers, not the monsoon's existence."
+                },
+                {
+                    "text": "Stabilizes river levels",
+                    "isCorrect": false,
+                    "feedback": "The retreat of glaciers makes flow rates unstable."
+                },
+                {
+                    "text": "Increases river temperature",
+                    "isCorrect": false,
+                    "feedback": "The text focuses on flow rate, not water temperature."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the endemism of Indian mammals?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Lowered by Asian migration",
+                    "isCorrect": true,
+                    "feedback": "Collision with Eurasia allowed mammals to enter, lowering their endemism."
+                },
+                {
+                    "text": "Higher than amphibians",
+                    "isCorrect": false,
+                    "feedback": "Mammal endemism (12.6%) is lower than amphibians (55.8%)."
+                },
+                {
+                    "text": "Higher than reptiles",
+                    "isCorrect": false,
+                    "feedback": "Mammal endemism (12.6%) is lower than reptiles (45.8%)."
+                },
+                {
+                    "text": "Purely Gondwanan origin",
+                    "isCorrect": false,
+                    "feedback": "Asian migration added new mammal species to the region."
+                },
+                {
+                    "text": "Highest among vertebrates",
+                    "isCorrect": false,
+                    "feedback": "Amphibians have the highest endemism at 55.8%."
+                },
+                {
+                    "text": "Unchanged by Eurasia",
+                    "isCorrect": false,
+                    "feedback": "The collision with Eurasia directly lowered mammal endemism."
+                },
+                {
+                    "text": "Equal to reptile rates",
+                    "isCorrect": false,
+                    "feedback": "Mammals are 12.6%, while reptiles are 45.8%."
+                },
+                {
+                    "text": "Driven by thorn forests",
+                    "isCorrect": false,
+                    "feedback": "Endemism was driven by Gondwana and Eurasian migration."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the loss of Punjab's thorn forests?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Converted to agriculture",
+                    "isCorrect": true,
+                    "feedback": "Irrigation turned these forests into rich agricultural land."
+                },
+                {
+                    "text": "Destroyed by glaciers",
+                    "isCorrect": false,
+                    "feedback": "Glaciers are in the Himalayas, not the Punjab plains."
+                },
+                {
+                    "text": "Lost to urban sprawl",
+                    "isCorrect": false,
+                    "feedback": "The text specifies irrigation and agriculture as the cause."
+                },
+                {
+                    "text": "Wiped out by droughts",
+                    "isCorrect": false,
+                    "feedback": "Irrigation actually provided the water that enabled agriculture."
+                },
+                {
+                    "text": "Replaced by dense forests",
+                    "isCorrect": false,
+                    "feedback": "They were replaced by agricultural land, not forests."
+                },
+                {
+                    "text": "Erased by monsoons",
+                    "isCorrect": false,
+                    "feedback": "Monsoons provide rain; irrigation caused the land change."
+                },
+                {
+                    "text": "Lost to volcanic activity",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of volcanic activity in Punjab."
+                },
+                {
+                    "text": "Destroyed by diclofenac",
+                    "isCorrect": false,
+                    "feedback": "Diclofenac affected vultures, not thorn forests."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the cause of vulture decline?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Ingesting diclofenac carrion",
+                    "isCorrect": true,
+                    "feedback": "Vultures became nearly extinct after eating cattle treated with diclofenac."
+                },
+                {
+                    "text": "Loss of thorn forests",
+                    "isCorrect": false,
+                    "feedback": "Thorn forest loss affected cheetahs and blackbuck."
+                },
+                {
+                    "text": "Himalayan glacial retreat",
+                    "isCorrect": false,
+                    "feedback": "Glacial retreat affects river flow, not vultures."
+                },
+                {
+                    "text": "Direct human hunting",
+                    "isCorrect": false,
+                    "feedback": "The cause was indirect ingestion of a veterinary drug."
+                },
+                {
+                    "text": "Loss of prey species",
+                    "isCorrect": false,
+                    "feedback": "They ate carrion, which was contaminated by diclofenac."
+                },
+                {
+                    "text": "Climate change warming",
+                    "isCorrect": false,
+                    "feedback": "The decline was caused by a specific chemical, not temperature."
+                },
+                {
+                    "text": "Ramsar wetland loss",
+                    "isCorrect": false,
+                    "feedback": "Vultures are not linked to wetlands in the text."
+                },
+                {
+                    "text": "Asian mammal migration",
+                    "isCorrect": false,
+                    "feedback": "Migration happened millions of years ago, not recently."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        }
+    ]
+}

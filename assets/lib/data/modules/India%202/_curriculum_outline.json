@@ -1,0 +1,106 @@
+{
+    "main_topic": "India",
+    "extracted_topics_and_scope": [
+        {
+            "title": "Etymology and Names of India",
+            "focus": "English proper noun 'India', Classical Latin India, Hellenistic Greek India, Ancient Greek Indos, Achaemenian Old Persian Hindu, Sanskrit Sindhu, Indoi, Bharat, Bharatavarsha, Hindustan, Middle Persian origin, Mughal Empire usage"
+        },
+        {
+            "title": "Ancient India: Early Humans and the Indus Valley Civilisation",
+            "focus": "Homo sapiens arrival from Africa (80,000-50,000 years ago), genetic diversity, Neolithic period at Mehrgarh, domestication of barley and zebu cattle, Indus Valley Civilisation (2500-1900 BCE), Mohenjo-daro, Harappa, Dholavira, Ganweriwala, Rakhigarhi, standardised weights, steatite seals, written script, urban planning, public works, pottery, terracotta figures"
+        },
+        {
+            "title": "The Vedic Period and Early Sanskrit",
+            "focus": "Archaic Sanskrit diffusion (1500-1200 BCE), Rig Veda, Indo-Aryan migration, settlement of Ganges river plain, deforestation, iron implements, Dravidian language supplantation, Classical Sanskrit, Panini's Astadhyayi, Epic Sanskrit, Mahabharata, Ramayana"
+        },
+        {
+            "title": "Rise of New Religions and the Maurya Empire",
+            "focus": "Second urbanisation on Ganges plain, varna (caste) system, Jainism (Mahavira), Buddhism (the Buddha), non-violence, Maurya Empire, Ashoka (268-232 BCE), Kalinga conquest, policy of dhamma, rock and pillar edicts, environmental ethos"
+        },
+        {
+            "title": "The Gupta Empire and South Indian Kingdoms",
+            "focus": "Gupta Empire administration and taxation, renewed Hinduism (devotion), flowering of art, literature, and science, Sangam literature, Cheras, Cholas, Pandyas, Kaveri and Vaigai river valleys, Pallavas, Bhakti movement, trade with Roman Empire and Southeast Asia"
+        },
+        {
+            "title": "Medieval India: Regional Kingdoms and Islamic Influence",
+            "focus": "Early medieval age (600-1200 CE), regional kingdoms, caste society evolution, Tamil devotional hymns, temple towns, export of culture to Southeast Asia (Myanmar, Thailand, Laos, Brunei, Cambodia, Vietnam, Philippines, Malaysia, Indonesia), Muslim Central Asian nomadic clans, Delhi Sultanate (1206), Indo-Islamic culture, Vijayanagara Empire, Shaivite tradition"
+        },
+        {
+            "title": "The Mughal Empire",
+            "focus": "Mughal Empire establishment, administrative practices, Akbar, Persianised culture, economic policies, silver currency, patronage of painting, textiles, and architecture, Marathas, Rajputs, Sikhs, decentralisation of imperial authority"
+        },
+        {
+            "title": "Colonial India: The East India Company and British Crown Rule",
+            "focus": "English East India Company, coastal outposts, control of Bengal (1765), transition to colonial economy (raw materials), Lord Dalhousie, railways, canals, telegraph, Indian Rebellion of 1857, British Crown rule (1858), Indian National Congress (1885), commercialisation of agriculture, famines"
+        },
+        {
+            "title": "The Path to Independence and Partition",
+            "focus": "World War I participation, Gandhian era, Mahatma Gandhi, non-violent non-co-operation, legislative reforms, World War II, Muslim nationalism, independence (1947), partition into India and Pakistan, migration and loss of life"
+        },
+        {
+            "title": "Modern India: Government and Politics",
+            "focus": "Federal republic (1950), democratic parliamentary system, Constitution of India, Constituent Assembly, Government of India Act 1935, Lok Sabha, Rajya Sabha, President, Prime Minister, Union Council of Ministers, three-tier independent judiciary, Supreme Court, 28 states and 8 union territories, States Reorganisation Act (1956)"
+        },
+        {
+            "title": "Political History of Independent India",
+            "focus": "Jawaharlal Nehru, Lal Bahadur Shastri, Indira Gandhi, state of emergency (1975), Janata Party, Rajiv Gandhi, P. V. Narasimha Rao, BJP, Atal Bihari Vajpayee, Manmohan Singh, Narendra Modi, National Democratic Alliance (NDA), United Progressive Alliance (UPA)"
+        },
+        {
+            "title": "India's Foreign Relations and Nuclear Policy",
+            "focus": "Commonwealth of Nations, Non-Aligned Movement, 1962 war with China, relations with Pakistan (1947, 1965, 1971, 1999), Kashmir dispute, Soviet Union ties, nuclear weapons tests (1974, 1998), 'no first use' policy, Minimum Credible Deterrence, US-India civilian nuclear agreement (2008)"
+        },
+        {
+            "title": "The Indian Economy: Growth and Liberalisation",
+            "focus": "GDP ranking (6th largest), Purchasing Power Parity (PPP), protectionist policies, 1991 balance of payments crisis, economic liberalisation, free-market system, World Trade Organization (1995), service sector, industrial sector, agricultural sector, foreign exchange remittances"
+        },
+        {
+            "title": "Key Industries of India",
+            "focus": "Automotive industry, IT industry, pharmaceutical industry (generic medicines, vaccines), biotech industry, electrical power generation, renewable energy, greenhouse gas emissions"
+        },
+        {
+            "title": "Demographics and Social Issues",
+            "focus": "Population size (1.4 billion), median age, Green Revolution, life expectancy, under-five mortality, human sex ratio, female infanticide/foeticide, rural-to-urban migration, major urban agglomerations (Mumbai, Delhi, Kolkata, Chennai, Bengaluru, Hyderabad, Ahmedabad)"
+        },
+        {
+            "title": "Languages and Religion in India",
+            "focus": "Language families, official language debate, Hindi, English as associate official language, Eighth Schedule (22 scheduled languages), Hinduism (79.8%), Islam (14.2%), Christianity (2.3%), Sikhism (1.7%), Buddhism (0.7%), Jainism (0.4%), secular state, freedom of religion"
+        },
+        {
+            "title": "Education and Public Health",
+            "focus": "Literacy rates (gender and rural-urban gaps), Kerala vs Bihar, education system size, affirmative action, tuberculosis rates, chronic obstructive pulmonary disease, air pollution, WHO safety guidelines"
+        },
+        {
+            "title": "Indian Society and the Caste System",
+            "focus": "Varnas (Brahmin, Kshatriya, Vaishya, Shudra), Dalits/Scheduled Castes, jatis, endogamy, patrilineal joint families, arranged marriages, child marriage, territorial exogamy, raksha bandhan"
+        },
+        {
+            "title": "Visual Arts and Sculpture",
+            "focus": "Indus Valley seals (Pashupati seal), Mauryan art, prana (life-force), Buddhist stupas (Sanchi, Sarnath, Amaravati), rock-cut reliefs (Ajanta, Karla, Ellora), Gupta art, Pallava and Chola bronzes (Shiva as Nataraja), Ajanta Caves paintings, Mughal miniatures, Company painting, Kalighat paintings, Bengal School of Art"
+        },
+        {
+            "title": "Indian Mathematics and Science",
+            "focus": "Sulba Sutras, Pythagorean theorem, Bakhshali manuscript, classical period (400-1200 CE), Aryabhata, Brahmagupta, Bhaskara II, Varahamihira, Madhava, decimal number system, zero, negative numbers, trigonometry (sine, cosine), Kerala school power series, Srinivasa Ramanujan"
+        },
+        {
+            "title": "Performing Arts: Music, Dance, and Cinema",
+            "focus": "Hindustani vs Carnatic music, raga, tala, Filmi music, classical dance (Bharatnatyam, Rukmini Devi Arundale, Thanjavur Balasaraswati), Chhau, Yakshagana, Raslila, Terukkuttu, Bhangra, Garba, Adivasi dances, Uday Shankar, Bollywood"
+        },
+        {
+            "title": "Traditional Clothing and Cuisine",
+            "focus": "Sari, dhoti, choli, stitched clothes (Delhi Sultanate/Mughal influence), shalwar kameez, kurta, churidars, bandhgala, sherwanis, Nehru jackets, cereal foundations (rice, chapati, idli, dosa), spices (ginger, garlic, coriander, cumin, turmeric), Mughal influence (pilaf, biryani), Punjabi cuisine, tandoori chicken"
+        },
+        {
+            "title": "Sports and Traditional Pastimes",
+            "focus": "Kabaddi, kho kho, pehlwani, gilli-danda, Kalarippayattu, marma adi, Chess (chaturanga), Viswanathan Anand, Parcheesi (Pachisi), Cricket, Field Hockey"
+        },
+        {
+            "title": "Geography and Geology of India",
+            "focus": "Indian tectonic plate, Gondwana, Himalayas orogeny, Indo-Gangetic Plain, Aravalli range, Thar Desert, Peninsular India, Satpura and Vindhya ranges, Chota Nagpur Plateau, Deccan Plateau, Western and Eastern Ghats, coordinates, major rivers (Ganges, Brahmaputra, Yamuna, Kosi, Godavari, Mahanadi, Kaveri, Krishna, Narmada, Tapti), coastline, Rann of Kutch, Sundarbans delta, Lakshadweep, Andaman and Nicobar Islands"
+        },
+        {
+            "title": "Climate and Biodiversity",
+            "focus": "Himalayas and Thar Desert influence, summer and winter monsoons, climatic groupings (tropical wet, tropical dry, subtropical humid, montane), climate change, Himalayan glacier retreat, megadiverse country, endemic species, biodiversity hotspots, forest types (tropical moist, temperate coniferous, moist deciduous, dry deciduous, thorn forest), neem, peepul, Gondwana species, IUCN threatened species (Bengal tiger, Ganges river dolphin, gharial, great Indian bustard, white-rumped vulture, blackbuck, Asiatic cheetah), Wildlife Protection Act (1972), Project Tiger, Forest Conservation Act (1980), Ramsar Convention"
+        }
+    ],
+    "pipeline_errors": []
+}

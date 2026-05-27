@@ -1,0 +1,86 @@
+{
+    "main_topic": "Canada",
+    "extracted_topics_and_scope": [
+        {
+            "title": "Etymology and the Naming of Canada",
+            "focus": "St. Lawrence Iroquoian word 'kanata' (village/settlement), Jacques Cartier's 1535 exploration, Stadacona, Donnacona, evolution of the term 'Canada' from 1545 to 1867, British Province of Quebec (1763-1791), Upper and Lower Canada, Province of Canada (1841), Confederation (1867), the term 'dominion', London Declaration of 1949, Prime Minister Louis St. Laurent's 1951 announcement, Statute of Westminster 1931, Canada Act 1982, change from Dominion Day to Canada Day"
+        },
+        {
+            "title": "Indigenous Peoples of Canada",
+            "focus": "Bering land bridge migration (14,000 years ago), Paleo-Indian sites (Old Crow Flats, Bluefish Caves), First Nations, Inuit, Metis (mixed descent), population estimates (200,000 to 2 million), impact of European colonization (diseases, fur trade conflicts, land loss), role of coureurs des bois and voyageurs, assimilation policies, 2008 reconciliation commission, cultural genocide, missing and murdered Indigenous women"
+        },
+        {
+            "title": "European Colonization and Early Settlements",
+            "focus": "Leif Erikson and L'Anse aux Meadows (1000 AD), John Cabot (1497), Jacques Cartier (1534), New France, Basque and Portuguese fishing outposts, Sir Humphrey Gilbert and St John's (1583), Samuel de Champlain (Port Royal 1605, Quebec City 1608), Canadiens and Acadians, Beaver Wars, Treaty of Utrecht (1713), Seven Years' War, British rule (1763)"
+        },
+        {
+            "title": "British North America and the Path to Confederation",
+            "focus": "Royal Proclamation of 1763, Province of Quebec, Quebec Act 1774 (French language, Catholic faith, civil law), Treaty of Paris (1783), Loyalist migration, New Brunswick, Constitutional Act of 1791 (Upper and Lower Canada), War of 1812, Irish Famine and Highland Clearances immigration, Rebellions of 1837, Durham Report, Act of Union 1840, Oregon Treaty (1846), Anglo-Russian Treaty of Saint Petersburg (1825), US Alaska Purchase (1867)"
+        },
+        {
+            "title": "Confederation, Expansion, and Nation Building",
+            "focus": "British North America Act 1867, original four provinces (Ontario, Quebec, Nova Scotia, New Brunswick), Rupert's Land, Northwest Territories, Red River Rebellion, Manitoba (1870), British Columbia and Vancouver Island (1871), Prince Edward Island (1873), Yukon Territory (1898), Alberta and Saskatchewan (1905), transcontinental railways, Dominion Lands Act, North-West Mounted Police, Indian reserves, collapse of Plains Bison, Indian Act"
+        },
+        {
+            "title": "Canada in the Early 20th Century",
+            "focus": "First World War, Canadian Corps, Battle of Vimy Ridge, Conscription Crisis of 1917, League of Nations (1919), King-Byng affair, Balfour Declaration (1926), Statute of Westminster 1931, Great Depression, Co-operative Commonwealth Federation (CCF), Tommy Douglas, Second World War, Dieppe Raid, invasion of Italy, Normandy landings, Battle of the Scheldt, liberation of the Netherlands"
+        },
+        {
+            "title": "Contemporary Canadian History and Sovereignty",
+            "focus": "Newfoundland joining Canada (1949), maple leaf flag (1965), official bilingualism (1969), official multiculturalism (1971), social democratic programs (Medicare, Canada Pension Plan, Canada Student Loans), Canada Act 1982, Canadian Charter of Rights and Freedoms, Nunavut (1999), Quiet Revolution, Front de liberation du Quebec (FLQ), October Crisis (1970), Parti Quebecois, 1980 and 1995 referendums, Meech Lake Accord, Bloc Quebecois, Reform Party, Supreme Court ruling on secession, Clarity Act, Air India Flight 182, Ecole Polytechnique massacre, Oka Crisis, Gulf War, Balkans, Somalia, Afghanistan, Libyan Civil War, Islamic State insurgency, COVID-19 pandemic, residential school gravesites, 2025 US trade war"
+        },
+        {
+            "title": "Geography and Physiographic Regions",
+            "focus": "Total area vs land area, fresh water lakes, coastline length, land border with US, border with Greenland (Hans Island), maritime boundary with Saint Pierre and Miquelon, Canadian Forces Station Alert, Cape Columbia, Middle Island, Cape Spear, Mount St. Elias, seven physiographic regions (Canadian Shield, Interior Plains, Great Lakes-St. Lawrence Lowlands, Appalachian region, Western Cordillera, Hudson Bay Lowlands, Arctic Archipelago), Boreal forests, Canadian Prairies, Great Lakes and St. Lawrence River, glaciers, geological activity"
+        },
+        {
+            "title": "Climate, Biodiversity, and Environment",
+            "focus": "Regional temperature variations, continental climate (Prairies), temperate climate (BC), permafrost, Arctic warming, average temperature rise since 1948, acid rain (metal smelting, coal, vehicle emissions), greenhouse gas emissions, 15 terrestrial and five marine ecozones, species at risk, boreal forest size, conservation areas, Banff National Park (1885), Algonquin Provincial Park (1893), Lake Superior National Marine Conservation Area, Scott Islands Marine National Wildlife Area"
+        },
+        {
+            "title": "The Canadian Government and Political System",
+            "focus": "Parliamentary democracy, constitutional monarchy, Westminster tradition, Prime Minister, Governor General, House of Commons, Senate, Commonwealth realm, official bilingualism, brokerage politics, Liberal Party of Canada, Conservative Party of Canada, New Democratic Party, Green Party, Bloc Quebecois, Prime Minister's Office (PMO), electoral districts (ridings), fixed election dates, federalism (federal vs provincial responsibilities)"
+        },
+        {
+            "title": "Law and the Judiciary in Canada",
+            "focus": "Constitution of Canada, Constitution Act 1867, Statute of Westminster 1931, Constitution Act 1982, Canadian Charter of Rights and Freedoms, notwithstanding clause, Supreme Court of Canada, Richard Wagner, common law vs civil law (Quebec), federal criminal law, Royal Canadian Mounted Police (RCMP), Aboriginal law, section 35 of the Constitution Act 1982, Indian Health Transfer Policy"
+        },
+        {
+            "title": "Provinces, Territories, and Foreign Relations",
+            "focus": "10 provinces and 3 territories, regional groupings (Western, Central, Atlantic, Northern), equalization payments, sovereignty differences (provinces vs territories), middle power status, multilateralism, US-Canada relationship, ties to UK and France, Commonwealth of Nations, Organisation internationale de la Francophonie, UN founding member, NORAD, WTO, Five Eyes, G7, OECD, APEC, OAS, Universal Declaration of Human Rights"
+        },
+        {
+            "title": "Canadian Military and Peacekeeping",
+            "focus": "Canadian Armed Forces (CAF), Royal Canadian Navy, Canadian Army, Royal Canadian Air Force, NATO spending targets (2% GDP), peacekeeping culture, UN-sanctioned operations, shift from UN to NATO-led missions, Vietnam War, 2003 Iraq invasion, 2026 Iran war"
+        },
+        {
+            "title": "The Canadian Economy and Trade",
+            "focus": "Mixed-market economy, nominal GDP ranking, globalized economy, trade in goods and services, Toronto Stock Exchange, Bank of Canada, Statistics Canada, credit unions, Corruption Perceptions Index, Global Competitiveness Report, Index of Economic Freedom, service industry dominance, primary sector (forestry, petroleum), Canada-US Free Trade Agreement (1988), NAFTA, CUSMA, free trade agreements, energy exports, oil sands (Athabasca), agricultural products (wheat, canola), mining exports (zinc, uranium, gold, etc.), manufacturing (automobiles, aeronautics), fishing and tourism"
+        },
+        {
+            "title": "Science, Technology, and Space Exploration",
+            "focus": "R&D spending, Nobel laureates, Nature Index, Internet access, alkaline battery, insulin, polio vaccine, atomic nucleus structure, artificial cardiac pacemaker, visual cortex mapping, electron microscope, plate tectonics, deep learning, multi-touch technology, Cygnus X-1, genetics (stem cells, Fanconi anemia, cystic fibrosis, Alzheimer's), Canadian Space Agency, Alouette 1, International Space Station, Canadarms, Radarsat, Black Brant rockets"
+        },
+        {
+            "title": "Demographics, Ethnicity, and Language",
+            "focus": "Population growth (immigration, natural growth), population density, urban centers (Toronto, Montreal, Vancouver), Quebec City-Windsor Corridor, 2021 census data, ethnic origins (European, North American, Asian, Indigenous, African, etc.), visible minorities, landed immigrants, official languages (English, French), Official Language Act (Quebec), Acadian French, Indigenous languages (Inuktitut), non-official languages (Mandarin, Punjabi, Cantonese, etc.), sign languages (ASL, LSQ)"
+        },
+        {
+            "title": "Religion, Health, and Education",
+            "focus": "Religious pluralism, post-Christian secular state, Christianity (Roman Catholics), irreligion, Islam, Hinduism, Sikhism, Buddhism, Judaism, Indigenous spirituality, Medicare (Canada Health Act 1984), universal access, private sector healthcare, demographic shift (aging population), life expectancy, chronic diseases (cancer, cardiovascular, respiratory, diabetes), healthcare spending, Commonwealth Fund ranking, Education system (provincial jurisdiction), primary, secondary, post-secondary, Universite Laval, University of Toronto, McGill, University of British Columbia, tertiary education rates, OECD ranking"
+        },
+        {
+            "title": "Canadian Culture and National Identity",
+            "focus": "British, French, and Indigenous influences, multiculturalism policy, cultural mosaic, social liberal values (women's rights, LGBT rights, euthanasia, cannabis), human rights, Canadian Charter of Rights and Freedoms, national symbols (maple leaf, beaver, Canada goose, loon, RCMP, totem pole, Inuksuk), national motto (A mari usque ad mare), national sports (ice hockey, lacrosse), Canadian cuisine (maple syrup, poutine, tourtiere, Nanaimo bars, butter tarts), coins and currency"
+        },
+        {
+            "title": "Canadian Arts, Literature, and Media",
+            "focus": "French and English literatures, themes of nature and frontier life, garrison mentality, Canada Council for the Arts, literary awards (Governor General's, Giller Prize), Group of Seven, Inuit art, Canada Council Art Bank, Molson Prize, music infrastructure, CRTC, Canada Music Fund, Juno Awards, national anthems (God Save the King, The Maple Leaf Forever, O Canada), Broadcasting Act, CBC, NFB, CRTC, US media influence, public financing of media"
+        },
+        {
+            "title": "Canadian Sports and Athletics",
+            "focus": "Official national sports (ice hockey, lacrosse), professional leagues (NHL, MLS, MLB, NBA, CFL, NLL, CPL), Curling Canada, participation rates (swimming, cycling, running), winter sports vs immigrant sports (soccer, tennis, basketball), Olympic success, hosted events (1976 Summer, 1988/2010 Winter, 2015 FIFA Women's World Cup, 2015 Pan Am Games, 2026 FIFA World Cup)"
+        }
+    ],
+    "pipeline_errors": []
+}

@@ -1,0 +1,1710 @@
+{
+    "module_name": "Theoretical Frameworks of AI Slop",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "According to an academic article by Cody Kommers and five other scholars that was published in January 2026, AI slop has \"so far resisted formal definition.\""
+        },
+        {
+            "note_id": "n2",
+            "text": "Although they argue it is impossible to precisely describe a boundary between slop and non-slop, Kommers et. al. identify three \"prototypical properties\" that characterise AI slop: superficial competence, asymmetric effort and mass producibility."
+        },
+        {
+            "note_id": "n3",
+            "text": "Three main \"dimensions of variance\", or ways in which AI slop can vary, are its instrumental utility (why was it created?), the level of personalization (is it so specific as to only be interesting to one person or a small friend group?) and the level of surrealism, where some AI slop is \"ludicrously implausible\" while other slop is more realistic."
+        },
+        {
+            "note_id": "n4",
+            "text": "Art curator Francesco D'Isa considers it wrong to say that AI \"produces only slop\", and sees the majority of human production as having \"always been slop\", with the canon of art being \"the surviving tip of an immense iceberg of forgotten, derivative, or simply boring creations\"."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative spec sheet for AI slop's theoretical framework. Extract the number of prototypical properties identified by Kommers et al. (3) and the number of dimensions of variance (3).",
+            "source_notes_used": [
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes provide specific numerical counts for both the prototypical properties and the dimensions of variance, fitting the quantitative fact_grid schema."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for Cody Kommers and Francesco D'Isa, detailing their roles as a scholar and an art curator respectively, and their specific perspectives on AI slop.",
+            "source_notes_used": [
+                "n1",
+                "n4"
+            ],
+            "rationale": "The notes identify two distinct people with specific professional roles and differing viewpoints on the nature of AI slop."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Prototypical properties of AI slop. Branches: superficial competence, asymmetric effort, and mass producibility.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 explicitly lists three named conceptual properties that stem from the root concept of AI slop characteristics."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Dimensions of variance in AI slop. Branches: instrumental utility, level of personalization, and level of surrealism.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 identifies three distinct named dimensions of variance stemming from the root concept of how AI slop varies."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the quote from Cody Kommers and scholars regarding AI slop's resistance to formal definition.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a direct quote and an explicitly stated speaker (Cody Kommers and five other scholars)."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the three 'prototypical properties' of AI slop: superficial competence, asymmetric effort, and mass producibility.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note lists three related descriptive properties that share a common context (characteristics of AI slop)."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion for the three 'dimensions of variance' in AI slop: Instrumental Utility (why it was created), Personalization (specificity to a person or small group), and Surrealism (ranging from ludicrously implausible to realistic).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a list of three related concepts, each with a title and a supplementary description."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the quotes from Francesco D'Isa regarding AI slop and the canon of art as the 'surviving tip of an immense iceberg'.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note provides direct quotes and an explicitly stated speaker (Francesco D'Isa)."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date January 2026 as the publication date of the academic article by Cody Kommers and scholars.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note contains a precise date, which fits the insight_badge requirements for a pivotal date/metric."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while preserving the most complex structural representations. Specifically, for the 'prototypical properties' in n2, the branching_tree was kept over the itemized_breakdown because it better visualizes the conceptual hierarchy. For the 'dimensions of variance' in n3, the accordion was selected over the branching_tree because it allows for the inclusion of the detailed descriptions (utility, personalization, surrealism) which the tree would omit. The fact_grid was removed as it merely repeated the counts already inherent in the structural widgets. The insight_badge for the date in n1 was removed in favor of the quote_block, as the academic context is more valuable than the publication date alone. All entity profiles and unique quotes were retained to ensure a diverse visual experience.",
+        "surviving_widgets": [
+            {
+                "widget_type": "entity_profiles",
+                "widget_context": "Create profiles for Cody Kommers (scholar) and Francesco D'Isa (art curator), detailing their professional roles and their specific perspectives on AI slop.",
+                "source_notes_used": [
+                    "n1",
+                    "n4"
+                ],
+                "rationale": "The notes identify two distinct people with specific professional roles and differing viewpoints on the nature of AI slop."
+            },
+            {
+                "widget_type": "branching_tree",
+                "widget_context": "Root concept: Prototypical properties of AI slop. Branches: superficial competence, asymmetric effort, and mass producibility.",
+                "source_notes_used": [
+                    "n2"
+                ],
+                "rationale": "Note n2 explicitly lists three named conceptual properties that stem from the root concept of AI slop characteristics."
+            },
+            {
+                "widget_type": "accordion",
+                "widget_context": "Create an accordion for the three 'dimensions of variance' in AI slop: Instrumental Utility (why it was created), Personalization (specificity to a person or small group), and Surrealism (ranging from ludicrously implausible to realistic).",
+                "source_notes_used": [
+                    "n3"
+                ],
+                "rationale": "The note provides a list of three related concepts, each with a title and a supplementary description."
+            },
+            {
+                "widget_type": "quote_block",
+                "widget_context": "Extract the quote from Cody Kommers and scholars regarding AI slop's resistance to formal definition.",
+                "source_notes_used": [
+                    "n1"
+                ],
+                "rationale": "The note provides a direct quote and an explicitly stated speaker (Cody Kommers and five other scholars)."
+            },
+            {
+                "widget_type": "quote_block",
+                "widget_context": "Extract the quotes from Francesco D'Isa regarding AI slop and the canon of art as the 'surviving tip of an immense iceberg'.",
+                "source_notes_used": [
+                    "n4"
+                ],
+                "rationale": "The note provides direct quotes and an explicitly stated speaker (Francesco D'Isa)."
+            }
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for Cody Kommers (scholar) and Francesco D'Isa (art curator), detailing their professional roles and their specific perspectives on AI slop.",
+            "source_notes_used": [
+                "n1",
+                "n4"
+            ],
+            "rationale": "The notes identify two distinct people with specific professional roles and differing viewpoints on the nature of AI slop."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Prototypical properties of AI slop. Branches: superficial competence, asymmetric effort, and mass producibility.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 explicitly lists three named conceptual properties that stem from the root concept of AI slop characteristics."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion for the three 'dimensions of variance' in AI slop: Instrumental Utility (why it was created), Personalization (specificity to a person or small group), and Surrealism (ranging from ludicrously implausible to realistic).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a list of three related concepts, each with a title and a supplementary description."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the quote from Cody Kommers and scholars regarding AI slop's resistance to formal definition.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a direct quote and an explicitly stated speaker (Cody Kommers and five other scholars)."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the quotes from Francesco D'Isa regarding AI slop and the canon of art as the 'surviving tip of an immense iceberg'.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note provides direct quotes and an explicitly stated speaker (Francesco D'Isa)."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w0",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "AI Slop: Expert Perspectives",
+                "intro_text": "Scholars and curators provide different frameworks for understanding the nature and definition of AI-generated low-quality content.",
+                "entities": [
+                    {
+                        "name": "Cody Kommers",
+                        "role": "Scholar",
+                        "description": "He and five other scholars argue that AI slop has resisted formal definition and is characterized by mass producibility, asymmetric effort, and superficial competence."
+                    },
+                    {
+                        "name": "Francesco D'Isa",
+                        "role": "Art Curator",
+                        "description": "He believes the majority of human production has always been slop and that the art canon is merely the surviving tip of an iceberg of boring or derivative creations."
+                    }
+                ],
+                "entity_type": "people"
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w1",
+            "block_type": "branching_tree",
+            "branching_tree_data": {
+                "title": "Prototypical Properties of AI Slop",
+                "intro_text": "Scholars Kommers et al. identify three core characteristics that define the nature of AI-generated slop.",
+                "root": "AI Slop",
+                "branches": [
+                    {
+                        "label": "Superficial Competence",
+                        "emoji": "🎭",
+                        "definition": "Content that appears competent on the surface but lacks depth or substance."
+                    },
+                    {
+                        "label": "Asymmetric Effort",
+                        "emoji": "⚖️",
+                        "definition": null
+                    },
+                    {
+                        "label": "Mass Producibility",
+                        "emoji": "📈",
+                        "definition": null
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w2",
+            "block_type": "accordion",
+            "accordion_data": {
+                "items": [
+                    {
+                        "header": "Instrumental Utility",
+                        "hidden_text": "This dimension focuses on the purpose behind the creation of the AI slop, asking why the content was produced."
+                    },
+                    {
+                        "header": "Personalization",
+                        "hidden_text": "This dimension considers whether the content is so specific that it is only of interest to a single person or a small group of friends."
+                    },
+                    {
+                        "header": "Surrealism",
+                        "hidden_text": "This dimension refers to the level of plausibility, ranging from content that is ludicrously implausible to content that is more realistic."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w3",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Cody Kommers and five other scholars",
+                "quote": "so far resisted formal definition",
+                "context": "In a January 2026 academic article, these scholars noted that AI slop has been difficult to define formally."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w4",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Francesco D'Isa",
+                "quote": "the surviving tip of an immense iceberg of forgotten, derivative, or simply boring creations",
+                "context": "Art curator Francesco D'Isa uses this metaphor to describe the canon of art in relation to the vast amount of human production that he considers to have always been slop."
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Theoretical Frameworks of AI Slop",
+        "cards": [
+            {
+                "card_title": "Defining the Undefinable",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introductory hook to set the stage for the theoretical discussion of AI slop.",
+                        "text_content": "While the term **AI slop** has become a common pejorative for low-quality synthetic media, scholars are finding that pinning down a precise definition is surprisingly difficult. As the technology evolves, the line between a useful tool and digital clutter becomes increasingly blurred."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Introduces the key figures providing theoretical frameworks for AI slop.",
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the general perspectives to the specific difficulty of formal definition.",
+                        "text_content": "The challenge lies in the fact that slop isn't a single type of content, but rather a spectrum of quality and intent. This ambiguity is highlighted by researchers who note that the concept has remained elusive to academic categorization."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Struggle for Definition",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the specific academic finding regarding the lack of a formal definition.",
+                        "text_content": "In early 2026, a group of scholars attempted to formalize the concept. Their findings suggest that AI slop is less of a distinct category and more of a perceived quality of content."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Displays the specific quote from Kommers et al. regarding the resistance to formal definition.",
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Bridges the lack of definition to the 'prototypical properties' as a workaround.",
+                        "text_content": "Because a hard boundary between slop and non-slop is nearly impossible to draw, these researchers shifted their focus toward identifying the common traits that typically characterize such content."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Anatomy of Slop",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the three prototypical properties identified by Kommers et al.",
+                        "text_content": "Rather than a strict definition, scholars identify three **prototypical properties** that act as hallmarks of AI slop. These traits explain why certain content feels 'off' or low-effort even when it looks polished."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Visually represents the three core characteristics of AI slop.",
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the idea that slop varies across different dimensions.",
+                        "text_content": "While these properties provide a baseline, not all slop is created equal. The nature of the content often shifts based on the goal of the creator and the intended audience."
+                    }
+                ]
+            },
+            {
+                "card_title": "Dimensions of Variance",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of dimensions of variance to explain the diversity of slop.",
+                        "text_content": "To better understand the variety of AI-generated clutter, researchers look at **dimensions of variance**. These are the specific ways in which slop can differ from one instance to another, ranging from its purpose to its plausibility."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Uses an accordion to detail the three dimensions of variance: utility, personalization, and surrealism.",
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Moves the conversation from academic frameworks to a broader art-historical perspective.",
+                        "text_content": "These frameworks help us categorize the 'what' and 'how' of AI slop, but some argue that the phenomenon isn't entirely new—it's simply a new medium for an old human habit."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Iceberg of Creation",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces Francesco D'Isa's perspective on human production vs. AI slop.",
+                        "text_content": "Art curator **Francesco D'Isa** offers a provocative counter-argument. He suggests that the tendency to produce low-quality, derivative work is not unique to AI, but has been a constant in human creativity throughout history."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Highlights D'Isa's metaphor regarding the canon of art and the 'iceberg' of slop.",
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding thought that synthesizes the academic and artistic views.",
+                        "text_content": "From this perspective, AI slop is not a new category of failure, but an acceleration of the vast amount of mediocre content that has always existed. The only difference now is the *scale* and *speed* at which the iceberg is growing."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Anatomy of AI Slop",
+        "module_description": "Explore the theoretical frameworks used to define and categorize the digital clutter of the generative AI era.",
+        "alternative_descriptions": [
+            "Unmask the hidden patterns of low-quality synthetic media and why it feels 'off'.",
+            "Is AI slop a new phenomenon or just an acceleration of human mediocrity?",
+            "Dive into the academic struggle to define the undefinable digital noise of the 21st century."
+        ],
+        "tags": [
+            "AI Slop",
+            "Synthetic Media",
+            "Digital Clutter",
+            "Generative AI",
+            "Theoretical Frameworks"
+        ],
+        "loading_screen_trivia": "Art curator Francesco D'Isa suggests that the art canon is merely the surviving tip of an iceberg of boring or derivative human creations.",
+        "timeline": [
+            {
+                "year": "2026",
+                "event": "Scholars attempt to formalize AI slop",
+                "related_card_id": 2
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Cody Kommers",
+                "emoji_avatar": "🎓",
+                "historical_role": "Academic Scholar",
+                "core_contribution": "He and five other scholars identified the prototypical properties of AI slop."
+            },
+            {
+                "name": "Francesco D'Isa",
+                "emoji_avatar": "🎨",
+                "historical_role": "Art Curator",
+                "core_contribution": "He argues that human production has always produced slop, and AI merely accelerates it."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "Understanding these frameworks helps us navigate a world where the line between useful tools and digital clutter is increasingly blurred."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Theoretical Frameworks of AI Slop",
+                "created_at": "2026-05-19T20:38:19.399892+00:00",
+                "card_title": "Defining the Undefinable",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "While the term **AI slop** has become a common pejorative for low-quality synthetic media, scholars are finding that pinning down a precise definition is surprisingly difficult. As the technology evolves, the line between a useful tool and digital clutter becomes increasingly blurred."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w0",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "AI Slop: Expert Perspectives",
+                            "intro_text": "Scholars and curators provide different frameworks for understanding the nature and definition of AI-generated low-quality content.",
+                            "entities": [
+                                {
+                                    "name": "Cody Kommers",
+                                    "role": "Scholar",
+                                    "description": "He and five other scholars argue that AI slop has resisted formal definition and is characterized by mass producibility, asymmetric effort, and superficial competence."
+                                },
+                                {
+                                    "name": "Francesco D'Isa",
+                                    "role": "Art Curator",
+                                    "description": "He believes the majority of human production has always been slop and that the art canon is merely the surviving tip of an iceberg of boring or derivative creations."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n4"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "The challenge lies in the fact that slop isn't a single type of content, but rather a spectrum of quality and intent. This ambiguity is highlighted by researchers who note that the concept has remained elusive to academic categorization."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Theoretical Frameworks of AI Slop",
+                "created_at": "2026-05-19T20:38:19.399892+00:00",
+                "card_title": "The Struggle for Definition",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "In early 2026, a group of scholars attempted to formalize the concept. Their findings suggest that AI slop is less of a distinct category and more of a perceived quality of content."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w3",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Cody Kommers and five other scholars",
+                            "quote": "so far resisted formal definition",
+                            "context": "In a January 2026 academic article, these scholars noted that AI slop has been difficult to define formally."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "Because a hard boundary between slop and non-slop is nearly impossible to draw, these researchers shifted their focus toward identifying the common traits that typically characterize such content."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Theoretical Frameworks of AI Slop",
+                "created_at": "2026-05-19T20:38:19.399892+00:00",
+                "card_title": "The Anatomy of Slop",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Rather than a strict definition, scholars identify three **prototypical properties** that act as hallmarks of AI slop. These traits explain why certain content feels 'off' or low-effort even when it looks polished."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w1",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Prototypical Properties of AI Slop",
+                            "intro_text": "Scholars Kommers et al. identify three core characteristics that define the nature of AI-generated slop.",
+                            "root": "AI Slop",
+                            "branches": [
+                                {
+                                    "label": "Superficial Competence",
+                                    "emoji": "🎭",
+                                    "definition": "Content that appears competent on the surface but lacks depth or substance."
+                                },
+                                {
+                                    "label": "Asymmetric Effort",
+                                    "emoji": "⚖️",
+                                    "definition": null
+                                },
+                                {
+                                    "label": "Mass Producibility",
+                                    "emoji": "📈",
+                                    "definition": null
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "While these properties provide a baseline, not all slop is created equal. The nature of the content often shifts based on the goal of the creator and the intended audience."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Theoretical Frameworks of AI Slop",
+                "created_at": "2026-05-19T20:38:19.399892+00:00",
+                "card_title": "Dimensions of Variance",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "To better understand the variety of AI-generated clutter, researchers look at **dimensions of variance**. These are the specific ways in which slop can differ from one instance to another, ranging from its purpose to its plausibility."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w2",
+                        "block_type": "accordion",
+                        "accordion_data": {
+                            "items": [
+                                {
+                                    "header": "Instrumental Utility",
+                                    "hidden_text": "This dimension focuses on the purpose behind the creation of the AI slop, asking why the content was produced."
+                                },
+                                {
+                                    "header": "Personalization",
+                                    "hidden_text": "This dimension considers whether the content is so specific that it is only of interest to a single person or a small group of friends."
+                                },
+                                {
+                                    "header": "Surrealism",
+                                    "hidden_text": "This dimension refers to the level of plausibility, ranging from content that is ludicrously implausible to content that is more realistic."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "These frameworks help us categorize the 'what' and 'how' of AI slop, but some argue that the phenomenon isn't entirely new—it's simply a new medium for an old human habit."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Theoretical Frameworks of AI Slop",
+                "created_at": "2026-05-19T20:38:19.399892+00:00",
+                "card_title": "The Iceberg of Creation",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Art curator **Francesco D'Isa** offers a provocative counter-argument. He suggests that the tendency to produce low-quality, derivative work is not unique to AI, but has been a constant in human creativity throughout history."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheoreticalFrameworksofAISlop_w4",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Francesco D'Isa",
+                            "quote": "the surviving tip of an immense iceberg of forgotten, derivative, or simply boring creations",
+                            "context": "Art curator Francesco D'Isa uses this metaphor to describe the canon of art in relation to the vast amount of human production that he considers to have always been slop."
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "From this perspective, AI slop is not a new category of failure, but an acceleration of the vast amount of mediocre content that has always existed. The only difference now is the *scale* and *speed* at which the iceberg is growing."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "Which scholar argues that AI slop is characterized by mass producibility?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Cody Kommers",
+                    "isCorrect": true,
+                    "feedback": "Cody Kommers identifies mass producibility as a core trait of AI slop."
+                },
+                {
+                    "text": "Francesco D'Isa",
+                    "isCorrect": false,
+                    "feedback": "Francesco D'Isa views slop as a constant in human creativity."
+                },
+                {
+                    "text": "Jonathan Gilmore",
+                    "isCorrect": false,
+                    "feedback": "Jonathan Gilmore is not mentioned as defining these specific traits."
+                },
+                {
+                    "text": "David Berry",
+                    "isCorrect": false,
+                    "feedback": "David Berry coined the term scholarslop for administrative discourse."
+                },
+                {
+                    "text": "Glen Berman",
+                    "isCorrect": false,
+                    "feedback": "Glen Berman describes AI articles as epistemic carcinogens."
+                },
+                {
+                    "text": "Simon Willison",
+                    "isCorrect": false,
+                    "feedback": "Simon Willison was an early champion of the term slop."
+                },
+                {
+                    "text": "Neal Mohan",
+                    "isCorrect": false,
+                    "feedback": "Neal Mohan is the CEO of YouTube."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the 'surrealism' dimension of variance in AI slop?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Level of plausibility",
+                    "isCorrect": true,
+                    "feedback": "Surrealism refers to how plausible or ludicrous the content is."
+                },
+                {
+                    "text": "Purpose of creation",
+                    "isCorrect": false,
+                    "feedback": "The purpose of creation is called instrumental utility."
+                },
+                {
+                    "text": "Target audience size",
+                    "isCorrect": false,
+                    "feedback": "Audience specificity is referred to as personalization."
+                },
+                {
+                    "text": "Production speed",
+                    "isCorrect": false,
+                    "feedback": "Production speed is not a listed dimension of variance."
+                },
+                {
+                    "text": "Surface competence",
+                    "isCorrect": false,
+                    "feedback": "Surface competence is a prototypical property, not a dimension."
+                },
+                {
+                    "text": "Effort asymmetry",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric effort is a prototypical property, not a dimension."
+                },
+                {
+                    "text": "Mass producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility is a prototypical property, not a dimension."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which property describes content that looks competent but lacks substance?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Superficial Competence",
+                    "isCorrect": true,
+                    "feedback": "Superficial competence is content that appears competent but lacks depth."
+                },
+                {
+                    "text": "Asymmetric Effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric effort refers to the imbalance of effort in production."
+                },
+                {
+                    "text": "Mass Producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility refers to the ability to create content quickly."
+                },
+                {
+                    "text": "Instrumental Utility",
+                    "isCorrect": false,
+                    "feedback": "Instrumental utility refers to the purpose behind the creation."
+                },
+                {
+                    "text": "Personalization",
+                    "isCorrect": false,
+                    "feedback": "Personalization refers to how specific the content is."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "Surrealism refers to the level of plausibility."
+                },
+                {
+                    "text": "Digital Clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general pejorative for AI slop."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What does Francesco D'Isa compare the art canon to?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Tip of an iceberg",
+                    "isCorrect": true,
+                    "feedback": "D'Isa views the canon as the surviving tip of an iceberg."
+                },
+                {
+                    "text": "A digital spectrum",
+                    "isCorrect": false,
+                    "feedback": "The spectrum refers to quality and intent, not the canon."
+                },
+                {
+                    "text": "A formal definition",
+                    "isCorrect": false,
+                    "feedback": "Scholars found formal definitions of slop to be elusive."
+                },
+                {
+                    "text": "A dimension of variance",
+                    "isCorrect": false,
+                    "feedback": "Dimensions of variance categorize the variety of slop."
+                },
+                {
+                    "text": "A prototypical property",
+                    "isCorrect": false,
+                    "feedback": "Prototypical properties are hallmarks of AI slop."
+                },
+                {
+                    "text": "A blurred line",
+                    "isCorrect": false,
+                    "feedback": "The blurred line refers to tools versus clutter."
+                },
+                {
+                    "text": "A hard boundary",
+                    "isCorrect": false,
+                    "feedback": "Researchers found a hard boundary nearly impossible to draw."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What dimension focuses on why AI slop was produced?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Instrumental Utility",
+                    "isCorrect": true,
+                    "feedback": "Instrumental utility focuses on the purpose behind the creation."
+                },
+                {
+                    "text": "Personalization",
+                    "isCorrect": false,
+                    "feedback": "Personalization considers the specificity of the target audience."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "Surrealism refers to the level of plausibility."
+                },
+                {
+                    "text": "Superficial Competence",
+                    "isCorrect": false,
+                    "feedback": "Superficial competence is a prototypical property of slop."
+                },
+                {
+                    "text": "Asymmetric Effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric effort is a prototypical property of slop."
+                },
+                {
+                    "text": "Mass Producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass Producibility is a prototypical property of slop."
+                },
+                {
+                    "text": "Digital Clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for low-quality media."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "When did scholars attempt to formalize the concept of AI slop?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Early 2026",
+                    "isCorrect": true,
+                    "feedback": "A group of scholars attempted to formalize the concept in early 2026."
+                },
+                {
+                    "text": "Early 2024",
+                    "isCorrect": false,
+                    "feedback": "The term gained popularity in 2024, but formalization was 2026."
+                },
+                {
+                    "text": "Early 2025",
+                    "isCorrect": false,
+                    "feedback": "The term was Word of the Year in 2025."
+                },
+                {
+                    "text": "Late 2023",
+                    "isCorrect": false,
+                    "feedback": "The term was not being formalized by scholars then."
+                },
+                {
+                    "text": "Late 2024",
+                    "isCorrect": false,
+                    "feedback": "The term was widely criticized in late 2024."
+                },
+                {
+                    "text": "Early 2022",
+                    "isCorrect": false,
+                    "feedback": "Image generators were released in 2022."
+                },
+                {
+                    "text": "Late 2025",
+                    "isCorrect": false,
+                    "feedback": "Formalization attempts occurred earlier in 2026."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What does the 'personalization' dimension of variance consider?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Audience specificity",
+                    "isCorrect": true,
+                    "feedback": "Personalization considers if content is only for a small group."
+                },
+                {
+                    "text": "Creation purpose",
+                    "isCorrect": false,
+                    "feedback": "Creation purpose is called instrumental utility."
+                },
+                {
+                    "text": "Plausibility level",
+                    "isCorrect": false,
+                    "feedback": "Plausibility level is called surrealism."
+                },
+                {
+                    "text": "Surface quality",
+                    "isCorrect": false,
+                    "feedback": "Surface quality is related to superficial competence."
+                },
+                {
+                    "text": "Production volume",
+                    "isCorrect": false,
+                    "feedback": "Production volume is related to mass producibility."
+                },
+                {
+                    "text": "Effort balance",
+                    "isCorrect": false,
+                    "feedback": "Effort balance is related to asymmetric effort."
+                },
+                {
+                    "text": "Academic category",
+                    "isCorrect": false,
+                    "feedback": "Academic categorization of slop has remained elusive."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to scholars, what has AI slop resisted?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Formal definition",
+                    "isCorrect": true,
+                    "feedback": "Scholars note that AI slop has resisted formal definition."
+                },
+                {
+                    "text": "Mass production",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility is actually a hallmark of AI slop."
+                },
+                {
+                    "text": "Superficial competence",
+                    "isCorrect": false,
+                    "feedback": "Superficial competence is a hallmark of AI slop."
+                },
+                {
+                    "text": "Asymmetric effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric effort is a hallmark of AI slop."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "AI slop is often called digital clutter."
+                },
+                {
+                    "text": "Instrumental utility",
+                    "isCorrect": false,
+                    "feedback": "Instrumental utility is a dimension used to categorize it."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "Surrealism is a dimension used to categorize it."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Cody Kommers and scholars argue AI slop is characterized by ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Mass producibility",
+                    "isCorrect": true,
+                    "feedback": "Mass producibility is a core characteristic of AI slop."
+                },
+                {
+                    "text": "High utility",
+                    "isCorrect": false,
+                    "feedback": "AI slop is generally characterized by low utility, not high."
+                },
+                {
+                    "text": "Deep substance",
+                    "isCorrect": false,
+                    "feedback": "AI slop is characterized by superficial competence, lacking depth."
+                },
+                {
+                    "text": "Human curation",
+                    "isCorrect": false,
+                    "feedback": "AI slop is mass-produced by AI, not curated by humans."
+                },
+                {
+                    "text": "Academic rigor",
+                    "isCorrect": false,
+                    "feedback": "AI slop resists formal academic definition."
+                },
+                {
+                    "text": "Intentional depth",
+                    "isCorrect": false,
+                    "feedback": "AI slop lacks depth or substance."
+                },
+                {
+                    "text": "Manual effort",
+                    "isCorrect": false,
+                    "feedback": "AI slop is characterized by asymmetric effort, not manual effort."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The dimension of ____ refers to the level of plausibility of slop.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Surrealism",
+                    "isCorrect": true,
+                    "feedback": "Surrealism measures plausibility, from ludicrously implausible to realistic."
+                },
+                {
+                    "text": "Personalization",
+                    "isCorrect": false,
+                    "feedback": "Personalization considers if content is specific to a small group."
+                },
+                {
+                    "text": "Instrumental Utility",
+                    "isCorrect": false,
+                    "feedback": "Instrumental utility focuses on the purpose behind the creation."
+                },
+                {
+                    "text": "Mass Producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Superficial Competence",
+                    "isCorrect": false,
+                    "feedback": "Superficial competence is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Asymmetric Effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric effort is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Instrumental Purpose",
+                    "isCorrect": false,
+                    "feedback": "Instrumental utility is the correct term for the purpose dimension."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Francesco D'Isa describes the art canon as the ____ of an iceberg.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Surviving tip",
+                    "isCorrect": true,
+                    "feedback": "D'Isa views the canon as the surviving tip of an iceberg of slop."
+                },
+                {
+                    "text": "Hidden base",
+                    "isCorrect": false,
+                    "feedback": "The canon is the tip, while the slop is the hidden base."
+                },
+                {
+                    "text": "Frozen core",
+                    "isCorrect": false,
+                    "feedback": "D'Isa uses the tip of the iceberg metaphor, not a frozen core."
+                },
+                {
+                    "text": "Melting point",
+                    "isCorrect": false,
+                    "feedback": "The metaphor refers to the surviving tip, not a melting point."
+                },
+                {
+                    "text": "Deepest layer",
+                    "isCorrect": false,
+                    "feedback": "The canon is the visible tip, not the deepest layer."
+                },
+                {
+                    "text": "Submerged part",
+                    "isCorrect": false,
+                    "feedback": "The submerged part represents the forgotten, derivative creations."
+                },
+                {
+                    "text": "Jagged edge",
+                    "isCorrect": false,
+                    "feedback": "D'Isa's metaphor specifically refers to the surviving tip."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The property of ____ means content appears competent but lacks substance.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Superficial Competence",
+                    "isCorrect": true,
+                    "feedback": "Superficial competence is content that looks polished but lacks depth."
+                },
+                {
+                    "text": "Asymmetric Effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric effort refers to the effort gap between creator and consumer."
+                },
+                {
+                    "text": "Mass Producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility refers to the ability to generate content in high volume."
+                },
+                {
+                    "text": "Instrumental Utility",
+                    "isCorrect": false,
+                    "feedback": "Instrumental utility is a dimension of variance, not a property."
+                },
+                {
+                    "text": "Personalization",
+                    "isCorrect": false,
+                    "feedback": "Personalization is a dimension of variance, not a property."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "Surrealism is a dimension of variance, not a property."
+                },
+                {
+                    "text": "Digital Clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for slop, not a specific property."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The dimension of ____ asks why the AI slop was produced.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Instrumental Utility",
+                    "isCorrect": true,
+                    "feedback": "Instrumental utility focuses on the purpose behind the creation of slop."
+                },
+                {
+                    "text": "Personalization",
+                    "isCorrect": false,
+                    "feedback": "Personalization considers the target audience size."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "eSurrealism refers to the level of plausibility."
+                },
+                {
+                    "text": "Mass Producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Superficial Competence",
+                    "isCorrect": false,
+                    "feedback": "Superficial competence is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Asymmetric Effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric Effort is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Utility Variance",
+                    "isCorrect": false,
+                    "feedback": "The correct term is Instrumental Utility."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In January 2026, scholars noted that AI slop has ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Resisted formal definition",
+                    "isCorrect": true,
+                    "feedback": "Scholars noted that AI slop has so far resisted formal definition."
+                },
+                {
+                    "text": "Been formally defined",
+                    "isCorrect": false,
+                    "feedback": "The text states it has resisted formal definition."
+                },
+                {
+                    "text": "Become a strict category",
+                    "isCorrect": false,
+                    "feedback": "It is viewed as a perceived quality, not a distinct category."
+                },
+                {
+                    "text": "Been academically categorized",
+                    "isCorrect": false,
+                    "feedback": "The concept has remained elusive to academic categorization."
+                },
+                {
+                    "text": "Reached a consensus",
+                    "isCorrect": false,
+                    "feedback": "There is no consensus on a precise definition."
+                },
+                {
+                    "text": "Been fully mapped",
+                    "isCorrect": false,
+                    "feedback": "The definition remains elusive and difficult to pin down."
+                },
+                {
+                    "text": "Been strictly bounded",
+                    "isCorrect": false,
+                    "feedback": "A hard boundary between slop and non-slop is nearly impossible."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The dimension of ____ considers if content is for a small group.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Personalization",
+                    "isCorrect": true,
+                    "feedback": "Personalization considers if content is only for a small group or person."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "Surrealism refers to the level of plausibility."
+                },
+                {
+                    "text": "Instrumental Utility",
+                    "isCorrect": false,
+                    "feedback": "Instrumental Utility focuses on the purpose of creation."
+                },
+                {
+                    "text": "Mass Producibility",
+                    "isCorrect": false,
+                    "feedback": "Mass producibility is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Superficial Competence",
+                    "isCorrect": false,
+                    "feedback": "Superficial Competence is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Asymmetric Effort",
+                    "isCorrect": false,
+                    "feedback": "Asymmetric Effort is a prototypical property, not a dimension of variance."
+                },
+                {
+                    "text": "Targeting",
+                    "isCorrect": false,
+                    "feedback": "The correct term used in the framework is Personalization."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Scholars identify ____ as hallmarks of AI slop instead of definitions.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Prototypical properties",
+                    "isCorrect": true,
+                    "feedback": "Scholars use prototypical properties as hallmarks instead of a strict definition."
+                },
+                {
+                    "text": "Formal definitions",
+                    "isCorrect": false,
+                    "feedback": "The text states they shifted away from formal definitions."
+                },
+                {
+                    "text": "Strict boundaries",
+                    "isCorrect": false,
+                    "feedback": "A hard boundary is nearly impossible to draw."
+                },
+                {
+                    "text": "Academic categories",
+                    "isCorrect": false,
+                    "feedback": "The concept has remained elusive to academic categorization."
+                },
+                {
+                    "text": "Fixed traits",
+                    "isCorrect": false,
+                    "feedback": "They identify prototypical properties, not fixed traits."
+                },
+                {
+                    "text": "Universal laws",
+                    "isCorrect": false,
+                    "feedback": "The framework uses prototypical properties, not universal laws."
+                },
+                {
+                    "text": "Absolute metrics",
+                    "isCorrect": false,
+                    "feedback": "They use prototypical properties, not absolute metrics."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Mass producibility, asymmetric effort, superficial competence:",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "These three traits are the prototypical properties of AI slop."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term, not defined by these specific traits."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category, not these specific traits."
+                },
+                {
+                    "text": "Workslop",
+                    "isCorrect": false,
+                    "feedback": "Workslop is AI content lacking substance in workplaces."
+                },
+                {
+                    "text": "Trendslop",
+                    "isCorrect": false,
+                    "feedback": "Trendslop is AI opting for buzzy ideas over reasoned solutions."
+                },
+                {
+                    "text": "Scholarslop",
+                    "isCorrect": false,
+                    "feedback": "Scholarslop refers to AI-generated administrative discourse in universities."
+                },
+                {
+                    "text": "AI shovelware",
+                    "isCorrect": false,
+                    "feedback": "AI shovelware refers to low-quality games on Steam."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Mass producibility, asymmetric effort:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Prototypical properties",
+                    "isCorrect": true,
+                    "feedback": "These are the prototypical properties identified by scholars."
+                },
+                {
+                    "text": "Dimensions of variance",
+                    "isCorrect": false,
+                    "feedback": "Dimensions of variance are ways slop differs, like surrealism."
+                },
+                {
+                    "text": "Formal definitions",
+                    "isCorrect": false,
+                    "feedback": "Scholars found AI slop has resisted formal definition."
+                },
+                {
+                    "text": "Academic categorizations",
+                    "isCorrect": false,
+                    "feedback": "The concept has remained elusive to academic categorization."
+                },
+                {
+                    "text": "Instrumental utility",
+                    "isCorrect": false,
+                    "feedback": "Instrumental utility is a dimension of variance, not a trait."
+                },
+                {
+                    "text": "Personalization",
+                    "isCorrect": false,
+                    "feedback": "Personalization is a dimension of variance, not a trait."
+                },
+                {
+                    "text": "Surrealism",
+                    "isCorrect": false,
+                    "feedback": "Surrealism is a dimension of variance, not a trait."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Instrumental utility, personalization, surrealism:",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Dimensions of variance",
+                    "isCorrect": true,
+                    "feedback": "These three are the specific ways AI slop can differ."
+                },
+                {
+                    "text": "Prototypical properties",
+                    "isCorrect": false,
+                    "feedback": "Prototypical properties are mass producibility, asymmetric effort, and superficial competence."
+                },
+                {
+                    "text": "Formal definitions",
+                    "isCorrect": false,
+                    "feedback": "AI slop has resisted formal definition."
+                },
+                {
+                    "text": "Academic categorizations",
+                    "isCorrect": false,
+                    "feedback": "AI slop is elusive to academic categorization."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general pejorative term."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category of AI content."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop is the content itself, not the framework for variance."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Forgotten, derivative, boring creations:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Human slop",
+                    "isCorrect": true,
+                    "feedback": "D'Isa argues human production has always been slop."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop is synthetic media, not historical human production."
+                },
+                {
+                    "text": "Art canon",
+                    "isCorrect": false,
+                    "feedback": "The art canon is the surviving tip of the iceberg."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter refers to synthetic media."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is created by AI, not humans historically."
+                },
+                {
+                    "text": "Prototypical properties",
+                    "isCorrect": false,
+                    "feedback": "Prototypical properties define AI slop, not human art."
+                },
+                {
+                    "text": "Dimensions of variance",
+                    "isCorrect": false,
+                    "feedback": "Purpose, personalization, and surrealism are dimensions of variance."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Mass producibility, superficial competence:",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Kommers et al.",
+                    "isCorrect": true,
+                    "feedback": "Cody Kommers and five other scholars identified these traits."
+                },
+                {
+                    "text": "Francesco D'Isa",
+                    "isCorrect": false,
+                    "feedback": "D'Isa focuses on the iceberg metaphor of human production."
+                },
+                {
+                    "text": "Academic researchers",
+                    "isCorrect": false,
+                    "feedback": "This is too broad; Kommers et al. specifically identified these."
+                },
+                {
+                    "text": "Art curators",
+                    "isCorrect": false,
+                    "feedback": "D'Isa is an art curator, but he didn't define these traits."
+                },
+                {
+                    "text": "Digital curators",
+                    "isCorrect": false,
+                    "feedback": "No specific digital curators are mentioned in the text."
+                },
+                {
+                    "text": "AI scholars",
+                    "isCorrect": false,
+                    "feedback": "This is too broad; Kommers et al. specifically identified these."
+                },
+                {
+                    "text": "Content creators",
+                    "isCorrect": false,
+                    "feedback": "Content creators produce the slop, they don't define its traits."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Plausibility, purpose, personalization:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Dimensions of variance",
+                    "isCorrect": true,
+                    "feedback": "These are the dimensions used to categorize the 'what' and 'how' of slop."
+                },
+                {
+                    "text": "Prototypical properties",
+                    "isCorrect": false,
+                    "feedback": "Prototypical properties are mass producibility, asymmetric effort, and superficial competence."
+                },
+                {
+                    "text": "Formal definitions",
+                    "isCorrect": false,
+                    "feedback": "Formal definitions have been resisted by AI slop."
+                },
+                {
+                    "text": "Academic categorizations",
+                    "isCorrect": false,
+                    "feedback": "Hiding the concept from academic categorization."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for low-quality AI content."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category of AI content."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop is the content itself, not the framework for variance."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Scale, speed:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "AI slop difference",
+                    "isCorrect": true,
+                    "feedback": "D'Isa argues the only difference now is scale and speed."
+                },
+                {
+                    "text": "Prototypical properties",
+                    "isCorrect": false,
+                    "feedback": "Prototypical properties are mass producibility, asymmetric effort, and feedback: "
+                },
+                {
+                    "text": "Dimensions of variance",
+                    "isCorrect": false,
+                    "feedback": "Dimensions of variance are purpose, personalization, and surrealism."
+                },
+                {
+                    "text": "Formal definitions",
+                    "isCorrect": false,
+                    "feedback": "Hiding the concept from academic categorization."
+                },
+                {
+                    "text": "Academic categorizations",
+                    "isCorrect": false,
+                    "feedback": "The concept has remained elusive to academic categorization."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for low-quality AI content."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category of AI content."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        }
+    ]
+}

@@ -1,0 +1,1592 @@
+{
+    "module_name": "Introduction to AI Slop",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "AI slop (also known as slop content or simply as slop) is digital content made with generative artificial intelligence that is perceived as lacking in effort, quality, or meaning, and produced in high volume as clickbait to gain advantage in the attention economy, or earn money."
+        },
+        {
+            "note_id": "n2",
+            "text": "It is a form of synthetic media usually linked to the monetization in the creator economy of social media and online advertising."
+        },
+        {
+            "note_id": "n3",
+            "text": "Coined in the 2020s, the term has a pejorative connotation similar to spam."
+        },
+        {
+            "note_id": "n4",
+            "text": "\"Slop\" was selected as the 2025 Word of the Year by both Merriam-Webster and the American Dialect Society."
+        },
+        {
+            "note_id": "n5",
+            "text": "AI slop has been variously defined as \"digital clutter\", \"filler content prioritizing speed and quantity over substance and quality\", and \"shoddy or unwanted AI content in social media, art, books [and] search results\"."
+        },
+        {
+            "note_id": "n6",
+            "text": "Jonathan Gilmore, a philosophy professor at the City University of New York, describes the material as having an \"incredibly banal, realistic style\" that is easy for the viewer to process."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for Merriam-Webster and the American Dialect Society, noting that both organizations selected 'Slop' as the 2025 Word of the Year.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note identifies two distinct organizations and their specific shared action/role in selecting the Word of the Year."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: AI slop. Branches: 'digital clutter', 'filler content prioritizing speed and quantity over substance and quality', and 'shoddy or unwanted AI content in social media, art, books [and] search results'.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides a root concept (AI slop) and three distinct, named conceptual definitions/paths that describe what it is."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'AI slop' using the definition provided in n1, including its alternative names (slop content, slop) and its characteristics (lacking effort, quality, or meaning, produced in high volume as clickbait).",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, technical term and its explicit definition."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that 'Slop' was selected as the 2025 Word of the Year by Merriam-Webster and the American Dialect Society. Use display_style: 'attention_pulse' because it is a surprising, high-profile fact.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 contains a highly specific data point regarding a prestigious award/recognition."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the direct quote from Jonathan Gilmore, a philosophy professor at the City University of New York, describing AI slop as having an 'incredibly banal, realistic style' that is easy for the viewer to process.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 provides an explicit speaker and a direct, impactful quote."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create a list of the various definitions of AI slop mentioned in n5: 'digital clutter', 'filler content prioritizing speed and quantity over substance and quality', and 'shoddy or unwanted AI content in social media, art, books [and] search results'. Use styling: 'bullets'.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides a list of three related descriptive phrases that define the concept."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the origin of the term 'AI slop', noting it was coined in the 2020s and has a pejorative connotation similar to spam. Use display_style: 'floating_overhang' because it refers to a specific time period (the 2020s).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 provides a distinct conceptual takeaway and a specific era."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while maximizing structural complexity. Specifically, I removed the 'insight_badge' for n4 because the 'entity_profiles' widget covers the same information (Word of the Year) with more depth and structural value. I also removed the 'itemized_breakdown' for n5 because the 'branching_tree' provides a more sophisticated visual representation of the conceptual definitions of AI slop. The 'jargon_buster' for n1 was kept as it provides the primary definition, which is a different angle from the conceptual branches in n5. The 'insight_badge' for n3 was retained as it provides unique historical context not covered by other widgets.",
+        "surviving_widgets": [
+            {
+                "widget_type": "entity_profiles",
+                "widget_context": "Create profiles for Merriam-Webster and the American Dialect Society, noting that both organizations selected 'Slop' as the 2025 Word of the Year.",
+                "source_notes_used": [
+                    "n4"
+                ],
+                "rationale": "The note identifies two distinct organizations and their specific shared action/role in selecting the Word of the Year."
+            },
+            {
+                "widget_type": "branching_tree",
+                "widget_context": "Root concept: AI slop. Branches: 'digital clutter', 'filler content prioritizing speed and quantity over substance and quality', and 'shoddy or unwanted AI content in social media, art, books [and] search results'.",
+                "source_notes_used": [
+                    "n5"
+                ],
+                "rationale": "Note n5 provides a root concept (AI slop) and three distinct, named conceptual definitions/paths that describe what it is."
+            },
+            {
+                "widget_type": "jargon_buster",
+                "widget_context": "Define 'AI slop' using the definition provided in n1, including its alternative names (slop content, slop) and its characteristics (lacking effort, quality, or meaning, produced in high volume as clickbait).",
+                "source_notes_used": [
+                    "n1"
+                ],
+                "rationale": "Note n1 provides a clear, technical term and its explicit definition."
+            },
+            {
+                "widget_type": "quote_block",
+                "widget_context": "Extract the direct quote from Jonathan Gilmore, a philosophy professor at the City University of New York, describing AI slop as having an 'incredibly banal, realistic style' that is easy for the viewer to process.",
+                "source_notes_used": [
+                    "n6"
+                ],
+                "rationale": "Note n6 provides an explicit speaker and a direct, impactful quote."
+            },
+            {
+                "widget_type": "insight_badge",
+                "widget_context": "Highlight the origin of the term 'AI slop', noting it was coined in the 2020s and has a pejorative connotation similar to spam. Use display_style: 'floating_overhang'.",
+                "source_notes_used": [
+                    "n3"
+                ],
+                "rationale": "Note n3 provides a distinct conceptual takeaway and a specific era."
+            }
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for Merriam-Webster and the American Dialect Society, noting that both organizations selected 'Slop' as the 2025 Word of the Year.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note identifies two distinct organizations and their specific shared action/role in selecting the Word of the Year."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: AI slop. Branches: 'digital clutter', 'filler content prioritizing speed and quantity over substance and quality', and 'shoddy or unwanted AI content in social media, art, books [and] search results'.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides a root concept (AI slop) and three distinct, named conceptual definitions/paths that describe what it is."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'AI slop' using the definition provided in n1, including its alternative names (slop content, slop) and its characteristics (lacking effort, quality, or meaning, produced in high volume as clickbait).",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, technical term and its explicit definition."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the direct quote from Jonathan Gilmore, a philosophy professor at the City University of New York, describing AI slop as having an 'incredibly banal, realistic style' that is easy for the viewer to process.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 provides an explicit speaker and a direct, impactful quote."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the origin of the term 'AI slop', noting it was coined in the 2020s and has a pejorative connotation similar to spam. Use display_style: 'floating_overhang'.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 provides a distinct conceptual takeaway and a specific era."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_IntroductiontoAISlop_w0",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "2025 Word of the Year: Key Organizations",
+                "intro_text": "Both Merriam-Webster and the American Dialect Society selected 'Slop' as the 2025 Word of the Year to describe low-quality AI-generated content.",
+                "entities": [
+                    {
+                        "name": "Merriam-Webster",
+                        "role": "Dictionary and Lexicography Organization",
+                        "description": "An organization that selected 'Slop' as the 2025 Word of the Year."
+                    },
+                    {
+                        "name": "American Dialect Society",
+                        "role": "Linguistic Organization",
+                        "description": "An organization that selected 'Slop' as the 2025 Word of the Year."
+                    }
+                ],
+                "entity_type": "organizations"
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IntroductiontoAISlop_w1",
+            "block_type": "branching_tree",
+            "branching_tree_data": {
+                "title": "Defining AI Slop",
+                "intro_text": "AI slop refers to low-quality, high-volume synthetic media produced by generative artificial intelligence, often used as clickbait for monetization.",
+                "root": "AI slop",
+                "branches": [
+                    {
+                        "label": "digital clutter",
+                        "emoji": "🗑️",
+                        "definition": "A general term used to describe the influx of low-grade AI material."
+                    },
+                    {
+                        "label": "filler content prioritizing speed and quantity over substance and quality",
+                        "emoji": "⏩",
+                        "definition": "Content created rapidly in high volumes, prioritizing quantity over actual meaning or quality."
+                    },
+                    {
+                        "label": "shoddy or unwanted AI content in social media, art, books [and] search results",
+                        "emoji": "📱",
+                        "definition": "Low-quality AI-generated material appearing across various digital platforms, including social media, art, and search results."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IntroductiontoAISlop_w2",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "AI slop",
+                "definition": "Digital content created with generative artificial intelligence that is perceived as lacking in effort, quality, or meaning, and produced in high volume as clickbait."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IntroductiontoAISlop_w3",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Jonathan Gilmore",
+                "quote": "incredibly banal, realistic style",
+                "context": "Jonathan Gilmore, a philosophy professor at the City University of New York, uses this phrase to describe the nature of AI slop and why it is easily processed by viewers."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IntroductiontoAISlop_w4",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🗑️",
+                "short_title": "2020s",
+                "expanded_detail": "The term 'AI slop' was coined in the 2020s to describe low-quality generative AI content. It carries a pejorative connotation similar to that of spam.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Rise of AI Slop",
+        "cards": [
+            {
+                "card_title": "The Digital Junk Drawer",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introductory hook to set the stage for the concept of AI slop.",
+                        "text_content": "You've likely seen it: a bizarre image of a six-fingered person, a nonsensical 'educational' video for kids, or a strangely generic article that says a lot without actually saying anything. This is the era of **AI slop**. Much like the physical junk drawer in your home, the internet is becoming filled with low-effort, synthetic content designed to capture your attention and make a quick buck."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon_buster widget provides a formal definition of the term 'AI slop' as requested by the notes.",
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the origin and connotation of the term.",
+                        "text_content": "The term isn't just a technical descriptor; it's a critique. It carries a heavy *pejorative* weight, much like the word 'spam' did during the early days of email. It describes a specific kind of digital pollution that emerged as generative AI became mainstream."
+                    }
+                ]
+            },
+            {
+                "card_title": "A New Word for a New Era",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Connecting the term's origin to its cultural significance.",
+                        "text_content": "Emerging in the **2020s**, the concept of 'slop' quickly moved from niche internet forums like 4chan and Hacker News into the broader cultural lexicon. It wasn't long before the world's leading linguistic authorities took notice of the phenomenon."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight_badge provides the timeline and the pejorative nature of the term.",
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w4"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity_profiles widget highlights the organizations that named it Word of the Year.",
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to how AI slop is defined and categorized.",
+                        "text_content": "But what exactly separates a helpful AI-generated summary from 'slop'? The line is often blurry, but the characteristics are unmistakable."
+                    }
+                ]
+            },
+            {
+                "card_title": "Anatomy of the Slop",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the nature of AI slop as synthetic media and its purpose.",
+                        "text_content": "At its core, AI slop is a form of **synthetic media**. It is typically linked to the 'creator economy,' where high volumes of content are pumped out to maximize advertising revenue and click-through rates. It's often described as 'digital clutter' or 'filler content' that prioritizes speed over substance."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The branching_tree widget visually breaks down the definition and purpose of AI slop.",
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the psychological appeal and the 'banal' nature of the content.",
+                        "text_content": "One of the most insidious parts of slop is how easy it is to consume. Because it often mimics a realistic style without having any actual depth, it requires very little mental effort from the viewer to process."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Banal Aesthetic",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the academic perspective on the style of AI slop.",
+                        "text_content": "To understand why we often scroll right past slop without realizing it's low-quality, we can look to the insights of experts. **Jonathan Gilmore**, a philosophy professor at the City University of New York, has analyzed the specific 'vibe' of this content."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The quote_block provides the specific description of the style of AI slop.",
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Final concluding thought on the impact of AI slop.",
+                        "text_content": "This 'banal' quality is exactly what makes it so effective as clickbait. By filling the digital landscape with content that looks professional but feels empty, AI slop transforms the internet into a vast sea of synthetic noise."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Rise of AI Slop",
+        "module_description": "Explore the era of digital pollution where low-effort, synthetic content floods the internet to capture attention and profit.",
+        "alternative_descriptions": [
+            "Uncover the hidden 'digital junk drawer' of the internet and learn why the world's leading dictionaries are calling it 'slop'.",
+            "Dive into the sea of synthetic noise: discover how AI-generated clickbait is transforming the digital landscape.",
+            "Is your feed filled with six-fingered people and nonsensical videos? Step inside the anatomy of AI slop."
+        ],
+        "tags": [
+            "Generative AI",
+            "Synthetic Media",
+            "Clickbait",
+            "Digital Pollution",
+            "Creator Economy"
+        ],
+        "loading_screen_trivia": "Both Merriam-Webster and the American Dialect Society selected 'Slop' as the 2025 Word of the Year.",
+        "timeline": [
+            {
+                "year": "2020s",
+                "event": "Concept of 'slop' emerges",
+                "related_card_id": 2
+            },
+            {
+                "year": "2025",
+                "event": "Slop named Word of the Year",
+                "related_card_id": 2
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Jonathan Gilmore",
+                "emoji_avatar": "🎓",
+                "historical_role": "Philosophy Professor",
+                "core_contribution": "Analyzed the 'banal, realistic style' of AI slop and why it is easily processed by viewers."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The rise of AI slop highlights the growing challenge of discerning quality and substance in an era of high-volume, synthetic media designed for monetization."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Introduction to AI Slop",
+                "created_at": "2026-05-19T20:24:23.628090+00:00",
+                "card_title": "The Digital Junk Drawer",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "You've likely seen it: a bizarre image of a six-fingered person, a nonsensical 'educational' video for kids, or a strangely generic article that says a lot without actually saying anything. This is the era of **AI slop**. Much like the physical junk drawer in your home, the internet is becoming filled with low-effort, synthetic content designed to capture your attention and make a quick buck."
+                    },
+                    {
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w2",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "AI slop",
+                            "definition": "Digital content created with generative artificial intelligence that is perceived as lacking in effort, quality, or meaning, and produced in high volume as clickbait."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "The term isn't just a technical descriptor; it's a critique. It carries a heavy *pejorative* weight, much like the word 'spam' did during the early days of email. It describes a specific kind of digital pollution that emerged as generative AI became mainstream."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Introduction to AI Slop",
+                "created_at": "2026-05-19T20:24:23.628090+00:00",
+                "card_title": "A New Word for a New Era",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Emerging in the **2020s**, the concept of 'slop' quickly moved from niche internet forums like 4chan and Hacker News into the broader cultural lexicon. It wasn't long before the world's leading linguistic authorities took notice of the phenomenon."
+                    },
+                    {
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w4",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🗑️",
+                            "short_title": "2020s",
+                            "expanded_detail": "The term 'AI slop' was coined in the 2020s to describe low-quality generative AI content. It carries a pejorative connotation similar to that of spam.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w0",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "2025 Word of the Year: Key Organizations",
+                            "intro_text": "Both Merriam-Webster and the American Dialect Society selected 'Slop' as the 2025 Word of the Year to describe low-quality AI-generated content.",
+                            "entities": [
+                                {
+                                    "name": "Merriam-Webster",
+                                    "role": "Dictionary and Lexicography Organization",
+                                    "description": "An organization that selected 'Slop' as the 2025 Word of the Year."
+                                },
+                                {
+                                    "name": "American Dialect Society",
+                                    "role": "Linguistic Organization",
+                                    "description": "An organization that selected 'Slop' as the 2025 Word of the Year."
+                                }
+                            ],
+                            "entity_type": "organizations"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_2_block_2"
+                    },
+                    {
+                        "block_id": "card_2_block_3",
+                        "block_type": "text",
+                        "text_content": "But what exactly separates a helpful AI-generated summary from 'slop'? The line is often blurry, but the characteristics are unmistakable."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Introduction to AI Slop",
+                "created_at": "2026-05-19T20:24:23.628090+00:00",
+                "card_title": "Anatomy of the Slop",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "At its core, AI slop is a form of **synthetic media**. It is typically linked to the 'creator economy,' where high volumes of content are pumped out to maximize advertising revenue and click-through rates. It's often described as 'digital clutter' or 'filler content' that prioritizes speed over substance."
+                    },
+                    {
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w1",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Defining AI Slop",
+                            "intro_text": "AI slop refers to low-quality, high-volume synthetic media produced by generative artificial intelligence, often used as clickbait for monetization.",
+                            "root": "AI slop",
+                            "branches": [
+                                {
+                                    "label": "digital clutter",
+                                    "emoji": "🗑️",
+                                    "definition": "A general term used to describe the influx of low-grade AI material."
+                                },
+                                {
+                                    "label": "filler content prioritizing speed and quantity over substance and quality",
+                                    "emoji": "⏩",
+                                    "definition": "Content created rapidly in high volumes, prioritizing quantity over actual meaning or quality."
+                                },
+                                {
+                                    "label": "shoddy or unwanted AI content in social media, art, books [and] search results",
+                                    "emoji": "📱",
+                                    "definition": "Low-quality AI-generated material appearing across various digital platforms, including social media, art, and search results."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "One of the most insidious parts of slop is how easy it is to consume. Because it often mimics a realistic style without having any actual depth, it requires very little mental effort from the viewer to process."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Introduction to AI Slop",
+                "created_at": "2026-05-19T20:24:23.628090+00:00",
+                "card_title": "The Banal Aesthetic",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "To understand why we often scroll right past slop without realizing it's low-quality, we can look to the insights of experts. **Jonathan Gilmore**, a philosophy professor at the City University of New York, has analyzed the specific 'vibe' of this content."
+                    },
+                    {
+                        "widget_id": "prebuilt_IntroductiontoAISlop_w3",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Jonathan Gilmore",
+                            "quote": "incredibly banal, realistic style",
+                            "context": "Jonathan Gilmore, a philosophy professor at the City University of New York, uses this phrase to describe the nature of AI slop and why it is easily processed by viewers."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "This 'banal' quality is exactly what makes it so effective as clickbait. By filling the digital landscape with content that looks professional but feels empty, AI slop transforms the internet into a vast sea of synthetic noise."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "What is the definition of AI slop?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Low-quality synthetic content",
+                    "isCorrect": true,
+                    "feedback": "AI slop is low-effort, high-volume synthetic content used as clickbait."
+                },
+                {
+                    "text": "High-end digital art",
+                    "isCorrect": false,
+                    "feedback": "AI slop is specifically perceived as lacking in quality and effort."
+                },
+                {
+                    "text": "Curated AI summaries",
+                    "isCorrect": false,
+                    "feedback": "Slop is characterized by a lack of meaning and high volume."
+                },
+                {
+                    "text": "Verified AI research",
+                    "isCorrect": false,
+                    "feedback": "Slop is low-effort content, not verified scientific research."
+                },
+                {
+                    "text": "Human-authored spam",
+                    "isCorrect": false,
+                    "feedback": "AI slop is created specifically with generative artificial intelligence."
+                },
+                {
+                    "text": "Interactive AI software",
+                    "isCorrect": false,
+                    "feedback": "Slop refers to the content produced, not the software itself."
+                },
+                {
+                    "text": "Optimized AI code",
+                    "isCorrect": false,
+                    "feedback": "Slop is low-quality media, not functional programming code."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which decade saw the emergence of the concept of 'slop'?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "2020s",
+                    "isCorrect": true,
+                    "feedback": "The concept of slop emerged in the 2020s."
+                },
+                {
+                    "text": "2010s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged later, specifically in the 2020s."
+                },
+                {
+                    "text": "2000s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s, not the 2000s."
+                },
+                {
+                    "text": "1990s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s, not the 1990s."
+                },
+                {
+                    "text": "1980s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s, not the 1980s."
+                },
+                {
+                    "text": "1970s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s, not the 1970s."
+                },
+                {
+                    "text": "2030s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s, not the future."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which organization selected 'Slop' as the 2025 Word of the Year?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Merriam-Webster",
+                    "isCorrect": true,
+                    "feedback": "Merriam-Webster selected 'Slop' as the 2025 Word of the Year."
+                },
+                {
+                    "text": "Oxford English Dictionary",
+                    "isCorrect": false,
+                    "feedback": "Oxford was not mentioned; Merriam-Webster and ADS were."
+                },
+                {
+                    "text": "Cambridge Dictionary",
+                    "isCorrect": false,
+                    "feedback": "Cambridge was not mentioned; Merriam-Webster and ADS were."
+                },
+                {
+                    "text": "Collins Dictionary",
+                    "isCorrect": false,
+                    "feedback": "Collins was not mentioned; Merriam-Webster and ADS were."
+                },
+                {
+                    "text": "Britannica",
+                    "isCorrect": false,
+                    "feedback": "Britannica is an encyclopedia, not the selecting organization."
+                },
+                {
+                    "text": "The New York Times",
+                    "isCorrect": false,
+                    "feedback": "The NYT is a newspaper, not a linguistic authority."
+                },
+                {
+                    "text": "UNESCO",
+                    "isCorrect": false,
+                    "feedback": "UNESCO is an international body, not a dictionary organization."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the primary goal of producing AI slop?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Maximize advertising revenue",
+                    "isCorrect": true,
+                    "feedback": "Slop is produced to maximize advertising revenue and click-through rates."
+                },
+                {
+                    "text": "Improve AI accuracy",
+                    "isCorrect": false,
+                    "feedback": "Slop prioritizes speed and volume over accuracy."
+                },
+                {
+                    "text": "Educate the public",
+                    "isCorrect": false,
+                    "feedback": "Slop is often nonsensical and lacks actual meaning."
+                },
+                {
+                    "text": "Develop new algorithms",
+                    "isCorrect": false,
+                    "feedback": "Slop is the output of AI, not a development tool."
+                },
+                {
+                    "text": "Promote digital literacy",
+                    "isCorrect": false,
+                    "feedback": "Slop is digital pollution, not a literacy tool."
+                },
+                {
+                    "text": "Archive internet history",
+                    "isCorrect": false,
+                    "feedback": "Slop is low-effort filler, not a historical archive."
+                },
+                {
+                    "text": "Reduce server costs",
+                    "isCorrect": false,
+                    "feedback": "Slop is created for profit, not to save costs."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What term describes AI slop's prioritization of speed over substance?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Filler content",
+                    "isCorrect": true,
+                    "feedback": "AI slop is often described as filler content prioritizing speed."
+                },
+                {
+                    "text": "Core content",
+                    "isCorrect": false,
+                    "feedback": "Slop is the opposite of core, substantive content."
+                },
+                {
+                    "text": "Premium content",
+                    "isCorrect": false,
+                    "feedback": "Slop is low-quality, not premium."
+                },
+                {
+                    "text": "Curated content",
+                    "isCorrect": false,
+                    "feedback": "Slop is mass-produced, not carefully curated."
+                },
+                {
+                    "text": "Academic content",
+                    "isCorrect": false,
+                    "feedback": "Slop lacks the substance required for academic work."
+                },
+                {
+                    "text": "Editorial content",
+                    "isCorrect": false,
+                    "feedback": "Slop is synthetic and low-effort, not editorial."
+                },
+                {
+                    "text": "Verified content",
+                    "isCorrect": false,
+                    "feedback": "Slop is often nonsensical or inaccurate."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Who described AI slop as having an 'incredibly banal, realistic style'?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Jonathan Gilmore",
+                    "isCorrect": true,
+                    "feedback": "Jonathan Gilmore analyzed the banal, realistic style of AI slop."
+                },
+                {
+                    "text": "Simon Willison",
+                    "isCorrect": false,
+                    "feedback": "Willison championed the term, but Gilmore analyzed the style."
+                },
+                {
+                    "text": "Neal Mohan",
+                    "isCorrect": false,
+                    "feedback": "Mohan is the YouTube CEO, not the style analyst."
+                },
+                {
+                    "text": "Cody Kommers",
+                    "isCorrect": false,
+                    "feedback": "Kommers wrote an academic article on slop definitions."
+                },
+                {
+                    "text": "Francesco D'Isa",
+                    "isCorrect": false,
+                    "feedback": "D'Isa is an art curator, not the style analyst."
+                },
+                {
+                    "text": "Jane Friedman",
+                    "isCorrect": false,
+                    "feedback": "Friedman is an author who reported AI novels."
+                },
+                {
+                    "text": "David Berry",
+                    "isCorrect": false,
+                    "feedback": "Berry coined the term 'scholarslop'."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the connotation of the term 'AI slop'?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Pejorative",
+                    "isCorrect": true,
+                    "feedback": "The term 'slop' carries a heavy pejorative weight."
+                },
+                {
+                    "text": "Positive",
+                    "isCorrect": false,
+                    "feedback": "Slop is a critique of low-quality content."
+                },
+                {
+                    "text": "Neutral",
+                    "isCorrect": false,
+                    "feedback": "The term is a critique, not a neutral descriptor."
+                },
+                {
+                    "text": "Academic",
+                    "isCorrect": false,
+                    "feedback": "The term is a pejorative critique, not academic."
+                },
+                {
+                    "text": "Technical",
+                    "isCorrect": false,
+                    "feedback": "While it describes technology, its weight is pejorative."
+                },
+                {
+                    "text": "Complimentary",
+                    "isCorrect": false,
+                    "feedback": "Slop is used to describe unwanted, low-quality content."
+                },
+                {
+                    "text": "Formal",
+                    "isCorrect": false,
+                    "feedback": "The term is a pejorative critique, often from internet forums."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "AI slop is digital content created with generative AI that is ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "lacking in quality",
+                    "isCorrect": true,
+                    "feedback": "AI slop is defined as lacking effort, quality, or meaning."
+                },
+                {
+                    "text": "highly curated",
+                    "isCorrect": false,
+                    "feedback": "Slop is low-effort and synthetic, not curated."
+                },
+                {
+                    "text": "peer-reviewed",
+                    "isCorrect": false,
+                    "feedback": "Slop is typically low-quality clickbait, not peer-reviewed."
+                },
+                {
+                    "text": "fact-checked",
+                    "isCorrect": false,
+                    "feedback": "Slop often lacks substance and is produced rapidly."
+                },
+                {
+                    "text": "human-authored",
+                    "isCorrect": false,
+                    "feedback": "Slop is synthetic media created by generative AI."
+                },
+                {
+                    "text": "expert-verified",
+                    "isCorrect": false,
+                    "feedback": "Slop is perceived as lacking in effort and meaning."
+                },
+                {
+                    "text": "deeply researched",
+                    "isCorrect": false,
+                    "feedback": "Slop prioritizes speed over substance."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The term 'AI slop' emerged in the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "2020s",
+                    "isCorrect": true,
+                    "feedback": "The concept of slop emerged in the 2020s."
+                },
+                {
+                    "text": "2010s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged later, in the 2020s."
+                },
+                {
+                    "text": "2000s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s."
+                },
+                {
+                    "text": "1990s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s."
+                },
+                {
+                    "text": "1980s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s."
+                },
+                {
+                    "text": "2030s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s."
+                },
+                {
+                    "text": "2015s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s.}], "
+                },
+                {
+                    "text": "2025s",
+                    "isCorrect": false,
+                    "feedback": "The term emerged in the 2020s."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Merriam-Webster and the American Dialect Society named 'Slop' the ____ Word of the Year.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2025",
+                    "isCorrect": true,
+                    "feedback": "Both organizations selected 'Slop' as the 2025 Word of the Year."
+                },
+                {
+                    "text": "2024",
+                    "isCorrect": false,
+                    "feedback": "It was selected as the 2025 Word of the Year."
+                },
+                {
+                    "text": "2023",
+                    "isCorrect": false,
+                    "feedback": "It was selected as the 2025 Word of the Year."
+                },
+                {
+                    "text": "2022",
+                    "isCorrect": false,
+                    "feedback": "It was selected as the 2025 Word of the Year."
+                },
+                {
+                    "text": "2021",
+                    "isCorrect": false,
+                    "feedback": "It was selected as the 2025 Word of the Year."
+                },
+                {
+                    "text": "2026",
+                    "isCorrect": false,
+                    "feedback": "It was selected as the 2025 Word of the Year."
+                },
+                {
+                    "text": "2020",
+                    "isCorrect": false,
+                    "feedback": "It was selected as the 2025 Word of the Year."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "AI slop is a form of ____ media.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "synthetic",
+                    "isCorrect": true,
+                    "feedback": "AI slop is fundamentally a form of synthetic media."
+                },
+                {
+                    "text": "organic",
+                    "isCorrect": false,
+                    "feedback": "Slop is AI-generated, making it synthetic, not organic."
+                },
+                {
+                    "text": "analog",
+                    "isCorrect": false,
+                    "feedback": "Slop is digital, synthetic media."
+                },
+                {
+                    "text": "traditional",
+                    "isCorrect": false,
+                    "feedback": "Slop is created by generative AI, not traditional media."
+                },
+                {
+                    "text": "manual",
+                    "isCorrect": false,
+                    "feedback": "Slop is synthetic, not manually created."
+                },
+                {
+                    "text": "physical",
+                    "isCorrect": false,
+                    "feedback": "Slop is digital synthetic media."
+                },
+                {
+                    "text": "broadcast",
+                    "isCorrect": false,
+                    "feedback": "Slop is synthetic media produced by AI."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "AI slop is often described as ____ content that prioritizes speed over substance.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "filler",
+                    "isCorrect": true,
+                    "feedback": "It is often described as filler content prioritizing speed over substance."
+                },
+                {
+                    "text": "premium",
+                    "isCorrect": false,
+                    "feedback": "Slop is low-quality, not premium content."
+                },
+                {
+                    "text": "educational",
+                    "isCorrect": false,
+                    "feedback": "Slop is often nonsensical, not truly educational."
+                },
+                {
+                    "text": "curated",
+                    "isCorrect": false,
+                    "feedback": "Slop is high-volume and low-effort, not curated."
+                },
+                {
+                    "text": "academic",
+                    "isCorrect": false,
+                    "feedback": "Slop prioritizes speed over substance, not academic rigor."
+                },
+                {
+                    "text": "specialized",
+                    "isCorrect": false,
+                    "feedback": "Slop is generic and low-effort."
+                },
+                {
+                    "text": "authoritative",
+                    "isCorrect": false,
+                    "feedback": "Slop is perceived as lacking in quality and meaning."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Jonathan Gilmore describes the style of AI slop as ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "incredibly banal",
+                    "isCorrect": true,
+                    "feedback": "Gilmore describes it as having an incredibly banal, realistic style."
+                },
+                {
+                    "text": "highly complex",
+                    "isCorrect": false,
+                    "feedback": "Gilmore describes it as banal, not complex."
+                },
+                {
+                    "text": "deeply emotional",
+                    "isCorrect": false,
+                    "feedback": "Slop is described as feeling empty, not emotional."
+                },
+                {
+                    "text": "artistically innovative",
+                    "isCorrect": false,
+                    "feedback": "Slop is perceived as lacking in effort and quality."
+                },
+                {
+                    "text": "surrealistically abstract",
+                    "isCorrect": false,
+                    "feedback": "Gilmore emphasizes its banal, realistic style."
+                },
+                {
+                    "text": "intellectually stimulating",
+                    "isCorrect": false,
+                    "feedback": "Slop is described as requiring very little mental effort."
+                },
+                {
+                    "text": "visually stunning",
+                    "isCorrect": false,
+                    "feedback": "Slop is described as banal and empty."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The term 'AI slop' carries a ____ weight, similar to the word 'spam'.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "pejorative",
+                    "isCorrect": true,
+                    "feedback": "The term carries a heavy pejorative weight, like 'spam'."
+                },
+                {
+                    "text": "positive",
+                    "isCorrect": false,
+                    "feedback": "The term is a critique and is pejorative, not positive."
+                },
+                {
+                    "text": "neutral",
+                    "isCorrect": false,
+                    "feedback": "The term is described as a critique with pejorative weight."
+                },
+                {
+                    "text": "technical",
+                    "isCorrect": false,
+                    "feedback": "While it is a descriptor, it is specifically noted as a critique."
+                },
+                {
+                    "text": "honorific",
+                    "isCorrect": false,
+                    "feedback": "The term is used as a critique, not an honorific."
+                },
+                {
+                    "text": "objective",
+                    "isCorrect": false,
+                    "feedback": "The term is a pejorative critique of low-quality content."
+                },
+                {
+                    "text": "academic",
+                    "isCorrect": false,
+                    "feedback": "The term is a pejorative critique, not a neutral academic term."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "AI slop is typically linked to the ____ economy to maximize revenue.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "creator",
+                    "isCorrect": true,
+                    "feedback": "It is linked to the creator economy to maximize advertising revenue."
+                },
+                {
+                    "text": "gig",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies the creator economy."
+                },
+                {
+                    "text": "sharing",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies the creator economy."
+                },
+                {
+                    "text": "token",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies the creator economy."
+                },
+                {
+                    "text": "attention",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies the creator economy in this context."
+                },
+                {
+                    "text": "subscription",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies the creator economy."
+                },
+                {
+                    "text": "industrial",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies the creator economy."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Low-effort, synthetic, clickbait: what is this?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop is low-effort, synthetic content produced as clickbait."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for low-grade AI material."
+                },
+                {
+                    "text": "Filler content",
+                    "isCorrect": false,
+                    "feedback": "Filler content prioritizes speed and quantity over substance."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category AI slop belongs to."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is an early email term similar to AI slop."
+                },
+                {
+                    "text": "Digital pollution",
+                    "isCorrect": false,
+                    "feedback": "Digital pollution describes the effect of generative AI mainstreaming."
+                },
+                {
+                    "text": "Banal style",
+                    "isCorrect": false,
+                    "feedback": "Banal style is a characteristic of slop, not the term."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "2020s, pejorative, clickbait: what is this?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop emerged in the 2020s as a pejorative term."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is an older term from the early email era."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general descriptor for AI material."
+                },
+                {
+                    "text": "Filler content",
+                    "isCorrect": false,
+                    "feedback": "Filler content focuses on quantity over quality."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the general form of AI slop."
+                },
+                {
+                    "text": "Banal style",
+                    "isCorrect": false,
+                    "feedback": "Banal style describes the aesthetic of the content."
+                },
+                {
+                    "text": "Digital pollution",
+                    "isCorrect": false,
+                    "feedback": "Digital pollution is the result of mainstream generative AI."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Merriam-Webster, American Dialect Society, 2025: what was selected?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Slop",
+                    "isCorrect": true,
+                    "feedback": "Both organizations selected 'Slop' as the 2025 Word of the Year."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "The specific word selected was 'Slop'."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is a similar pejorative but not the 2025 word."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the technical category, not the word."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a descriptive phrase, not a single word."
+                },
+                {
+                    "text": "Filler content",
+                    "isCorrect": false,
+                    "feedback": "Filler content is a description of the material."
+                },
+                {
+                    "text": "Banal style",
+                    "isCorrect": false,
+                    "feedback": "Banal style is a characteristic of the content."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Synthetic media, creator economy, advertising revenue: what is this?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop is synthetic media linked to the creator economy."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for AI material."
+                },
+                {
+                    "text": "Filler content",
+                    "isCorrect": false,
+                    "feedback": "Filler content prioritizes speed over substance."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is an older term for unwanted email."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category, not the specific term."
+                },
+                {
+                    "text": "Banal style",
+                    "isCorrect": false,
+                    "feedback": "Banal style is the aesthetic of the content."
+                },
+                {
+                    "text": "Digital pollution",
+                    "isCorrect": false,
+                    "feedback": "Digital pollution is the result of AI mainstreaming."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Digital clutter, filler content, shoddy AI: what is this?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop is described as digital clutter and filler content."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is a similar pejorative from the email era."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the general form of AI slop."
+                },
+                {
+                    "text": "Banal style",
+                    "isCorrect": false,
+                    "feedback": "Banal style is a specific aesthetic trait."
+                },
+                {
+                    "text": "Digital pollution",
+                    "isCorrect": false,
+                    "feedback": "Digital pollution is the broader effect of AI."
+                },
+                {
+                    "text": "Creator economy",
+                    "isCorrect": false,
+                    "feedback": "The creator economy is the system that produces slop."
+                },
+                {
+                    "text": "Clickbait",
+                    "isCorrect": false,
+                    "feedback": "Clickbait is the purpose of producing AI slop."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Philosophy professor, City University, banal style: who is this?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Jonathan Gilmore",
+                    "isCorrect": true,
+                    "feedback": "Jonathan Gilmore analyzed the banal, realistic style of AI slop."
+                },
+                {
+                    "text": "Merriam-Webster",
+                    "isCorrect": false,
+                    "feedback": "Merriam-Webster is a lexicography organization."
+                },
+                {
+                    "text": "American Dialect Society",
+                    "isCorrect": false,
+                    "feedback": "The American Dialect Society is a linguistic organization."
+                },
+                {
+                    "text": "Simon Willison",
+                    "isCorrect": false,
+                    "feedback": "Simon Willison is a computer programmer."
+                },
+                {
+                    "text": "Cody Kommers",
+                    "isCorrect": false,
+                    "feedback": "Cody Kommers is a scholar who studied slop definitions."
+                },
+                {
+                    "text": "Francesco D'Isa",
+                    "isCorrect": false,
+                    "feedback": "Francesco D'Isa is an art curator."
+                },
+                {
+                    "text": "Neal Mohan",
+                    "isCorrect": false,
+                    "feedback": "Neal Mohan is the CEO of YouTube."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Professional look, empty feel, synthetic noise: what is this?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop looks professional but feels empty."
+                },
+                {
+                    "text": "Digital clutter",
+                    "isCorrect": false,
+                    "feedback": "Digital clutter is a general term for AI material."
+                },
+                {
+                    "text": "Filler content",
+                    "isCorrect": false,
+                    "feedback": "Filler content prioritizes speed over substance."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is an older term for unwanted email."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category."
+                },
+                {
+                    "text": "Banal style",
+                    "isCorrect": false,
+                    "feedback": "Banal style is the specific aesthetic trait."
+                },
+                {
+                    "text": "Digital pollution",
+                    "isCorrect": false,
+                    "feedback": "Digital pollution is the result of AI mainstreaming."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        }
+    ]
+}

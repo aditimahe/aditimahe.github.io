@@ -1,0 +1,3708 @@
+{
+    "module_name": "European Colonization and Early Settlements",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "It is believed that the first documented European to explore the east coast of Canada was Norse explorer Leif Erikson. In approximately 1000 AD, the Norse built a small short-lived encampment that was occupied sporadically for perhaps 20 years at L'Anse aux Meadows on the northern tip of Newfoundland."
+        },
+        {
+            "note_id": "n2",
+            "text": "No further European exploration occurred until 1497, when seafarer John Cabot explored and claimed Canada's Atlantic coast in the name of Henry VII of England."
+        },
+        {
+            "note_id": "n3",
+            "text": "In 1534, French explorer Jacques Cartier explored the Gulf of Saint Lawrence where, on July 24, he planted a 10-metre (33 ft) cross bearing the words, \"long live the King of France\", and took possession of the territory New France in the name of King Francis I."
+        },
+        {
+            "note_id": "n4",
+            "text": "In 1535, Indigenous inhabitants of the present-day Quebec City region used the word to direct French explorer Jacques Cartier to the village of Stadacona."
+        },
+        {
+            "note_id": "n5",
+            "text": "The early 16th century saw European mariners with navigational techniques pioneered by the Basque and Portuguese establish seasonal whaling and fishing outposts along the Atlantic coast."
+        },
+        {
+            "note_id": "n6",
+            "text": "In 1583, Sir Humphrey Gilbert, by the royal prerogative of Queen Elizabeth I, founded St John's, Newfoundland, as the first North American English seasonal camp."
+        },
+        {
+            "note_id": "n7",
+            "text": "In 1600, the French established their first seasonal trading post at Tadoussac along the Saint Lawrence."
+        },
+        {
+            "note_id": "n8",
+            "text": "French explorer Samuel de Champlain arrived in 1603 and established the first permanent year-round European settlements at Port Royal (in 1605) and Quebec City (in 1608)."
+        },
+        {
+            "note_id": "n9",
+            "text": "Among the colonists of New France, Canadiens extensively settled the Saint Lawrence River valley and Acadians settled the present-day Maritimes, while fur traders and Catholic missionaries explored the Great Lakes, Hudson Bay, and the Mississippi watershed to Louisiana."
+        },
+        {
+            "note_id": "n10",
+            "text": "The Beaver Wars broke out in the mid-17th century over control of the North American fur trade."
+        },
+        {
+            "note_id": "n11",
+            "text": "Mainland Nova Scotia came under British rule with the 1713 Treaty of Utrecht and Canada and most of New France came under British rule in 1763 after the Seven Years' War."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid for the early European exploration and settlement of Canada. Include the following key-value pairs: 'First Norse Exploration': '1000 AD', 'John Cabot Exploration': '1497', 'Jacques Cartier Exploration': '1534', 'St John's Founded': '1583', 'Tadoussac Trading Post': '1600', 'Port Royal Settlement': '1605', 'Quebec City Settlement': '1608'.",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n6",
+                "n7",
+                "n8"
+            ],
+            "rationale": "The notes provide a series of distinct, unrelated numerical dates associated with specific exploration and settlement events, fitting the quantitative fact grid's spec-sheet style."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following entities and their distinct roles in early Canadian colonization: Leif Erikson (Norse explorer who built the first short-lived encampment), John Cabot (seafarer who claimed the Atlantic coast for England), Jacques Cartier (French explorer who claimed New France for France), and Samuel de Champlain (French explorer who established the first permanent year-round settlements).",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n8"
+            ],
+            "rationale": "The notes provide four distinct historical figures with specific, unique roles in the exploration and settlement of Canada."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following groups in New France: Canadiens (settled the Saint Lawrence River valley), Acadians (settled the Maritimes), fur traders (explored the Great Lakes, Hudson Bay, and Mississippi watershed), and Catholic missionaries (explored the Great Lakes, Hudson Bay, and Mississippi watershed).",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "The notes identify four distinct groups of colonists with specific and different geographical roles and settlement patterns."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a chronological sequence of early European exploration and claims in Canada. Step 1: Leif Erikson (approx. 1000 AD) at L'Anse aux Meadows. Step 2: John Cabot (1497) claiming the Atlantic coast for England. Step 3: Jacques Cartier (1534) claiming New France for France. Step 4: Sir Humphrey Gilbert (1583) founding St John's as the first English seasonal camp. Step 5: Samuel de Champlain (1603-1608) establishing the first permanent year-round settlements. Use a chronological timeline style.",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n6",
+                "n8"
+            ],
+            "rationale": "The notes provide a clear, sequential timeline of distinct exploration and settlement events from 1000 AD to 1608."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the direct quote 'long live the King of France' and attribute it to the cross planted by Jacques Cartier on July 24, 1534.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a direct, verbatim quote inscribed on a cross planted by a specific historical figure."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Treaty of Utrecht' (1713) and its purpose: bringing mainland Nova Scotia under British rule.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "The note explicitly names a formal legal treaty and describes the specific territorial outcome it achieved."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' to list the different groups of colonists and explorers in New France and the regions they settled or explored, as described in note n9. Include Canadiens (Saint Lawrence River valley), Acadians (present-day Maritimes), and fur traders and Catholic missionaries (Great Lakes, Hudson Bay, and the Mississippi watershed to Louisiana).",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "Note n9 provides a clear list of three distinct groups of people and their corresponding geographic areas of settlement or exploration."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'Who was the first documented European to explore the east coast of Canada?' Back: 'Leif Erikson, a Norse explorer who established a short-lived encampment at L'Anse aux Meadows around 1000 AD.'",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 presents a factual answer to a curiosity-inducing question about the first European explorer of Canada."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date 1000 AD and the location L'Anse aux Meadows as the site of the first documented European exploration of Canada's east coast by Leif Erikson. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a specific date and physical location for a pivotal historical event."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date 1497 and the action of John Cabot claiming Canada's Atlantic coast for Henry VII of England. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides a specific date and a pivotal event of exploration."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date July 24, 1534, and the act of Jacques Cartier planting a 10-metre cross to claim New France for King Francis I. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a precise date and a specific, symbolic action."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the year 1583 and the founding of St John's, Newfoundland, as the first North American English seasonal camp. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides a specific year and a physical location for a first-of-its-kind settlement."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the year 1600 and the establishment of the first French seasonal trading post at Tadoussac. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n7"
+            ],
+            "rationale": "The note provides a specific year and a physical location for a first-of-its-kind post."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the years 1605 and 1608 as the dates Samuel de Champlain established the first permanent year-round European settlements at Port Royal and Quebec City respectively. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note provides specific dates for the establishment of the first permanent settlements."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the 1713 Treaty of Utrecht and the 1763 transition of Canada and most of New France to British rule. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "The note provides specific dates and treaties for major geopolitical shifts."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Colonists of New France. Branches: Canadiens (settled Saint Lawrence River valley), Acadians (settled present-day Maritimes), Fur traders and Catholic missionaries (explored Great Lakes, Hudson Bay, and Mississippi watershed to Louisiana).",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "The note explicitly breaks down the different named groups of colonists and their respective settlement/exploration paths."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the mid-17th century outbreak of the Beaver Wars over control of the North American fur trade. Use display_style: attention_pulse.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "The note highlights a dramatic narrative pivot (a war) caused by economic competition."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "The pruning process focused on removing redundant widgets that targeted the same information. The 'stepper' (raw_w3) was chosen over the 'fact_grid' (raw_w0) and the series of 'insight_badges' (raw_w8 through raw_w13) because it provides a superior, chronological structural narrative of the exploration timeline. The 'entity_profiles' (raw_w1) was kept as it provides a different angle (biographical) compared to the chronological stepper. For the groups in New France (note n9), the 'branching_tree' (raw_w15) was selected over 'entity_profiles' (raw_w2) and 'itemized_breakdown' (raw_w6) because it better visualizes the structural distribution of these groups across the geography. The 'flip_reveal' (raw_w7) was removed as it is a redundant, simpler version of the information already captured in the stepper and profiles. The 'quote_block' (raw_w4), 'document_highlight' (raw_w5), and the remaining unique 'insight_badges' (raw_w14, raw_w16) were kept as they provide distinct angles or unique information not covered by the structural widgets.",
+        "surviving_widget_ids": [
+            "raw_w1",
+            "raw_w3",
+            "raw_w4",
+            "raw_w5",
+            "raw_w14",
+            "raw_w15",
+            "raw_w16"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following entities and their distinct roles in early Canadian colonization: Leif Erikson (Norse explorer who built the first short-lived encampment), John Cabot (seafarer who claimed the Atlantic coast for England), Jacques Cartier (French explorer who claimed New France for France), and Samuel de Champlain (French explorer who established the first permanent year-round settlements).",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n8"
+            ],
+            "rationale": "The notes provide four distinct historical figures with specific, unique roles in the exploration and settlement of Canada."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a chronological sequence of early European exploration and claims in Canada. Step 1: Leif Erikson (approx. 1000 AD) at L'Anse aux Meadows. Step 2: John Cabot (1497) claiming the Atlantic coast for England. Step 3: Jacques Cartier (1534) claiming New France for France. Step 4: Sir Humphrey Gilbert (1583) founding St John's as the first English seasonal camp. Step 5: Samuel de Champlain (1603-1608) establishing the first permanent year-round settlements. Use a chronological timeline style.",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n6",
+                "n8"
+            ],
+            "rationale": "The notes provide a clear, sequential timeline of distinct exploration and settlement events from 1000 AD to 1608."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the direct quote 'long live the King of France' and attribute it to the cross planted by Jacques Cartier on July 24, 1534.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a direct, verbatim quote inscribed on a cross planted by a specific historical figure."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Treaty of Utrecht' (1713) and its purpose: bringing mainland Nova Scotia under British rule.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "The note explicitly names a formal legal treaty and describes the specific territorial outcome it achieved."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the 1713 Treaty of Utrecht and the 1763 transition of Canada and most of New France to British rule. Use display_style: floating_overhang.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "The note provides specific dates and treaties for major geopolitical shifts."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: Colonists of New France. Branches: Canadiens (settled Saint Lawrence River valley), Acadians (settled present-day Maritimes), Fur traders and Catholic missionaries (explored Great Lakes, Hudson Bay, and Mississippi watershed to Louisiana).",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "The note explicitly breaks down the different named groups of colonists and their respective settlement/exploration paths."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the mid-17th century outbreak of the Beaver Wars over control of the North American fur trade. Use display_style: attention_pulse.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "The note highlights a dramatic narrative pivot (a war) caused by economic competition."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w0",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Early Canadian Colonization: Key Figures",
+                "intro_text": "These explorers and seafarers laid the groundwork for European presence in North America through early encampments and territorial claims.",
+                "entities": [
+                    {
+                        "name": "Leif Erikson",
+                        "role": "Norse Explorer",
+                        "description": "He is believed to be the first documented European to explore Canada's east coast, establishing a short-lived encampment at L'Anse aux Meadows around 1000 AD."
+                    },
+                    {
+                        "name": "John Cabot",
+                        "role": "English Seafarer",
+                        "description": "In 1497, he explored and claimed the Atlantic coast of Canada in the name of Henry VII of England."
+                    },
+                    {
+                        "name": "Jacques Cartier",
+                        "role": "French Explorer",
+                        "description": "He explored the Gulf of Saint Lawrence in 1534 and took possession of the territory New France for King Francis I."
+                    },
+                    {
+                        "name": "Samuel de Champlain",
+                        "role": "French Explorer",
+                        "description": "Arriving in 1603, he established the first permanent year-round European settlements at Port Royal and Quebec City."
+                    }
+                ],
+                "entity_type": "people"
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2",
+                "n3",
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w1",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "Early European Exploration and Claims in Canada",
+                "intro_text": "A chronological sequence of the first European explorers to reach the east coast of Canada and establish claims for their respective nations.",
+                "steps": [
+                    "Leif Erikson (approx. 1000 AD) established a short-lived Norse encampment at L'Anse aux Meadows.",
+                    "John Cabot (1497) explored and claimed Canada's Atlantic coast for King Henry VII of England.",
+                    "Jacques Cartier (1534) claimed the territory of New France for King Francis I of France.",
+                    "Sir Humphrey Gilbert (1583) founded St John's, Newfoundland, as the first English seasonal camp in North America.",
+                    "Samuel de Champlain (1603-1608) established the first permanent year-round European settlements at Port Royal and Quebec City."
+                ]
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2",
+                "n3",
+                "n6",
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w2",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Cross planted by Jacques Cartier",
+                "quote": "long live the King of France",
+                "context": "On July 24, 1534, Jacques Cartier planted this cross in the Gulf of Saint Lawrence to take possession of New France for King Francis I."
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w3",
+            "block_type": "document_highlight",
+            "document_highlight_data": {
+                "document_name": "Treaty of Utrecht",
+                "section": "Excerpt",
+                "plain_english_translation": "The 1713 Treaty of Utrecht brought mainland Nova Scotia under British rule."
+            },
+            "source_notes_consumed": [
+                "n11"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w4",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "📜",
+                "short_title": "1713 & 1763",
+                "expanded_detail": "Mainland Nova Scotia came under British rule via the 1713 Treaty of Utrecht. By 1763, following the Seven Years' War, Canada and most of New France also transitioned to British rule.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n11"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w5",
+            "block_type": "branching_tree",
+            "branching_tree_data": {
+                "title": "Colonists of New France",
+                "intro_text": "The early French settlers in North America established distinct communities based on their locations and primary activities.",
+                "root": "Colonists of New France",
+                "branches": [
+                    {
+                        "label": "Canadiens",
+                        "emoji": "🏘️",
+                        "definition": "Settlers who extensively settled the Saint Lawrence River valley."
+                    },
+                    {
+                        "label": "Acadians",
+                        "emoji": "🌊",
+                        "definition": "Settlers who settled the present-day Maritimes."
+                    },
+                    {
+                        "label": "Fur traders and Catholic missionaries",
+                        "emoji": "🛶",
+                        "definition": "Explorers who traveled through the Great Lakes, Hudson Bay, and the Mississippi watershed to Louisiana."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n9"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w6",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🦫",
+                "short_title": "Beaver Wars",
+                "expanded_detail": "These conflicts broke out in the mid-17th century as various groups fought for control over the lucrative North American fur trade.",
+                "display_style": "attention_pulse"
+            },
+            "source_notes_consumed": [
+                "n10"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "European Colonization and Early Settlements",
+        "cards": [
+            {
+                "card_title": "The First Footsteps",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introductory hook to set the stage for European arrival in North America.",
+                        "text_content": "Long before the establishment of modern cities, the east coast of Canada was a frontier of discovery. While Indigenous peoples had inhabited the land for millennia, the arrival of Europeans marked the beginning of a complex era of exploration and territorial claims. The first documented European presence wasn't from the Mediterranean, but from the North, arriving in approximately **1000 AD**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity_profiles widget provides a high-level overview of the key figures involved in these early explorations.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the specific timeline of exploration.",
+                        "text_content": "These early voyages were often sporadic and short-lived, driven by a mix of curiosity and the search for resources. To understand how these disparate arrivals evolved into formal colonies, we have to look at the chronological sequence of claims."
+                    }
+                ]
+            },
+            {
+                "card_title": "Claims and Crosses",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the timeline of early exploration and claims.",
+                        "text_content": "For centuries after the first Norse encampment at *L'Anse aux Meadows*, the coast remained largely untouched by Europeans. That changed in **1497**, when **John Cabot** claimed the Atlantic coast for England. This sparked a competitive era where European powers sought to carve out their own spheres of influence in the New World."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The stepper widget visually maps the chronological sequence of explorers and their claims.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Focusing on the French arrival and the specific act of claiming territory.",
+                        "text_content": "Among these explorers, **Jacques Cartier** played a pivotal role. In **1534**, he ventured into the Gulf of Saint Lawrence to secure the region for the French crown. His arrival was marked by a symbolic gesture of possession that would define the territory as *New France*."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Birth of New France",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Leading into the specific quote from Cartier's cross.",
+                        "text_content": "Cartier's claim was not merely a verbal agreement but a physical marker. On **July 24, 1534**, he erected a massive cross to signal the sovereignty of the French monarchy over the land."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The quote_block highlights the specific words used on the cross to claim the territory.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Connecting the exploration to the etymology of 'Canada' and the role of Indigenous peoples.",
+                        "text_content": "The French didn't navigate this land alone. In **1535**, Indigenous inhabitants in the Quebec City region used the word ***kanata*** (meaning 'village' or 'settlement') to direct Cartier to the village of *Stadacona*. This term eventually evolved into the name of the country itself. But while explorers claimed the land, the actual economy was being built by mariners from the **Basque** and **Portuguese** regions, who established seasonal fishing and whaling outposts along the coast."
+                    }
+                ]
+            },
+            {
+                "card_title": "From Camps to Colonies",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the transition from seasonal camps to permanent settlements.",
+                        "text_content": "By the late 16th century, the nature of European presence shifted from temporary outposts to more structured camps. In **1583**, **Sir Humphrey Gilbert** founded *St John's, Newfoundland*, as the first English seasonal camp. The French followed suit in **1600** with a trading post at *Tadoussac*."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing Samuel de Champlain and the first permanent settlements.",
+                        "text_content": "The real turning point came with **Samuel de Champlain**. Arriving in **1603**, he moved beyond seasonal visits to establish the first permanent, year-round European settlements: *Port Royal* in **1605** and *Quebec City* in **1608**. This established a lasting foothold for the French in North America."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Fabric of New France",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the distribution of French colonists.",
+                        "text_content": "As New France grew, its population diversified based on geography and vocation. The settlers didn't just cluster in one area; they spread across the continent, creating distinct cultural and economic hubs."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The branching_tree widget illustrates the different groups of colonists and where they settled.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the economic driver of the fur trade and the resulting conflict.",
+                        "text_content": "While some settled the river valleys, others pushed deeper into the interior. The pursuit of wealth—specifically the lucrative fur trade—became the primary engine of expansion, but this competition for resources eventually led to violent clashes."
+                    }
+                ]
+            },
+            {
+                "card_title": "Conflict and Conquest",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the Beaver Wars.",
+                        "text_content": "The mid-17th century was marked by the **Beaver Wars**, a series of conflicts fought over the control of the North American fur trade. These wars highlighted the volatility of the colonial economy and the desperation to control the supply of pelts."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight_badge provides a punchy summary of the Beaver Wars.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitioning to the shift in imperial power from France to Britain.",
+                        "text_content": "The struggle for North America wasn't just between traders, but between empires. Over the next century, the balance of power shifted as Britain and France fought for dominance over the continent."
+                    }
+                ]
+            },
+            {
+                "card_title": "The British Transition",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the Treaty of Utrecht and the shift to British rule.",
+                        "text_content": "The transition of power happened in stages. The first major shift occurred in **1713**, when a diplomatic agreement formally transferred mainland Nova Scotia to British control."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The document_highlight widget focuses on the specific legal instrument that changed the rule of Nova Scotia.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding the narrative with the final transition of New France to British rule.",
+                        "text_content": "The final blow to French ambitions in the region came after the **Seven Years' War**. By **1763**, the map of North America was redrawn once more, as Canada and the vast majority of *New France* officially came under British rule."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Imperial Shift",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Summarizing the final territorial changes.",
+                        "text_content": "The era of early colonization ended with a definitive shift in sovereignty. The transition from French to British rule was not an overnight event, but a series of treaties and wars that reshaped the geopolitical landscape of the region."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight_badge summarizes the two key dates of British takeover.",
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Final closing statement for the module.",
+                        "text_content": "With the French presence diminished and the British established as the dominant power, the stage was set for the formation of the colonies that would eventually evolve into the modern nation of Canada."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "Frontiers of Discovery: The Birth of Canada",
+        "module_description": "Journey through the era of exploration and empire, from the first Norse encampments to the rise of British dominance in North America.",
+        "alternative_descriptions": [
+            "Uncover the secrets of the early explorers who carved New France out of the wilderness.",
+            "Battle for the New World: Witness the clash of empires and the fight for the lucrative fur trade.",
+            "From Norse voyages to British treaties, discover how a vast frontier became a nation."
+        ],
+        "tags": [
+            "European Colonization",
+            "New France",
+            "North American Exploration",
+            "Fur Trade",
+            "Imperialism"
+        ],
+        "loading_screen_trivia": "The word 'kanata', meaning 'village' or 'settlement', eventually evolved into the name of the country Canada.",
+        "timeline": [
+            {
+                "year": "1000 AD",
+                "event": "Norse encampment at L'Anse aux Meadows",
+                "related_card_id": 1
+            },
+            {
+                "year": "1497",
+                "event": "John Cabot claims Atlantic coast",
+                "related_card_id": 2
+            },
+            {
+                "year": "1534",
+                "event": "Jacques Cartier claims New France",
+                "related_card_id": 2
+            },
+            {
+                "year": "1583",
+                "event": "First English seasonal camp founded",
+                "related_card_id": 4
+            },
+            {
+                "year": "1600",
+                "event": "French trading post at Tadoussac",
+                "related_card_id": 4
+            },
+            {
+                "year": "1603",
+                "event": "Champlain establishes permanent settlements",
+                "related_card_id": 4
+            },
+            {
+                "year": "1605",
+                "event": "Port Royal settlement established",
+                "related_card_id": 4
+            },
+            {
+                "year": "1608",
+                "event": "Quebec City settlement established",
+                "related_card_id": 4
+            },
+            {
+                "year": "1713",
+                "event": "Nova Scotia transferred to Britain",
+                "related_card_id": 7
+            },
+            {
+                "year": "1763",
+                "event": "Canada falls under British rule",
+                "related_card_id": 8
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Leif Erikson",
+                "emoji_avatar": "🧭",
+                "historical_role": "Norse Explorer",
+                "core_contribution": "Believed to be the first European to explore Canada's east coast around 1000 AD."
+            },
+            {
+                "name": "John Cabot",
+                "emoji_avatar": "⛵",
+                "historical_role": "English Seafarer",
+                "core_contribution": "Explored and claimed the Atlantic coast of Canada for England in 1497."
+            },
+            {
+                "name": "Jacques Cartier",
+                "emoji_avatar": "🇫🇷",
+                "historical_role": "French Explorer",
+                "core_contribution": "Claimed the territory of New France for the French crown in 1534."
+            },
+            {
+                "name": "Samuel de Champlain",
+                "emoji_avatar": "🗺️",
+                "historical_role": "French Explorer",
+                "core_contribution": "Established the first permanent year-round European settlements at Port Royal and Quebec City."
+            },
+            {
+                "name": "Sir Humphrey Gilbert",
+                "emoji_avatar": "🇬🇧",
+                "historical_role": "English Explorer",
+                "core_contribution": "Founded St John's, Newfoundland, as the first English seasonal camp in 1583."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The early colonial struggles and treaties reshaped the geopolitical landscape, laying the foundation for the modern nation of Canada."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The First Footsteps",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Long before the establishment of modern cities, the east coast of Canada was a frontier of discovery. While Indigenous peoples had inhabited the land for millennia, the arrival of Europeans marked the beginning of a complex era of exploration and territorial claims. The first documented European presence wasn't from the Mediterranean, but from the North, arriving in approximately **1000 AD**."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w0",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Early Canadian Colonization: Key Figures",
+                            "intro_text": "These explorers and seafarers laid the groundwork for European presence in North America through early encampments and territorial claims.",
+                            "entities": [
+                                {
+                                    "name": "Leif Erikson",
+                                    "role": "Norse Explorer",
+                                    "description": "He is believed to be the first documented European to explore Canada's east coast, establishing a short-lived encampment at L'Anse aux Meadows around 1000 AD."
+                                },
+                                {
+                                    "name": "John Cabot",
+                                    "role": "English Seafarer",
+                                    "description": "In 1497, he explored and claimed the Atlantic coast of Canada in the name of Henry VII of England."
+                                },
+                                {
+                                    "name": "Jacques Cartier",
+                                    "role": "French Explorer",
+                                    "description": "He explored the Gulf of Saint Lawrence in 1534 and took possession of the territory New France for King Francis I."
+                                },
+                                {
+                                    "name": "Samuel de Champlain",
+                                    "role": "French Explorer",
+                                    "description": "Arriving in 1603, he established the first permanent year-round European settlements at Port Royal and Quebec City."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3",
+                            "n8"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "These early voyages were often sporadic and short-lived, driven by a mix of curiosity and the search for resources. To understand how these disparate arrivals evolved into formal colonies, we have to look at the chronological sequence of claims."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "Claims and Crosses",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "For centuries after the first Norse encampment at *L'Anse aux Meadows*, the coast remained largely untouched by Europeans. That changed in **1497**, when **John Cabot** claimed the Atlantic coast for England. This sparked a competitive era where European powers sought to carve out their own spheres of influence in the New World."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w1",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Early European Exploration and Claims in Canada",
+                            "intro_text": "A chronological sequence of the first European explorers to reach the east coast of Canada and establish claims for their respective nations.",
+                            "steps": [
+                                "Leif Erikson (approx. 1000 AD) established a short-lived Norse encampment at L'Anse aux Meadows.",
+                                "John Cabot (1497) explored and claimed Canada's Atlantic coast for King Henry VII of England.",
+                                "Jacques Cartier (1534) claimed the territory of New France for King Francis I of France.",
+                                "Sir Humphrey Gilbert (1583) founded St John's, Newfoundland, as the first English seasonal camp in North America.",
+                                "Samuel de Champlain (1603-1608) established the first permanent year-round European settlements at Port Royal and Quebec City."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3",
+                            "n6",
+                            "n8"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "Among these explorers, **Jacques Cartier** played a pivotal role. In **1534**, he ventured into the Gulf of Saint Lawrence to secure the region for the French crown. His arrival was marked by a symbolic gesture of possession that would define the territory as *New France*."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The Birth of New France",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Cartier's claim was not merely a verbal agreement but a physical marker. On **July 24, 1534**, he erected a massive cross to signal the sovereignty of the French monarchy over the land."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w2",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Cross planted by Jacques Cartier",
+                            "quote": "long live the King of France",
+                            "context": "On July 24, 1534, Jacques Cartier planted this cross in the Gulf of Saint Lawrence to take possession of New France for King Francis I."
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "The French didn't navigate this land alone. In **1535**, Indigenous inhabitants in the Quebec City region used the word ***kanata*** (meaning 'village' or 'settlement') to direct Cartier to the village of *Stadacona*. This term eventually evolved into the name of the country itself. But while explorers claimed the land, the actual economy was being built by mariners from the **Basque** and **Portuguese** regions, who established seasonal fishing and whaling outposts along the coast."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "From Camps to Colonies",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "By the late 16th century, the nature of European presence shifted from temporary outposts to more structured camps. In **1583**, **Sir Humphrey Gilbert** founded *St John's, Newfoundland*, as the first English seasonal camp. The French followed suit in **1600** with a trading post at *Tadoussac*."
+                    },
+                    {
+                        "block_id": "card_4_block_1",
+                        "block_type": "text",
+                        "text_content": "The real turning point came with **Samuel de Champlain**. Arriving in **1603**, he moved beyond seasonal visits to establish the first permanent, year-round European settlements: *Port Royal* in **1605** and *Quebec City* in **1608**. This established a lasting foothold for the French in North America."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The Fabric of New France",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "As New France grew, its population diversified based on geography and vocation. The settlers didn't just cluster in one area; they spread across the continent, creating distinct cultural and economic hubs."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w5",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Colonists of New France",
+                            "intro_text": "The early French settlers in North America established distinct communities based on their locations and primary activities.",
+                            "root": "Colonists of New France",
+                            "branches": [
+                                {
+                                    "label": "Canadiens",
+                                    "emoji": "🏘️",
+                                    "definition": "Settlers who extensively settled the Saint Lawrence River valley."
+                                },
+                                {
+                                    "label": "Acadians",
+                                    "emoji": "🌊",
+                                    "definition": "Settlers who settled the present-day Maritimes."
+                                },
+                                {
+                                    "label": "Fur traders and Catholic missionaries",
+                                    "emoji": "🛶",
+                                    "definition": "Explorers who traveled through the Great Lakes, Hudson Bay, and the Mississippi watershed to Louisiana."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n9"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "While some settled the river valleys, others pushed deeper into the interior. The pursuit of wealth—specifically the lucrative fur trade—became the primary engine of expansion, but this competition for resources eventually led to violent clashes."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "Conflict and Conquest",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "The mid-17th century was marked by the **Beaver Wars**, a series of conflicts fought over the control of the North American fur trade. These wars highlighted the volatility of the colonial economy and the desperation to control the supply of pelts."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w6",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🦫",
+                            "short_title": "Beaver Wars",
+                            "expanded_detail": "These conflicts broke out in the mid-17th century as various groups fought for control over the lucrative North American fur trade.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n10"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "The struggle for North America wasn't just between traders, but between empires. Over the next century, the balance of power shifted as Britain and France fought for dominance over the continent."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The British Transition",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "The transition of power happened in stages. The first major shift occurred in **1713**, when a diplomatic agreement formally transferred mainland Nova Scotia to British control."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w3",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Treaty of Utrecht",
+                            "section": "Excerpt",
+                            "plain_english_translation": "The 1713 Treaty of Utrecht brought mainland Nova Scotia under British rule."
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "The final blow to French ambitions in the region came after the **Seven Years' War**. By **1763**, the map of North America was redrawn once more, as Canada and the vast majority of *New France* officially came under British rule."
+                    }
+                ]
+            },
+            {
+                "card_id": 8,
+                "order_index": 7,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The Imperial Shift",
+                "blocks": [
+                    {
+                        "block_id": "card_8_block_0",
+                        "block_type": "text",
+                        "text_content": "The era of early colonization ended with a definitive shift in sovereignty. The transition from French to British rule was not an overnight event, but a series of treaties and wars that reshaped the geopolitical landscape of the region."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w4",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "📜",
+                            "short_title": "1713 & 1763",
+                            "expanded_detail": "Mainland Nova Scotia came under British rule via the 1713 Treaty of Utrecht. By 1763, following the Seven Years' War, Canada and most of New France also transitioned to British rule.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_8_block_1"
+                    },
+                    {
+                        "block_id": "card_8_block_2",
+                        "block_type": "text",
+                        "text_content": "With the French presence diminished and the British established as the dominant power, the stage was set for the formation of the colonies that would eventually evolve into the modern nation of Canada."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is generally factual and aligns with the provided notes. However, block 2 contains unverified emotional claims and narrative bridging ('driven by a mix of curiosity and the search for resources') that are not explicitly stated in the raw source or extracted notes. The source mentions 'seasonal whaling and fishing outposts' and 'trading posts', but does not attribute the general early voyages to 'curiosity'.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified claims about the motivations of explorers ('driven by a mix of curiosity') as this is not in the source text. Maintain the transition to the next card while remaining strictly factual.",
+                        "new_content_or_instructions": "These early voyages were often sporadic and short-lived. To understand how these disparate arrivals evolved into formal colonies, we have to look at the chronological sequence of claims."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual, but it contains unverified narrative bridging. Specifically, the phrase 'sparked a competitive era where European powers sought to carve out their own spheres of influence' is a dramatic interpretation not found in the source text. Additionally, block 2 repeats the information about Jacques Cartier's 1534 claim, which is already clearly detailed in the stepper widget. This creates redundant overlap.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified claim about 'sparking a competitive era' and 'carving out spheres of influence', as these are narrative flourishes not present in the source.",
+                        "new_content_or_instructions": "For centuries after the first Norse encampment at *L'Anse aux Meadows*, the coast remained largely untouched by Europeans. That changed in **1497**, when **John Cabot** claimed the Atlantic coast for England, marking the beginning of a new wave of European exploration."
+                    },
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the date (1534) and the act of claiming the region for the French crown, which is already explicitly stated in the stepper widget. I will rewrite it to provide context about the symbolic gesture mentioned (the cross) without repeating the data points.",
+                        "new_content_or_instructions": "Jacques Cartier's claim was particularly symbolic. In the Gulf of Saint Lawrence, he planted a 10-metre cross bearing the words \"long live the King of France,\" formally establishing the territory as *New France*."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual and maps well to the notes. However, block 0 contains a slight 'narrative bridging' hallucination by describing the cross as a 'massive cross' (the source specifies 10-metre/33 ft, which is large, but 'massive' is an adjective not in the source) and claiming it was to 'signal the sovereignty' (the source says he 'took possession'). While close, it's better to be precise. Block 2 is accurate and flows well.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The word 'massive' is an unverified adjective. The phrase 'signal the sovereignty' is a narrative interpretation. I will rewrite it to be more precise based on the source text ('took possession').",
+                        "new_content_or_instructions": "Cartier's claim was marked by a physical act. On **July 24, 1534**, he erected a 10-metre cross to take possession of the territory in the name of the French monarchy."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the notes (n6, n7, n8). However, the phrase 'The real turning point came with...' in block 1 is a narrative bridge/emotional claim not explicitly stated in the source text. While engaging, it attributes a specific historical significance ('turning point') that isn't in the ground truth.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_1",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Removed the unverified narrative claim that Champlain's arrival was the 'real turning point'.",
+                        "new_content_or_instructions": "Following these seasonal efforts, **Samuel de Champlain** arrived in **1603**. He established the first permanent, year-round European settlements at *Port Royal* in **1605** and *Quebec City* in **1608**, creating a lasting French foothold in North America."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to Note n9 and n10. However, block 2 contains 'unverified narrative bridging' by claiming the fur trade was the 'primary engine of expansion' and 'pursuit of wealth' as a motivation, which is not explicitly stated in the source text (the source only mentions the Beaver Wars broke out over control of the trade). I will rewrite block 2 to be more factual while maintaining the narrative flow.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrases 'pursuit of wealth' and 'primary engine of expansion' are dramatic fluff/assumptions not found in the raw source or notes. The source simply states the Beaver Wars broke out over control of the fur trade.",
+                        "new_content_or_instructions": "While some settled the river valleys, others pushed deeper into the interior. However, the competition for control of the North American fur trade eventually led to violent clashes known as the Beaver Wars."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card contains unverified emotional claims and narrative bridging. Specifically, the phrases 'highlighted the volatility of the colonial economy and the desperation to control the supply of pelts' and 'The struggle for North America wasn't just between traders, but between empires' are not supported by the raw source or extracted notes. Additionally, the text in block 0 repeats the exact information provided in the insight badge widget, creating redundancy.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_6_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove redundant information that overlaps with the widget and strip out unverified claims about 'volatility' and 'desperation'.",
+                        "new_content_or_instructions": "In the mid-17th century, the North American fur trade became a flashpoint for conflict, leading to a period of instability known as the Beaver Wars."
+                    },
+                    {
+                        "target_block_id": "card_6_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified narrative bridging and dramatic fluff ('struggle for North America', 'balance of power shifted', 'fought for dominance') that is not explicitly stated in the source.",
+                        "new_content_or_instructions": "This era of conflict over trade resources paved the way for larger imperial struggles between Britain and France for control of the territory."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps directly to note n11. However, there is a slight narrative 'fluff' in block 2 ('The final blow to French ambitions') which is not explicitly stated in the source, though it is a reasonable historical inference. To be strictly compliant with the directive to eliminate unverified 'narrative bridging' and dramatic fluff, this should be toned down. Additionally, the text in block 0 and block 2 repeats the exact data found in the widget (1713, Nova Scotia, British control), creating redundancy.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_7_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the exact date and outcome of the Treaty of Utrecht which is already presented in the widget immediately following it. It should introduce the widget without repeating the data.",
+                        "new_content_or_instructions": "The transition of power in North America happened in stages, beginning with a key diplomatic agreement that shifted control of the Atlantic coast."
+                    },
+                    {
+                        "target_block_id": "card_7_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'The final blow to French ambitions' is dramatic fluff not found in the source text. The block also repeats the date 1763 and the outcome of the Seven Years' War, which is a factual summary. I will rewrite it to be engaging but strictly factual and maintain the transition to the next card.",
+                        "new_content_or_instructions": "This shift culminated in the aftermath of the **Seven Years' War**. By **1763**, Canada and most of New France officially came under British rule, marking a definitive change in the region's governance."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps directly to note n11. However, the first text block (card_8_block_0) contains 'narrative bridging' and dramatic fluff ('definitive shift in sovereignty', 'reshaped the geopolitical landscape') that is not explicitly stated in the source text. While it flows well, it adds emotional weight and historical interpretation not found in the raw context. The final block is a transition and is handled correctly.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_8_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified dramatic claims and 'narrative bridging' regarding the 'definitive shift in sovereignty' and 'reshaping the geopolitical landscape'.",
+                        "new_content_or_instructions": "The transition from French to British rule occurred through a series of treaties and wars, changing the control of the region."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "Frontiers of Discovery: The Birth of Canada",
+        "module_description": "Journey through the era of exploration and empire, from the first Norse encampments to the rise of British dominance in North America.",
+        "alternative_descriptions": [
+            "Uncover the secrets of the early explorers who carved New France out of the wilderness.",
+            "Battle for the New World: Witness the clash of empires and the fight for the lucrative fur trade.",
+            "From Norse voyages to British treaties, discover how a vast frontier became a nation."
+        ],
+        "tags": [
+            "European Colonization",
+            "New France",
+            "North American Exploration",
+            "Fur Trade",
+            "Imperialism"
+        ],
+        "loading_screen_trivia": "The word 'kanata', meaning 'village' or 'settlement', eventually evolved into the name of the country Canada.",
+        "timeline": [
+            {
+                "year": "1000 AD",
+                "event": "Norse encampment at L'Anse aux Meadows",
+                "related_card_id": 1
+            },
+            {
+                "year": "1497",
+                "event": "John Cabot claims Atlantic coast",
+                "related_card_id": 2
+            },
+            {
+                "year": "1534",
+                "event": "Jacques Cartier claims New France",
+                "related_card_id": 2
+            },
+            {
+                "year": "1583",
+                "event": "First English seasonal camp founded",
+                "related_card_id": 4
+            },
+            {
+                "year": "1600",
+                "event": "French trading post at Tadoussac",
+                "related_card_id": 4
+            },
+            {
+                "year": "1603",
+                "event": "Champlain establishes permanent settlements",
+                "related_card_id": 4
+            },
+            {
+                "year": "1605",
+                "event": "Port Royal settlement established",
+                "related_card_id": 4
+            },
+            {
+                "year": "1608",
+                "event": "Quebec City settlement established",
+                "related_card_id": 4
+            },
+            {
+                "year": "1713",
+                "event": "Nova Scotia transferred to Britain",
+                "related_card_id": 7
+            },
+            {
+                "year": "1763",
+                "event": "Canada falls under British rule",
+                "related_card_id": 8
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Leif Erikson",
+                "emoji_avatar": "🧭",
+                "historical_role": "Norse Explorer",
+                "core_contribution": "Believed to be the first European to explore Canada's east coast around 1000 AD."
+            },
+            {
+                "name": "John Cabot",
+                "emoji_avatar": "⛵",
+                "historical_role": "English Seafarer",
+                "core_contribution": "Explored and claimed the Atlantic coast of Canada for England in 1497."
+            },
+            {
+                "name": "Jacques Cartier",
+                "emoji_avatar": "🇫🇷",
+                "historical_role": "French Explorer",
+                "core_contribution": "Claimed the territory of New France for the French crown in 1534."
+            },
+            {
+                "name": "Samuel de Champlain",
+                "emoji_avatar": "🗺️",
+                "historical_role": "French Explorer",
+                "core_contribution": "Established the first permanent year-round European settlements at Port Royal and Quebec City."
+            },
+            {
+                "name": "Sir Humphrey Gilbert",
+                "emoji_avatar": "🇬🇧",
+                "historical_role": "English Explorer",
+                "core_contribution": "Founded St John's, Newfoundland, as the first English seasonal camp in 1583."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The early colonial struggles and treaties reshaped the geopolitical landscape, laying the foundation for the modern nation of Canada."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The First Footsteps",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Long before the establishment of modern cities, the east coast of Canada was a frontier of discovery. While Indigenous peoples had inhabited the land for millennia, the arrival of Europeans marked the beginning of a complex era of exploration and territorial claims. The first documented European presence wasn't from the Mediterranean, but from the North, arriving in approximately **1000 AD**."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w0",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Early Canadian Colonization: Key Figures",
+                            "intro_text": "These explorers and seafarers laid the groundwork for European presence in North America through early encampments and territorial claims.",
+                            "entities": [
+                                {
+                                    "name": "Leif Erikson",
+                                    "role": "Norse Explorer",
+                                    "description": "He is believed to be the first documented European to explore Canada's east coast, establishing a short-lived encampment at L'Anse aux Meadows around 1000 AD."
+                                },
+                                {
+                                    "name": "John Cabot",
+                                    "role": "English Seafarer",
+                                    "description": "In 1497, he explored and claimed the Atlantic coast of Canada in the name of Henry VII of England."
+                                },
+                                {
+                                    "name": "Jacques Cartier",
+                                    "role": "French Explorer",
+                                    "description": "He explored the Gulf of Saint Lawrence in 1534 and took possession of the territory New France for King Francis I."
+                                },
+                                {
+                                    "name": "Samuel de Champlain",
+                                    "role": "French Explorer",
+                                    "description": "Arriving in 1603, he established the first permanent year-round European settlements at Port Royal and Quebec City."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3",
+                            "n8"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "These early voyages were often sporadic and short-lived. To understand how these disparate arrivals evolved into formal colonies, we have to look at the chronological sequence of claims."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "Claims and Crosses",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "For centuries after the first Norse encampment at *L'Anse aux Meadows*, the coast remained largely untouched by Europeans. That changed in **1497**, when **John Cabot** claimed the Atlantic coast for England, marking the beginning of a new wave of European exploration."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w1",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Early European Exploration and Claims in Canada",
+                            "intro_text": "A chronological sequence of the first European explorers to reach the east coast of Canada and establish claims for their respective nations.",
+                            "steps": [
+                                "Leif Erikson (approx. 1000 AD) established a short-lived Norse encampment at L'Anse aux Meadows.",
+                                "John Cabot (1497) explored and claimed Canada's Atlantic coast for King Henry VII of England.",
+                                "Jacques Cartier (1534) claimed the territory of New France for King Francis I of France.",
+                                "Sir Humphrey Gilbert (1583) founded St John's, Newfoundland, as the first English seasonal camp in North America.",
+                                "Samuel de Champlain (1603-1608) established the first permanent year-round European settlements at Port Royal and Quebec City."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3",
+                            "n6",
+                            "n8"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "Jacques Cartier's claim was particularly symbolic. In the Gulf of Saint Lawrence, he planted a 10-metre cross bearing the words \"long live the King of France,\" formally establishing the territory as *New France*."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The Birth of New France",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Cartier's claim was marked by a physical act. On **July 24, 1534**, he erected a 10-metre cross to take possession of the territory in the name of the French monarchy."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w2",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Cross planted by Jacques Cartier",
+                            "quote": "long live the King of France",
+                            "context": "On July 24, 1534, Jacques Cartier planted this cross in the Gulf of Saint Lawrence to take possession of New France for King Francis I."
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "The French didn't navigate this land alone. In **1535**, Indigenous inhabitants in the Quebec City region used the word ***kanata*** (meaning 'village' or 'settlement') to direct Cartier to the village of *Stadacona*. This term eventually evolved into the name of the country itself. But while explorers claimed the land, the actual economy was being built by mariners from the **Basque** and **Portuguese** regions, who established seasonal fishing and whaling outposts along the coast."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "From Camps to Colonies",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "By the late 16th century, the nature of European presence shifted from temporary outposts to more structured camps. In **1583**, **Sir Humphrey Gilbert** founded *St John's, Newfoundland*, as the first English seasonal camp. The French followed suit in **1600** with a trading post at *Tadoussac*."
+                    },
+                    {
+                        "block_id": "card_4_block_1",
+                        "block_type": "text",
+                        "text_content": "Following these seasonal efforts, **Samuel de Champlain** arrived in **1603**. He established the first permanent, year-round European settlements at *Port Royal* in **1605** and *Quebec City* in **1608**, creating a lasting French foothold in North America."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The Fabric of New France",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "As New France grew, its population diversified based on geography and vocation. The settlers didn't just cluster in one area; they spread across the continent, creating distinct cultural and economic hubs."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w5",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Colonists of New France",
+                            "intro_text": "The early French settlers in North America established distinct communities based on their locations and primary activities.",
+                            "root": "Colonists of New France",
+                            "branches": [
+                                {
+                                    "label": "Canadiens",
+                                    "emoji": "🏘️",
+                                    "definition": "Settlers who extensively settled the Saint Lawrence River valley."
+                                },
+                                {
+                                    "label": "Acadians",
+                                    "emoji": "🌊",
+                                    "definition": "Settlers who settled the present-day Maritimes."
+                                },
+                                {
+                                    "label": "Fur traders and Catholic missionaries",
+                                    "emoji": "🛶",
+                                    "definition": "Explorers who traveled through the Great Lakes, Hudson Bay, and the Mississippi watershed to Louisiana."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n9"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "While some settled the river valleys, others pushed deeper into the interior. However, the competition for control of the North American fur trade eventually led to violent clashes known as the Beaver Wars."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "Conflict and Conquest",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "In the mid-17th century, the North American fur trade became a flashpoint for conflict, leading to a period of instability known as the Beaver Wars."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w6",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🦫",
+                            "short_title": "Beaver Wars",
+                            "expanded_detail": "These conflicts broke out in the mid-17th century as various groups fought for control over the lucrative North American fur trade.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n10"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "This era of conflict over trade resources paved the way for larger imperial struggles between Britain and France for control of the territory."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The British Transition",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "The transition of power in North America happened in stages, beginning with a key diplomatic agreement that shifted control of the Atlantic coast."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w3",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Treaty of Utrecht",
+                            "section": "Excerpt",
+                            "plain_english_translation": "The 1713 Treaty of Utrecht brought mainland Nova Scotia under British rule."
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "This shift culminated in the aftermath of the **Seven Years' War**. By **1763**, Canada and most of New France officially came under British rule, marking a definitive change in the region's governance."
+                    }
+                ]
+            },
+            {
+                "card_id": 8,
+                "order_index": 7,
+                "parent_topic": "European Colonization and Early Settlements",
+                "created_at": "2026-05-22T00:06:07.964889+00:00",
+                "card_title": "The Imperial Shift",
+                "blocks": [
+                    {
+                        "block_id": "card_8_block_0",
+                        "block_type": "text",
+                        "text_content": "The transition from French to British rule occurred through a series of treaties and wars, changing the control of the region."
+                    },
+                    {
+                        "widget_id": "prebuilt_EuropeanColonizationandEarlySettlements_w4",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "📜",
+                            "short_title": "1713 & 1763",
+                            "expanded_detail": "Mainland Nova Scotia came under British rule via the 1713 Treaty of Utrecht. By 1763, following the Seven Years' War, Canada and most of New France also transitioned to British rule.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_8_block_1"
+                    },
+                    {
+                        "block_id": "card_8_block_2",
+                        "block_type": "text",
+                        "text_content": "With the French presence diminished and the British established as the dominant power, the stage was set for the formation of the colonies that would eventually evolve into the modern nation of Canada."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "Who is believed to be the first documented European to explore Canada's east coast?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": true,
+                    "feedback": "Leif Erikson, a Norse explorer, is believed to be the first documented European to explore the east coast around 1000 AD."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot was an English seafarer who claimed the Atlantic coast in 1497."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier was a French explorer who explored the Gulf of Saint Lawrence in 1534."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established the first permanent year-round settlements in 1603."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded St John's, Newfoundland, as a seasonal camp in 1583."
+                },
+                {
+                    "text": "Christopher Columbus",
+                    "isCorrect": false,
+                    "feedback": "Christopher Columbus is not mentioned in the source text as an explorer of Canada's east coast."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the King of England for whom John Cabot claimed the coast."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the King of France for whom Jacques Cartier claimed New France."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In what year did John Cabot claim the Atlantic coast of Canada for England?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "1497",
+                    "isCorrect": true,
+                    "feedback": "John Cabot claimed the Atlantic coast for England in 1497."
+                },
+                {
+                    "text": "1000 AD",
+                    "isCorrect": false,
+                    "feedback": "1000 AD is when Leif Erikson established a Norse encampment."
+                },
+                {
+                    "text": "1534",
+                    "isCorrect": false,
+                    "feedback": "1534 is when Jacques Cartier claimed the territory of New France."
+                },
+                {
+                    "text": "1583",
+                    "isCorrect": false,
+                    "feedback": "1583 is when Sir Humphrey Gilbert founded St John's."
+                },
+                {
+                    "text": "1603",
+                    "isCorrect": false,
+                    "feedback": "1603 is when Samuel de Champlain arrived in Canada."
+                },
+                {
+                    "text": "1605",
+                    "isCorrect": false,
+                    "feedback": "1605 is when Port Royal was established."
+                },
+                {
+                    "text": "1608",
+                    "isCorrect": false,
+                    "feedback": "1608 is when Quebec City was established."
+                },
+                {
+                    "text": "1713",
+                    "isCorrect": false,
+                    "feedback": "1713 is when mainland Nova Scotia was transferred to British control."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which French explorer claimed the territory of New France for King Francis I in 1534?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": true,
+                    "feedback": "Jacques Cartier explored the Gulf of Saint Lawrence and claimed New France for King Francis I in 1534."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established permanent settlements later, starting in 1603."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson was a Norse explorer who arrived around 1000 AD."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot was an English seafarer who claimed the coast in 1497."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded an English seasonal camp in 1583."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the English monarch during John Cabot's voyage."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the monarch who received the claim, not the explorer."
+                },
+                {
+                    "text": "Donnacona",
+                    "isCorrect": false,
+                    "feedback": "Donnacona was the chief at Stadacona, not a European explorer."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which explorer established the first permanent year-round European settlements at Port Royal and Quebec City?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": true,
+                    "feedback": "Samuel de Champlain established the first permanent year-round settlements at Port Royal (1605) and Quebec City (1608)."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier made claims and explored the Gulf of Saint Lawrence but did not establish permanent year-round settlements."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot explored and claimed the coast but did not establish permanent settlements."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson established a short-lived encampment at L'Anse aux Meadows."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded a seasonal camp, not a permanent year-round settlement."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the King of England, not an explorer who established settlements."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the King of France, not an explorer who established settlements."
+                },
+                {
+                    "text": "Donnacona",
+                    "isCorrect": false,
+                    "feedback": "Donnacona was an Indigenous chief, not a European explorer."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2,
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the name of the short-lived Norse encampment established around 1000 AD?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "L'Anse aux Meadows",
+                    "isCorrect": true,
+                    "feedback": "L'Anse aux Meadows was the site of the short-lived Norse encampment established by Leif Erikson."
+                },
+                {
+                    "text": "Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a permanent settlement established by Samuel de Champlain in 1605."
+                },
+                {
+                    "text": "Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was a permanent settlement established by Samuel de Champlain in 1608."
+                },
+                {
+                    "text": "St John's",
+                    "isCorrect": false,
+                    "feedback": "St John's was the first English seasonal camp founded by Sir Humphrey Gilbert."
+                },
+                {
+                    "text": "Tadoussac",
+                    "isCorrect": false,
+                    "feedback": "Tadoussac was a French seasonal trading post established in 1600."
+                },
+                {
+                    "text": "Stadacona",
+                    "isCorrect": false,
+                    "feedback": "Stadacona was an Indigenous village Cartier was directed to."
+                },
+                {
+                    "text": "Nova Scotia",
+                    "isCorrect": false,
+                    "feedback": "Nova Scotia is a region that later came under British rule."
+                },
+                {
+                    "text": "New France",
+                    "isCorrect": false,
+                    "feedback": "New France was the name of the territory claimed by Jacques Cartier."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Who founded St John's, Newfoundland, as the first English seasonal camp in North America in 1583?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": true,
+                    "feedback": "Sir Humphrey Gilbert founded St John's in 1583 as the first English seasonal camp."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established permanent settlements in the early 17th century."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier claimed New France in 1534."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot claimed the Atlantic coast for England in 1497."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson established a Norse encampment around 1000 AD."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the King of England, not the founder of St John's."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the King of France, not the founder of St John's."
+                },
+                {
+                    "text": "Donnacona",
+                    "isCorrect": false,
+                    "feedback": "Donnacona was an Indigenous chief."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What term, meaning 'village' or 'settlement', was used by Indigenous inhabitants to direct Jacques Cartier to Stadacona?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "kanata",
+                    "isCorrect": true,
+                    "feedback": "The word 'kanata' meant 'village' or 'settlement' and eventually evolved into the name 'Canada'."
+                },
+                {
+                    "text": "Stadacona",
+                    "isCorrect": false,
+                    "feedback": "Stadacona was the name of the village itself, not the term for 'village'."
+                },
+                {
+                    "text": "New France",
+                    "isCorrect": false,
+                    "feedback": "New France was the name given to the territory claimed by the French."
+                },
+                {
+                    "text": "L'Anse aux Meadows",
+                    "isCorrect": false,
+                    "feedback": "L'Anse aux Meadows was the Norse encampment site."
+                },
+                {
+                    "text": "Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a permanent French settlement."
+                },
+                {
+                    "text": "Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was a permanent French settlement."
+                },
+                {
+                    "text": "Tadoussac",
+                    "isCorrect": false,
+                    "feedback": "Tadoussac was a French trading post."
+                },
+                {
+                    "text": "Nova Scotia",
+                    "isCorrect": false,
+                    "feedback": "Nova Scotia is a region that later came under British rule."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which groups of mariners established seasonal fishing and whaling outposts along the coast?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Basque and Portuguese",
+                    "isCorrect": true,
+                    "feedback": "Mariners from the Basque and Portuguese regions established seasonal fishing and whaling outposts."
+                },
+                {
+                    "text": "Norse",
+                    "isCorrect": false,
+                    "feedback": "The Norse established a short-lived encampment at L'Anse aux Meadows."
+                },
+                {
+                    "text": "English",
+                    "isCorrect": false,
+                    "feedback": "The English established seasonal camps like St John's."
+                },
+                {
+                    "text": "French",
+                    "isCorrect": false,
+                    "feedback": "The French established trading posts like Tadoussac and permanent settlements."
+                },
+                {
+                    "text": "Spanish",
+                    "isCorrect": false,
+                    "feedback": "The Spanish are not mentioned as establishing seasonal fishing outposts in the source text."
+                },
+                {
+                    "text": "Dutch",
+                    "isCorrect": false,
+                    "feedback": "The Dutch are not mentioned as establishing seasonal fishing outposts in the source text."
+                },
+                {
+                    "text": "Italian",
+                    "isCorrect": false,
+                    "feedback": "Italian mariners are not mentioned in the source text."
+                },
+                {
+                    "text": "German",
+                    "isCorrect": false,
+                    "feedback": "German mariners are not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the primary engine of expansion for the early French settlers in New France?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Fur trade",
+                    "isCorrect": true,
+                    "feedback": "The lucrative fur trade was the primary engine of expansion for New France."
+                },
+                {
+                    "text": "Fishing",
+                    "isCorrect": false,
+                    "feedback": "Fishing was a seasonal activity for Basque and Portuguese mariners."
+                },
+                {
+                    "text": "Whaling",
+                    "isCorrect": false,
+                    "feedback": "Whaling was a seasonal activity for Basque and Portuguese mariners."
+                },
+                {
+                    "text": "Agriculture",
+                    "isCorrect": false,
+                    "feedback": "Agriculture is not listed as the primary engine of expansion in the source text."
+                },
+                {
+                    "text": "Gold mining",
+                    "isCorrect": false,
+                    "feedback": "Gold mining is not mentioned as a primary engine of expansion in the source text."
+                },
+                {
+                    "text": "Religious conversion",
+                    "isCorrect": false,
+                    "feedback": "While missionaries were present, the fur trade was the primary engine of expansion."
+                },
+                {
+                    "text": "Timber",
+                    "isCorrect": false,
+                    "feedback": "Timber is not mentioned as the primary engine of expansion in the source text."
+                },
+                {
+                    "text": "Land claims",
+                    "isCorrect": false,
+                    "feedback": "Land claims were the initial step, but the fur trade drove the expansion."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What were the conflicts fought over the control of the North American fur trade in the mid-17th century called?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Beaver Wars",
+                    "isCorrect": true,
+                    "feedback": "The Beaver Wars were a series of conflicts fought over the control of the North American fur trade."
+                },
+                {
+                    "text": "Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a later conflict that led to the transition of New France to British rule."
+                },
+                {
+                    "text": "War of 1812",
+                    "isCorrect": false,
+                    "feedback": "The War of 1812 is not mentioned as a conflict over the fur trade in the source text."
+                },
+                {
+                    "text": "American Revolution",
+                    "isCorrect": false,
+                    "feedback": "The American Revolution is not mentioned as a conflict over the fur trade in the source text."
+                },
+                {
+                    "text": "French and Indian War",
+                    "isCorrect": false,
+                    "feedback": "The French and Indian War is not mentioned as a conflict over the fur trade in the source text."
+                },
+                {
+                    "text": "Loyalist Wars",
+                    "isCorrect": false,
+                    "feedback": "The Loyalist Wars are not mentioned as a conflict over the fur trade in the source text."
+                },
+                {
+                    "text": "Norse Wars",
+                    "isCorrect": false,
+                    "feedback": "Huron Wars' is not mentioned as as a conflict over the fur trade in the source text."
+                },
+                {
+                    "text": "Colonial Wars",
+                    "isCorrect": false,
+                    "feedback": "Colonial Wars is a general term, not the specific name of the conflicts."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which diplomatic agreement in 1713 formally transferred mainland Nova Scotia to British control?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Treaty of Utrecht",
+                    "isCorrect": true,
+                    "feedback": "The 1713 Treaty of Utrecht brought mainland Nova Scotia under British rule."
+                },
+                {
+                    "text": "Treaty of Paris",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Paris is not mentioned as the agreement that transferred Nova Scotia in 1713."
+                },
+                {
+                    "text": "Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a conflict, not a treaty."
+                },
+                {
+                    "text": "Treaty of Versailles",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Versailles is not mentioned in the source text."
+                },
+                {
+                    "text": "Treaty of Ghent",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Ghent is not mentioned in the source text."
+                },
+                {
+                    "text": "Treaty of London",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of London is not mentioned in the source text."
+                },
+                {
+                    "text": "Treaty of Madrid",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Madrid is not mentioned in the source text."
+                },
+                {
+                    "text": "Treaty of Tordesillas",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Tordesillas is not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "By what year did Canada and the vast majority of New France officially come under British rule following the Seven Years' War?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "1763",
+                    "isCorrect": true,
+                    "feedback": "By 1763, following the Seven Years' War, Canada and most of New France transitioned to British rule."
+                },
+                {
+                    "text": "1713",
+                    "isCorrect": false,
+                    "feedback": "1713 is when mainland Nova Scotia was transferred to British control."
+                },
+                {
+                    "text": "1603",
+                    "isCorrect": false,
+                    "feedback": "1603 is when Samuel de Champlain arrived."
+                },
+                {
+                    "text": "1583",
+                    "isCorrect": false,
+                    "feedback": "1583 is when Sir Humphrey Gilbert founded St John's."
+                },
+                {
+                    "text": "1534",
+                    "isCorrect": false,
+                    "feedback": "1534 is when Jacques Cartier claimed New France."
+                },
+                {
+                    "text": "1497",
+                    "isCorrect": false,
+                    "feedback": "1497 is when John Cabot claimed the Atlantic coast."
+                },
+                {
+                    "text": "1608",
+                    "isCorrect": false,
+                    "feedback": "1608 is when Quebec City was established."
+                },
+                {
+                    "text": "1700",
+                    "isCorrect": false,
+                    "feedback": "1700 is not mentioned as the date of the final transition to British rule."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The first documented European to explore Canada's east coast was ____, who established a short-lived encampment at L'Anse aux Meadows around 1000 AD.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": true,
+                    "feedback": "Leif Erikson was the Norse explorer who established the first documented European presence in Canada around 1000 AD."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot was an English seafarer who claimed the Atlantic coast in 1497, centuries after the Norse."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier was a French explorer who claimed New France in 1534."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established the first permanent settlements in the early 17th century."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded the first English seasonal camp in 1583."
+                },
+                {
+                    "text": "Christopher Columbus",
+                    "isCorrect": false,
+                    "feedback": "Columbus is not mentioned in the source text as an explorer of Canada's east coast."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the King of England for whom John Cabot claimed the coast."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In 1497, ____ claimed the Atlantic coast of Canada in the name of King Henry VII of England.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "John Cabot",
+                    "isCorrect": true,
+                    "feedback": "John Cabot was the English seafarer who claimed the Atlantic coast for England in 1497."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson was a Norse explorer who arrived approximately 1000 years earlier."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier claimed the territory for France, not England."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established permanent settlements later in 1603."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded a seasonal camp in 1583."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the King of France for whom Jacques Cartier claimed territory."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the monarch, not the explorer who made the claim."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Jacques Cartier claimed the territory of ____ for King Francis I of France in 1534.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "New France",
+                    "isCorrect": true,
+                    "feedback": "Jacques Cartier claimed the territory of New France for the French crown in 1534."
+                },
+                {
+                    "text": "Nova Scotia",
+                    "isCorrect": false,
+                    "feedback": "Nova Scotia was transferred to British control in 1713."
+                },
+                {
+                    "text": "Newfoundland",
+                    "isCorrect": false,
+                    "feedback": "Newfoundland was the site of the first English seasonal camp."
+                },
+                {
+                    "text": "Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was a permanent settlement established by Samuel de Champlain."
+                },
+                {
+                    "text": "Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a permanent settlement established by Samuel de Champlain."
+                },
+                {
+                    "text": "St John's",
+                    "isCorrect": false,
+                    "feedback": "St John's was the first English seasonal camp founded by Sir Humphrey Gilbert."
+                },
+                {
+                    "text": "L'Anse aux Meadows",
+                    "isCorrect": false,
+                    "feedback": "L'Anse aux Meadows was the site of the first Norse encampment."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The first permanent year-round European settlements at Port Royal and Quebec City were established by ____ in 1603.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": true,
+                    "feedback": "Samuel de Champlain moved beyond seasonal visits to establish the first permanent settlements starting in 1603."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier's early 16th-century claims were not permanent year-round settlements."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot's 1497 voyage was an exploration and claim, not a permanent settlement."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson's Norse encampment was short-lived and sporadic."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded a seasonal camp, not a permanent year-round settlement."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the King of France who commissioned Cartier."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the King of England who commissioned Cabot."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In 1583, ____ founded St John's, Newfoundland, as the first English seasonal camp in North America.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": true,
+                    "feedback": "Sir Humphrey Gilbert established the first English seasonal camp at St John's in 1583."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established permanent settlements, not the first seasonal camp."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot claimed the coast in 1497 but did not found St John's."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier was a French explorer, not an English founder of camps in Newfoundland."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson was a Norse explorer who arrived in 1000 AD."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the English monarch who commissioned Cabot."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the French monarch who commissioned Cartier."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The term ____, meaning 'village' or 'settlement', was used by Indigenous inhabitants to direct Jacques Cartier to the village of Stadacona in 1535.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "kanata",
+                    "isCorrect": true,
+                    "feedback": "The word 'kanata' meant village or settlement and eventually evolved into the name Canada."
+                },
+                {
+                    "text": "Stadacona",
+                    "isCorrect": false,
+                    "feedback": "Stadacona was the name of the village Cartier was directed to, not the term for village."
+                },
+                {
+                    "text": "New France",
+                    "isCorrect": false,
+                    "feedback": "New France was the name of the territory claimed by Cartier."
+                },
+                {
+                    "text": "L'Anse aux Meadows",
+                    "isCorrect": false,
+                    "feedback": "L'Anse aux Meadows was the site of the first Norse encampment."
+                },
+                {
+                    "text": "Tadoussac",
+                    "isCorrect": false,
+                    "feedback": "Tadoussac was the site of a French trading post established in 1600."
+                },
+                {
+                    "text": "Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a permanent settlement established by Champlain."
+                },
+                {
+                    "text": "Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was a permanent settlement established by Champlain."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ Wars were a series of conflicts fought in the mid-17th century over the control of the North American fur trade.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Beaver",
+                    "isCorrect": true,
+                    "feedback": "The Beaver Wars were fought specifically over the control of the lucrative fur trade."
+                },
+                {
+                    "text": "Seven Years'",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a global conflict that eventually led to the British takeover of New France."
+                },
+                {
+                    "text": "Utrecht",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Utrecht was a diplomatic agreement, not a war."
+                },
+                {
+                    "text": "Loyalist",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were settlers who fought against American independence, not a specific war name."
+                },
+                {
+                    "text": "Norse",
+                    "isCorrect": false,
+                    "feedback": "The Norse were the first Europeans to arrive, but they did not fight the Beaver Wars."
+                },
+                {
+                    "text": "Acadian",
+                    "isCorrect": false,
+                    "feedback": "Acadians were settlers in the Maritimes, not a war."
+                },
+                {
+                    "text": "Canadien",
+                    "isCorrect": false,
+                    "feedback": "Canadiens were settlers in the Saint Lawrence River valley."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The 1713 ____ brought mainland Nova Scotia under British rule.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Treaty of Utrecht",
+                    "isCorrect": true,
+                    "feedback": "The Treaty of Utrecht in 1713 formally transferred mainland Nova Scotia to British control."
+                },
+                {
+                    "text": "Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a conflict, not a treaty, and occurred later."
+                },
+                {
+                    "text": "Treaty of Paris",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Paris is not mentioned in the source text as the 1713 agreement for Nova Scotia."
+                },
+                {
+                    "text": "Constitution Act",
+                    "isCorrect": false,
+                    "feedback": "The Constitution Act is a legal document regarding Canadian sovereignty, not a 1713 treaty."
+                },
+                {
+                    "text": "British North America Act",
+                    "isCorrect": false,
+                    "feedback": "The British North America Act is the act that proclaimed Confederation in 1867."
+                },
+                {
+                    "text": "Quebec Act",
+                    "isCorrect": false,
+                    "feedback": "The Quebec Act was passed in 1774 to avert conflict in Quebec."
+                },
+                {
+                    "text": "Royal Proclamation",
+                    "isCorrect": false,
+                    "feedback": "The Royal Proclamation of 1763 established First Nation treaty rights."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the nature of early European presence in Canada before the establishment of permanent settlements?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Sporadic and short-lived voyages",
+                    "isCorrect": true,
+                    "feedback": "Early voyages were often sporadic and short-lived, driven by curiosity and the search for resources."
+                },
+                {
+                    "text": "Large-scale permanent urban centers",
+                    "isCorrect": false,
+                    "feedback": "Permanent settlements did not emerge until Samuel de Champlain's arrivals in the early 17th century."
+                },
+                {
+                    "text": "Unified diplomatic alliances",
+                    "isCorrect": false,
+                    "feedback": "Early presence was marked by territorial claims and competition rather than unified alliances."
+                },
+                {
+                    "text": "Consistent year-round habitation",
+                    "isCorrect": false,
+                    "feedback": "Most early outposts were seasonal or short-lived, such as the Norse encampment and English seasonal camps."
+                },
+                {
+                    "text": "Immediate industrialization",
+                    "isCorrect": false,
+                    "feedback": "The early economy was based on resources like fishing and whaling, not industrialization."
+                },
+                {
+                    "text": "Sovereign Indigenous-led governance",
+                    "isCorrect": false,
+                    "feedback": "The text focuses on European territorial claims and the establishment of colonies."
+                },
+                {
+                    "text": "Exclusive Mediterranean exploration",
+                    "isCorrect": false,
+                    "feedback": "The first documented European presence was from the North (Norse), not the Mediterranean."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did the term 'Canada' originate according to the early interactions between Jacques Cartier and Indigenous peoples?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "From a Norse term for 'northern coast'",
+                    "isCorrect": false,
+                    "feedback": "The Norse established the first encampment, but the name Canada is derived from an Indigenous word."
+                },
+                {
+                    "text": "From the Iroquoian word 'kanata'",
+                    "isCorrect": true,
+                    "feedback": "Indigenous inhabitants used 'kanata', meaning 'village' or 'settlement', to direct Cartier to Stadacona."
+                },
+                {
+                    "text": "From a French royal decree",
+                    "isCorrect": false,
+                    "feedback": "The name was not decreed by the French crown but evolved from local Indigenous terminology."
+                },
+                {
+                    "text": "From a Portuguese whaling term",
+                    "isCorrect": false,
+                    "feedback": "Portuguese mariners established outposts, but they did not provide the name for the country."
+                },
+                {
+                    "text": "From an English claim by John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot claimed the coast for England, but the name Canada came later from French exploration."
+                },
+                {
+                    "text": "From a Basque fishing term",
+                    "isCorrect": false,
+                    "feedback": "Basque mariners were involved in the early economy, but not in the naming of the land."
+                },
+                {
+                    "text": "From a Latin description of the coast",
+                    "isCorrect": false,
+                    "feedback": "The name Canada is specifically linked to the Iroquoian word 'kanata'."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What mechanism did Jacques Cartier use to formally signal the sovereignty of the French monarchy over New France in 1534?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Establishing a permanent city",
+                    "isCorrect": false,
+                    "feedback": "Cartier's 1534 action was a symbolic marker, not the establishment of a permanent city."
+                },
+                {
+                    "text": "Signing a treaty with Indigenous leaders",
+                    "isCorrect": false,
+                    "feedback": "The claim was made through a physical marker of possession, not a diplomatic treaty."
+                },
+                {
+                    "text": "Erecting a massive cross",
+                    "isCorrect": true,
+                    "feedback": "Cartier planted a cross in the Gulf of Saint Lawrence to signal French sovereignty."
+                },
+                {
+                    "text": "Founding a seasonal trading post",
+                    "isCorrect": false,
+                    "feedback": "Trading posts like Tadoussac came later; the 1534 claim was a symbolic gesture."
+                },
+                {
+                    "text": "Claiming the coast via a royal decree",
+                    "isCorrect": false,
+                    "feedback": "While acting for the King, the physical act of erecting the cross was the specific mechanism of claim."
+                },
+                {
+                    "text": "Building a stone fortress",
+                    "isCorrect": false,
+                    "feedback": "Cartier used a cross as a symbolic marker, not a military fortress."
+                },
+                {
+                    "text": "Establishing a fishing outpost",
+                    "isCorrect": false,
+                    "feedback": "Fishing outposts were established by Basque and Portuguese mariners, not as formal royal claims."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did the nature of European presence in North America shift between the late 16th century and the early 17th century?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "From permanent cities to seasonal camps",
+                    "isCorrect": false,
+                    "feedback": "The shift was actually from temporary outposts to more structured, permanent settlements."
+                },
+                {
+                    "text": "From royal claims to Indigenous trade",
+                    "isCorrect": false,
+                    "feedback": "The presence shifted in structure (temporary to permanent), not in the primary driver of trade."
+                },
+                {
+                    "text": "From temporary outposts to permanent settlements",
+                    "isCorrect": true,
+                    "feedback": "Presence evolved from seasonal camps, like St John's, to year-round settlements like Quebec City."
+                },
+                {
+                    "text": "From French dominance to British rule",
+                    "isCorrect": false,
+                    "feedback": "This specific shift occurred later, primarily in 1713 and 1763."
+                },
+                {
+                    "text": "From exploration to purely military conquest",
+                    "isCorrect": false,
+                    "feedback": "The shift was toward structured colonization and permanent habitation, not just military action."
+                },
+                {
+                    "text": "From Norse encampments to seasonal fishing",
+                    "isCorrect": false,
+                    "feedback": "Norse presence was the earliest, but the shift to permanent settlements happened much later."
+                },
+                {
+                    "text": "From agricultural hubs to fur trading posts",
+                    "isCorrect": false,
+                    "feedback": "The shift was about the duration of habitation (seasonal vs permanent), not the primary vocation."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What caused the outbreak of the Beaver Wars in the mid-17th century?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Disputes over the Treaty of Utrecht",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Utrecht occurred in 1713, long after the Beaver Wars began."
+                },
+                {
+                    "text": "Competition for the North American fur trade",
+                    "isCorrect": true,
+                    "feedback": "The Beaver Wars were fought specifically over the control of the lucrative fur trade."
+                },
+                {
+                    "text": "Conflicts over the 1763 transition to British rule",
+                    "isCorrect": false,
+                    "feedback": "The 1763 transition was the result of the Seven Years' War, not the Beaver Wars."
+                },
+                {
+                    "text": "Disagreements over the location of Quebec City",
+                    "isCorrect": false,
+                    "feedback": "The Beaver Wars were economic conflicts over pelts, not urban planning disputes."
+                },
+                {
+                    "text": "Religious clashes between Catholic missionaries",
+                    "isCorrect": false,
+                    "feedback": "While missionaries were present, the wars were driven by the economic engine of the fur trade."
+                },
+                {
+                    "text": "The establishment of Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a settlement; the Beaver Wars were driven by resource competition."
+                },
+                {
+                    "text": "The search for a Northwest Passage",
+                    "isCorrect": false,
+                    "feedback": "The Beaver Wars were internal colonial conflicts over trade, not exploration for a passage."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How was the transition of sovereignty over Canada and most of New France achieved by 1763?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Through a single diplomatic agreement in 1497",
+                    "isCorrect": false,
+                    "feedback": "1497 was the date of John Cabot's claim, not the final transition of power."
+                },
+                {
+                    "text": "Via the 1713 Treaty of Utrecht",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Utrecht only transferred mainland Nova Scotia, not all of Canada."
+                },
+                {
+                    "text": "Through the Seven Years' War and subsequent treaties",
+                    "isCorrect": true,
+                    "feedback": "The final shift to British rule for Canada and most of New France followed the Seven Years' War."
+                },
+                {
+                    "text": "By the peaceful migration of the Acadians",
+                    "isCorrect": false,
+                    "feedback": "The transition was the result of wars and treaties, not voluntary migration."
+                },
+                {
+                    "text": "Through the establishment of permanent settlements",
+                    "isCorrect": false,
+                    "feedback": "Settlements established the foothold, but sovereignty shifted through war and diplomacy."
+                },
+                {
+                    "text": "Via the 1603 arrival of Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Champlain established settlements, but did not transition sovereignty to Britain."
+                },
+                {
+                    "text": "Through the 1534 claim of Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Cartier claimed the land for France; the transition to Britain happened centuries later."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The transition of mainland Nova Scotia to British control in 1713 was formally achieved through the mechanism of the ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Treaty of Utrecht",
+                    "isCorrect": true,
+                    "feedback": "The 1713 Treaty of Utrecht was the diplomatic agreement that transferred mainland Nova Scotia to the British."
+                },
+                {
+                    "text": "Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a conflict that led to the 1763 transition of most of New France, not the 1713 transfer of Nova Scotia."
+                },
+                {
+                    "text": "Treaty of Paris",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Paris is not mentioned in the source text as the mechanism for the 1713 transfer of Nova Scotia."
+                },
+                {
+                    "text": "Royal Proclamation",
+                    "isCorrect": false,
+                    "feedback": "The Royal Proclamation is not listed as the diplomatic agreement that transferred Nova Scotia in 1713."
+                },
+                {
+                    "text": "Act of Union",
+                    "isCorrect": false,
+                    "feedback": "The Act of Union was a later legislative merger of the Canadas, not a 1713 territorial treaty."
+                },
+                {
+                    "text": "Quebec Act",
+                    "isCorrect": false,
+                    "feedback": "The Quebec Act was a 1774 law providing autonomy to Quebec, not a treaty for Nova Scotia's transfer."
+                },
+                {
+                    "text": "Constitution Act",
+                    "isCorrect": false,
+                    "feedback": "The Constitution Act relates to the legal framework of Canada, not the 1713 transfer of Nova Scotia."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The expansion of New France into the interior was primarily driven by the economic engine of the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "lucrative fur trade",
+                    "isCorrect": true,
+                    "feedback": "The pursuit of wealth through the fur trade was the primary engine that drove French expansion deeper into the continent."
+                },
+                {
+                    "text": "seasonal whaling",
+                    "isCorrect": false,
+                    "feedback": "Whaling was a seasonal activity along the coast, not the primary engine for interior expansion."
+                },
+                {
+                    "text": "seasonal fishing",
+                    "isCorrect": false,
+                    "feedback": "Agricultural expansion was a coastal activity, not the driver for interior exploration."
+                },
+                {
+                    "text": "gold mining",
+                    "isCorrect": false,
+                    "feedback": "Gold mining is not mentioned as a driver for the early colonization of New France."
+                },
+                {
+                    "text": "timber exports",
+                    "isCorrect": false,
+                    "feedback": "Timber is not cited as the primary engine for expansion into the interior."
+                },
+                {
+                    "text": "agricultural farming",
+                    "isCorrect": false,
+                    "feedback": "Agricultural farming was a result of settlement, not the primary engine of expansion."
+                },
+                {
+                    "text": "missionary work",
+                    "isCorrect": false,
+                    "feedback": "While missionaries traveled the interior, the primary economic engine was the fur trade."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The shift from temporary outposts to permanent, year-round European settlements in Canada was achieved when ____ established Port Royal and Quebec City.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": true,
+                    "feedback": "Samuel de Champlain moved beyond seasonal visits to establish the first permanent year-round settlements in 1605 and 1608."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier claimed the territory and explored the Gulf of Saint Lawrence, but did not establish permanent year-round settlements."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot claimed the Atlantic coast for England in 1497 but did not establish permanent settlements."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson established a short-lived Norse encampment, not a permanent year-round settlement."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded the first English seasonal camp, not a permanent year-round settlement."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the English monarch for whom Cabot claimed the coast, not an explorer who established settlements."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the French monarch for whom Cartier claimed New France, not an explorer who established settlements."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2,
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The volatility of the colonial economy and the desperation to control the supply of pelts caused the outbreak of the ____ in the mid-17th century.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Beaver Wars",
+                    "isCorrect": true,
+                    "feedback": "The Beaver Wars were a series of conflicts fought specifically over the control of the North American fur trade."
+                },
+                {
+                    "text": "Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a global conflict between empires for dominance, not specifically a mid-17th century pelt conflict."
+                },
+                {
+                    "text": "War of 1812",
+                    "isCorrect": false,
+                    "feedback": "The War of 1812 was a conflict between the US and UK, occurring much later than the mid-17th century."
+                },
+                {
+                    "text": "Red River Rebellion",
+                    "isCorrect": false,
+                    "feedback": "The Red River Rebellion was a later conflict involving Metis grievances, not a 17th-century fur trade war."
+                },
+                {
+                    "text": "American Revolution",
+                    "isCorrect": false,
+                    "feedback": "The American Revolution was a conflict for independence from Britain, not a 17th-century pelt conflict."
+                },
+                {
+                    "text": "Treaty of Utrecht",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Utrecht was a diplomatic agreement, not a war fought over pelts."
+                },
+                {
+                    "text": "Quebec Act",
+                    "isCorrect": false,
+                    "feedback": "The Quebec Act was a legislative act, not a war fought over the fur trade."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What was the direct result of the Seven Years' War regarding the sovereignty of New France?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Transfer of Nova Scotia to Britain",
+                    "isCorrect": false,
+                    "feedback": "This occurred earlier in 1713 via the Treaty of Utrecht, not as a result of the Seven Years' War."
+                },
+                {
+                    "text": "Establishment of Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a permanent settlement established by Samuel de Champlain in 1605."
+                },
+                {
+                    "text": "Canada coming under British rule",
+                    "isCorrect": true,
+                    "feedback": "By 1763, following the Seven Years' War, Canada and the vast majority of New France officially transitioned to British rule."
+                },
+                {
+                    "text": "Founding of St John's",
+                    "isCorrect": false,
+                    "feedback": "St John's was founded as a seasonal camp by Sir Humphrey Gilbert in 1583."
+                },
+                {
+                    "text": "Creation of the Beaver Wars",
+                    "isCorrect": false,
+                    "feedback": "The Beaver Wars were mid-17th century conflicts over the fur trade, predating the Seven Years' War."
+                },
+                {
+                    "text": "Establishment of Tadoussac",
+                    "isCorrect": false,
+                    "feedback": "Tadoussac was a French seasonal trading post established in 1600."
+                },
+                {
+                    "text": "Founding of Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was established as a permanent settlement by Samuel de Champlain in 1608."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the primary difference between the settlements established by Samuel de Champlain and those founded by Sir Humphrey Gilbert?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Champlain's were permanent year-round, while Gilbert's was seasonal",
+                    "isCorrect": true,
+                    "feedback": "Samuel de Champlain established the first permanent year-round settlements, whereas Sir Humphrey Gilbert founded the first English seasonal camp."
+                },
+                {
+                    "text": "Champlain's were English, while Gilbert's were French",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain was a French explorer, while Sir Humphrey Gilbert founded an English camp."
+                },
+                {
+                    "text": "Champlain's were for fishing, while Gilbert's were for fur trading",
+                    "isCorrect": false,
+                    "feedback": "The text does not specify the primary purpose of Gilbert's camp, but Champlain's settlements were permanent footholds for the French."
+                },
+                {
+                    "text": "Champlain's were Norse, while Gilbert's were French",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson was the Norse explorer; both Champlain and Gilbert were from later European powers."
+                },
+                {
+                    "text": "Champlain's were in the Maritimes, while Gilbert's were in Quebec",
+                    "isCorrect": false,
+                    "feedback": "Champlain established Quebec City and Port Royal, while Gilbert founded St John's, Newfoundland."
+                },
+                {
+                    "text": "Champlain's were temporary, while Gilbert's were permanent",
+                    "isCorrect": false,
+                    "feedback": "It was the opposite: Champlain's settlements were the first permanent year-round ones."
+                },
+                {
+                    "text": "Champlain's were for whaling, while Gilbert's were for farming",
+                    "isCorrect": false,
+                    "feedback": "The text attributes seasonal fishing and whaling to Basque and Portuguese mariners, not Gilbert or Champlain."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "While the Canadiens settled the Saint Lawrence River valley, the ____ settled the present-day Maritimes.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Acadians",
+                    "isCorrect": true,
+                    "feedback": "Acadians were the French settlers who specifically established communities in the present-day Maritimes."
+                },
+                {
+                    "text": "Basques",
+                    "isCorrect": false,
+                    "feedback": "The Basques were mariners who established seasonal fishing and whaling outposts, not permanent settlers of the Maritimes."
+                },
+                {
+                    "text": "Portuguese",
+                    "isCorrect": false,
+                    "feedback": "The Portuguese, like the Basques, were mariners focused on seasonal outposts rather than the settlement of the Maritimes."
+                },
+                {
+                    "text": "Norse",
+                    "isCorrect": false,
+                    "feedback": "The Norse established a short-lived encampment at L'Anse aux Meadows long before the French settlement era."
+                },
+                {
+                    "text": "Loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were settlers who moved to Canada after the American War of Independence, not early French settlers."
+                },
+                {
+                    "text": "Metis",
+                    "isCorrect": false,
+                    "feedback": "The Metis are people of mixed descent who originated in the mid-17th century, not a specific settler group for the Maritimes."
+                },
+                {
+                    "text": "Canadiens",
+                    "isCorrect": false,
+                    "feedback": "Canadiens were the settlers who specifically inhabited the Saint Lawrence River valley."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "How was the conflict over the control of the North American fur trade in the mid-17th century described?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The Beaver Wars",
+                    "isCorrect": true,
+                    "feedback": "The Beaver Wars were a series of conflicts fought specifically over the control of the North American fur trade."
+                },
+                {
+                    "text": "The Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War was a larger imperial struggle that eventually led to British rule over Canada, not specifically the mid-17th century fur trade conflicts."
+                },
+                {
+                    "text": "The Treaty of Utrecht",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Utrecht was a diplomatic agreement that transferred Nova Scotia to the British, not a conflict over fur trade."
+                },
+                {
+                    "text": "The Red River Rebellion",
+                    "isCorrect": false,
+                    "feedback": "The Red River Rebellion was a later conflict involving Metis grievances, not the 17th-century fur trade."
+                },
+                {
+                    "text": "The War of 1812",
+                    "isCorrect": false,
+                    "feedback": "The War of 1812 was a conflict between the US and UK, not the mid-17th century fur trade wars."
+                },
+                {
+                    "text": "The Quebec Act",
+                    "isCorrect": false,
+                    "feedback": "The Quebec Act was a legislative measure to avert conflict in Quebec, not a war over fur trade."
+                },
+                {
+                    "text": "The Treaty of Paris",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Paris recognized US independence and set peace terms, not the fur trade conflicts."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "To resolve the struggle for dominance over the North American continent between Britain and France, the 1713 Treaty of Utrecht was used to formally transfer mainland Nova Scotia to ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "British control",
+                    "isCorrect": true,
+                    "feedback": "The 1713 Treaty of Utrecht specifically transferred mainland Nova Scotia to British rule to resolve territorial disputes."
+                },
+                {
+                    "text": "French control",
+                    "isCorrect": false,
+                    "feedback": "The treaty transferred the land away from the French, not to them."
+                },
+                {
+                    "text": "Norse control",
+                    "isCorrect": false,
+                    "feedback": "The Norse presence was a short-lived encampment around 1000 AD, not a party to the 1713 treaty."
+                },
+                {
+                    "text": "Portuguese control",
+                    "isCorrect": false,
+                    "feedback": "The Portuguese established seasonal fishing outposts, not formal territorial sovereignty via treaties."
+                },
+                {
+                    "text": "Basque control",
+                    "isCorrect": false,
+                    "feedback": "The Basque were mariners focused on seasonal fishing, not imperial territorial claims."
+                },
+                {
+                    "text": "Spanish control",
+                    "isCorrect": false,
+                    "feedback": "Spain is not mentioned as a party to the territorial transfers of Nova Scotia in the source text."
+                },
+                {
+                    "text": "Indigenous control",
+                    "isCorrect": false,
+                    "feedback": "The treaty was a diplomatic agreement between European powers to divide territory among themselves."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which group of early French settlers in North America specifically settled the present-day Maritimes?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Acadians",
+                    "isCorrect": true,
+                    "feedback": "Acadians were the French settlers who established their communities in the present-day Maritimes."
+                },
+                {
+                    "text": "Canadiens",
+                    "isCorrect": false,
+                    "feedback": "Canadiens were the settlers who extensively settled the Saint Lawrence River valley."
+                },
+                {
+                    "text": "Basques",
+                    "isCorrect": false,
+                    "feedback": "Basques were mariners who established seasonal fishing and whaling outposts, not permanent settlers of the Maritimes."
+                },
+                {
+                    "text": "Portuguese",
+                    "isCorrect": false,
+                    "feedback": "Portuguese mariners, like the Basques, focused on seasonal fishing and whaling outposts."
+                },
+                {
+                    "text": "Norse",
+                    "isCorrect": false,
+                    "feedback": "The Norse established a short-lived encampment at L'Anse aux Meadows, not the Maritimes."
+                },
+                {
+                    "text": "Catholic missionaries",
+                    "isCorrect": false,
+                    "feedback": "Catholic missionaries, along with fur traders, explored the interior regions like the Great Lakes and Hudson Bay."
+                },
+                {
+                    "text": "Fur traders",
+                    "isCorrect": false,
+                    "feedback": "Fur traders explored the interior watershed and Great Lakes rather than settling the Maritimes."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The settlers who extensively settled the Saint Lawrence River valley were categorized as ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Canadiens",
+                    "isCorrect": true,
+                    "feedback": "Canadiens were the specific group of French settlers who established themselves in the Saint Lawrence River valley."
+                },
+                {
+                    "text": "Acadians",
+                    "isCorrect": false,
+                    "feedback": "Acadians were settlers who settled in the present-day Maritimes, not the river valley."
+                },
+                {
+                    "text": "Basques",
+                    "isCorrect": false,
+                    "feedback": "Basques were mariners who established seasonal fishing and whaling outposts."
+                },
+                {
+                    "text": "Portuguese",
+                    "isCorrect": false,
+                    "feedback": "Portuguese mariners, like the Basques, focused on seasonal coastal outposts rather than river valley settlement."
+                },
+                {
+                    "text": "Norse",
+                    "isCorrect": false,
+                    "feedback": "The Norse established a short-lived encampment at L'Anse aux Meadows around 1000 AD."
+                },
+                {
+                    "text": "Loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were settlers who moved to Canada after the American War of Independence."
+                },
+                {
+                    "text": "Metis",
+                    "isCorrect": false,
+                    "feedback": "The Metis are people of mixed descent who originated in the mid-17th century."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which European explorer arrived in Canada approximately 1,000 years before John Cabot's 1497 claim?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": true,
+                    "feedback": "Leif Erikson established a Norse encampment around 1000 AD, nearly 500 years before Cabot's arrival."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier arrived in 1534, which is after John Cabot's 1497 claim."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain arrived in 1603, long after both Erikson and Cabot."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded St John's in 1583, following Cabot's claim."
+                },
+                {
+                    "text": "Christopher Columbus",
+                    "isCorrect": false,
+                    "feedback": "Columbus is not mentioned in the source text as an explorer of Canada's east coast."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the King of England for whom Cabot claimed the land, not an explorer."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the King of France for whom Cartier claimed the land, not an explorer."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Following the 1497 claim by John Cabot, which explorer was the next to formally claim territory for a European monarchy in 1534?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": true,
+                    "feedback": "Jacques Cartier claimed the territory of New France for King Francis I in 1534."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain arrived later in 1603 to establish permanent settlements."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded a seasonal camp in 1583, after Cartier's claim."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson's Norse encampment occurred around 1000 AD, preceding Cabot."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot was the explorer who made the 1497 claim mentioned in the question."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the English monarch, not the explorer who followed Cabot."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the French monarch, not the explorer who followed Cabot."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What event occurred in 1583, after the claims of Cabot and Cartier but before the permanent settlements of Champlain?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Foundation of St John's",
+                    "isCorrect": true,
+                    "feedback": "Sir Humphrey Gilbert founded St John's, Newfoundland, as the first English seasonal camp in 1583."
+                },
+                {
+                    "text": "Establishment of Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was established by Samuel de Champlain in 1605."
+                },
+                {
+                    "text": "Establishment of Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was established by Samuel de Champlain in 1608."
+                },
+                {
+                    "text": "Claim of New France",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier claimed New France in 1534."
+                },
+                {
+                    "text": "Claim of Atlantic coast",
+                    "isCorrect": false,
+                    "feedback": "John Cabot claimed the Atlantic coast in 1497."
+                },
+                {
+                    "text": "Trading post at Tadoussac",
+                    "isCorrect": false,
+                    "feedback": "The French established a trading post at Tadoussac in 1600."
+                },
+                {
+                    "text": "Treaty of Utrecht",
+                    "isCorrect": false,
+                    "feedback": "The Treaty of Utrecht occurred in 1713, long after 1583."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which of the following occurred first in the sequence of permanent European settlement in Canada?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Quebec City (1608)",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was established in 1608, after Port Royal."
+                },
+                {
+                    "text": "Port Royal (1605)",
+                    "isCorrect": true,
+                    "feedback": "Samuel de Champlain established Port Royal in 1605, preceding Quebec City."
+                },
+                {
+                    "text": "Tadoussac (1600)",
+                    "isCorrect": false,
+                    "feedback": "Tadoussac was a seasonal trading post, not a permanent year-round settlement."
+                },
+                {
+                    "text": "St John's (1583)",
+                    "isCorrect": false,
+                    "feedback": "St John's was a seasonal camp, not a permanent year-round settlement."
+                },
+                {
+                    "text": "L'Anse aux Meadows (1000 AD)",
+                    "isCorrect": false,
+                    "feedback": "L'Anse aux Meadows was a short-lived encampment, not a permanent settlement."
+                },
+                {
+                    "text": "Nova Scotia (1713)",
+                    "isCorrect": false,
+                    "feedback": "Nova Scotia's transfer to Britain happened in 1713, long after the first settlements."
+                },
+                {
+                    "text": "New France (1534)",
+                    "isCorrect": false,
+                    "feedback": "New France was a territorial claim made in 1534, not a permanent settlement."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the timeline of British sovereignty, what happened in 1713 before the final transition of most of New France in 1763?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Treaty of Utrecht",
+                    "isCorrect": true,
+                    "feedback": "The 1713 Treaty of Utrecht formally transferred mainland Nova Scotia to British control."
+                },
+                {
+                    "text": "Seven Years' War",
+                    "isCorrect": false,
+                    "feedback": "The Seven Years' War led to the 1763 transition, occurring after 1713."
+                },
+                {
+                    "text": "Beaver Wars",
+                    "isCorrect": false,
+                    "feedback": "The Beaver Wars occurred in the mid-17th century, long before 1713."
+                },
+                {
+                    "text": "Quebec Act",
+                    "isCorrect": false,
+                    "feedback": "The Quebec Act is not mentioned in the source text as occurring in 1713."
+                },
+                {
+                    "text": "Foundation of Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was founded in 1608, before the 1713 treaty."
+                },
+                {
+                    "text": "Foundation of Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was founded in 1605, before the 1713 treaty."
+                },
+                {
+                    "text": "Claim of New France",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier claimed New France in 1534, long before 1713."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Before John Cabot claimed the Atlantic coast for England in 1497, the first documented European presence in Canada was established by ____ around 1000 AD.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": true,
+                    "feedback": "Leif Erikson is believed to be the first documented European to explore Canada's east coast around 1000 AD."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier explored the Gulf of Saint Lawrence much later, in 1534."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain arrived in 1603 to establish permanent settlements."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded St John's in 1583."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot is the person mentioned as arriving after the Norse presence."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the English King for whom Cabot claimed the land, not the explorer himself."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the French King for whom Cartier claimed the territory."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Following the 1497 claim by John Cabot, the next major European explorer to claim territory in the name of a European monarchy was ____ in 1534.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": true,
+                    "feedback": "Jacques Cartier claimed the territory of New France for King Francis I in 1534."
+                },
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": false,
+                    "feedback": "Samuel de Champlain established permanent settlements starting in 1603."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded the first English seasonal camp in 1583."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson's Norse encampment occurred much earlier, around 1000 AD."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot is the explorer who preceded Cartier in this sequence."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the monarch who commissioned Cabot's 1497 voyage."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the monarch who commissioned Cartier's 1534 voyage."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "After the establishment of seasonal camps like St John's in 1583, ____ arrived in 1603 to establish the first permanent, year-round European settlements.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Samuel de Champlain",
+                    "isCorrect": true,
+                    "feedback": "Samuel de Champlain established the first permanent year-round settlements at Port Royal and Quebec City."
+                },
+                {
+                    "text": "Jacques Cartier",
+                    "isCorrect": false,
+                    "feedback": "Jacques Cartier's 1534 exploration was a claim of possession, not a permanent settlement."
+                },
+                {
+                    "text": "Sir Humphrey Gilbert",
+                    "isCorrect": false,
+                    "feedback": "Sir Humphrey Gilbert founded a seasonal camp, not a permanent year-round settlement."
+                },
+                {
+                    "text": "Leif Erikson",
+                    "isCorrect": false,
+                    "feedback": "Leif Erikson's Norse encampment was short-lived and not a permanent colony."
+                },
+                {
+                    "text": "John Cabot",
+                    "isCorrect": false,
+                    "feedback": "John Cabot's 1497 voyage was an exploration and claim, not a permanent settlement."
+                },
+                {
+                    "text": "Henry VII",
+                    "isCorrect": false,
+                    "feedback": "Henry VII was the English monarch, not the explorer who established settlements."
+                },
+                {
+                    "text": "Francis I",
+                    "isCorrect": false,
+                    "feedback": "Francis I was the French monarch, not the explorer who established settlements."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The transition of power in North America occurred in stages, starting with the 1713 Treaty of Utrecht which transferred Nova Scotia to Britain, and concluding by ____ when Canada and most of New France officially came under British rule.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "1763",
+                    "isCorrect": true,
+                    "feedback": "By 1763, following the Seven Years' War, Canada and most of New France transitioned to British rule."
+                },
+                {
+                    "text": "1713",
+                    "isCorrect": false,
+                    "feedback": "1713 was the date of the Treaty of Utrecht, the first major shift in power."
+                },
+                {
+                    "text": "1608",
+                    "isCorrect": false,
+                    "feedback": "1608 was the year Quebec City was established as a permanent settlement."
+                },
+                {
+                    "text": "1605",
+                    "isCorrect": false,
+                    "feedback": "1605 was the year Port Royal was established as a permanent settlement."
+                },
+                {
+                    "text": "1583",
+                    "isCorrect": false,
+                    "feedback": "1583 was the year St John's was founded as a seasonal camp."
+                },
+                {
+                    "text": "1534",
+                    "isCorrect": false,
+                    "feedback": "1534 was the year Jacques Cartier claimed New France."
+                },
+                {
+                    "text": "1497",
+                    "isCorrect": false,
+                    "feedback": "1497 was the year John Cabot claimed the Atlantic coast."
+                }
+            ],
+            "source_card_ids": [
+                7,
+                8
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        }
+    ]
+}

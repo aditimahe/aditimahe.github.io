@@ -1,0 +1,3413 @@
+{
+    "module_name": "Experimental Evidence of Anchoring",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "In one of their first studies, participants were separated into one of two conditions, and either asked to compute, within 5 seconds, the product of the numbers one through to eight, either as 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8 or reversed as 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1. Because participants did not have enough time to calculate the full answer, they had to make an estimate after their first few multiplications. When these first multiplications gave a small answer - because the sequence started with small numbers - the median estimate was 512; when the sequence started with the larger numbers, the median estimate was 2,250. (The correct answer is 40,320.)"
+        },
+        {
+            "note_id": "n2",
+            "text": "In another study by Tversky and Kahneman, participants were asked to estimate the percentage of African countries in the United Nations. Before estimating, the participants first observed a roulette wheel that was predetermined to stop on either 10 or 65. Participants whose wheel stopped on 10 guessed lower values (25% on average) than participants whose wheel stopped at 65 (45% on average)."
+        },
+        {
+            "note_id": "n3",
+            "text": "in a study by Dan Ariely, an audience is first asked to write the last two digits of their social security number and consider whether they would pay this number of dollars for items whose value they did not know, such as wine, chocolate and computer equipment. They were then asked to bid for these items, with the result that the audience members with higher two-digit numbers would submit bids that were between 60 percent and 120 percent higher than those with the lower social security numbers, which had become their anchor."
+        },
+        {
+            "note_id": "n4",
+            "text": "Trying to avoid this confusion, a small number of studies used procedures that were clearly random, such as Excel random generator button and die roll, and failed to replicate anchoring effects."
+        },
+        {
+            "note_id": "n5",
+            "text": "In one study in the Journal of Real Estate Research, it was established that the 2-year and 9-year highs on the Case-Shiller House Price Index could be used as anchors in predicting current house prices."
+        },
+        {
+            "note_id": "n6",
+            "text": "A study found that when using an app-based stock brokerage, an investor's first stock purchase price serves as an anchor for future stock purchases."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Create a radial_row display showing the average percentage of African countries in the UN guessed by participants in two different conditions: 10 (25%) and 65 ( roulette wheel stop point).",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides two distinct, independent percentage metrics (25% and 45%) related to the same theme of UN country estimates."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Create a radial_row display showing the participants' bids for items based on their social security number anchors. The bids were between 60 percent and 120 percent higher than those with lower social security numbers.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a range of percentage increases (60% to 120%) which are independent metrics under the same theme of bidding behavior."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid showing the results of the multiplication study. Include the following key-value pairs: 'Median Estimate (Small Start): 512', 'Median Estimate (Large Start): 2,250', 'Correct Answer: 40,320'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides multiple distinct, unrelated numerical data points (median estimates and the correct answer) that belong to the same overarching theme of the multiplication study."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the two conditions in the study described in [n1]. Contrast the 'small number sequence' (1x2x3...) and the 'large number sequence' (8x7x6...) and their resulting median estimates (512 vs 2,250).",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a clear, single-point of contrast between two experimental conditions and their resulting estimates."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the two groups of participants in the study described in {n2}. Contrast the participants whose roulette wheel stopped on 10 and those whose wheel stopped on 1L65, and their resulting average guesses for the percentage of African countries in the UN.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides a clear, single-point of contrast between two competing experimental conditions (the anchor values 10 and 65) and their resulting estimates."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing the process of anchoring in the multiplication study. Trigger: Participants are given a multiplication sequence (1-8 or 8-1). Mechanism: Participants must estimate the answer after only a few multiplications due to a time limit. Outcome: The starting numbers act as anchors, leading to significantly different median estimates (512 vs 2,250).",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note describes a clear trigger (the sequence), a mechanism (time-limited estimation), and a resulting outcome (divergent estimates based on the anchor)."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain for the UN countries study. Trigger: Participants observe a roulette wheel stopping on either 10 or 65. Mechanism: These numbers serve as anchors for the subsequent estimation task. Outcome: Participants who saw 10 guessed lower (25% avg) than those who saw 65 (45% avg).",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note describes a direct cause-and-effect relationship where a random number triggers a specific bias in estimation."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain for Dan Ariely's study. Trigger: Participants write down the last two digits of their social security number. Mechanism: These digits act as an anchor for the value of unknown items. Outcome: Participants with higher SSN digits submit bids 60% to 120% higher than those with lower digits.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note outlines a clear trigger (SSN digits), a mechanism (anchoring), and a measurable outcome (higher bids)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'anchor' as the initial piece of information offered to make a subsequent judgment or estimate, as illustrated by the same examples provided in thecantidad a the notes (e.g., social security numbers, roulette wheel numbers, sequence of multiplication sequence), based on the context of the khoảng thể an anchoring effect. anchoring effect. ",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes provide multiple examples of what an anchor is through experimental evidence, allowing for a definition of the term 'anchor' based on thetext text."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Case-Shiller House Price Index' as a tool used to predict current house prices based on historical highs (2-year and 9-year highs), as described in the Journal of Real Estate Research study.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The text explicitly mentions the 'Case-Shiller House Price Index' as a sebagai sebagai as a tool for predicting house prices, providing a clear definition of its purpose."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style to list the various experimental evidence of anchoring provided in the notes. Include the study on multiplication sequences (n1), the UN African countries percentage estimate (n2), the social security number bidding (n3), the House Price Index anchors (n5), and the stock brokerage purchase price (n6).",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide a list of five distinct experimental examples of anchoring, which fits the 'itemized_breakdown' schema for descriptive phrases."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'What was the actual product of the numbers 1 through 8?', Back: '40,320'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "This creates a curiosity gap by contrasting the participants' low estimates (512 and 2,250) with the actual correct answer."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion with the following items: 1. 'Multiplication Sequence' (n1): Participants' estimates varied based on whether the sequence started with small or low numbers. 2. 'UN African Countries' (n2): A roulette wheel stop value (10 or 65) influenced the percentage estimate of African countries in the UN. 3. 'SSN Bidding' (n3): The last two digits of their social security number acted as an anchor for bidding on items like wine, chocolate, and computer equipment.",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "e//n3"
+            ],
+            "rationale": "These three studies are detailed experimental setups that serve as parallel, related examples of the anchoring effect in action."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the correct answer to the multiplication problem (40,320) as a shocking fact compared to the estimates. Use display_style: 'attention_pulse'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a specific, surprising numerical outlier (the correct answer) compared to the participants' estimates."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the median estimate of 512 when the sequence started with small numbers and 2,250 when it started with large numbers. Use display_style: 'attention_pulse'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides precise statistics that demonstrate the anchoring effect in a mathematical context."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the average guesses for African countries in the UN: 25% for the 10-anchor and 45% for the 65-anchor. Use display_style: 'attention_pulse'.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides exact statistics that illustrate the impact of a random anchor on estimation."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that bids were between 60 percent and 120 percent higher for those with higher social security number anchors. Use display_style: 'attention_pulse'.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a specific percentage range that quantifies the anchoring effect."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the paradox that clearly random procedures (Excel random generator, die roll) failed to replicate anchoring effects. Use display_style: 'paradox_panel'.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note presents a counter-intuitive result where the expected anchoring effect disappeared when randomness was explicit."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the use of 2-year and 9-year highs on the Case-Shiller House Price Index as anchors for predicting current house prices. Use display_style: 'floating_overhang'.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note identifies specific time-based anchors (2-year and 9-year highs) used in real estate prediction."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that an investor's first stock purchase price serves as an anchor for future purchases in app-based brokerage. Use display_style: 'editorial_callout'.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note presents a foundational concept of how initial price points act as anchors in financial behavior."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the proposed widgets to eliminate redundancy while prioritizing structural and complex widgets over simple insight badges. For Note n1 (Multiplication Study), I kept the 'causal_chain' (raw_w5) to explain the process and the 'versus' (raw_w3) to contrast the results, while removing the 'fact_grid' (raw_w2), 'flip_reveal' (raw_w11), and 'insight_badges' (raw_w13, raw_w14) as they provided redundant numerical data. For Note n2 (UN Study), I kept the 'causal_chain' (raw_w6) and 'versus' (raw_w4) to provide a comprehensive view of the experiment, removing the 'percentage_display' (raw_w0) and 'insight_badge' (raw_w15). For Note n3 (SSN Study), I kept the 'causal_chain' (raw_w7) and 'insight_badge' (raw_w16) because the badge provides the specific quantitative range (60-120%) which the causal chain summarizes. I removed the 'percentage_display' (raw_w1) as it was redundant. I kept the 'jargon_buster' (raw_w8) to define the core concept and 'jargon_buster' (raw_w9) for the specific index. The 'itemized_breakdown' (raw_w10) and 'accordion' (raw_w12) were removed as they are essentially lists of the same studies already detailed in individual widgets. I kept all unique insight badges for notes n4, n5, and n6 (raw_w17, raw_w18, raw_w19) as they are the only widgets targeting those notes.",
+        "surviving_widget_ids": [
+            "raw_w3",
+            "raw_w4",
+            "raw_w5",
+            "raw_w6",
+            "raw_w7",
+            "raw_w8",
+            "raw_w9",
+            "raw_w16",
+            "raw_w17",
+            "raw_w18",
+            "raw_w19"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the two conditions in the study described in [n1]. Contrast the 'small number sequence' (1x2x3...) and the 'large number sequence' (8x7x6...) and their resulting median estimates (512 vs 2,250).",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a clear, single-point of contrast between two experimental conditions and their resulting estimates."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the two groups of participants in the study described in {n2}. Contrast the participants whose roulette wheel stopped on 10 and those whose wheel stopped on 1L65, and their resulting average guesses for the percentage of African countries in the UN.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides a clear, single-point of contrast between two competing experimental conditions (the anchor values 10 and 65) and their resulting estimates."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing the process of anchoring in the multiplication study. Trigger: Participants are given a multiplication sequence (1-8 or 8-1). Mechanism: Participants must estimate the answer after only a few multiplications due to a time limit. Outcome: The starting numbers act as anchors, leading to significantly different median estimates (512 vs 2,250).",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note describes a clear trigger (the sequence), a mechanism (time-limited estimation), and a resulting outcome (divergent estimates based on the anchor)."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain for the UN countries study. Trigger: Participants observe a roulette wheel stopping on either 10 or 65. Mechanism: These numbers serve as anchors for the subsequent estimation task. Outcome: Participants who saw 10 guessed lower (25% avg) than those who saw 65 (45% avg).",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note describes a direct cause-and-effect relationship where a random number triggers a specific bias in estimation."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain for Dan Ariely's study. Trigger: Participants write down the last two digits of their social security number. Mechanism: These digits act as an anchor for the value of unknown items. Outcome: Participants with higher SSN digits submit bids 60% to 120% higher than those with lower digits.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note outlines a clear trigger (SSN digits), a mechanism (anchoring), and a measurable outcome (higher bids)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'anchor' as the initial piece of information offered to make a subsequent judgment or estimate, as illustrated by the same examples provided in thecantidad a the notes (e.g., social security numbers, roulette wheel numbers, sequence of multiplication sequence), based on the context of the khoảng thể an anchoring effect. anchoring effect. ",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3"
+            ],
+            "rationale": "The notes provide multiple examples of what an anchor is through experimental evidence, allowing for a definition of the term 'anchor' based on thetext text."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Case-Shiller House Price Index' as a tool used to predict current house prices based on historical highs (2-year and 9-year highs), as described in the Journal of Real Estate Research study.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The text explicitly mentions the 'Case-Shiller House Price Index' as a sebagai sebagai as a tool for predicting house prices, providing a clear definition of its purpose."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that bids were between 60 percent and 120 percent higher for those with higher social security number anchors. Use display_style: 'attention_pulse'.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note provides a specific percentage range that quantifies the anchoring effect."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the paradox that clearly random procedures (Excel random generator, die roll) failed to replicate anchoring effects. Use display_style: 'paradox_panel'.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note presents a counter-intuitive result where the expected anchoring effect disappeared when randomness was explicit."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the use of 2-year and 9-year highs on the Case-Shiller House Price Index as anchors for predicting current house prices. Use display_style: 'floating_overhang'.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note identifies specific time-based anchors (2-year and 9-year highs) used in real estate prediction."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that an investor's first stock purchase price serves as an anchor for future purchases in app-based brokerage. Use display_style: 'editorial_callout'.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note presents a foundational concept of how initial price points act as anchors in financial behavior."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w0",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "Small number sequence (1 x 2 x 3...)",
+                "entity_b": "Large number sequence (8 x 7 x 6...)",
+                "distinction": "The small number sequence resulted in a median estimate of 512, whereas the large number sequence resulted in a median estimate of 2,250."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w1",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "Participants whose wheel stopped on 10",
+                "entity_b": "Participants whose wheel stopped on 65",
+                "distinction": "Those who saw the wheel stop on 10 guessed an average of 25% for the percentage of African countries in the UN, while those who saw it stop on 65 guessed an average of 45%."
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w2",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "Participants are given a multiplication sequence of numbers one through eight, either in ascending order (1 x 2 x 3 x 4 x 5 x 6 x 7 x 8) or descending order (8 x 7 x 6 x 5 x 4 x 3 x 2 x 1).",
+                "mechanism": "Due to a 5-second time limit, participants cannot calculate the full product and must provide an estimate based on their first few multiplications.",
+                "outcome": "The starting numbers act as anchors, resulting in a median estimate of 512 for the ascending sequence and 2,250 for the descending sequence."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w3",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "Participants observe a roulette wheel that is predetermined to stop on either 10 or 65.",
+                "mechanism": "These numbers serve as anchors for the subsequent task of estimating the percentage of African countries in the United Nations.",
+                "outcome": "Participants who saw 10 guessed lower values (25% on average) than those who saw 65 (45% on average)."
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w4",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "Participants write down the last two digits of their social security number.",
+                "mechanism": "These digits act as an anchor for the value of unknown items.",
+                "outcome": "Participants with higher SSN digits submit bids 60% to 120% higher than those with lower digits."
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w5",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "anchor",
+                "definition": "The initial piece of information offered to make a subsequent judgment or estimate, such as social security numbers, roulette wheel numbers, or a multiplication sequence."
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2",
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w6",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "Case-Shiller House Price Index",
+                "definition": "A tool used to predict current house prices based on historical 2-year and 9-year highs, as described in a Journal of Real Estate Research study."
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w7",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🎯",
+                "short_title": "60% to 120% Higher Bids",
+                "expanded_detail": "In a study by Dan Ariely, participants with higher social security number anchors submitted bids for items like wine and chocolate that were 60% to 120% higher than those with lower anchors.",
+                "display_style": "attention_pulse"
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w8",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🎲",
+                "short_title": "Randomness Paradox",
+                "expanded_detail": "While anchoring typically persists even with irrelevant numbers, some studies using clearly random procedures, such as die rolls or Excel random generators, failed to replicate the effect.",
+                "display_style": "paradox_panel"
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w9",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🏠",
+                "short_title": "2 & 9-Year Highs",
+                "expanded_detail": "Research in the Journal of Real Estate Research indicates that 2-year and 9-year highs on the Case-Shiller House Price Index serve as anchors for predicting current house prices.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w10",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "⚓",
+                "short_title": "Investment Anchoring",
+                "expanded_detail": "In app-based stock brokerages, an investor's first purchase price often acts as a psychological anchor. This reference point influences future stock purchases, and starting with small purchases can lead to lower long-term accumulated investments.",
+                "display_style": "editorial_callout"
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Science of Anchoring: Experimental Evidence",
+        "cards": [
+            {
+                "card_title": "The Power of the First Number",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introductory hook to set the stage for the module and introduce the core concept of anchoring.",
+                        "text_content": "Our brains are remarkably efficient, but they often take shortcuts that lead to surprising errors in judgment. One of the most potent is the **anchoring effect**, a psychological phenomenon where we rely too heavily on the first piece of information we encounter—the \"anchor\"—when making decisions or estimates. Even when that anchor is completely irrelevant, it can pull our final answer in its direction. To understand how this works, we can look at the groundbreaking experiments that revealed this bias in action."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Defines the core term 'anchor' using the provided jargon buster widget.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the first specific experimental example (Tversky and Kahneman's multiplication study).",
+                        "text_content": "The foundational research by **Amos Tversky** and **Daniel Kahneman** demonstrated that anchoring isn't just a conscious choice, but an automatic process. In one of their first studies, they tested how the order of numbers in a multiplication problem could skew a person's estimate."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Multiplication Trap",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the setup of the multiplication experiment, leading into the causal chain widget.",
+                        "text_content": "Participants were asked to calculate the product of numbers one through eight. However, there was a catch: they only had five seconds. Because they couldn't finish the math, they had to estimate the total based on the only part of the problem they had actually solved."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Shows the step-by-step process and outcome of the multiplication study.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w2"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Provides a direct comparison of the results between the two groups in the multiplication study.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Highlights the massive gap between the estimates and the actual answer to emphasize the power of the anchor.",
+                        "text_content": "The disparity is staggering. While the median estimates ranged from 512 to 2,250, the **correct answer is 40,320**. The starting numbers acted as a psychological tether, preventing participants from adjusting their estimates far enough to reach the truth. But does this happen even when the numbers are completely random?"
+                    }
+                ]
+            },
+            {
+                "card_title": "The Roulette Wheel Effect",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the second Tversky and Kahneman study involving the roulette wheel.",
+                        "text_content": "To test if the anchor had to be logically related to the question, Tversky and Kahneman used a **roulette wheel**. Participants were asked to estimate the percentage of African countries in the United Nations, but first, they watched a wheel spin and stop on a predetermined number."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Explains the causal mechanism of the roulette wheel experiment.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w3"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Compares the average guesses based on the roulette wheel's outcome.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the implication of the result—that even irrelevant numbers can anchor us—and transitions to the next study.",
+                        "text_content": "This result proves that the human mind can be anchored by numbers that have **zero logical connection** to the task at hand. Whether it's a math problem or a random spin of a wheel, the first number we see sets the scale. This leads us to a more personal form of anchoring: our own identity."
+                    }
+                ]
+            },
+            {
+                "card_title": "Personal Anchors and Bidding",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces Dan Ariely's study on social security numbers.",
+                        "text_content": "Psychologist **Dan Ariely** took this a step further by using participants' own **social security numbers** as anchors. He asked people to write down the last two digits of their SSN and then bid on items like wine, chocolate, and computer equipment."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Shows the causal chain of how SSN digits influenced bidding behavior.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w4"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Highlights the specific statistical impact of the SSN anchor on bids.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w7"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the surprising nature of the result and transitions to the 'Randomness Paradox'.",
+                        "text_content": "It is fascinating that a random administrative number can influence how much someone is willing to pay for a luxury item. However, not every random process creates an anchor. Some studies have found a curious exception."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Randomness Paradox",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept that some random methods don't cause anchoring.",
+                        "text_content": "While the roulette wheel worked, other researchers tried to use procedures that were **explicitly random**, such as rolling a die or using an Excel random generator button. Interestingly, these methods often failed to produce the same anchoring effects."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Explains the paradox where clearly random tools don't always trigger the bias.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w8"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Wraps up the experimental section and transitions to real-world applications in finance and real estate.",
+                        "text_content": "This suggests that for an anchor to take hold, the mind may need to perceive it as a potential starting point, even if it's illogical. But anchoring isn't just a laboratory curiosity; it happens in the high-stakes worlds of real estate and investing."
+                    }
+                ]
+            },
+            {
+                "card_title": "Anchoring in the Real World",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the application of anchoring in real estate and the Case-Shiller Index.",
+                        "text_content": "In the professional world, anchors are often historical data points. In real estate, for example, the **Case-Shiller House Price Index** is frequently used to gauge value. Research shows that specific historical peaks can skew how we predict current prices."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Defines the Case-Shiller House Price Index.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w6"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Highlights how 2 and 9-year highs act as anchors for home prices.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w9"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the final example of anchoring in stock brokerage apps and concludes the module.",
+                        "text_content": "Similarly, in behavioral finance, the first price an investor pays for a stock in an app-based brokerage often serves as a permanent reference point. This **initial purchase price** anchors their future decisions, often leading to lower long-term investments if they start small. From a random roulette wheel to a stock portfolio, the first number we see often defines the boundaries of our logic."
+                    }
+                ]
+            },
+            {
+                "card_title": "Investment Anchoring",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Every card must start and end with text. This card is dedicated to the final widget to ensure the narrative flow isn't overcrowded.",
+                        "text_content": "The impact of this investment bias is particularly insidious because it happens unconsciously. Even experienced investors may find themselves tethered to a price that no longer reflects the market reality."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Provides the final insight on how first purchase prices anchor stock investments.",
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w10"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Final concluding thought for the module.",
+                        "text_content": "Understanding these experimental proofs helps us recognize when our minds are being pulled by an invisible tether. By identifying the anchor, we can begin to make more objective, data-driven decisions."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Invisible Tether: The Science of Anchoring",
+        "module_description": "Discover how the first number you see can secretly hijack your brain and skew your judgment, from roulette wheels to real estate.",
+        "alternative_descriptions": [
+            "Can a random number change how much you're willing to pay for wine? Explore the psychological traps of anchoring.",
+            "Step into the lab and uncover the experimental evidence that proves our brains take dangerous shortcuts in judgment.",
+            "From social security numbers to stock portfolios, learn why your first impression of a price is rarely the truth."
+        ],
+        "tags": [
+            "Psychology",
+            "Cognitive Bias",
+            "Behavioral Economics",
+            "Decision Making",
+            "Experimental Evidence"
+        ],
+        "loading_screen_trivia": "Participants with higher social security number anchors submitted bids for items 60% to 120% higher than those with lower anchors.",
+        "timeline": [],
+        "cast_of_characters": [
+            {
+                "name": "Amos Tversky",
+                "emoji_avatar": "🧠",
+                "historical_role": "Psychological Researcher",
+                "core_contribution": "Co-demonstrated that anchoring is an automatic psychological process rather than a conscious choice."
+            },
+            {
+                "name": "Daniel Kahneman",
+                "emoji_avatar": "🧠",
+                "historical_role": "Psychological Researcher",
+                "core_contribution": "Co-conducted foundational research showing how random numbers can anchor human estimates."
+            },
+            {
+                "name": "Dan Ariely",
+                "emoji_avatar": "🎓",
+                "historical_role": "Psychologist",
+                "core_contribution": "Proved that personal identifiers like social security numbers can act as anchors for bidding on luxury items."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "Understanding anchoring helps individuals and professionals recognize invisible psychological tethers, enabling more objective, data-driven decisions in finance, real estate, and daily life."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Power of the First Number",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Our brains are remarkably efficient, but they often take shortcuts that lead to surprising errors in judgment. One of the most potent is the **anchoring effect**, a psychological phenomenon where we rely too heavily on the first piece of information we encounter—the \"anchor\"—when making decisions or estimates. Even when that anchor is completely irrelevant, it can pull our final answer in its direction. To understand how this works, we can look at the groundbreaking experiments that revealed this bias in action."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w5",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "anchor",
+                            "definition": "The initial piece of information offered to make a subsequent judgment or estimate, such as social security numbers, roulette wheel numbers, or a multiplication sequence."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "The foundational research by **Amos Tversky** and **Daniel Kahneman** demonstrated that anchoring isn't just a conscious choice, but an automatic process. In one of their first studies, they tested how the order of numbers in a multiplication problem could skew a person's estimate."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Multiplication Trap",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Participants were asked to calculate the product of numbers one through eight. However, there was a catch: they only had five seconds. Because they couldn't finish the math, they had to estimate the total based on the only part of the problem they had actually solved."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w2",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Participants are given a multiplication sequence of numbers one through eight, either in ascending order (1 x 2 x 3 x 4 x 5 x 6 x 7 x 8) or descending order (8 x 7 x 6 x 5 x 4 x 3 x 2 x 1).",
+                            "mechanism": "Due to a 5-second time limit, participants cannot calculate the full product and must provide an estimate based on their first few multiplications.",
+                            "outcome": "The starting numbers act as anchors, resulting in a median estimate of 512 for the ascending sequence and 2,250 for the descending sequence."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w0",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Small number sequence (1 x 2 x 3...)",
+                            "entity_b": "Large number sequence (8 x 7 x 6...)",
+                            "distinction": "The small number sequence resulted in a median estimate of 512, whereas the large number sequence resulted in a median estimate of 2,250."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_2_block_2"
+                    },
+                    {
+                        "block_id": "card_2_block_3",
+                        "block_type": "text",
+                        "text_content": "The disparity is staggering. While the median estimates ranged from 512 to 2,250, the **correct answer is 40,320**. The starting numbers acted as a psychological tether, preventing participants from adjusting their estimates far enough to reach the truth. But does this happen even when the numbers are completely random?"
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Roulette Wheel Effect",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "To test if the anchor had to be logically related to the question, Tversky and Kahneman used a **roulette wheel**. Participants were asked to estimate the percentage of African countries in the United Nations, but first, they watched a wheel spin and stop on a predetermined number."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w3",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Participants observe a roulette wheel that is predetermined to stop on either 10 or 65.",
+                            "mechanism": "These numbers serve as anchors for the subsequent task of estimating the percentage of African countries in the United Nations.",
+                            "outcome": "Participants who saw 10 guessed lower values (25% on average) than those who saw 65 (45% on average)."
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w1",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Participants whose wheel stopped on 10",
+                            "entity_b": "Participants whose wheel stopped on 65",
+                            "distinction": "Those who saw the wheel stop on 10 guessed an average of 25% for the percentage of African countries in the UN, while those who saw it stop on 65 guessed an average of 45%."
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_3_block_2"
+                    },
+                    {
+                        "block_id": "card_3_block_3",
+                        "block_type": "text",
+                        "text_content": "This result proves that the human mind can be anchored by numbers that have **zero logical connection** to the task at hand. Whether it's a math problem or a random spin of a wheel, the first number we see sets the scale. This leads us to a more personal form of anchoring: our own identity."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "Personal Anchors and Bidding",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Psychologist **Dan Ariely** took this a step further by using participants' own **social security numbers** as anchors. He asked people to write down the last two digits of their SSN and then bid on items like wine, chocolate, and computer equipment."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w4",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Participants write down the last two digits of their social security number.",
+                            "mechanism": "These digits act as an anchor for the value of unknown items.",
+                            "outcome": "Participants with higher SSN digits submit bids 60% to 120% higher than those with lower digits."
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w7",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎯",
+                            "short_title": "60% to 120% Higher Bids",
+                            "expanded_detail": "In a study by Dan Ariely, participants with higher social security number anchors submitted bids for items like wine and chocolate that were 60% to 120% higher than those with lower anchors.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_4_block_2"
+                    },
+                    {
+                        "block_id": "card_4_block_3",
+                        "block_type": "text",
+                        "text_content": "It is fascinating that a random administrative number can influence how much someone is willing to pay for a luxury item. However, not every random process creates an anchor. Some studies have found a curious exception."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Randomness Paradox",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "While the roulette wheel worked, other researchers tried to use procedures that were **explicitly random**, such as rolling a die or using an Excel random generator button. Interestingly, these methods often failed to produce the same anchoring effects."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w8",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎲",
+                            "short_title": "Randomness Paradox",
+                            "expanded_detail": "While anchoring typically persists even with irrelevant numbers, some studies using clearly random procedures, such as die rolls or Excel random generators, failed to replicate the effect.",
+                            "display_style": "paradox_panel"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "This suggests that for an anchor to take hold, the mind may need to perceive it as a potential starting point, even if it's illogical. But anchoring isn't just a laboratory curiosity; it happens in the high-stakes worlds of real estate and investing."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "Anchoring in the Real World",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "In the professional world, anchors are often historical data points. In real estate, for example, the **Case-Shiller House Price Index** is frequently used to gauge value. Research shows that specific historical peaks can skew how we predict current prices."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w6",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "Case-Shiller House Price Index",
+                            "definition": "A tool used to predict current house prices based on historical 2-year and 9-year highs, as described in a Journal of Real Estate Research study."
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w9",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🏠",
+                            "short_title": "2 & 9-Year Highs",
+                            "expanded_detail": "Research in the Journal of Real Estate Research indicates that 2-year and 9-year highs on the Case-Shiller House Price Index serve as anchors for predicting current house prices.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_6_block_2"
+                    },
+                    {
+                        "block_id": "card_6_block_3",
+                        "block_type": "text",
+                        "text_content": "Similarly, in behavioral finance, the first price an investor pays for a stock in an app-based brokerage often serves as a permanent reference point. This **initial purchase price** anchors their future decisions, often leading to lower long-term investments if they start small. From a random roulette wheel to a stock portfolio, the first number we see often defines the boundaries of our logic."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "Investment Anchoring",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "The impact of this investment bias is particularly insidious because it happens unconsciously. Even experienced investors may find themselves tethered to a price that no longer reflects the market reality."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w10",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "⚓",
+                            "short_title": "Investment Anchoring",
+                            "expanded_detail": "In app-based stock brokerages, an investor's first purchase price often acts as a psychological anchor. This reference point influences future stock purchases, and starting with small purchases can lead to lower long-term accumulated investments.",
+                            "display_style": "editorial_callout"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "Understanding these experimental proofs helps us recognize when our minds are being pulled by an invisible tether. By identifying the anchor, we can begin to make more objective, data-driven decisions."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is well-written and engaging. It introduces the anchoring effect and the Tversky and Kahneman multiplication study. All claims are supported by the raw source and extracted notes. The jargon buster widget correctly defines 'anchor' using examples from the notes. There is no hallucination or redundant overlap between the text and the widget. The final block serves as a transition to the next card, which will likely detail the multiplication study. The card is approved as is.",
+                "is_approved": true,
+                "block_edits": []
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to Note n1. However, there is significant redundancy between the causal chain widget (block 1) and the versus widget (block 2), as both explicitly state the median estimates (512 and 2,250). Additionally, the text block (block 3) repeats these same numbers again. I will remove the redundant versus widget and rewrite the text block to remove the data overlap while maintaining the hook.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "This widget repeats the exact same data points (512 and 2,250) already presented in the causal chain widget in block 1. It is redundant.",
+                        "new_content_or_instructions": ""
+                    },
+                    {
+                        "target_block_id": "card_2_block_3",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block repeats the median estimates (512 to 2,250) which are already visible in the widget above. I will strip the redundant numbers and focus on the contrast with the actual answer and the transition hook.",
+                        "new_content_or_instructions": "The disparity is staggering. While the participants' estimates were far off, the **correct answer is 40,320**. The starting numbers acted as a psychological tether, preventing participants from adjusting their estimates far enough to reach the truth. But does this happen even when the numbers are completely random?"
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the notes, but it contains significant redundancy. The 'causal_chain' widget and the 'versus' widget both present the exact same data points (10 vs 65, 25% vs 45%). This is a direct violation of the directive to eliminate widget overlap. Additionally, the phrase 'This result proves' in the final block is slightly too strong a claim for a psychological study, though the 'zero logical connection' part is aligned with the source. I will remove the 'versus' widget as the 'causal_chain' is a better fit for the experimental flow, and I will refine the final block to be more conversational and less definitive.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "The 'versus' widget repeats the exact same data points (10, 65, 25%, 45%) already presented in the 'causal_chain' widget in block 1. This is redundant overlap.",
+                        "new_content_or_instructions": ""
+                    },
+                    {
+                        "target_block_id": "card_3_block_3",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'This result proves' is a bit too definitive for a psychological experiment. I will soften the slightly dramatic 'proves' to 'demonstrates' and ensure the transition to the next card (identity/SSN) is smooth and engaging without spoiling the next card's data.",
+                        "new_content_or_instructions": "This result demonstrates that the human mind can be anchored by numbers that have **zero logical connection** to the task at hand. Whether it's a complex calculation or a random spin of a wheel, the first number we encounter often sets the scale. This leads us to a more personal form of anchoring: our own identity."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the notes, but it contains significant redundancy. The 'insight_badge' (block 2) repeats the exact same data (60-120% higher bids) and the same items (wine, chocolate) already presented in the 'causal_chain' (block 1) and the introductory text (block 0). This violates the directive to eliminate widget overlap.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "The insight badge is entirely redundant. It repeats the 60-120% figure and the items (wine, chocolate) already clearly stated in the causal chain and the introductory text.",
+                        "new_content_or_instructions": ""
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the provided notes (n4). However, there is a significant overlap between the text block (card_5_block_0) and the insight badge (card_5_block_1). The text block essentially repeats the exact same information about die rolls and Excel generators. Additionally, the phrase 'the mind may need to perceive it as a potential starting point' in block 2 is an unverified psychological claim/narrative bridging that is not present in the source text.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block redundantly repeats the specific examples (die rolls, Excel generators) already listed in the widget. It should instead introduce the concept of attempts to avoid the effect through randomness.",
+                        "new_content_or_instructions": "Researchers have attempted to refine these experiments by using procedures that were **explicitly random** to see if the effect would persist."
+                    },
+                    {
+                        "target_block_id": "card_5_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'the mind may need to perceive it as a potential starting point' is a hallucinated psychological explanation not found in the source text. The transition to real estate and investing must be kept factual.",
+                        "new_content_or_instructions": "This suggests that the nature of the randomness used can influence whether an anchor takes hold. But anchoring isn't just a laboratory curiosity; it happens in the high-stakes worlds of real estate and investing."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual but contains a significant redundancy between the Jargon Buster and the Insight Badge. Both blocks (card_6_block_1 and card_6_block_2) provide the exact same information regarding the 2-year and 9-year highs of the Case-Shiller Index. Additionally, the Jargon Buster's definition of the Case-Shiller Index is technically incorrect; the index itself is not a 'tool used to predict' but a measure of house prices, and the study found that the highs *within* that index serve as anchors. I will remove the redundant Insight Badge and correct the Jargon Buster definition to be more precise.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_6_block_1",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The definition incorrectly implies the Index itself is a tool for prediction. The Index is the data source; the 2-year and 9-year highs are the anchors used for prediction.",
+                        "new_content_or_instructions": "{\"jargon_buster_data\": {\"term\": \"Case-Shiller House Price Index\", \"definition\": \"A measure of residential real estate prices. A study in the Journal of Real Estate Research found that the 2-year and 9-year highs on this index serve as anchors when predicting current house prices.\"}}"
+                    },
+                    {
+                        "target_block_id": "card_6_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "This block is entirely redundant as it repeats the exact same factual data (2 and 9-year highs) already provided in the Jargon Buster.",
+                        "new_content_or_instructions": ""
+                    },
+                    {
+                        "target_block_id": "card_6_block_3",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'permanent reference point' is an unverified emotional claim/hallucination; the source text does not state the anchor is permanent, only that it serves as an anchor for future purchases.",
+                        "new_content_or_instructions": "Similarly, in behavioral finance, the first price an investor pays for a stock in an app-based brokerage often serves as a reference point. This **initial purchase price** anchors their future decisions, which can lead to lower accumulated investments in the long run if they start with a small purchase. From a random roulette wheel to a stock portfolio, the first number we see often defines the boundaries of our logic."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual, but block 0 contains unverified emotional claims ('insidious', 'tethered to a price that no longer reflects the market reality') that are not in the source text. Additionally, block 2 is a generic conclusion that doesn't serve as a forward-looking hook for a subsequent card, though the prompt asks to preserve the transition. However, the primary issue is the 'narrative fluff' in block 0.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_7_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The words 'insidious' and the claim that investors are 'tethered to a price that no longer reflects the market reality' are dramatic flourishes not supported by the raw source or notes. I will rewrite this to be engaging but strictly factual based on the source.",
+                        "new_content_or_instructions": "Anchoring isn't limited to abstract lab experiments; it manifests in real-world financial decisions. In the world of stock trading, a single initial price point can shape an investor's future behavior."
+                    },
+                    {
+                        "target_block_id": "card_7_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The current text is a summary/conclusion. The directive requires the final block to act as a 'hook' or lead-in to the next card without resolving the transition or pulling in new facts. I will rewrite it to maintain a forward-looking intent.",
+                        "new_content_or_instructions": "While these experiments prove how easily we are anchored, the real question is: can we actually stop it from happening?"
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "The Invisible Tether: The Science of Anchoring",
+        "module_description": "Discover how the first number you see can secretly hijack your brain and skew your judgment, from roulette wheels to real estate.",
+        "alternative_descriptions": [
+            "Can a random number change how much you're willing to pay for wine? Explore the psychological traps of anchoring.",
+            "Step into the lab and uncover the experimental evidence that proves our brains take dangerous shortcuts in judgment.",
+            "From social security numbers to stock portfolios, learn why your first impression of a price is rarely the truth."
+        ],
+        "tags": [
+            "Psychology",
+            "Cognitive Bias",
+            "Behavioral Economics",
+            "Decision Making",
+            "Experimental Evidence"
+        ],
+        "loading_screen_trivia": "Participants with higher social security number anchors submitted bids for items 60% to 120% higher than those with lower anchors.",
+        "timeline": [],
+        "cast_of_characters": [
+            {
+                "name": "Amos Tversky",
+                "emoji_avatar": "🧠",
+                "historical_role": "Psychological Researcher",
+                "core_contribution": "Co-demonstrated that anchoring is an automatic psychological process rather than a conscious choice."
+            },
+            {
+                "name": "Daniel Kahneman",
+                "emoji_avatar": "🧠",
+                "historical_role": "Psychological Researcher",
+                "core_contribution": "Co-conducted foundational research showing how random numbers can anchor human estimates."
+            },
+            {
+                "name": "Dan Ariely",
+                "emoji_avatar": "🎓",
+                "historical_role": "Psychologist",
+                "core_contribution": "Proved that personal identifiers like social security numbers can act as anchors for bidding on luxury items."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "Understanding anchoring helps individuals and professionals recognize invisible psychological tethers, enabling more objective, data-driven decisions in finance, real estate, and daily life."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Power of the First Number",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Our brains are remarkably efficient, but they often take shortcuts that lead to surprising errors in judgment. One of the most potent is the **anchoring effect**, a psychological phenomenon where we rely too heavily on the first piece of information we encounter—the \"anchor\"—when making decisions or estimates. Even when that anchor is completely irrelevant, it can pull our final answer in its direction. To understand how this works, we can look at the groundbreaking experiments that revealed this bias in action."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w5",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "anchor",
+                            "definition": "The initial piece of information offered to make a subsequent judgment or estimate, such as social security numbers, roulette wheel numbers, or a multiplication sequence."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "The foundational research by **Amos Tversky** and **Daniel Kahneman** demonstrated that anchoring isn't just a conscious choice, but an automatic process. In one of their first studies, they tested how the order of numbers in a multiplication problem could skew a person's estimate."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Multiplication Trap",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Participants were asked to calculate the product of numbers one through eight. However, there was a catch: they only had five seconds. Because they couldn't finish the math, they had to estimate the total based on the only part of the problem they had actually solved."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w2",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Participants are given a multiplication sequence of numbers one through eight, either in ascending order (1 x 2 x 3 x 4 x 5 x 6 x 7 x 8) or descending order (8 x 7 x 6 x 5 x 4 x 3 x 2 x 1).",
+                            "mechanism": "Due to a 5-second time limit, participants cannot calculate the full product and must provide an estimate based on their first few multiplications.",
+                            "outcome": "The starting numbers act as anchors, resulting in a median estimate of 512 for the ascending sequence and 2,250 for the descending sequence."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_3",
+                        "block_type": "text",
+                        "text_content": "The disparity is staggering. While the participants' estimates were far off, the **correct answer is 40,320**. The starting numbers acted as a psychological tether, preventing participants from adjusting their estimates far enough to reach the truth. But does this happen even when the numbers are completely random?"
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Roulette Wheel Effect",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "To test if the anchor had to be logically related to the question, Tversky and Kahneman used a **roulette wheel**. Participants were asked to estimate the percentage of African countries in the United Nations, but first, they watched a wheel spin and stop on a predetermined number."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w3",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Participants observe a roulette wheel that is predetermined to stop on either 10 or 65.",
+                            "mechanism": "These numbers serve as anchors for the subsequent task of estimating the percentage of African countries in the United Nations.",
+                            "outcome": "Participants who saw 10 guessed lower values (25% on average) than those who saw 65 (45% on average)."
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_3",
+                        "block_type": "text",
+                        "text_content": "This result demonstrates that the human mind can be anchored by numbers that have **zero logical connection** to the task at hand. Whether it's a complex calculation or a random spin of a wheel, the first number we encounter often sets the scale. This leads us to a more personal form of anchoring: our own identity."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "Personal Anchors and Bidding",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Psychologist **Dan Ariely** took this a step further by using participants' own **social security numbers** as anchors. He asked people to write down the last two digits of their SSN and then bid on items like wine, chocolate, and computer equipment."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w4",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Participants write down the last two digits of their social security number.",
+                            "mechanism": "These digits act as an anchor for the value of unknown items.",
+                            "outcome": "Participants with higher SSN digits submit bids 60% to 120% higher than those with lower digits."
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_3",
+                        "block_type": "text",
+                        "text_content": "It is fascinating that a random administrative number can influence how much someone is willing to pay for a luxury item. However, not every random process creates an anchor. Some studies have found a curious exception."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "The Randomness Paradox",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Researchers have attempted to refine these experiments by using procedures that were **explicitly random** to see if the effect would persist."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w8",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎲",
+                            "short_title": "Randomness Paradox",
+                            "expanded_detail": "While anchoring typically persists even with irrelevant numbers, some studies using clearly random procedures, such as die rolls or Excel random generators, failed to replicate the effect.",
+                            "display_style": "paradox_panel"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "This suggests that the nature of the randomness used can influence whether an anchor takes hold. But anchoring isn't just a laboratory curiosity; it happens in the high-stakes worlds of real estate and investing."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "Anchoring in the Real World",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "In the professional world, anchors are often historical data points. In real estate, for example, the **Case-Shiller House Price Index** is frequently used to gauge value. Research shows that specific historical peaks can skew how we predict current prices."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w6",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "Case-Shiller House Price Index",
+                            "definition": "A tool used to predict current house prices based on historical 2-year and 9-year highs, as described in a Journal of Real Estate Research study."
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_3",
+                        "block_type": "text",
+                        "text_content": "Similarly, in behavioral finance, the first price an investor pays for a stock in an app-based brokerage often serves as a reference point. This **initial purchase price** anchors their future decisions, which can lead to lower accumulated investments in the long run if they start with a small purchase. From a random roulette wheel to a stock portfolio, the first number we see often defines the boundaries of our logic."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "Experimental Evidence of Anchoring",
+                "created_at": "2026-05-22T03:15:04.155007+00:00",
+                "card_title": "Investment Anchoring",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "Anchoring isn't limited to abstract lab experiments; it manifests in real-world financial decisions. In the world of stock trading, a single initial price point can shape an investor's future behavior."
+                    },
+                    {
+                        "widget_id": "prebuilt_ExperimentalEvidenceofAnchoring_w10",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "⚓",
+                            "short_title": "Investment Anchoring",
+                            "expanded_detail": "In app-based stock brokerages, an investor's first purchase price often acts as a psychological anchor. This reference point influences future stock purchases, and starting with small purchases can lead to lower long-term accumulated investments.",
+                            "display_style": "editorial_callout"
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "While these experiments prove how easily we are anchored, the real question is: can we actually stop it from happening?"
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "Who conducted the foundational research demonstrating that anchoring is an automatic process rather than a conscious choice?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Amos Tversky and Daniel Kahneman",
+                    "isCorrect": true,
+                    "feedback": "Tversky and Kahneman's research showed that anchoring occurs automatically, as seen in their multiplication and roulette wheel studies."
+                },
+                {
+                    "text": "Dan Ariely",
+                    "isCorrect": false,
+                    "feedback": "Dan Ariely studied personal anchors using social security numbers, but the foundational research on automaticity was by Tversky and Kahneman."
+                },
+                {
+                    "text": "Case-Shiller",
+                    "isCorrect": false,
+                    "feedback": "Case-Shiller refers to a house price index used as an anchor, not the researchers who discovered the automatic nature of anchoring."
+                },
+                {
+                    "text": "Hofstede",
+                    "isCorrect": false,
+                    "feedback": "Hofstede is associated with the Uncertainty Avoidance Index, not the foundational research on the anchoring effect."
+                },
+                {
+                    "text": "Furnham and Boo",
+                    "isCorrect": false,
+                    "feedback": "Furnham and Boo highlighted the pervasiveness of anchoring, but did not conduct the foundational automaticity research."
+                },
+                {
+                    "text": "Epley and Gilovich",
+                    "isCorrect": false,
+                    "feedback": "Epley and Gilovich researched self-generated anchors and the stopping point of adjustment."
+                },
+                {
+                    "text": "Strack and Mussweiler",
+                    "isCorrect": false,
+                    "feedback": "Strack and Mussweiler studied the relationship between anchor plausibility and response time."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the multiplication experiment, what was the median estimate for participants who were given the descending sequence (8 x 7 x 6...)?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2,250",
+                    "isCorrect": true,
+                    "feedback": "Participants starting with larger numbers provided a significantly higher median estimate of 2,250."
+                },
+                {
+                    "text": "512",
+                    "isCorrect": false,
+                    "feedback": "512 was the median estimate for the ascending sequence (1 x 2 x 3...)."
+                },
+                {
+                    "text": "40,320",
+                    "isCorrect": false,
+                    "feedback": "40,320 is the actual correct product of numbers one through eight, not an estimate."
+                },
+                {
+                    "text": "1,000",
+                    "isCorrect": false,
+                    "feedback": "1,000 is not a value mentioned in the multiplication experiment results."
+                },
+                {
+                    "text": "2,000",
+                    "isCorrect": false,
+                    "feedback": "2,000 is not a value mentioned in the multiplication experiment results."
+                },
+                {
+                    "text": "3,000",
+                    "isCorrect": false,
+                    "feedback": "3,000 is not a value mentioned in the multiplication experiment results."
+                },
+                {
+                    "text": "1,500",
+                    "isCorrect": false,
+                    "feedback": "1,500 is not a value mentioned in the multiplication experiment results."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the average guess for the percentage of African countries in the UN for participants whose roulette wheel stopped on 10?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "25%",
+                    "isCorrect": true,
+                    "feedback": "Participants anchored by the number 10 guessed an average of 25%."
+                },
+                {
+                    "text": "45%",
+                    "isCorrect": false,
+                    "feedback": "45% was the average guess for participants whose wheel stopped on 65."
+                },
+                {
+                    "text": "10%",
+                    "isCorrect": false,
+                    "feedback": "10% was the anchor value, not the average guess of the participants."
+                },
+                {
+                    "text": "65%",
+                    "isCorrect": false,
+                    "feedback": "65% was the other anchor value used in the study."
+                },
+                {
+                    "text": "35%",
+                    "isCorrect": false,
+                    "feedback": "35% is not a value mentioned in the roulette wheel experiment results."
+                },
+                {
+                    "text": "55%",
+                    "isCorrect": false,
+                    "feedback": "55% is not a value mentioned in the roulette wheel experiment results."
+                },
+                {
+                    "text": "15%",
+                    "isCorrect": false,
+                    "feedback": "15% is not a value mentioned in the roulette wheel experiment results."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to Dan Ariely's study, how much higher were the bids of participants with higher social security number digits?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "60% to 120%",
+                    "isCorrect": true,
+                    "feedback": "Participants with higher SSN anchors submitted bids 60% to 120% higher than those with lower digits."
+                },
+                {
+                    "text": "20% to 40%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding Ariely's study."
+                },
+                {
+                    "text": "10% to 30%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding Ariely's study."
+                },
+                {
+                    "text": "50% to 100%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding Ariely's study."
+                },
+                {
+                    "text": "150% to 200%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding Ariely's study."
+                },
+                {
+                    "text": "30% to 60%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding Ariely's study."
+                },
+                {
+                    "text": "80% to 150%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding Ariely's study."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which of the following methods failed to produce the same anchoring effects as the roulette wheel?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Excel random generator",
+                    "isCorrect": true,
+                    "feedback": "Explicitly random procedures like Excel generators and die rolls often failed to replicate the anchoring effect."
+                },
+                {
+                    "text": "Roulette wheel",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel successfully produced anchoring effects, even though it was predetermined."
+                },
+                {
+                    "text": "Social security numbers",
+                    "isCorrect": false,
+                    "feedback": "Social security numbers acted as potent personal anchors in Dan Ariely's study."
+                },
+                {
+                    "text": "Multiplication sequences",
+                    "isCorrect": false,
+                    "feedback": "Multiplication sequences successfully skewed estimates in Tversky and Kahneman's research."
+                },
+                {
+                    "text": "Historical house prices",
+                    "isCorrect": false,
+                    "feedback": "Historical house prices (Case-Shiller Index) serve as effective anchors in real estate."
+                },
+                {
+                    "text": "Initial stock purchase price",
+                    "isCorrect": false,
+                    "feedback": "The first purchase price of a stock acts as a psychological anchor for future decisions."
+                },
+                {
+                    "text": "UN country percentages",
+                    "isCorrect": false,
+                    "feedback": "The UN country percentage task was the target of the anchor, not the anchor itself."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which tool is used in real estate to predict current house prices based on historical 2-year and 9-year highs?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Case-Shiller House Price Index",
+                    "isCorrect": true,
+                    "feedback": "The Case-Shiller House Price Index uses 2-year and 9-year highs as anchors for predicting current prices."
+                },
+                {
+                    "text": "S&P 500 Index",
+                    "isCorrect": false,
+                    "feedback": "The S&P 500 is a stock market index, not a real estate tool mentioned in the text."
+                },
+                {
+                    "text": "Consumer Price Index",
+                    "isCorrect": false,
+                    "feedback": "The CPI measures inflation, not specific house price anchors in the Case-Shiller study."
+                },
+                {
+                    "text": "Dow Jones Industrial Average",
+                    "isCorrect": false,
+                    "feedback": "The Dow Jones is a stock market index, not a real estate tool mentioned in the text."
+                },
+                {
+                    "text": "NASDAQ Composite",
+                    "isCorrect": false,
+                    "feedback": "The NASDAQ is a stock market index, not a real estate tool mentioned in the text."
+                },
+                {
+                    "text": "Federal Reserve Index",
+                    "isCorrect": false,
+                    "feedback": "The Federal Reserve Index is not mentioned in the source text as a real estate tool."
+                },
+                {
+                    "text": "Zillow Home Value Index",
+                    "isCorrect": false,
+                    "feedback": "Zillow is not mentioned in the source text as a real estate tool."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In app-based stock brokerages, what typically serves as the permanent reference point for an investor's future decisions?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Initial purchase price",
+                    "isCorrect": true,
+                    "feedback": "The first price an investor pays for a stock often anchors their future decisions."
+                },
+                {
+                    "text": "Current market price",
+                    "isCorrect": false,
+                    "feedback": "The current market price is the variable being judged, not the anchor that skews the judgment."
+                },
+                {
+                    "text": "Average stock price",
+                    "isCorrect": false,
+                    "feedback": "The average price is not mentioned as the primary anchor in the investment study."
+                },
+                {
+                    "text": "Highest historical price",
+                    "isCorrect": false,
+                    "feedback": "While historical peaks are anchors in real estate, the text specifies the initial purchase price for stocks."
+                },
+                {
+                    "text": "Lowest historical price",
+                    "isCorrect": false,
+                    "feedback": "The lowest historical price is not mentioned as the primary anchor for stock investors."
+                },
+                {
+                    "text": "Brokerage fee",
+                    "isCorrect": false,
+                    "feedback": "Brokerage fees are not mentioned as anchors for stock purchase decisions."
+                },
+                {
+                    "text": "Dividend yield",
+                    "isCorrect": false,
+                    "feedback": "Dividend yield is not mentioned as an anchor for stock purchase decisions."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the study by Tversky and Kahneman, participants who saw a roulette wheel stop on 10 guessed that the percentage of African countries in the UN was ____ on average.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "25%",
+                    "isCorrect": true,
+                    "feedback": "Participants who saw the wheel stop on 10 guessed an average of 25%."
+                },
+                {
+                    "text": "45%",
+                    "isCorrect": false,
+                    "feedback": "This was the average guess for participants who saw the wheel stop on 65."
+                },
+                {
+                    "text": "10%",
+                    "isCorrect": false,
+                    "feedback": "10 was the anchor number, not the average guess."
+                },
+                {
+                    "text": "65%",
+                    "isCorrect": false,
+                    "feedback": "65 was the other anchor number used in the study."
+                },
+                {
+                    "text": "50%",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the roulette wheel experiment."
+                },
+                {
+                    "text": "15%",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the roulette wheel experiment."
+                },
+                {
+                    "text": "35%",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the roulette wheel experiment."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In Dan Ariely's experiment, participants with higher social security number anchors submitted bids that were ____ higher than those with lower digits.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "60% to 120%",
+                    "isCorrect": true,
+                    "feedback": "Participants with higher SSN digits submitted bids 60% to 120% higher than those with lower digits."
+                },
+                {
+                    "text": "20% to 40%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding SSN bids."
+                },
+                {
+                    "text": "10% to 30%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding SSN bids."
+                },
+                {
+                    "text": "50% to 100%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding SSN bids."
+                },
+                {
+                    "text": "150% to 200%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding SSN bids."
+                },
+                {
+                    "text": "30% to 60%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding SSN bids."
+                },
+                {
+                    "text": "80% to 110%",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text regarding SSN bids."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the multiplication experiment, the median estimate for the ascending sequence (1 x 2 x 3...) was ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "512",
+                    "isCorrect": true,
+                    "feedback": "The small number sequence resulted in a median estimate of 512."
+                },
+                {
+                    "text": "2,250",
+                    "isCorrect": false,
+                    "feedback": "This was the median estimate for the descending sequence (8 x 7 x 6...)."
+                },
+                {
+                    "text": "40,320",
+                    "isCorrect": false,
+                    "feedback": "This is the correct mathematical product of numbers one through eight."
+                },
+                {
+                    "text": "1,024",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the multiplication experiment."
+                },
+                {
+                    "text": "2,048",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the multiplication experiment."
+                },
+                {
+                    "text": "1,500",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the multiplication experiment."
+                },
+                {
+                    "text": "500",
+                    "isCorrect": false,
+                    "feedback": "This value is not mentioned as a result in the multiplication experiment."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ is a tool used to predict current house prices based on historical 2-year and 9-year highs.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Case-Shiller House Price Index",
+                    "isCorrect": true,
+                    "feedback": "The Case-Shiller House Price Index uses 2-year and 9-year highs as anchors for predicting current house prices."
+                },
+                {
+                    "text": "S&P 500 Index",
+                    "isCorrect": false,
+                    "feedback": "The S&P 500 is a stock market index, not a house price index."
+                },
+                {
+                    "text": "Consumer Price Index",
+                    "isCorrect": false,
+                    "feedback": "The CPI measures inflation, not specific house price predictions based on historical highs."
+                },
+                {
+                    "text": "Real Estate Value Index",
+                    "isCorrect": false,
+                    "feedback": "This is a generic term and not the specific tool mentioned in the source text."
+                },
+                {
+                    "text": "Housing Market Tracker",
+                    "isCorrect": false,
+                    "feedback": "This is a generic term and not the specific tool mentioned in the source text."
+                },
+                {
+                    "text": "National Home Value Index",
+                    "isCorrect": false,
+                    "feedback": "This is a generic term and not the specific tool mentioned in the source text."
+                },
+                {
+                    "text": "Zillow Home Value Index",
+                    "isCorrect": false,
+                    "feedback": "This is a generic term and not the specific tool mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to the source text, the ____ is the initial piece of information offered to make a subsequent judgment or estimate.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "anchor",
+                    "isCorrect": true,
+                    "feedback": "An anchor is the initial piece of information offered to make a subsequent judgment or estimate."
+                },
+                {
+                    "text": "heuristic",
+                    "isCorrect": false,
+                    "feedback": "A heuristic is a general mental shortcut, whereas the anchor is the specific piece of information."
+                },
+                {
+                    "text": "bias",
+                    "isCorrect": false,
+                    "feedback": "A bias is a systematic error in thinking, whereas the anchor is is the specific piece of information."
+                },
+                {
+                    "text": "prime",
+                    "isCorrect": false,
+                    "feedback": "A prime is a stimulus that influences response, but the anchor is the specific initial value used for estimation."
+                },
+                {
+                    "text": "decoy",
+                    "isCorrect": false,
+                    "feedback": "A decoy is a third choice designed to change preference, not the initial reference point for an estimate."
+                },
+                {
+                    "text": "tether",
+                    "isCorrect": false,
+                    "feedback": "While the text uses 'tether' metaphorically, the technical term for the initial information is 'anchor'."
+                },
+                {
+                    "text": "reference point",
+                    "isCorrect": false,
+                    "feedback": "While similar, the source text specifically defines the 'anchor' as the initial piece of information."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the result of the multiplication sequence experiment conducted by Tversky and Kahneman?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Median estimates were identical for both sequences",
+                    "isCorrect": false,
+                    "feedback": "The estimates differed significantly, ranging from 512 to 2,250."
+                },
+                {
+                    "text": "The ascending sequence led to a higher median estimate",
+                    "isCorrect": false,
+                    "feedback": "The ascending sequence (1x2x3...) actually led to a lower median estimate of 512."
+                },
+                {
+                    "text": "The descending sequence led to a higher median estimate",
+                    "isCorrect": true,
+                    "feedback": "Starting with larger numbers (8x7x6...) acted as a higher anchor, resulting in a median estimate of 2,250."
+                },
+                {
+                    "text": "Participants correctly calculated the product as 40,320",
+                    "isCorrect": false,
+                    "feedback": "Participants failed to reach the correct answer of 40,320 due to the 5-second time limit."
+                },
+                {
+                    "text": "The order of numbers had no effect on the estimates",
+                    "isCorrect": false,
+                    "feedback": "The order of numbers was the primary variable that skewed the estimates."
+                },
+                {
+                    "text": "Estimates were based on the final numbers in the sequence",
+                    "isCorrect": false,
+                    "feedback": "Estimates were based on the first few multiplications, which served as the anchors."
+                },
+                {
+                    "text": "The time limit was irrelevant to the anchoring effect",
+                    "isCorrect": false,
+                    "feedback": "The time limit forced participants to estimate, which triggered the anchoring effect."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the findings of the roulette wheel experiment regarding the percentage of African countries in the UN?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Anchors must be logically related to the task",
+                    "isCorrect": false,
+                    "feedback": "The experiment proved that anchors can have zero logical connection to the task."
+                },
+                {
+                    "text": "Higher wheel numbers led to higher average guesses",
+                    "isCorrect": true,
+                    "feedback": "Participants who saw the wheel stop on 65 guessed an average of 45%, while those who saw 10 guessed 25%."
+                },
+                {
+                    "text": "Lower wheel numbers led to higher average guesses",
+                    "isCorrect": false,
+                    "feedback": "Lower wheel numbers (10) led to lower average guesses (25%)."
+                },
+                {
+                    "text": "The wheel's spin was ignored by participants",
+                    "isCorrect": false,
+                    "feedback": "The wheel's spin significantly influenced the participants' estimates."
+                },
+                {
+                    "text": "Guesses were accurate regardless of the anchor",
+                    "isCorrect": false,
+                    "feedback": "Guesses were skewed in the direction of the anchor, not toward the actual percentage."
+                },
+                {
+                    "text": "Only logically related numbers acted as anchors",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel provided a completely random, irrelevant number that still functioned as an anchor."
+                },
+                {
+                    "text": "The wheel number acted as a ceiling for the guesses",
+                    "isCorrect": false,
+                    "feedback": "The wheel number acted as a starting point (anchor), not a maximum limit."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the effect of social security numbers on bidding behavior in Dan Ariely's study?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "SSN digits had no impact on the bids",
+                    "isCorrect": false,
+                    "feedback": "SSN digits acted as powerful anchors that significantly influenced bidding prices."
+                },
+                {
+                    "text": "Lower SSN digits led to higher bids",
+                    "isCorrect": false,
+                    "feedback": "Higher SSN digits led to higher bids, not lower ones."
+                },
+                {
+                    "text": "Higher SSN digits led to significantly higher bids",
+                    "isCorrect": true,
+                    "feedback": "Participants with higher SSN digits submitted bids 60% to 120% higher than those with lower digits."
+                },
+                {
+                    "text": "Bids were based on the item's actual market value",
+                    "isCorrect": false,
+                    "feedback": "Bids were influenced by the random digits of the SSN rather than the item's value."
+                },
+                {
+                    "text": "SSN anchors only worked for luxury items",
+                    "isCorrect": false,
+                    "feedback": "The study used various items including wine, chocolate, and computer equipment."
+                },
+                {
+                    "text": "Participants consciously chose their bids based on SSN",
+                    "isCorrect": false,
+                    "feedback": "The anchoring effect typically happens unconsciously, as seen with the random SSN digits."
+                },
+                {
+                    "text": "SSN digits acted as a floor for the bidding process",
+                    "isCorrect": false,
+                    "feedback": "The SSN digits served as a general anchor that pulled the bid in its direction."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the 'Randomness Paradox' in anchoring research?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Random numbers always produce the strongest anchors",
+                    "isCorrect": false,
+                    "feedback": "Some explicitly random procedures actually failed to produce anchoring effects."
+                },
+                {
+                    "text": "Randomness increases the accuracy of estimates",
+                    "isCorrect": false,
+                    "feedback": "Randomness does not increase accuracy; it simply may fail to create an anchor."
+                },
+                {
+                    "text": "Explicitly random procedures often fail to anchor",
+                    "isCorrect": true,
+                    "feedback": "Methods like die rolls or Excel random generators often failed to replicate the anchoring effect."
+                },
+                {
+                    "text": "Anchors must be logically related to be effective",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel showed that irrelevant numbers can anchor, but explicitly random processes may not."
+                },
+                {
+                    "text": "Random generators are more effective than roulette wheels",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel worked as an anchor, while Excel generators often did not."
+                },
+                {
+                    "text": "The paradox is that random numbers are never anchors",
+                    "isCorrect": false,
+                    "feedback": "Random numbers can be anchors (like the roulette wheel), but explicitly random procedures may fail."
+                },
+                {
+                    "text": "Randomness removes the mind's need for a starting point",
+                    "isCorrect": false,
+                    "feedback": "The paradox suggests the mind may need to perceive the anchor as a potential starting point."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes how the Case-Shiller House Price Index is used as an anchor in real estate?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It provides the current market average",
+                    "isCorrect": false,
+                    "feedback": "It is used as a historical reference point to predict current prices, not just a current average."
+                },
+                {
+                    "text": "It uses 2-year and 9-year highs as anchors",
+                    "isCorrect": true,
+                    "feedback": "Research indicates that 2-year and 9-year highs on the index serve as anchors for predicting current house prices."
+                },
+                {
+                    "text": "It eliminates the bias of historical peaks",
+                    "isCorrect": false,
+                    "feedback": "Historical peaks actually create the anchors that skew predictions."
+                },
+                {
+                    "text": "It is only used by novice buyers",
+                    "isCorrect": false,
+                    "feedback": "The index is used as a professional tool to gauge value in the real estate world."
+                },
+                {
+                    "text": "It predicts prices based on 1-year and 5-year lows",
+                    "isCorrect": false,
+                    "feedback": "The index uses 2-year and 9-year highs, not lows."
+                },
+                {
+                    "text": "It prevents anchoring from occurring in real estate",
+                    "isCorrect": false,
+                    "feedback": "The index provides the data points that actually serve as the anchors."
+                },
+                {
+                    "text": "It is a tool for calculating exact current value",
+                    "isCorrect": false,
+                    "feedback": "It is used to gauge value, but the historical highs act as anchors that skew the prediction."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the impact of the initial purchase price in app-based stock brokerages?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It has no long-term effect on investment behavior",
+                    "isCorrect": false,
+                    "feedback": "The initial purchase price acts as a permanent reference point for future decisions."
+                },
+                {
+                    "text": "It encourages investors to start with large purchases",
+                    "isCorrect": false,
+                    "feedback": "Starting with small purchases often leads to lower long-term investments."
+                },
+                {
+                    "text": "It serves as a psychological anchor for future purchases",
+                    "isCorrect": true,
+                    "feedback": "The first price an investor pays for a stock often anchors their future decisions and investment levels."
+                },
+                {
+                    "text": "It is only relevant for experienced investors",
+                    "isCorrect": false,
+                    "feedback": "The effect happens unconsciously and can affect even experienced investors."
+                },
+                {
+                    "text": "It allows investors to avoid anchoring bias",
+                    "isCorrect": false,
+                    "feedback": "The initial price is the source of the anchor, not a way to avoid it."
+                },
+                {
+                    "text": "It leads to higher long-term accumulated investments",
+                    "isCorrect": false,
+                    "feedback": "Starting with small purchases as an anchor leads to lower long-term investments."
+                },
+                {
+                    "text": "It is a temporary reference point that is quickly forgotten",
+                    "isCorrect": false,
+                    "feedback": "The initial purchase price often serves as a permanent reference point."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why did participants in the Tversky and Kahneman multiplication study provide significantly different estimates based on the order of numbers?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The numbers were presented in a random order",
+                    "isCorrect": false,
+                    "feedback": "The order was not random; it was specifically ascending or descending to test the anchoring effect."
+                },
+                {
+                    "text": "The time limit forced reliance on initial numbers",
+                    "isCorrect": true,
+                    "feedback": "A 5-second limit prevented full calculation, forcing participants to anchor their estimates on the first few numbers solved."
+                },
+                {
+                    "text": "Participants lacked basic multiplication skills",
+                    "isCorrect": false,
+                    "feedback": "The study tested cognitive bias, not the mathematical ability of the participants."
+                },
+                {
+                    "text": "The correct answer was too large to estimate",
+                    "isCorrect": false,
+                    "feedback": "While the answer was large, the disparity in estimates was caused by the starting numbers, not the size of the total."
+                },
+                {
+                    "text": "The numbers were presented visually rather than auditorily",
+                    "isCorrect": false,
+                    "feedback": "The method of presentation was not the cause of the anchoring effect in this experiment."
+                },
+                {
+                    "text": "Participants were asked to calculate the product of only four numbers",
+                    "isCorrect": false,
+                    "feedback": "Participants were asked to calculate the product of numbers one through eight."
+                },
+                {
+                    "text": "The descending sequence was mathematically simpler",
+                    "isCorrect": false,
+                    "feedback": "The sequence order changed the anchor, not the mathematical complexity of the problem."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How does the 'Randomness Paradox' explain the failure of some procedures to produce an anchoring effect?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The numbers were too small to act as anchors",
+                    "isCorrect": false,
+                    "feedback": "The size of the number is not the primary factor; the perceived nature of the process is."
+                },
+                {
+                    "text": "The mind must perceive the anchor as a starting point",
+                    "isCorrect": true,
+                    "feedback": "For anchoring to occur, the mind may need to perceive the number as a potential starting point, even if it is illogical."
+                },
+                {
+                    "text": "Random generators are too fast for the brain to process",
+                    "isCorrect": false,
+                    "feedback": "The speed of the generator does not prevent the anchoring effect; the perceived randomness does."
+                },
+                {
+                    "text": "Die rolls are logically connected to the task",
+                    "isCorrect": false,
+                    "feedback": "Die rolls were used specifically because they are perceived as explicitly random, which often fails to produce anchoring."
+                },
+                {
+                    "text": "The participants were aware of the study's purpose",
+                    "isCorrect": false,
+                    "feedback": "The paradox refers to the nature of the random process, not the participants' awareness of the bias."
+                },
+                {
+                    "text": "Excel generators provide too many digits",
+                    "isCorrect": false,
+                    "feedback": "The number of digits provided by the generator is not why the effect fails to replicate."
+                },
+                {
+                    "text": "The anchors were presented after the estimate",
+                    "isCorrect": false,
+                    "feedback": "Anchors must be presented before the estimate to influence the result."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How do historical peaks on the Case-Shiller House Price Index influence current house price predictions?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "They provide a mathematically precise current value",
+                    "isCorrect": false,
+                    "feedback": "The index provides historical data, not a real-time precise current value."
+                },
+                {
+                    "text": "They act as psychological anchors for value",
+                    "isCorrect": true,
+                    "feedback": "Specific historical peaks, such as 2-year and 9-year highs, serve as anchors that skew predictions of current prices."
+                },
+                {
+                    "text": "They eliminate the need for historical data",
+                    "isCorrect": false,
+                    "feedback": "The index is the source of the historical data used as the anchor."
+                },
+                {
+                    "text": "They force investors to use only 2-year data",
+                    "isCorrect": false,
+                    "feedback": "Both 2-year and 9-year highs are used as anchors, not just 2-year data."
+                },
+                {
+                    "text": "They prevent the use of app-based brokerages",
+                    "isCorrect": false,
+                    "feedback": "The Case-Shiller index is a real estate tool and is unrelated to the use of stock brokerage apps."
+                },
+                {
+                    "text": "They ensure predictions are always higher than reality",
+                    "isCorrect": false,
+                    "feedback": "While they can skew predictions, they do not guarantee that predictions will always be higher than reality."
+                },
+                {
+                    "text": "They provide a logical connection to the UN percentage",
+                    "isCorrect": false,
+                    "feedback": "The Case-Shiller index relates to real estate, not the percentage of African countries in the UN."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why does an investor's first purchase price in an app-based brokerage often lead to lower long-term investments?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The app's interface is confusing",
+                    "isCorrect": false,
+                    "feedback": "The interface is not the cause; the psychological anchor of the first price is."
+                },
+                {
+                    "text": "The first price serves as a permanent reference point",
+                    "isCorrect": true,
+                    "feedback": "The initial purchase price anchors future decisions, and starting small can lead to lower long-term accumulated investments."
+                },
+                {
+                    "text": "The first purchase is always the most expensive",
+                    "isCorrect": false,
+                    "feedback": "The first purchase is not necessarily the most expensive; it is the reference point for future purchases."
+                },
+                {
+                    "text": "App-based brokerages charge higher fees",
+                    "isCorrect": false,
+                    "feedback": "Fees are not the cause of the investment anchoring effect described in the text."
+                },
+                {
+                    "text": "Investors forget the first price they paid",
+                    "isCorrect": false,
+                    "feedback": "The effect occurs because they are tethered to the price, not because they forget it."
+                },
+                {
+                    "text": "The first price is logically connected to the market",
+                    "isCorrect": false,
+                    "feedback": "The anchor is a psychological reference point that may no longer reflect market reality."
+                },
+                {
+                    "text": "The first price is determined by a roulette wheel",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel was used in a different experiment regarding UN membership estimates."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the multiplication experiment, participants provided inaccurate estimates because the 5-second time limit forced them to rely on the ____ as a psychological tether.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "starting numbers",
+                    "isCorrect": true,
+                    "feedback": "The starting numbers in the sequence acted as anchors, preventing participants from adjusting their estimates toward the correct total."
+                },
+                {
+                    "text": "median estimate",
+                    "isCorrect": false,
+                    "feedback": "The median estimate is the result of the anchoring effect, not the mechanism that caused it."
+                },
+                {
+                    "text": "correct answer",
+                    "isCorrect": false,
+                    "feedback": "The correct answer (40,320) was too far from the anchors for participants to reach within the time limit."
+                },
+                {
+                    "text": "multiplication product",
+                    "isCorrect": false,
+                    "feedback": "The product is the final goal, whereas the anchor is the initial information that skews the result."
+                },
+                {
+                    "text": "ascending order",
+                    "isCorrect": false,
+                    "feedback": "Ascending order is one specific condition of the experiment, not the general mechanism of anchoring."
+                },
+                {
+                    "text": "descending order",
+                    "isCorrect": false,
+                    "feedback": "Descending order is another specific condition, not the general mechanism of anchoring."
+                },
+                {
+                    "text": "time limit",
+                    "isCorrect": false,
+                    "feedback": "The time limit is the trigger that prevents full calculation, but the numbers themselves are the anchors."
+                },
+                {
+                    "text": "product of numbers",
+                    "isCorrect": false,
+                    "feedback": "The product is the value being estimated, not the anchor that pulls the estimate."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The 'Randomness Paradox' suggests that for an anchor to be effective, the mind may need to perceive it as a ____, even if the logic is flawed.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "potential starting point",
+                    "isCorrect": true,
+                    "feedback": "The mind needs to perceive the anchor as a potential starting point for the mind to be influenced, which is why explicitly random methods often fail."
+                },
+                {
+                    "text": "random generator",
+                    "isCorrect": false,
+                    "feedback": "Random generators are examples of methods that often failed to produce anchoring effects."
+                },
+                {
+                    "text": "logical connection",
+                    "isCorrect": false,
+                    "feedback": "Anchoring can occur even when there is zero logical connection, as seen in the roulette wheel experiment."
+                },
+                {
+                    "text": "administrative number",
+                    "isCorrect": false,
+                    "feedback": "Administrative numbers, like SSNs, can be anchors, but the paradox refers to the perceived utility of the anchor."
+                },
+                {
+                    "text": "historical data point",
+                    "isCorrect": false,
+                    "feedback": "Historical data points are anchors used in professional contexts, not the cause of the randomness paradox."
+                },
+                {
+                    "text": "reference point",
+                    "isCorrect": false,
+                    "feedback": "While an anchor is a reference point, the paradox specifically highlights the need for it to be perceived as a starting point."
+                },
+                {
+                    "text": "psychological tether",
+                    "isCorrect": false,
+                    "feedback": "A psychological tether is a description of the effect, not the requirement for the anchor to take hold."
+                },
+                {
+                    "text": "conscious choice",
+                    "isCorrect": false,
+                    "feedback": "Anchoring is described as an automatic process, not a conscious choice."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In app-based stock brokerages, an investor's ____ often serves as a permanent reference point that influences future investment decisions.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "initial purchase price",
+                    "isCorrect": true,
+                    "feedback": "The first price an investor pays for a stock acts as the anchor for their future decisions in that brokerage."
+                },
+                {
+                    "text": "long-term investment",
+                    "isCorrect": false,
+                    "feedback": "Long-term investments are the outcome of the anchoring effect, not the anchor itself."
+                },
+                {
+                    "text": "market reality",
+                    "isCorrect": false,
+                    "feedback": "Market reality is what the anchor prevents the investor from reflecting."
+                },
+                {
+                    "text": "brokerage app",
+                    "isCorrect": false,
+                    "feedback": "The app is the medium, not the psychological anchor."
+                },
+                {
+                    "text": "historical peak",
+                    "isCorrect": false,
+                    "feedback": "Historical peaks are anchors used in real estate (Case-Shiller Index), not stock brokerages."
+                },
+                {
+                    "text": "Case-Shiller Index",
+                    "isCorrect": false,
+                    "feedback": "The Case-Shiller Index is used for house prices, not for individual stock purchases."
+                },
+                {
+                    "text": "accumulated investment",
+                    "isCorrect": false,
+                    "feedback": "Accumulated investments are the result of the anchoring effect, not the anchor."
+                },
+                {
+                    "text": "portfolio value",
+                    "isCorrect": false,
+                    "feedback": "The portfolio value is the overall result, not the specific anchor of the first purchase price."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What was the direct result of participants seeing a roulette wheel stop on 65 before estimating the percentage of African countries in the UN?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "An average guess of 45%",
+                    "isCorrect": true,
+                    "feedback": "Participants who saw the anchor of 65 guessed a higher average of 45% compared to those who saw 10."
+                },
+                {
+                    "text": "An average guess of 25%",
+                    "isCorrect": false,
+                    "feedback": "This was the average guess for participants whose roulette wheel stopped on 10."
+                },
+                {
+                    "text": "A median estimate of 512",
+                    "isCorrect": false,
+                    "feedback": "This value was the median estimate for the ascending multiplication sequence experiment."
+                },
+                {
+                    "text": "A median estimate of 2,250",
+                    "isCorrect": false,
+                    "feedback": "This value was the median estimate for the descending multiplication sequence experiment."
+                },
+                {
+                    "text": "Bids 60% to 120% higher",
+                    "isCorrect": false,
+                    "feedback": "This result occurred in Dan Ariely's study using social security numbers as anchors."
+                },
+                {
+                    "text": "A guess of 40,320",
+                    "isCorrect": false,
+                    "feedback": "This is the correct mathematical product of numbers one through eight, not a roulette wheel estimate."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the multiplication experiment, what was the outcome for participants who were given the sequence in descending order (8 x 7 x 6...)?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "A median estimate of 2,250",
+                    "isCorrect": true,
+                    "feedback": "The large starting numbers acted as anchors, pulling the median estimate up to 2,250."
+                },
+                {
+                    "text": "A median estimate of 512",
+                    "isCorrect": false,
+                    "feedback": "This was the median estimate for the ascending sequence (1 x 2 x 3...)."
+                },
+                {
+                    "text": "A correct answer of 40,320",
+                    "isCorrect": false,
+                    "feedback": "This is the actual product, but participants failed to reach it due to the anchoring effect."
+                },
+                {
+                    "text": "Bids 60% to 120% higher",
+                    "isCorrect": false,
+                    "feedback": "This result is associated with Dan Ariely's social security number study."
+                },
+                {
+                    "text": "An average guess of 25%",
+                    "isCorrect": false,
+                    "feedback": "This was the average guess for the roulette wheel anchor of 10."
+                },
+                {
+                    "text": "An average guess of 45%",
+                    "isCorrect": false,
+                    "feedback": "This was the average guess for the roulette wheel anchor of 65."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the direct impact of having higher last two digits of a social security number in Dan Ariely's bidding study?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Bids 60% to 120% higher",
+                    "isCorrect": true,
+                    "feedback": "Higher SSN digits served as anchors, leading participants to submit bids 60% to 120% higher than those with lower digits."
+                },
+                {
+                    "text": "A median estimate of 2,250",
+                    "isCorrect": false,
+                    "feedback": "This is the result from the descending multiplication sequence experiment."
+                },
+                {
+                    "text": "A median estimate of 512",
+                    "isCorrect": false,
+                    "feedback": "This is the result from the ascending multiplication sequence experiment."
+                },
+                {
+                    "text": "An average guess of 45%",
+                    "isCorrect": false,
+                    "feedback": "This is the result from the roulette wheel anchor of 65."
+                },
+                {
+                    "text": "An average guess of 25%",
+                    "isCorrect": false,
+                    "feedback": "This is the result from the roulette wheel anchor of 10."
+                },
+                {
+                    "text": "A correct answer of 40,320",
+                    "isCorrect": false,
+                    "feedback": "This is the actual product of the multiplication sequence, not a bid amount."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the long-term consequence for investors in app-based brokerages who start with small initial stock purchases?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Lower accumulated investments",
+                    "isCorrect": true,
+                    "feedback": "The initial small purchase price acts as an anchor, often leading to lower long-term accumulated investments."
+                },
+                {
+                    "text": "Higher median estimates",
+                    "isCorrect": false,
+                    "feedback": "Median estimates refer to the multiplication sequence experiments, not investment totals."
+                },
+                {
+                    "text": "Increased bidding on luxury items",
+                    "isCorrect": false,
+                    "feedback": "This was the result of the social security number anchoring study."
+                },
+                {
+                    "text": "Higher average UN percentages",
+                    "isCorrect": false,
+                    "feedback": "This refers to the roulette wheel experiment regarding African countries in the UN."
+                },
+                {
+                    "text": "A 60% to 120% increase in bids",
+                    "isCorrect": false,
+                    "feedback": "This is the specific outcome of the social security number bidding study."
+                },
+                {
+                    "text": "A median estimate of 512",
+                    "isCorrect": false,
+                    "feedback": "This is the result from the ascending multiplication sequence experiment."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the result of using explicitly random procedures, such as rolling a die or using an Excel random generator, in anchoring studies?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Failure to produce anchoring effects",
+                    "isCorrect": true,
+                    "feedback": "Unlike the roulette wheel, clearly random procedures often failed to replicate the anchoring effect."
+                },
+                {
+                    "text": "Bids 60% to 120% higher",
+                    "isCorrect": false,
+                    "feedback": "This is the result of the social security number study."
+                },
+                {
+                    "text": "A median estimate of 2,250",
+                    "isCorrect": false,
+                    "feedback": "This is the result of the descending multiplication sequence study."
+                },
+                {
+                    "text": "A median estimate of 512",
+                    "isCorrect": false,
+                    "feedback": "This is the result of the ascending multiplication sequence study."
+                },
+                {
+                    "text": "An average guess of 45%",
+                    "isCorrect": false,
+                    "feedback": "This is the result of the roulette wheel anchor of 65."
+                },
+                {
+                    "text": "An average guess of 25%",
+                    "isCorrect": false,
+                    "feedback": "This is the result of the roulette wheel anchor of 10."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the critical difference between the median estimates for the ascending and descending multiplication sequences in Tversky and Kahneman's study?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "512 vs 2,250",
+                    "isCorrect": true,
+                    "feedback": "The ascending sequence (1x2x3...) led to a median estimate of 512, while the descending sequence (8x7x6...) led to 2,250."
+                },
+                {
+                    "text": "512 vs 40,320",
+                    "isCorrect": false,
+                    "feedback": "40,320 is the correct mathematical answer, not the median estimate for the descending sequence."
+                },
+                {
+                    "text": "2,250 vs 40,320",
+                    "isCorrect": false,
+                    "feedback": "2,250 is the median estimate for the descending sequence, while 40,320 is the actual product."
+                },
+                {
+                    "text": "25% vs 45%",
+                    "isCorrect": false,
+                    "feedback": "These percentages refer to the roulette wheel experiment regarding African countries in the UN, not the multiplication study."
+                },
+                {
+                    "text": "60% vs 120%",
+                    "isCorrect": false,
+                    "feedback": "These percentages refer to the increase in bids in Dan Ariely's social security number study."
+                },
+                {
+                    "text": "10 vs 65",
+                    "isCorrect": false,
+                    "feedback": "These are the anchor numbers used in the roulette wheel experiment, not the resulting estimates."
+                },
+                {
+                    "text": "512 vs 1,000",
+                    "isCorrect": false,
+                    "feedback": "1,000 is not a value mentioned in the source text for this experiment."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did the average guesses for the percentage of African countries in the UN differ based on the roulette wheel anchor?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "25% for anchor 10, 45% for anchor 65",
+                    "isCorrect": true,
+                    "feedback": "Participants who saw the wheel stop on 10 guessed 25% on average, while those who saw 65 guessed 45% on average."
+                },
+                {
+                    "text": "10% for anchor 10, 65% for anchor 65",
+                    "isCorrect": false,
+                    "feedback": "10 and 65 were the anchors, but the resulting guesses were 25% and 45% respectively."
+                },
+                {
+                    "text": "25% for anchor 10, 65% for anchor 65",
+                    "isCorrect": false,
+                    "feedback": "While 25% is correct for anchor 10, the average guess for anchor 65 was 45%, not 65%."
+                },
+                {
+                    "text": "45% for anchor 10, 25% for anchor 65",
+                    "isCorrect": false,
+                    "feedback": "This reverses the effect; lower anchors lead to lower estimates and higher anchors lead to higher estimates."
+                },
+                {
+                    "text": "10% for anchor 10, 45% for anchor 65",
+                    "isCorrect": false,
+                    "feedback": "The average guess for anchor 10 was 25%, not 10%."
+                },
+                {
+                    "text": "25% for anchor 10, 25% for anchor 65",
+                    "isCorrect": false,
+                    "feedback": "The anchors produced different results, not identical guesses."
+                },
+                {
+                    "text": "45% for anchor 10, 45% for anchor 65",
+                    "isCorrect": false,
+                    "feedback": "The anchors produced different results, not identical guesses."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In Dan Ariely's study, how did the bids of participants with higher social security number digits compare to those with lower digits?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "60% to 120% higher",
+                    "isCorrect": true,
+                    "feedback": "Participants with higher SSN digits submitted bids 60% to 120% higher than those with lower digits."
+                },
+                {
+                    "text": "25% to 45% higher",
+                    "isCorrect": false,
+                    "feedback": "These percentages relate to the roulette wheel experiment, not the SSN bidding study."
+                },
+                {
+                    "text": "10% to 65% higher",
+                    "isCorrect": false,
+                    "feedback": "These are the anchor values from the roulette wheel experiment, not the bid increase percentage."
+                },
+                {
+                    "text": "50% to 100% higher",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text for the SSN study."
+                },
+                {
+                    "text": "Exactly 100% higher",
+                    "isCorrect": false,
+                    "feedback": "The text specifies a range of 60% to 120%, not a single fixed percentage."
+                },
+                {
+                    "text": "No significant difference",
+                    "isCorrect": false,
+                    "feedback": "The study found a significant difference based on the SSN anchor."
+                },
+                {
+                    "text": "20% to 40% higher",
+                    "isCorrect": false,
+                    "feedback": "This range is not mentioned in the source text for the SSN study."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the difference in effectiveness between a roulette wheel anchor and anchors created by explicitly random procedures like die rolls?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Roulette wheel worked, die rolls often failed",
+                    "isCorrect": true,
+                    "feedback": "While the roulette wheel produced anchoring, explicitly random procedures like die rolls or Excel generators often failed to do so."
+                },
+                {
+                    "text": "Die rolls worked, roulette wheel failed",
+                    "isCorrect": false,
+                    "feedback": "The source text states the opposite: the roulette wheel was effective, while die rolls often failed."
+                },
+                {
+                    "text": "Both were equally effective",
+                    "isCorrect": false,
+                    "feedback": "The text notes a 'Randomness Paradox' where explicitly random methods often failed to replicate the effect."
+                },
+                {
+                    "text": "Both failed to produce anchoring",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel experiment by Tversky and Kahneman successfully demonstrated anchoring."
+                },
+                {
+                    "text": "Die rolls produced stronger anchors",
+                    "isCorrect": false,
+                    "feedback": "The text states that explicitly random procedures often failed to produce the same effects as the roulette wheel."
+                },
+                {
+                    "text": "Roulette wheel only worked for experts",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel effect was observed in general participants, not limited to experts."
+                },
+                {
+                    "text": "Neither produced any effect",
+                    "isCorrect": false,
+                    "feedback": "The roulette wheel successfully produced the anchoring effect."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                5
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the multiplication study, the sequence starting with small numbers resulted in a median estimate of 512, whereas the sequence starting with large numbers resulted in a median estimate of ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2,250",
+                    "isCorrect": true,
+                    "feedback": "The descending sequence (8x7x6...) led to a significantly higher median estimate of 2,250 compared to the ascending sequence's 512."
+                },
+                {
+                    "text": "40,320",
+                    "isCorrect": false,
+                    "feedback": "40,320 is the actual correct product of numbers one through eight, not the median estimate."
+                },
+                {
+                    "text": "25%",
+                    "isCorrect": false,
+                    "feedback": "25% was the average guess for African countries in the UN when the anchor was 10."
+                },
+                {
+                    "text": "45%",
+                    "isCorrect": false,
+                    "feedback": "45% was the average guess for African countries in the UN when the anchor was 65."
+                },
+                {
+                    "text": "60%",
+                    "isCorrect": false,
+                    "feedback": "60% is the lower bound of the increase in bids seen in Dan Ariely's SSN study."
+                },
+                {
+                    "text": "120%",
+                    "isCorrect": false,
+                    "feedback": "120% is the upper bound of the increase in bids seen in Dan Ariely's SSN study."
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false,
+                    "feedback": "10 was one of the predetermined roulette wheel anchors used in the UN estimation task."
+                },
+                {
+                    "text": "65",
+                    "isCorrect": false,
+                    "feedback": "65 was one of the predetermined roulette wheel anchors used in the UN estimation task."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "While the roulette wheel provided a successful anchor, procedures that were ____, such as rolling a die or using an Excel random generator, often failed to produce the same effect.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "explicitly random",
+                    "isCorrect": true,
+                    "feedback": "Procedures perceived as explicitly random, like die rolls or Excel generators, often fail to create an anchoring effect."
+                },
+                {
+                    "text": "logically related",
+                    "isCorrect": false,
+                    "feedback": "Anchors that are logically related typically work, whereas the text highlights that even irrelevant ones can work unless they are explicitly random."
+                },
+                {
+                    "text": "personally identified",
+                    "isCorrect": false,
+                    "feedback": "Personal anchors, like SSNs, were shown to be effective anchors."
+                },
+                {
+                    "text": "historical",
+                    "isCorrect": false,
+                    "feedback": "Historical data points, such as the Case-Shiller Index, act as effective anchors in real estate."
+                },
+                {
+                    "text": "automatic",
+                    "isCorrect": false,
+                    "feedback": "Anchoring is described as an automatic process, not a failure of the process."
+                },
+                {
+                    "text": "administrative",
+                    "isCorrect": false,
+                    "feedback": "Administrative numbers like SSNs were effective anchors, not failures."
+                },
+                {
+                    "text": "predetermined",
+                    "isCorrect": false,
+                    "feedback": "Predetermined numbers on a roulette wheel were successful anchors."
+                },
+                {
+                    "text": "unconscious",
+                    "isCorrect": false,
+                    "feedback": "The anchoring effect happens unconsciously, but this doesn't explain why die rolls fail."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the UN estimation task, participants who saw the wheel stop on 10 guessed an average of 25%, while those who saw it stop on ____ guessed an average of 45%.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "65",
+                    "isCorrect": true,
+                    "feedback": "Participants anchored to the number 65 guessed a higher average (45%) than those anchored to 10 (25%)."
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false,
+                    "feedback": "10 was the anchor that led to the lower average guess of 25%."
+                },
+                {
+                    "text": "512",
+                    "isCorrect": false,
+                    "feedback": "512 was the median estimate for the ascending multiplication sequence."
+                },
+                {
+                    "text": "2,250",
+                    "isCorrect": false,
+                    "feedback": "2,250 was the median estimate for the descending multiplication sequence."
+                },
+                {
+                    "text": "40,320",
+                    "isCorrect": false,
+                    "feedback": "40,320 is the correct mathematical product of 1 through 8."
+                },
+                {
+                    "text": "60%",
+                    "isCorrect": false,
+                    "feedback": "60% is the increase in bids for higher SSN digits."
+                },
+                {
+                    "text": "120%",
+                    "isCorrect": false,
+                    "feedback": "120% is the increase in bids for higher SSN digits."
+                },
+                {
+                    "text": "2",
+                    "isCorrect": false,
+                    "feedback": "2 refers to the 2-year high in the Case-Shiller Index."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In Dan Ariely's study, participants with higher social security number digits submitted bids that were ____ higher than those with lower digits.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "60% to 120%",
+                    "isCorrect": true,
+                    "feedback": "Higher SSN digits acted as anchors, increasing bids by 60% to 120% compared to lower digits."
+                },
+                {
+                    "text": "25% to 45%",
+                    "isCorrect": false,
+                    "feedback": "These percentages refer to the average guesses for the UN African countries task."
+                },
+                {
+                    "text": "512 to 2,250",
+                    "isCorrect": false,
+                    "feedback": "These are the median estimates from the multiplication sequence study."
+                },
+                {
+                    "text": "2 to 9 years",
+                    "isCorrect": false,
+                    "feedback": "These are the historical peaks used in the Case-Shiller House Price Index."
+                },
+                {
+                    "text": "10 to 65",
+                    "isCorrect": false,
+                    "feedback": "These were the roulette wheel anchors used in the UN estimation task."
+                },
+                {
+                    "text": "100%",
+                    "isCorrect": false,
+                    "feedback": "The text specifies a range of 60% to 120%, not a flat 100%."
+                },
+                {
+                    "text": "50%",
+                    "isCorrect": false,
+                    "feedback": "50% is not mentioned as a bid increase in the source text."
+                },
+                {
+                    "text": "150%",
+                    "isCorrect": false,
+                    "feedback": "150% is not mentioned as a bid increase in the source text."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        }
+    ],
+    "true_false_games": [
+        {
+            "statement": "The anchoring effect is a psychological phenomenon where individuals rely too heavily on the first piece of information encountered when making decisions or estimates.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. This is the core definition of the anchoring effect as described in the text.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "In Tversky and Kahneman's multiplication study, participants who were given the sequence in descending order (8 x 7 x 6...) provided a lower median estimate than those given the ascending sequence (1 x 2 x 3...).",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. The descending sequence resulted in a higher median estimate (2,250) compared to the ascending sequence (512).",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The correct product of numbers one through eight is 40,320.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Correct. This is the exact mathematical result mentioned in the source text.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "In the roulette wheel experiment, participants who saw the wheel stop on 10 guessed an average of 25% for the percentage of African countries in the UN, while those who saw 65 guessed an average of 45%.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. These specific averages demonstrate how an irrelevant anchor influences estimates.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The roulette wheel experiment proved that anchors must be logically related to the task at hand to influence a person's judgment.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Incorrect. The experiment proved that the mind can be anchored by numbers with zero logical connection to the task.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Dan Ariely's study found that participants with higher social security number digits submitted bids for items that were 60% to 120% higher than those with lower digits.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Correct. This specific percentage range is the documented outcome of Ariely's research.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "According to the source text, procedures that are explicitly random, such as rolling a die or using an Excel random generator, always produce the same anchoring effects as the roulette wheel.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. These explicitly random methods often failed to produce the same anchoring effects.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Case-Shiller House Price Index uses 2-year and 9-year highs as anchors for predicting current house prices.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Correct. These specific historical peaks serve as anchors in real estate price predictions.",
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "In app-based stock brokerages, an investor's first purchase price often acts as a psychological anchor that can lead to lower long-term accumulated investments if they start small.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. The initial purchase price serves as a permanent reference point for future decisions.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The anchoring effect occurs because the human brain takes shortcuts in judgment, relying too heavily on the first piece of information encountered.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. The anchoring effect is a psychological phenomenon where the first piece of information (the anchor) heavily influences subsequent decisions or estimates.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "In Tversky and Kahneman's multiplication study, participants' estimates were skewed because they had sufficient time to complete the calculation, leading them to rely on the final product.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Participants only had five seconds, meaning they could not finish the math and had to estimate based on the first few multiplications they actually solved.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The 'Randomness Paradox' suggests that anchoring effects are consistently produced regardless of whether the anchor is generated by a roulette wheel or an Excel random generator.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. While the roulette wheel worked, some studies using explicitly random procedures like Excel random generators or die rolls often failed to produce the same anchoring effects.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "For an anchor to be effective, the mind may need to perceive it as a potential starting point, even if the information is illogical.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. This is suggested by the fact that explicitly random processes often fail to produce anchoring, whereas other irrelevant numbers do.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "In the Case-Shiller House Price Index research, current house price predictions are anchored by historical 2-year and 9-year highs.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Correct. Research in the Journal of Real Estate Research indicates that these specific historical peaks serve as anchors for predicting current prices.",
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Investment anchoring in app-based brokerages is a conscious strategy used by experienced investors to maintain a stable reference point for their portfolios.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Investment anchoring happens unconsciously, and even experienced investors can be tethered to a price that no longer reflects market reality.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Dan Ariely's study demonstrated that participants' bids for items were influenced by the last two digits of their social security numbers, regardless of the items' actual value.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. The SSN digits acted as anchors, leading those with higher digits to submit bids 60% to 120% higher than those with lower digits.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The roulette wheel experiment proved that anchoring only occurs when the anchor is logically related to the task at hand.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Incorrect. The experiment proved the opposite: the human mind can be anchored by numbers with zero logical connection to the task.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "In the multiplication study by Tversky and Kahneman, the starting numbers acted as a psychological tether that prevented participants from adjusting their estimates sufficiently to reach the correct answer of 40,320.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The starting numbers served as anchors, leading to median estimates (512 or 2,250) that were far below the actual product of 40,320.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Participants who observed a roulette wheel stop on 65 estimated the percentage of African countries in the UN to be an average of 25%.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Those who saw the wheel stop on 65 guessed an average of 45%; those who saw 10 guessed 25%.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Dan Ariely's research found that participants with higher social security number digits submitted bids for items that were 60% to 120% higher than those with lower digits.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "The last two digits of the SSN acted as an anchor, causing those with higher numbers to bid significantly more (60-120% higher).",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The 'Randomness Paradox' suggests that explicitly random procedures, such as rolling a die, are more effective at creating anchors than predetermined numbers.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Actually, studies using clearly random procedures like die rolls or Excel random generators often failed to produce the same anchoring effects.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "According to research in the Journal of Real Estate Research, 2-year and 9-year highs on the Case-Shiller House Price Index serve as anchors for predicting current house prices.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Historical peaks, specifically 2-year and 9-year highs, act as anchors that skew current price predictions.",
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "In app-based stock brokerages, starting with small initial stock purchases can lead to lower long-term accumulated investments due to the anchoring effect.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first purchase price acts as a permanent reference point, anchoring future decisions and potentially limiting long-term investment growth.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The anchoring effect only occurs when the anchor is logically related to the task at hand, as proven by the roulette wheel experiment.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "The roulette wheel experiment proved that the mind can be anchored by numbers with zero logical connection to the task.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "In the multiplication experiment, the median estimate for the descending sequence (8 x 7 x 6...) was higher than the median estimate for the ascending sequence (1 x 2 x 3...).",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The descending sequence resulted in a median estimate of 2,250, while the ascending sequence resulted in 512.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The roulette wheel experiment demonstrated that anchors must be logically related to the task to influence a person's estimate.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "The experiment proved that the mind can be anchored by numbers with zero logical connection to the task, such as a random roulette wheel spin.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Dan Ariely's study found that participants with higher social security number digits submitted bids that were 60% to 120% higher than those with lower digits.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The last two digits of the SSN acted as an anchor, leading to significantly higher bids for those with higher digits.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The 'Randomness Paradox' suggests that any process perceived as explicitly random, such as a die roll, will always create a powerful anchoring effect.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Actually, some studies found that explicitly random procedures like die rolls or Excel random generators often failed to produce the same anchoring effects.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "According to the Case-Shiller House Price Index research, 2-year and 9-year highs serve as anchors for predicting current house prices.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Research in the Journal of Real Estate Research specifically identifies these 2-year and 9-year highs as the anchors used to gauge value.",
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "In app-based stock brokerages, an investor's first purchase price acts as a permanent reference point that typically leads to higher long-term accumulated investments.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Starting with small purchases as an anchor often leads to lower long-term accumulated investments.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The correct answer to the multiplication problem (1 through 8) was 2,250, but participants were anchored by the starting numbers.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "The correct answer was 40,320; 2,250 was merely the median estimate for the descending sequence.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The roulette wheel experiment showed that participants who saw the wheel stop on 10 guessed an average of 45% for the percentage of African countries in the UN.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Those who saw the wheel stop on 10 guessed 25% on average; those who saw 65 guessed 45% on average.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast"
+        }
+    ]
+}

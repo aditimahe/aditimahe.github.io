@@ -1,0 +1,2669 @@
+{
+    "module_name": "Brain rot",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "In Internet culture, the term brain rot (often written as brainrot) describes digital media deemed to be of low quality or value."
+        },
+        {
+            "note_id": "n2",
+            "text": "More broadly, the term refers to the harmful cognitive effects associated with excessive or disordered use of digital and social media, particularly short-form entertainment, AI-generated content, and doomscrolling."
+        },
+        {
+            "note_id": "n3",
+            "text": "Popularized by Generation Z and Alpha on social media, the term has since entered mainstream usage. In 2024 it was named Oxford Dictionary's \"Word of the Year\"."
+        },
+        {
+            "note_id": "n4",
+            "text": "According to Oxford University Press, the first recorded use of the term brain rot traces back to the 1854 book Walden by Henry David Thoreau."
+        },
+        {
+            "note_id": "n5",
+            "text": "In that book, Thoreau reflected on materialism and argued that a tendency to prefer trivial ideas could weaken the mind, a harbinger for how the term would come to be used to describe the effects of disordered use of digital content."
+        },
+        {
+            "note_id": "n6",
+            "text": "He asked: While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?"
+        },
+        {
+            "note_id": "n7",
+            "text": "Thoreau was criticizing what he saw as a decline in intellectual standards, comparing it to the effects of potato blight in 1840s Europe, which had caused widespread crop failures."
+        },
+        {
+            "note_id": "n8",
+            "text": "In 2007, brain rot was used by Twitter users to describe dating game shows, video games, and \"hanging out online\"."
+        },
+        {
+            "note_id": "n9",
+            "text": "Usage of the phrase increased online in the 2010s before spiking in popularity in 2020 on Discord, when it became an Internet meme."
+        },
+        {
+            "note_id": "n10",
+            "text": "From 2023 to 2024, Oxford reported the term's usage increased by 230% in frequency per million words."
+        },
+        {
+            "note_id": "n11",
+            "text": "As of 2024, it was used in the context of Generation Alpha's digital habits, with critics noting that the generation is \"excessively immersed in online culture\", underscoring the fact that by 2024, an estimated 79 percent of the world's population of 15-24 year olds used the internet."
+        },
+        {
+            "note_id": "n12",
+            "text": "The term brain rot has been associated with the tendency for young people to pepper their speech with Internet references such as skibidi (referencing Skibidi Toilet), rizz (charisma), gyatt (buttocks), fanum tax (taking food from another's meal), and sigma (solitary, masculine men)."
+        },
+        {
+            "note_id": "n13",
+            "text": "In an article for Literary Hub, Josh Abbey argued that the concept of \"brain rot\" had existed long before the phrase was coined, likening it to William Wordsworth's criticism of \"frantic novels\" in 1800 and the criticisms of film and television by Virginia Woolf and Aldous Huxley in the 20th century."
+        },
+        {
+            "note_id": "n14",
+            "text": "Gunseli Yalcinkaya compared \"brain rot\" to 20th century artistic and political movements such as Dada for being \"intentionally absurd, context-less and fast-paced\", and noted how it can be used to push political messages."
+        },
+        {
+            "note_id": "n15",
+            "text": "Alexander Serenko has attributed popularization of \"brainrot\" content to supply and demand factors. On the supply side, Serenko associates \"brain rot\" both with the business models of the major social media platforms that rely on maintaining user attention, and the desire on the part of creators to monetize low-quality material for profit, increasingly with reliance on generative AI (see AI slop). On the demand side, he links consumption of such material to users' psychological preference for low-effort, repetitive, rewarding activities."
+        },
+        {
+            "note_id": "n16",
+            "text": "He sees typical features of \"brain rot\" content as being associated with emotional intensity, brevity, familiar characters, and references to cultural or societal themes, and ease of understanding."
+        },
+        {
+            "note_id": "n17",
+            "text": "Educational psychologists began utilizing the phrase \"brain rot\" in reviews of research into the relationships between cognitive decline, mental exhaustion, and excessive exposure to low-quality social media materials, arguing that research has demonstrated that brain rot leads to \"emotional desensitization, cognitive overload, and a negative self-concept\"."
+        },
+        {
+            "note_id": "n18",
+            "text": "By 2024, mental health organizations had begun to use the term, offering suggestions for prevention and treatment. The Newport Institute, an organization dedicated to providing resources for young adults, suggested the following prevention techniques: \"try limiting screen time, deleting distracting apps from your phone, and turning off unnecessary notifications\"."
+        },
+        {
+            "note_id": "n19",
+            "text": "Others have suggested resilience training, AI literacy, and regular mental health assessments."
+        },
+        {
+            "note_id": "n20",
+            "text": "Those in higher education have also sought to promote responses to brain rot. Professor Dr. Sri Lestari from Universitas Muhammadiyah Surakarta observed that although brain rot has not been classified as an official psychological disorder, she recommended instilling self-control at a young age and reducing screen time."
+        },
+        {
+            "note_id": "n21",
+            "text": "The term brain rot was named Oxford Word of the Year in 2024, beating other words like demure and romantasy."
+        },
+        {
+            "note_id": "n22",
+            "text": "Its modern usage is defined by the Oxford University Press as \"the supposed deterioration of a person's mental or intellectual state, especially viewed as the result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging\"."
+        },
+        {
+            "note_id": "n23",
+            "text": "Offering an explanation for the term, The Guardian journalist Sian Boyle provided commentary on the \"brain rot\" scholarship that purportedly identified links between excessive screen use and reduced memory capacity and reduced attention."
+        },
+        {
+            "note_id": "n24",
+            "text": "In the Spanish language periodical El Pais, Uruguayan journalist Facundo Macchi then similarly reviewed scholarship on the effects of excessive amounts of low-quality online materials, utilizing the disputed phrase \"social media addiction\" (rather than the scientifically accurate phrase problematic social media use) to argue that the scholarship supported a link between so-called \"junk content\" and both shortened attention spans and weakened memory."
+        },
+        {
+            "note_id": "n25",
+            "text": "In the same year, millennial Australian senator Fatima Payman made headlines by making a short speech to the Australian parliament using Generation Alpha slang. She introduced the speech as addressing \"an oft-forgotten section of our society\", referring to Generations Z and Alpha, and said that she would \"render the remainder of my statement using language they're familiar with\". Using slang terms, Payman criticised the government's plans to ban under-16s from social media and closed by saying that, \"Though some of you cannot vote, I hope that, when you do, it will be in a more goated Australia for a government with more aura. Skibidi!\""
+        },
+        {
+            "note_id": "n26",
+            "text": "The speech, written by a 21-year-old staff member, was labeled by some as an example of \"brain rot\" outside the online world."
+        },
+        {
+            "note_id": "n27",
+            "text": "In the 2025 Jubilee of the World of Communications, brain rot was also used by Pope Francis, the head of the Catholic Church, as he urged people to reduce their use of social media and avoid \"putrefazione cerebrale\"."
+        },
+        {
+            "note_id": "n28",
+            "text": "One researcher who interviewed Norwegian 16- and 17-year-olds about the term has argued that \"brain rot\" is best understood as a way that young people participate in social media, utilizing deliberately non-productive messaging as a means of resisting the pressures of productivity and self-optimization."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the increase in usage frequency of the term 'brain rot' from 2023 to 2024, as reported by Oxford.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "Note n10 provides a single, explicit percentage increase (230%) for the term's usage frequency."
+        },
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the estimated percentage of the world's population of 15-24 year olds who used the internet as of 2024.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "Note n11 provides a single, explicit percentage (79%) for internet usage among 15-24 year olds."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following individuals and their roles in the context of 'brain rot': Henry David Thoreau (author of Walden, first recorded use of the term), Josh Abbey (Literary Hub writer who argued the concept existed before the phrase), Gunseli Yalcinkaya (scholar who compared brain rot to Dadaism), Alexander Serenko (researcher who attributed popularization to supply and demand factors), Professor Dr. Sri Lestari (academic from Universitas Muhammadiyah Surakarta who recommends self-control and reduced screen time), Sian Boyle (The Guardian journalist who commented on scholarship regarding memory and attention), Facundo Macchi (El Pais journalist who reviewed scholarship on 'junk content' and attention spans), Fatima Payman (Australian senator who used Gen Alpha slang in parliament), Pope Francis (head of the Catholic Church who urged reduction of social media use).",
+            "source_notes_used": [
+                "n4",
+                "n5",
+                "n13",
+                "n14",
+                "n15",
+                "n20",
+                "n23",
+                "n24",
+                "n25",
+                "n27"
+            ],
+            "rationale": "The notes provide a diverse set of distinct people with specific, unique roles and contributions to the discourse on 'brain rot'."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the 1854 usage of 'brain rot' by Henry David Thoreau (criticizing a decline in intellectual standards and materialism) with the 2024 modern usage (the deterioration of mental state due to overconsumption of trivial online content).",
+            "source_notes_used": [
+                "n4",
+                "n5",
+                "n22"
+            ],
+            "rationale": "The notes provide two distinct entities (Thoreau's 1854 usage and modern usage) and one clear, overarching point of contrast: the source of the mental decline (materialism/trivial ideas vs. online content)."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a timeline of the term 'brain rot's usage and popularity increase over time, including: 1. 1854 (Walden by Henry David Thoreau), 2. 2007 (Twitter users describing dating game shows, video games, and 'hanging out online'), 3. 2010s (increase in online usage), 4. 2020 (spiking in popularity on Discord as an Internet meme), 5. 2023-2024 (Oxford reported 230% increase in frequency).",
+            "source_notes_used": [
+                "n4",
+                "n8",
+                "n9",
+                "n10"
+            ],
+            "rationale": "The notes provide a clear chronological sequence of the term's evolution and usage spikes across different eras."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: 'Brain rot' slang terms. Branches: 'skibidi' (referencing Skibidi Toilet), 'rizz' (charisma), 'gyatt' (buttocks), 'fanum tax' (taking food from another's meal), and 'sigma' (solitary, masculine men).",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "The note explicitly lists several named conceptual branches (slang terms) stemming from the root concept of 'brain rot' speech patterns."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Trigger: Excessive or disordered use of digital and social media (short-form entertainment, AI-generated content, doomscrolling). Mechanism: Harmful cognitive effects. Outcome: 'Brain rot' (deterioration of mental or intellectual state).",
+            "source_notes_used": [
+                "n2",
+                "n22"
+            ],
+            "rationale": "The notes describe a clear cause-and-effect relationship where excessive media use triggers cognitive decline leading to the state of 'brain rot'."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Input A: Business models of major social media platforms (relying on user attention). Input B: Creators' desire to monetize low-quality material for profit (increasingly using generative AI). Result: Popularization of 'brainrot' content.",
+            "source_notes_used": [
+                "n15"
+            ],
+            "rationale": "The notes explicitly state that supply-side factors (platform business models and creator monetization) combine to create the result of popularized 'brainrot' content."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'brain rot' using the definition provided by Oxford University Press.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "The note provides a formal, explicit definition of the term 'brain rot' from a reputable source."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that in 2024, 'brain rot' was named Oxford Dictionary's 'Word of the Year'.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "This is a highly specific, pivotal event/date that serves as a distinct conceptual takeaway."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the statistic that from 2023 to 2024, the usage of the term 'brain rot' increased by 230% in frequency per million words.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "This is an exact statistic representing a massive spike in usage."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that by 2024, an estimated 79 percent of the world's population of 15-24 year olds used the internet.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "This is a precise statistic regarding the demographic most associated with the term."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Spotlight the book 'Walden' by Henry David Thoreau (1854), noting its purpose as a reflection on materialism and the argument that preferring trivial ideas weakens the mind.",
+            "source_notes_used": [
+                "n4",
+                "n5"
+            ],
+            "rationale": "The text explicitly names a formal primary source (a book) and its purpose/argument."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Provide the direct quote from Henry David Thoreau: 'While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?'",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides an explicit speaker and a direct, impactful quote."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the Internet references associated with 'brain rot' speech, including: skibidi (referencing Skibidi Toilet), rizz (charisma), gyatt (buttocks), fanum tax (taking food from another's meal), and sigma (solitary, masculine men).",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "The note provides a list of related slang terms (items) within the common context of 'brain rot' speech."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the typical features of 'brain rot' content as identified by Alexander Serenko: emotional intensity, brevity, familiar characters, references to cultural or societal themes, and ease of understanding.",
+            "source_notes_used": [
+                "n16"
+            ],
+            "rationale": "The note provides a list of descriptive features (bullets) sharing a common context."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the prevention techniques suggested by the Newport Institute: limiting screen time, deleting distracting apps from your phone, and turning off unnecessary notifications.",
+            "source_notes_used": [
+                "n18"
+            ],
+            "rationale": "The note provides a list of 3 specific, related actions for prevention."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List other suggested responses to brain rot: resilience training, AI literacy, and regular mental health assessments.",
+            "source_notes_used": [
+                "n19"
+            ],
+            "rationale": "The note provides a list of 3 related concepts for addressing brain rot."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'Who was the first person recorded to use the term brain rot?', Back: 'Henry David Thoreau in his 1854 book Walden'.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "This creates a curiosity gap by asking about the origin of a modern term and revealing a surprising historical answer."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a qualitative spec sheet for 'brain rot' content based on Alexander Serenko's analysis: Supply Side (Business models of social media platforms and creator monetization), Demand Side (Users' psychological preference for low-effort, repetitive, rewarding activities).",
+            "source_notes_used": [
+                "n15"
+            ],
+            "rationale": "The information can be formatted as strict Key-Value pairs (Supply Side vs Demand Side) describing the drivers of the content."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Group the historical precursors to the concept of 'brain rot' mentioned by Josh Abbey: William Wordsworth (criticism of 'frantic novels' in 1800), Virginia Woolf (criticism of film and television in the 20th century), and Aldous Huxley (criticism of film and television in the 20th century).",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "This provides a list of parallel, related historical examples that serve as secondary deep-dives into the concept's history."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the list to eliminate redundancies while preserving the most complex and visually engaging formats. Specifically, I removed several 'insight_badge' and 'percentage_display' widgets that overlapped with more comprehensive widgets. The 'percentage_display' for n10 was cut in favor of the 'stepper' (which incorporates the 230% increase as a chronological milestone) and the 'insight_badge' for n10 was removed because the 'stepper' already captures this data point. Similarly, the 'percentage_display' for n11 was replaced by its corresponding 'insight_badge' as a standalone fact. I removed the 'itemized_breakdown' for n12 because the 'branching_tree' provides a superior structural visualization of the slang terms. I also removed the 'document_highlight' and 'flip_reveal' for n4/n5 because the 'versus' widget (Thoreau vs. Modern) and the 'stepper' (Thoreau's 1854 origin) already cover the historical context more effectively. The 'fact_grid' for n15 was removed in favor of the 'synthesis' widget, which better explains the causal relationship between supply and demand factors rather than just listing them.",
+        "surviving_widgets": [
+            {
+                "widget_type": "insight_badge",
+                "widget_context": "Highlight that in 2024, 'brain rot' was named Oxford Dictionary's 'Word of the Year'.",
+                "source_notes_used": [
+                    "n3"
+                ],
+                "rationale": "This is a highly specific, pivotal event/date that serves as a distinct conceptual takeaway."
+            },
+            {
+                "widget_type": "insight_badge",
+                "widget_context": "Highlight that by 2024, an estimated 79 percent of the world's population of 15-24 year olds used the internet.",
+                "source_notes_used": [
+                    "n11"
+                ],
+                "rationale": "This is a precise statistic regarding the demographic most associated with the term."
+            },
+            {
+                "widget_type": "entity_profiles",
+                "widget_context": "Create profiles for the following individuals and their roles in the context of 'brain rot': Henry David Thoreau, Josh Abbey, Gunseli Yalcinkaya, Alexander Serenko, Professor Dr. Sri Lestari, Sian Boyle, Facundo Macchi, Fatima Payman, and Pope Francis.",
+                "source_notes_used": [
+                    "n4",
+                    "n5",
+                    "n13",
+                    "n14",
+                    "n15",
+                    "n20",
+                    "n23",
+                    "n24",
+                    "n25",
+                    "n27"
+                ],
+                "rationale": "The notes provide a diverse set of distinct people with specific, unique roles and contributions to the discourse on 'brain rot'."
+            },
+            {
+                "widget_type": "versus",
+                "widget_context": "Contrast the 1854 usage of 'brain rot' by Henry David Thoreau (criticizing a decline in intellectual standards and materialism) with the 2024 modern usage (the deterioration of mental state due to overconsumption of trivial online content).",
+                "source_notes_used": [
+                    "n4",
+                    "n5",
+                    "n22"
+                ],
+                "rationale": "The notes provide two distinct entities (Thoreau's 1854 usage and modern usage) and one clear, overarching point of contrast: the source of the mental decline."
+            },
+            {
+                "widget_type": "stepper",
+                "widget_context": "Create a timeline of the term 'brain rot's usage and popularity increase over time, including: 1. 1854 (Walden by Henry David Thoreau), 2. 2007 (Twitter users describing dating game shows, video games, and 'hanging out online'), 3. 2010s (increase in online usage), 4. 2020 (spiking in popularity on Discord as an Internet meme), 5. 2023-2024 (Oxford reported 230% increase in frequency).",
+                "source_notes_used": [
+                    "n4",
+                    "n8",
+                    "n9",
+                    "n10"
+                ],
+                "rationale": "The notes provide a clear chronological sequence of the term's evolution and usage spikes across different eras."
+            },
+            {
+                "widget_type": "branching_tree",
+                "widget_context": "Root concept: 'Brain rot' slang terms. Branches: 'skibidi' (referencing Skibidi Toilet), 'rizz' (charisma), 'gyatt' (buttocks), 'fanum tax' (taking food from another's meal), and 'sigma' (solitary, masculine men).",
+                "source_notes_used": [
+                    "n12"
+                ],
+                "rationale": "The note explicitly lists several named conceptual branches (slang terms) stemming from the root concept of 'brain rot' speech patterns."
+            },
+            {
+                "widget_type": "causal_chain",
+                "widget_context": "Trigger: Excessive or disordered use of digital and social media (short-form entertainment, AI-generated content, doomscrolling). Mechanism: Harmful cognitive effects. Outcome: 'Brain rot' (deterioration of mental or intellectual state).",
+                "source_notes_used": [
+                    "n2",
+                    "n22"
+                ],
+                "rationale": "The notes describe a clear cause-and-effect relationship where excessive media use triggers cognitive decline leading to the state of 'brain rot'."
+            },
+            {
+                "widget_type": "synthesis",
+                "widget_context": "Input A: Business models of major social media platforms (relying on user attention). Input B: Creators' desire to monetize low-quality material for profit (increasingly using generative AI). Result: Popularization of 'brainrot' content.",
+                "source_notes_used": [
+                    "n15"
+                ],
+                "rationale": "The notes explicitly state that supply-side factors (platform business models and creator monetization) combine to create the result of popularized 'brainrot' content."
+            },
+            {
+                "widget_type": "jargon_buster",
+                "widget_context": "Define 'brain rot' using the definition provided by Oxford University Press.",
+                "source_notes_used": [
+                    "n22"
+                ],
+                "rationale": "The note provides a formal, explicit definition of the term 'brain rot' from a reputable source."
+            },
+            {
+                "widget_type": "quote_block",
+                "widget_context": "Provide the direct quote from Henry David Thoreau: 'While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?'",
+                "source_notes_used": [
+                    "n6"
+                ],
+                "rationale": "The note provides an explicit speaker and a direct, impactful quote."
+            },
+            {
+                "widget_type": "itemized_breakdown",
+                "widget_context": "List the typical features of 'brain rot' content as identified by Alexander Serenko: emotional intensity, brevity, familiar characters, references to cultural or societal themes, and ease of understanding.",
+                "source_notes_used": [
+                    "n16"
+                ],
+                "rationale": "The note provides a list of descriptive features (bullets) sharing a common context."
+            },
+            {
+                "widget_type": "itemized_breakdown",
+                "widget_context": "List the prevention techniques suggested by the Newport Institute: limiting screen time, deleting distracting apps from your phone, and turning off unnecessary notifications.",
+                "source_notes_used": [
+                    "n18"
+                ],
+                "rationale": "this note provides a list of 3 specific, related actions for prevention."
+            },
+            {
+                "widget_type": "itemized_breakdown",
+                "widget_context": "List other suggested responses to brain rot: resilience training, AI literacy, and regular mental health assessments.",
+                "source_notes_used": [
+                    "n19"
+                ],
+                "rationale": "this note provides a list of 3 related concepts for addressing brain rot."
+            },
+            {
+                "widget_type": "accordion",
+                "widget_context": "Group the historical precursors to the concept of 'brain rot' mentioned by Josh Abbey: William Wordsworth (criticism of 'frantic novels' in 1800), Virginia Woolf (criticism of film and television in the 20th century), and Aldous Huxley (criticism of film and television in the 20th century).",
+                "source_notes_used": [
+                    "n13"
+                ],
+                "rationale": "This provides a list of parallel, related historical examples that serve as secondary deep-dives into the concept's history."
+            }
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that in 2024, 'brain rot' was named Oxford Dictionary's 'Word of the Year'.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "This is a highly specific, pivotal event/date that serves as a distinct conceptual takeaway."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that by 2024, an estimated 79 percent of the world's population of 15-24 year olds used the internet.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "This is a precise statistic regarding the demographic most associated with the term."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following individuals and their roles in the context of 'brain rot': Henry David Thoreau, Josh Abbey, Gunseli Yalcinkaya, Alexander Serenko, Professor Dr. Sri Lestari, Sian Boyle, Facundo Macchi, Fatima Payman, and Pope Francis.",
+            "source_notes_used": [
+                "n4",
+                "n5",
+                "n13",
+                "n14",
+                "n15",
+                "n20",
+                "n23",
+                "n24",
+                "n25",
+                "n27"
+            ],
+            "rationale": "The notes provide a diverse set of distinct people with specific, unique roles and contributions to the discourse on 'brain rot'."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the 1854 usage of 'brain rot' by Henry David Thoreau (criticizing a decline in intellectual standards and materialism) with the 2024 modern usage (the deterioration of mental state due to overconsumption of trivial online content).",
+            "source_notes_used": [
+                "n4",
+                "n5",
+                "n22"
+            ],
+            "rationale": "The notes provide two distinct entities (Thoreau's 1854 usage and modern usage) and one clear, overarching point of contrast: the source of the mental decline."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a timeline of the term 'brain rot's usage and popularity increase over time, including: 1. 1854 (Walden by Henry David Thoreau), 2. 2007 (Twitter users describing dating game shows, video games, and 'hanging out online'), 3. 2010s (increase in online usage), 4. 2020 (spiking in popularity on Discord as an Internet meme), 5. 2023-2024 (Oxford reported 230% increase in frequency).",
+            "source_notes_used": [
+                "n4",
+                "n8",
+                "n9",
+                "n10"
+            ],
+            "rationale": "The notes provide a clear chronological sequence of the term's evolution and usage spikes across different eras."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: 'Brain rot' slang terms. Branches: 'skibidi' (referencing Skibidi Toilet), 'rizz' (charisma), 'gyatt' (buttocks), 'fanum tax' (taking food from another's meal), and 'sigma' (solitary, masculine men).",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "The note explicitly lists several named conceptual branches (slang terms) stemming from the root concept of 'brain rot' speech patterns."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Trigger: Excessive or disordered use of digital and social media (short-form entertainment, AI-generated content, doomscrolling). Mechanism: Harmful cognitive effects. Outcome: 'Brain rot' (deterioration of mental or intellectual state).",
+            "source_notes_used": [
+                "n2",
+                "n22"
+            ],
+            "rationale": "The notes describe a clear cause-and-effect relationship where excessive media use triggers cognitive decline leading to the state of 'brain rot'."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Input A: Business models of major social media platforms (relying on user attention). Input B: Creators' desire to monetize low-quality material for profit (increasingly using generative AI). Result: Popularization of 'brainrot' content.",
+            "source_notes_used": [
+                "n15"
+            ],
+            "rationale": "The notes explicitly state that supply-side factors (platform business models and creator monetization) combine to create the result of popularized 'brainrot' content."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'brain rot' using the definition provided by Oxford University Press.",
+            "source_notes_used": [
+                "n22"
+            ],
+            "rationale": "The note provides a formal, explicit definition of the term 'brain rot' from a reputable source."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Provide the direct quote from Henry David Thoreau: 'While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?'",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides an explicit speaker and a direct, impactful quote."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the typical features of 'brain rot' content as identified by Alexander Serenko: emotional intensity, brevity, familiar characters, references to cultural or societal themes, and ease of understanding.",
+            "source_notes_used": [
+                "n16"
+            ],
+            "rationale": "The note provides a list of descriptive features (bullets) sharing a common context."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the prevention techniques suggested by the Newport Institute: limiting screen time, deleting distracting apps from your phone, and turning off unnecessary notifications.",
+            "source_notes_used": [
+                "n18"
+            ],
+            "rationale": "this note provides a list of 3 specific, related actions for prevention."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List other suggested responses to brain rot: resilience training, AI literacy, and regular mental health assessments.",
+            "source_notes_used": [
+                "n19"
+            ],
+            "rationale": "this note provides a list of 3 related concepts for addressing brain rot."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Group the historical precursors to the concept of 'brain rot' mentioned by Josh Abbey: William Wordsworth (criticism of 'frantic novels' in 1800), Virginia Woolf (criticism of film and television in the 20th century), and Aldous Huxley (criticism of film and television in the 20th century).",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "This provides a list of parallel, related historical examples that serve as secondary deep-dives into the concept's history."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_Brainrot_w0",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🧠",
+                "short_title": "2024",
+                "expanded_detail": "The term 'brain rot' was named Oxford Dictionary's Word of the Year in 2024. This recognition reflects the term's transition from social media usage by Generation Z and Alpha into mainstream language.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w1",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🌐",
+                "short_title": "79% Internet Usage",
+                "expanded_detail": "By 2024, an estimated 79 percent of the world's population of 15-24 year olds used the internet. This statistic underscores the deep immersion of younger generations in online culture.",
+                "display_style": "editorial_callout"
+            },
+            "source_notes_consumed": [
+                "n11"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w2",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Brain Rot: Key Perspectives",
+                "intro_text": "A diverse group of thinkers, academics, and public figures have analyzed the origins and societal impacts of 'brain rot'.",
+                "entities": [
+                    {
+                        "name": "Henry David Thoreau",
+                        "role": "Original Author",
+                        "description": "Wrote the 1854 book Walden, where he first recorded the term to argue that preferring trivial ideas could weaken the mind."
+                    },
+                    {
+                        "name": "Alexander Serenko",
+                        "role": "Academic Analyst",
+                        "description": "Attributes the popularization of brainrot content to supply and demand factors, including social media business models and user psychological preferences."
+                    },
+                    {
+                        "name": "Professor Dr. Sri Lestari",
+                        "role": "Higher Education Expert",
+                        "description": "Recommended reducing screen time and instilling self-control at a young age to respond to brain rot."
+                    },
+                    {
+                        "name": "Pope Francis",
+                        "role": "Head of the Catholic Church",
+                        "description": "Urged people to reduce social media use and avoid 'putrefazione cerebrale' during the 2025 Jubilee of the World of Communications."
+                    }
+                ],
+                "entity_type": "people"
+            },
+            "source_notes_consumed": [
+                "n4",
+                "n5",
+                "n13",
+                "n14",
+                "n15",
+                "n20",
+                "n23",
+                "n24",
+                "n25",
+                "n27"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w3",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "1854 usage of 'brain rot'",
+                "entity_b": "2024 modern usage of 'brain rot'",
+                "distinction": "While Henry David Thoreau used the term to criticize a decline in intellectual standards and materialism, the modern usage refers to the deterioration of a person's mental state resulting from the overconsumption of trivial online content."
+            },
+            "source_notes_consumed": [
+                "n4",
+                "n5",
+                "n22"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w4",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "Evolution of the Term 'Brain Rot'",
+                "intro_text": "A timeline of how the phrase 'brain rot' has transitioned from 19th-century literary criticism to a modern internet meme.",
+                "steps": [
+                    "1854: First recorded use in Henry David Thoreau's book Walden.",
+                    "2007: Twitter users apply the term to video games, dating game shows, and 'hanging out online'.",
+                    "2010s: The phrase sees an increase in usage across the internet.",
+                    "2020: The term spikes in popularity on Discord as an internet meme.",
+                    "2023-2024: Oxford reports a 230% increase in the frequency of the term's usage."
+                ]
+            },
+            "source_notes_consumed": [
+                "n4",
+                "n8",
+                "n9",
+                "n10"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w5",
+            "block_type": "branching_tree",
+            "branching_tree_data": {
+                "title": "Brain Rot Slang Terms",
+                "intro_text": "The term brain rot is associated with the tendency for young people to use specific Internet references in their speech.",
+                "root": "Brain rot",
+                "branches": [
+                    {
+                        "label": "skibidi",
+                        "emoji": "🚽",
+                        "definition": "Referencing Skibidi Toilet"
+                    },
+                    {
+                        "label": "rizz",
+                        "emoji": "✨",
+                        "definition": "Charisma"
+                    },
+                    {
+                        "label": "gyatt",
+                        "emoji": "🍑",
+                        "definition": "Buttocks"
+                    },
+                    {
+                        "label": "fanum tax",
+                        "emoji": "🍕",
+                        "definition": "Taking food from another's meal"
+                    },
+                    {
+                        "label": "sigma",
+                        "emoji": "🗿",
+                        "definition": "Solitary, masculine men"
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n12"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w6",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "Excessive or disordered use of digital and social media, specifically short-form entertainment, AI-generated content, and doomscrolling",
+                "mechanism": "Harmful cognitive effects",
+                "outcome": "Brain rot, defined as the deterioration of a person's mental or intellectual state"
+            },
+            "source_notes_consumed": [
+                "n2",
+                "n22"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w7",
+            "block_type": "synthesis",
+            "synthesis_data": {
+                "element_a": "Business models of major social media platforms that rely on maintaining user attention",
+                "element_b": "Creators' desire to monetize low-quality material for profit, increasingly relying on generative AI",
+                "result": "Popularization of 'brainrot' content",
+                "context_text": "Alexander Serenko attributes the popularization of brainrot content to supply-side factors, combining the attention-based business models of social media platforms with the creators' drive to profit from low-quality, AI-assisted material."
+            },
+            "source_notes_consumed": [
+                "n15"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w8",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "brain rot",
+                "definition": "The supposed deterioration of a person's mental or intellectual state, especially viewed as the result of overconsumption of material, particularly online content, considered to be trivial or unchallenging."
+            },
+            "source_notes_consumed": [
+                "n22"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w9",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Henry David Thoreau",
+                "quote": "While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?",
+                "context": "Thoreau used this phrase in his 1854 book Walden to criticize a decline in intellectual standards by comparing it to the potato blight in 1840s Europe."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w10",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Features of Brain Rot Content",
+                "context_text": "Alexander Serenko identifies several typical characteristics associated with content categorized as 'brain rot'.",
+                "items": [
+                    "Emotional intensity",
+                    "Brevity",
+                    "Familiar characters",
+                    "References to cultural or societal themes",
+                    "Ease of understanding"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n16"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w11",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Prevention Techniques",
+                "context_text": "The Newport Institute, an organization providing resources for young adults, suggests several methods to prevent the effects of brain rot.",
+                "items": [
+                    "Limiting screen time",
+                    "Deleting distracting apps from your phone",
+                    "Turning off unnecessary notifications"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n18"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w12",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Suggested Responses to Brain Rot",
+                "context_text": "Beyond limiting screen time and app usage, various experts and organizations have proposed additional strategies to address the effects of brain rot.",
+                "items": [
+                    "Resilience training",
+                    "AI literacy",
+                    "Regular mental health assessments"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n19"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_Brainrot_w13",
+            "block_type": "accordion",
+            "accordion_data": {
+                "items": [
+                    {
+                        "header": "William Wordsworth",
+                        "hidden_text": "In 1800, Wordsworth criticized what he termed as \"frantic novels\"."
+                    },
+                    {
+                        "header": "Virginia Woolf",
+                        "hidden_text": "During the 20th century, Woolf expressed criticism regarding film and television."
+                    },
+                    {
+                        "header": "Aldous Huxley",
+                        "hidden_text": "During the 20th century, Huxley also criticized film and television."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n13"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Phenomenon of Brain Rot",
+        "cards": [
+            {
+                "card_title": "The Digital Decay",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduction to the concept of brain rot as a modern digital phenomenon.",
+                        "text_content": "In the modern era of endless scrolling, a new term has captured the same anxiety we feel about our attention spans. **Brain rot** is used to describe digital media of low quality or value, and more broadly, the harmful cognitive effects associated with the excessive use of social media, AI-generated content, and the habit of *doomscrolling*."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon buster provides a formal definition of the term as defined by Oxford University Press.",
+                        "widget_id": "prebuilt_Brainrot_w8"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the term's popularity and its recognition by linguistic experts.",
+                        "text_content": "What started as a niche internet meme among **Generation Z** and **Generation Alpha**, has rapidly transitioned into the mainstream. This cultural shift was officially recognized by linguistic experts in 2024."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight badge highlights the term's status as Oxford's Word of the Year.",
+                        "widget_id": "prebuilt_Brainrot_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the cause-and-effect relationship of brain rot.",
+                        "text_content": "But how does this digital consumption actually lead to what we call 'rot'?"
+                    }
+                ]
+            },
+            {
+                "card_title": "The Mechanics of Decay",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the cognitive process of brain rot.",
+                        "text_content": "The process is often viewed as a causal chain: the overconsumption of short-form entertainment and AI-generated 'slop' creates a cognitive load that the mind cannot sustain, leading to a perceived deterioration of intellectual state."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The causal chain widget visually represents the trigger, mechanism, and outcome of brain rot.",
+                        "widget_id": "prebuilt_Brainrot_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Connecting the cognitive effects to the broader digital landscape for young people.",
+                        "text_content": "This phenomenon is particularly concerning for younger generations, who have been immersed in online culture from birth. The scale of this immersion is staggering."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight badge provides the statistic on internet usage among 15-24 year olds.",
+                        "widget_id": "prebuilt_Brainrot_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the specific linguistic markers of brain rot.",
+                        "text_content": "This immersion has not only affected cognitive function, but has also fundamentally altered the way young people speak."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Language of the Void",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing the specific slang terms associated with brain rot.",
+                        "text_content": "For many, 'brain rot' is identified by a specific lexicon of internet references. Terms like *skibidi*, *rizz*, and *sigma* have moved from the depths of the internet into the daily speech of **Generation Alpha**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The branching tree widget lists the specific slang terms associated with brain rot.",
+                        "widget_id": "prebuilt_Brainrot_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the historical context of the term's usage.",
+                        "text_content": "While these terms feel like a symptom of a modern crisis, the idea of 'brain rot' is far from new. The phrase itself has a surprising literary history."
+                    }
+                ]
+            },
+            {
+                "card_title": "A Literary Legacy",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introducing Henry David Thoreau's use of the term.",
+                        "text_content": "Long before the first smartphone, **Henry David Thoreau** used the term 'brain rot' in his 1854 book *Walden*. He wasn't criticizing TikTok, but rather the materialism and preference for trivial ideas that he believed weakened the mind."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The quote block provides the direct quote from Thoreau's Walden.",
+                        "widget_id": "prebuilt_Brainrot_w9"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Comparing Thoreau's 19th-century view with the modern view.",
+                        "text_content": "Thoreau's concern was a decline in intellectual standards, which he compared to the potato blight of the 1840s. This creates a fascinating contrast between the 19th-century's intellectual decay and our own digital decay."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The versus widget compares the 1854 and 2024 usages of the term.",
+                        "widget_id": "prebuilt_Brainrot_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the timeline of the term's evolution.",
+                        "text_content": "Between Thoreau and the modern era, the term evolved through several stages of online usage."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Evolution of a Meme",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the timeline of the term's usage.",
+                        "text_content": "The term 'brain rot' resurfaced in 2007 on Twitter, used to describe dating game shows and 'hanging out online'. It then grew in popularity on Discord in 2020, eventually becoming a full-blown internet meme."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The stepper widget shows the timeline of the term's evolution.",
+                        "widget_id": "prebuilt_Brainrot_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the analysis of why this content is popular.",
+                        "text_content": "But why is this low-quality content so addictive? Experts like **Alexander Serenko** have analyzed the supply and demand factors at play."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Attention Economy",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explaining the supply-side factors of brain rot content.",
+                        "text_content": "The rise of 'brain rot' content is not an accident. It is the result of a perfect storm of business models that prioritize user attention over quality, and creators who use generative AI to mass-produce low-quality material for profit."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The synthesis widget explains the combination of platform business models and AI-generated content.",
+                        "widget_id": "prebuilt_Brainrot_w7"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": " "
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The itemized breakdown widget lists the typical features of brain rot content.",
+                        "widget_id": "prebuilt_Brainrot_w10"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the mental health implications of this content.",
+                        "text_content": "This design is specifically engineered to trigger psychological preferences for low-effort, repetitive, and rewarding activities, which leads to problematic usage patterns."
+                    }
+                ]
+            },
+            {
+                "card_title": "Cognitive Consequences",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the mental health effects of brain rot.",
+                        "text_content": "Educational psychologists and mental health organizations have begun to treat 'brain rot' as a serious cognitive issue. Research suggests that excessive exposure to this material can lead to emotional desensitization, cognitive overload, and a negative self-concept."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the link to memory and attention.",
+                        "text_content": "Journalists like **Sian Boyle** and **Facundo Macchi** have highlighted scholarship that links excessive screen use and 'junk content' to reduced memory capacity and shortened attention spans."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the prevention techniques.",
+                        "text_content": "To combat this, various organizations have provided a set of practical prevention techniques."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The itemized breakdown widget lists the prevention techniques from the Newport Institute.",
+                        "widget_id": "prebuilt_Brainrot_w11"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the more systemic responses to brain rot.",
+                        "text_content": " "
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The itemized breakdown widget lists the suggested responses from higher education and other experts.",
+                        "widget_id": "prebuilt_Brainrot_w12"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "text",
+                        "text_content": "While these interventions are recommended, the term 'brain rot' is now so pervasive that it has reached the highest levels of global leadership."
+                    }
+                ]
+            },
+            {
+                "card_title": "From Parliament to the Papacy",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing the influence of the term in politics and religion.",
+                        "text_content": "The term has leaked into the same spaces where it is traditionally avoided. In Australia, Senator **Fatima Payman** used Generation Alpha slang in a parliamentary speech to address the youth, calling for a 'more goated Australia' with 'more aura'. This was labeled by some as an example of 'brain rot' in the same halls of government."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discussing Pope Francis's use of the term.",
+                        "text_content": "Even **Pope Francis** has weighed in, urging people to avoid *putrefazione cerebrale*—the Italian translation of brain rot—during the 2025 Jubilee of the World of Communications."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": " "
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity profiles widget provides a summary of the key figures who have analyzed or used the term.",
+                        "widget_id": "prebuilt_Brainrot_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Closing the module with a different perspective on the term's usage among youth.",
+                        "text_content": "However, not all see 'brain rot' as a purely negative phenomenon. Some researchers argue that using deliberately non-productive messaging is a way for young people to resist the pressures of productivity and self-optimization in a world that demands constant performance."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Phenomenon of Brain Rot",
+        "module_description": "Explore the evolution of 'brain rot' from a 19th-century literary critique to a modern digital epidemic of low-quality content.",
+        "alternative_descriptions": [
+            "Dive into the digital decay: how endless scrolling and AI-generated 'slop' are reshaping the human mind.",
+            "From Thoreau's Walden to TikTok's skibidi, discover why our attention spans are shrinking in the attention economy.",
+            "Is your mind rotting? Uncover the mechanics of digital consumption and the global fight against cognitive overload."
+        ],
+        "tags": [
+            "Brain Rot",
+            "Attention Economy",
+            "Digital Consumption",
+            "Cognitive Load",
+            "Internet Culture"
+        ],
+        "loading_screen_trivia": "The term 'brain rot' was named Oxford Dictionary's Word of the Year in 2024.",
+        "timeline": [
+            {
+                "year": "1854",
+                "event": "Thoreau first records 'brain rot'.",
+                "related_card_id": 4
+            },
+            {
+                "year": "2007",
+                "event": "Twitter users apply term online.",
+                "related_card_id": 5
+            },
+            {
+                "year": "2020",
+                "event": "Term spikes popularity on Discord.",
+                "related_card_id": 5
+            },
+            {
+                "year": "2024",
+                "event": "Oxford names it Word of the Year.",
+                "related_card_id": 1
+            },
+            {
+                "year": "2025",
+                "event": "Pope Francis warns against brain rot.",
+                "related_card_id": 8
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Henry David Thoreau",
+                "emoji_avatar": "📚",
+                "historical_role": "Original Author",
+                "core_contribution": "Used the term in 1854 to criticize materialism and trivial ideas."
+            },
+            {
+                "name": "Alexander Serenko",
+                "emoji_avatar": "🎓",
+                "historical_role": "Academic Analyst",
+                "core_contribution": "Analyzed how social media business models and AI drive brain rot content."
+            },
+            {
+                "name": "Professor Dr. Sri Lestari",
+                "emoji_avatar": "🏫",
+                "historical_role": "Higher Education Expert",
+                "core_contribution": "Recommended reducing screen time and instilling self-control in youth."
+            },
+            {
+                "name": "Pope Francis",
+                "emoji_avatar": "⛪",
+                "historical_role": "Head of the Catholic Church",
+                "core_contribution": "Urged people to avoid 'putrefazione cerebrale' during the 2025 Jubilee."
+            },
+            {
+                "name": "Fatima Payman",
+                "emoji_avatar": "🏛️",
+                "historical_role": "Australian Senator",
+                "core_contribution": "Used Generation Alpha slang in a parliamentary speech to address youth."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The study of brain rot highlights the critical need for AI literacy and digital wellness to combat reduced memory capacity and shortened attention spans in the modern era."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "The Digital Decay",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "In the modern era of endless scrolling, a new term has captured the same anxiety we feel about our attention spans. **Brain rot** is used to describe digital media of low quality or value, and more broadly, the harmful cognitive effects associated with the excessive use of social media, AI-generated content, and the habit of *doomscrolling*."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w8",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "brain rot",
+                            "definition": "The supposed deterioration of a person's mental or intellectual state, especially viewed as the result of overconsumption of material, particularly online content, considered to be trivial or unchallenging."
+                        },
+                        "source_notes_consumed": [
+                            "n22"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "What started as a niche internet meme among **Generation Z** and **Generation Alpha**, has rapidly transitioned into the mainstream. This cultural shift was officially recognized by linguistic experts in 2024."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w0",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🧠",
+                            "short_title": "2024",
+                            "expanded_detail": "The term 'brain rot' was named Oxford Dictionary's Word of the Year in 2024. This recognition reflects the term's transition from social media usage by Generation Z and Alpha into mainstream language.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_1_block_3"
+                    },
+                    {
+                        "block_id": "card_1_block_4",
+                        "block_type": "text",
+                        "text_content": "But how does this digital consumption actually lead to what we call 'rot'?"
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "The Mechanics of Decay",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "The process is often viewed as a causal chain: the overconsumption of short-form entertainment and AI-generated 'slop' creates a cognitive load that the mind cannot sustain, leading to a perceived deterioration of intellectual state."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w6",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "Excessive or disordered use of digital and social media, specifically short-form entertainment, AI-generated content, and doomscrolling",
+                            "mechanism": "Harmful cognitive effects",
+                            "outcome": "Brain rot, defined as the deterioration of a person's mental or intellectual state"
+                        },
+                        "source_notes_consumed": [
+                            "n2",
+                            "n22"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This phenomenon is particularly concerning for younger generations, who have been immersed in online culture from birth. The scale of this immersion is staggering."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w1",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🌐",
+                            "short_title": "79% Internet Usage",
+                            "expanded_detail": "By 2024, an estimated 79 percent of the world's population of 15-24 year olds used the internet. This statistic underscores the deep immersion of younger generations in online culture.",
+                            "display_style": "editorial_callout"
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_2_block_3"
+                    },
+                    {
+                        "block_id": "card_2_block_4",
+                        "block_type": "text",
+                        "text_content": "This immersion has not only affected cognitive function, but has also fundamentally altered the way young people speak."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "The Language of the Void",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "For many, 'brain rot' is identified by a specific lexicon of internet references. Terms like *skibidi*, *rizz*, and *sigma* have moved from the depths of the internet into the daily speech of **Generation Alpha**."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w5",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Brain Rot Slang Terms",
+                            "intro_text": "The term brain rot is associated with the tendency for young people to use specific Internet references in their speech.",
+                            "root": "Brain rot",
+                            "branches": [
+                                {
+                                    "label": "skibidi",
+                                    "emoji": "🚽",
+                                    "definition": "Referencing Skibidi Toilet"
+                                },
+                                {
+                                    "label": "rizz",
+                                    "emoji": "✨",
+                                    "definition": "Charisma"
+                                },
+                                {
+                                    "label": "gyatt",
+                                    "emoji": "🍑",
+                                    "definition": "Buttocks"
+                                },
+                                {
+                                    "label": "fanum tax",
+                                    "emoji": "🍕",
+                                    "definition": "Taking food from another's meal"
+                                },
+                                {
+                                    "label": "sigma",
+                                    "emoji": "🗿",
+                                    "definition": "Solitary, masculine men"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n12"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "While these terms feel like a symptom of a modern crisis, the idea of 'brain rot' is far from new. The phrase itself has a surprising literary history."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "A Literary Legacy",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Long before the first smartphone, **Henry David Thoreau** used the term 'brain rot' in his 1854 book *Walden*. He wasn't criticizing TikTok, but rather the materialism and preference for trivial ideas that he believed weakened the mind."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w9",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Henry David Thoreau",
+                            "quote": "While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?",
+                            "context": "Thoreau used this phrase in his 1854 book Walden to criticize a decline in intellectual standards by comparing it to the potato blight in 1840s Europe."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "Thoreau's concern was a decline in intellectual standards, which he compared to the potato blight of the 1840s. This creates a fascinating contrast between the 19th-century's intellectual decay and our own digital decay."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w3",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "1854 usage of 'brain rot'",
+                            "entity_b": "2024 modern usage of 'brain rot'",
+                            "distinction": "While Henry David Thoreau used the term to criticize a decline in intellectual standards and materialism, the modern usage refers to the deterioration of a person's mental state resulting from the overconsumption of trivial online content."
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n5",
+                            "n22"
+                        ],
+                        "block_id": "card_4_block_3"
+                    },
+                    {
+                        "block_id": "card_4_block_4",
+                        "block_type": "text",
+                        "text_content": "Between Thoreau and the modern era, the term evolved through several stages of online usage."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "The Evolution of a Meme",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "The term 'brain rot' resurfaced in 2007 on Twitter, used to describe dating game shows and 'hanging out online'. It then grew in popularity on Discord in 2020, eventually becoming a full-blown internet meme."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w4",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Evolution of the Term 'Brain Rot'",
+                            "intro_text": "A timeline of how the phrase 'brain rot' has transitioned from 19th-century literary criticism to a modern internet meme.",
+                            "steps": [
+                                "1854: First recorded use in Henry David Thoreau's book Walden.",
+                                "2007: Twitter users apply the term to video games, dating game shows, and 'hanging out online'.",
+                                "2010s: The phrase sees an increase in usage across the internet.",
+                                "2020: The term spikes in popularity on Discord as an internet meme.",
+                                "2023-2024: Oxford reports a 230% increase in the frequency of the term's usage."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n8",
+                            "n9",
+                            "n10"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "But why is this low-quality content so addictive? Experts like **Alexander Serenko** have analyzed the supply and demand factors at play."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "The Attention Economy",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "The rise of 'brain rot' content is not an accident. It is the result of a perfect storm of business models that prioritize user attention over quality, and creators who use generative AI to mass-produce low-quality material for profit."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w7",
+                        "block_type": "synthesis",
+                        "synthesis_data": {
+                            "element_a": "Business models of major social media platforms that rely on maintaining user attention",
+                            "element_b": "Creators' desire to monetize low-quality material for profit, increasingly relying on generative AI",
+                            "result": "Popularization of 'brainrot' content",
+                            "context_text": "Alexander Serenko attributes the popularization of brainrot content to supply-side factors, combining the attention-based business models of social media platforms with the creators' drive to profit from low-quality, AI-assisted material."
+                        },
+                        "source_notes_consumed": [
+                            "n15"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": null
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w10",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Features of Brain Rot Content",
+                            "context_text": "Alexander Serenko identifies several typical characteristics associated with content categorized as 'brain rot'.",
+                            "items": [
+                                "Emotional intensity",
+                                "Brevity",
+                                "Familiar characters",
+                                "References to cultural or societal themes",
+                                "Ease of understanding"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n16"
+                        ],
+                        "block_id": "card_6_block_3"
+                    },
+                    {
+                        "block_id": "card_6_block_4",
+                        "block_type": "text",
+                        "text_content": "This design is specifically engineered to trigger psychological preferences for low-effort, repetitive, and rewarding activities, which leads to problematic usage patterns."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "Cognitive Consequences",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "Educational psychologists and mental health organizations have begun to treat 'brain rot' as a serious cognitive issue. Research suggests that excessive exposure to this material can lead to emotional desensitization, cognitive overload, and a negative self-concept."
+                    },
+                    {
+                        "block_id": "card_7_block_1",
+                        "block_type": "text",
+                        "text_content": "Journalists like **Sian Boyle** and **Facundo Macchi** have highlighted scholarship that links excessive screen use and 'junk content' to reduced memory capacity and shortened attention spans."
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "To combat this, various organizations have provided a set of practical prevention techniques."
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w11",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Prevention Techniques",
+                            "context_text": "The Newport Institute, an organization providing resources for young adults, suggests several methods to prevent the effects of brain rot.",
+                            "items": [
+                                "Limiting screen time",
+                                "Deleting distracting apps from your phone",
+                                "Turning off unnecessary notifications"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n18"
+                        ],
+                        "block_id": "card_7_block_3"
+                    },
+                    {
+                        "block_id": "card_7_block_4",
+                        "block_type": "text",
+                        "text_content": " "
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w12",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Suggested Responses to Brain Rot",
+                            "context_text": "Beyond limiting screen time and app usage, various experts and organizations have proposed additional strategies to address the effects of brain rot.",
+                            "items": [
+                                "Resilience training",
+                                "AI literacy",
+                                "Regular mental health assessments"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n19"
+                        ],
+                        "block_id": "card_7_block_5"
+                    },
+                    {
+                        "block_id": "card_7_block_6",
+                        "block_type": "text",
+                        "text_content": "While these interventions are recommended, the term 'brain rot' is now so pervasive that it has reached the highest levels of global leadership."
+                    }
+                ]
+            },
+            {
+                "card_id": 8,
+                "order_index": 7,
+                "parent_topic": "Brain rot",
+                "created_at": "2026-05-19T20:15:57.270615+00:00",
+                "card_title": "From Parliament to the Papacy",
+                "blocks": [
+                    {
+                        "block_id": "card_8_block_0",
+                        "block_type": "text",
+                        "text_content": "The term has leaked into the same spaces where it is traditionally avoided. In Australia, Senator **Fatima Payman** used Generation Alpha slang in a parliamentary speech to address the youth, calling for a 'more goated Australia' with 'more aura'. This was labeled by some as an example of 'brain rot' in the same halls of government."
+                    },
+                    {
+                        "block_id": "card_8_block_1",
+                        "block_type": "text",
+                        "text_content": "Even **Pope Francis** has weighed in, urging people to avoid *putrefazione cerebrale*—the Italian translation of brain rot—during the 2025 Jubilee of the World of Communications."
+                    },
+                    {
+                        "block_id": "card_8_block_2",
+                        "block_type": "text",
+                        "text_content": null
+                    },
+                    {
+                        "widget_id": "prebuilt_Brainrot_w2",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Brain Rot: Key Perspectives",
+                            "intro_text": "A diverse group of thinkers, academics, and public figures have analyzed the origins and societal impacts of 'brain rot'.",
+                            "entities": [
+                                {
+                                    "name": "Henry David Thoreau",
+                                    "role": "Original Author",
+                                    "description": "Wrote the 1854 book Walden, where he first recorded the term to argue that preferring trivial ideas could weaken the mind."
+                                },
+                                {
+                                    "name": "Alexander Serenko",
+                                    "role": "Academic Analyst",
+                                    "description": "Attributes the popularization of brainrot content to supply and demand factors, including social media business models and user psychological preferences."
+                                },
+                                {
+                                    "name": "Professor Dr. Sri Lestari",
+                                    "role": "Higher Education Expert",
+                                    "description": "Recommended reducing screen time and instilling self-control at a young age to respond to brain rot."
+                                },
+                                {
+                                    "name": "Pope Francis",
+                                    "role": "Head of the Catholic Church",
+                                    "description": "Urged people to reduce social media use and avoid 'putrefazione cerebrale' during the 2025 Jubilee of the World of Communications."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n5",
+                            "n13",
+                            "n14",
+                            "n15",
+                            "n20",
+                            "n23",
+                            "n24",
+                            "n25",
+                            "n27"
+                        ],
+                        "block_id": "card_8_block_3"
+                    },
+                    {
+                        "block_id": "card_8_block_4",
+                        "block_type": "text",
+                        "text_content": "However, not all see 'brain rot' as a purely negative phenomenon. Some researchers argue that using deliberately non-productive messaging is a way for young people to resist the pressures of productivity and self-optimization in a world that demands constant performance."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "What is the modern definition of brain rot?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Mental deterioration",
+                    "isCorrect": true,
+                    "feedback": "Brain rot is the supposed deterioration of a mental state."
+                },
+                {
+                    "text": "Digital addiction",
+                    "isCorrect": false,
+                    "feedback": "Digital addiction is a behavior, not the state of deterioration."
+                },
+                {
+                    "text": "Memory loss",
+                    "isCorrect": false,
+                    "feedback": "Memory loss is a consequence, not the definition."
+                },
+                {
+                    "text": "Social isolation",
+                    "isCorrect": false,
+                    "feedback": "Social isolation is a lack of social contact."
+                },
+                {
+                    "text": "Cognitive overload",
+                    "isCorrect": false,
+                    "feedback": "Cognitive overload is a mechanism leading to rot."
+                },
+                {
+                    "text": "Attention deficit",
+                    "isCorrect": false,
+                    "feedback": "Attention deficit is a symptom of brain rot."
+                },
+                {
+                    "text": "Neural decay",
+                    "isCorrect": false,
+                    "feedback": "Neural decay refers to physical brain tissue loss."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Who first recorded the term brain rot in 1854?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Alexander Serenko",
+                    "isCorrect": false,
+                    "feedback": "Serenko is a modern academic analyst."
+                },
+                {
+                    "text": "Henry David Thoreau",
+                    "isCorrect": true,
+                    "feedback": "Thoreau used the term in his 1854 book Walden."
+                },
+                {
+                    "text": "Sian Boyle",
+                    "isCorrect": false,
+                    "feedback": "Boyle is a journalist who highlighted scholarship."
+                },
+                {
+                    "text": "Facundo Macchi",
+                    "isCorrect": false,
+                    "feedback": "Macchi is a journalist who reviewed scholarship."
+                },
+                {
+                    "text": "Pope Francis",
+                    "isCorrect": false,
+                    "feedback": "Pope Francis is the head of the Catholic Church."
+                },
+                {
+                    "text": "Sri Lestari",
+                    "isCorrect": false,
+                    "feedback": "Lestari is a higher education expert."
+                },
+                {
+                    "text": "Fatima Payman",
+                    "isCorrect": false,
+                    "feedback": "Payman is an Australian senator."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which dictionary named brain rot Word of the Year in 2024?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Merriam-Webster",
+                    "isCorrect": false,
+                    "feedback": "Merriam-Webster did not name it Word of the Year."
+                },
+                {
+                    "text": "Cambridge",
+                    "isCorrect": false,
+                    "feedback": "Cambridge did not name it Word of the Year."
+                },
+                {
+                    "text": "Oxford",
+                    "isCorrect": true,
+                    "feedback": "Oxford Dictionary named it Word of the Year in 2024."
+                },
+                {
+                    "text": "Collins",
+                    "isCorrect": false,
+                    "feedback": " "
+                },
+                {
+                    "text": "Webster's",
+                    "isCorrect": false,
+                    "feedback": "Webster's did not name it Word of the Year."
+                },
+                {
+                    "text": "American Heritage",
+                    "isCorrect": false,
+                    "feedback": "American Heritage did not name it Word of the Year."
+                },
+                {
+                    "text": "Macmillan",
+                    "isCorrect": false,
+                    "feedback": "Macmillan did not name it Word of the Year."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What slang term refers to charisma in brain rot lexicon?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Skibidi",
+                    "isCorrect": false,
+                    "feedback": "Skibidi references Skibidi Toilet."
+                },
+                {
+                    "text": "Sigma",
+                    "isCorrect": false,
+                    "feedback": "Sigma refers to solitary, masculine men."
+                },
+                {
+                    "text": "Rizz",
+                    "isCorrect": true,
+                    "feedback": "Rizz is the slang term for charisma."
+                },
+                {
+                    "text": "Gyatt",
+                    "isCorrect": false,
+                    "feedback": "Gyatt refers to buttocks."
+                },
+                {
+                    "text": "Fanum tax",
+                    "isCorrect": false,
+                    "feedback": "Fanum tax means taking food from meals."
+                },
+                {
+                    "text": "Aura",
+                    "isCorrect": false,
+                    "feedback": "Aura is a general quality of presence."
+                },
+                {
+                    "text": "Goated",
+                    "isCorrect": false,
+                    "feedback": "Goated means being the greatest of all time."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What percentage of 15-24 year olds used internet by 2024?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "59%",
+                    "isCorrect": false,
+                    "feedback": "59% is incorrect."
+                },
+                {
+                    "text": "69%",
+                    "isCorrect": false,
+                    "feedback": "69% is incorrect."
+                },
+                {
+                    "text": "79%",
+                    "isCorrect": true,
+                    "feedback": "An estimated 79 percent used the internet by 2024."
+                },
+                {
+                    "text": "89%",
+                    "isCorrect": false,
+                    "feedback": "89% is incorrect."
+                },
+                {
+                    "text": "99%",
+                    "isCorrect": false,
+                    "feedback": "99% is incorrect."
+                },
+                {
+                    "text": "49%",
+                    "isCorrect": false,
+                    "feedback": "49% is incorrect."
+                },
+                {
+                    "text": "39%",
+                    "isCorrect": false,
+                    "feedback": "39% is incorrect."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What did Thoreau compare brain rot to in 1854?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Potato blight",
+                    "isCorrect": true,
+                    "feedback": "Thoreau compared brain rot to the potato blight."
+                },
+                {
+                    "text": "Wheat rust",
+                    "isCorrect": false,
+                    "feedback": "Wheat rust was not mentioned."
+                },
+                {
+                    "text": "Corn smut",
+                    "isCorrect": false,
+                    "feedback": " "
+                },
+                {
+                    "text": "Apple rot",
+                    "isCorrect": false,
+                    "feedback": "Apple rot was not mentioned."
+                },
+                {
+                    "text": "Grape mildew",
+                    "isCorrect": false,
+                    "feedback": "Grape mildew was not mentioned."
+                },
+                {
+                    "text": "Rice blast",
+                    "isCorrect": false,
+                    "feedback": "Rice blast was not mentioned."
+                },
+                {
+                    "text": "Soybean rot",
+                    "isCorrect": false,
+                    "feedback": "Soybean rot was not mentioned."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which platform saw a popularity spike for brain rot in 2020?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Twitter",
+                    "isCorrect": false,
+                    "feedback": "Twitter users used it in 2007."
+                },
+                {
+                    "text": "Facebook",
+                    "isCorrect": false,
+                    "feedback": "Facebook was not the 2020 spike platform."
+                },
+                {
+                    "text": "Discord",
+                    "isCorrect": true,
+                    "feedback": "The term spiked in popularity on Discord in 2020."
+                },
+                {
+                    "text": "TikTok",
+                    "isCorrect": false,
+                    "feedback": "TikTok was not the 2020 spike platform."
+                },
+                {
+                    "text": "Instagram",
+                    "isCorrect": false,
+                    "feedback": "Instagram was not the 2020 spike platform."
+                },
+                {
+                    "text": "Reddit",
+                    "isCorrect": false,
+                    "feedback": "Reddit was not the 2020 spike platform."
+                },
+                {
+                    "text": "Snapchat",
+                    "isCorrect": false,
+                    "feedback": "Snapchat was not the 2020 spike platform."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the Italian translation of brain rot used by Pope Francis?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Mente rotto",
+                    "isCorrect": false,
+                    "feedback": "Mente rotto is not the translation."
+                },
+                {
+                    "text": "Cervello decay",
+                    "isCorrect": false,
+                    "feedback": "Cervello decay is not the translation."
+                },
+                {
+                    "text": "Putrefazione cerebrale",
+                    "isCorrect": true,
+                    "feedback": "Pope Francis used the term putrefazione cerebrale."
+                },
+                {
+                    "text": "Decadenza mentale",
+                    "isCorrect": false,
+                    "feedback": "Decadenza mentale is not the translation."
+                },
+                {
+                    "text": "Rovina cerebrale",
+                    "isCorrect": false,
+                    "feedback": "Rovina cerebrale is not the translation."
+                },
+                {
+                    "text": "Mente putrefatta",
+                    "isCorrect": false,
+                    "feedback": " "
+                },
+                {
+                    "text": "Cervello marcio",
+                    "isCorrect": false,
+                    "feedback": "Cervello marcio is not the translation."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Brain rot describes digital media of ____ quality or value.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "low",
+                    "isCorrect": true,
+                    "feedback": "Brain rot refers to low-quality or low-value digital media."
+                },
+                {
+                    "text": "high",
+                    "isCorrect": false,
+                    "feedback": "High-quality media is the opposite of brain rot."
+                },
+                {
+                    "text": "medium",
+                    "isCorrect": false,
+                    "feedback": "Brain rot specifically targets low-value content."
+                },
+                {
+                    "text": "variable",
+                    "isCorrect": false,
+                    "feedback": "The term describes consistently low-quality content."
+                },
+                {
+                    "text": "stable",
+                    "isCorrect": false,
+                    "feedback": "Brain rot refers to the decay of quality."
+                },
+                {
+                    "text": "complex",
+                    "isCorrect": false,
+                    "feedback": "Brain rot content is typically trivial and unchallenging."
+                },
+                {
+                    "text": "refined",
+                    "isCorrect": false,
+                    "feedback": "Refined content is the opposite of brain rot."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The term 'brain rot' was named Oxford's Word of the Year in ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2024",
+                    "isCorrect": true,
+                    "feedback": "Oxford named it Word of the Year in 2024."
+                },
+                {
+                    "text": "2020",
+                    "isCorrect": false,
+                    "feedback": "The term spiked in popularity on Discord in 2020."
+                },
+                {
+                    "text": "2007",
+                    "isCorrect": false,
+                    "feedback": "The term resurfaced on Twitter in 2007."
+                },
+                {
+                    "text": "2023",
+                    "isCorrect": false,
+                    "feedback": "Usage increased by 230% between 2023 and 2024."
+                },
+                {
+                    "text": "2025",
+                    "isCorrect": false,
+                    "feedback": "Pope Francis spoke against it in 2025."
+                },
+                {
+                    "text": "1854",
+                    "isCorrect": false,
+                    "feedback": "Thoreau first used the term in 1854."
+                },
+                {
+                    "text": "2010",
+                    "isCorrect": false,
+                    "feedback": "Usage increased across the internet in the 2010s."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Henry David Thoreau used 'brain rot' in his 1854 book ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Walden",
+                    "isCorrect": true,
+                    "feedback": "Thoreau used the term in his book Walden."
+                },
+                {
+                    "text": "Nature",
+                    "isCorrect": false,
+                    "feedback": "Nature is another Thoreau work, not where this term appears."
+                },
+                {
+                    "text": "The Void",
+                    "isCorrect": false,
+                    "feedback": "The Void is not a book by Thoreau."
+                },
+                {
+                    "text": "Digital Decay",
+                    "isCorrect": false,
+                    "feedback": "Digital Decay is a card title, not a Thoreau book."
+                },
+                {
+                    "text": "The Republic",
+                    "isCorrect": false,
+                    "feedback": "The Republic is not by Thoreau."
+                },
+                {
+                    "text": " Walden Pond",
+                    "isCorrect": false,
+                    "feedback": "The book is titled Walden."
+                },
+                {
+                    "text": "Civil Disobedience",
+                    "isCorrect": false,
+                    "feedback": "Civil Disobedience is not where the term was used."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In brain rot slang, the term ____ refers to charisma.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "rizz",
+                    "isCorrect": true,
+                    "feedback": "Rizz is the slang term for charisma."
+                },
+                {
+                    "text": "sigma",
+                    "isCorrect": false,
+                    "feedback": "Sigma refers to solitary, masculine men."
+                },
+                {
+                    "text": "skibidi",
+                    "isCorrect": false,
+                    "feedback": "Skibidi references Skibidi Toilet."
+                },
+                {
+                    "text": "gyatt",
+                    "isCorrect": false,
+                    "feedback": "Gyatt refers to buttocks."
+                },
+                {
+                    "text": "fanum tax",
+                    "isCorrect": false,
+                    "feedback": "Fanum tax means taking food."
+                },
+                {
+                    "text": "aura",
+                    "isCorrect": false,
+                    "feedback": "Aura is used by Senator Payman, but not defined as charisma."
+                },
+                {
+                    "text": "goated",
+                    "isCorrect": false,
+                    "feedback": "Goated is used by Senator Payman, but not defined as charisma."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "____ attributes brain rot's popularity to supply and demand factors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Alexander Serenko",
+                    "isCorrect": true,
+                    "feedback": "Serenko analyzed the supply and demand of brain rot."
+                },
+                {
+                    "text": "Sian Boyle",
+                    "isCorrect": false,
+                    "feedback": "Boyle highlighted links to reduced memory."
+                },
+                {
+                    "text": "Facundo Macchi",
+                    "isCorrect": false,
+                    "feedback": "Macchi linked junk content to attention spans."
+                },
+                {
+                    "text": "Henry David Thoreau",
+                    "isCorrect": false,
+                    "feedback": "Thoreau criticized 19th-century intellectual decay."
+                },
+                {
+                    "text": "Pope Francis",
+                    "isCorrect": false,
+                    "feedback": "Pope Francis urged avoiding putrefazione cerebrale."
+                },
+                {
+                    "text": "Fatima Payman",
+                    "isCorrect": false,
+                    "feedback": "Payman used slang in parliament."
+                },
+                {
+                    "text": "Sri Lestari",
+                    "isCorrect": false,
+                    "feedback": "Lestari recommended reducing screen time."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Italian translation of brain rot used by Pope Francis is ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "putrefazione cerebrale",
+                    "isCorrect": true,
+                    "feedback": "Pope Francis used the term putrefazione cerebrale."
+                },
+                {
+                    "text": "decadenza digitale",
+                    "isCorrect": false,
+                    "feedback": "This is not the Italian translation provided."
+                },
+                {
+                    "text": "morte mentale",
+                    "isCorrect": false,
+                    "feedback": "This is not the Italian translation provided."
+                },
+                {
+                    "text": "rottura cerebrale",
+                    "isCorrect": false,
+                    "feedback": "This is not the Italian translation provided."
+                },
+                {
+                    "text": "vuoto mentale",
+                    "isCorrect": false,
+                    "feedback": "This is not the Italian translation provided."
+                },
+                {
+                    "text": "slop digitale",
+                    "isCorrect": false,
+                    "feedback": "This is not the Italian translation provided."
+                },
+                {
+                    "text": "brain rot",
+                    "isCorrect": false,
+                    "feedback": "This is the English term."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ Institute suggests limiting screen time to prevent brain rot.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Newport",
+                    "isCorrect": true,
+                    "feedback": "The Newport Institute provides these prevention techniques."
+                },
+                {
+                    "text": "Oxford",
+                    "isCorrect": false,
+                    "feedback": "Oxford Dictionary recognized the term."
+                },
+                {
+                    "text": "Discord",
+                    "isCorrect": false,
+                    "feedback": "Discord is where the term spiked in 2020."
+                },
+                {
+                    "text": "Twitter",
+                    "isCorrect": false,
+                    "feedback": "Twitter is where the term resurfaced in 2007."
+                },
+                {
+                    "text": "Catholic",
+                    "isCorrect": false,
+                    "feedback": "The Catholic Church is led by Pope Francis."
+                },
+                {
+                    "text": "Serenko",
+                    "isCorrect": false,
+                    "feedback": "Serenko is an academic analyst."
+                },
+                {
+                    "text": "Lestari",
+                    "isCorrect": false,
+                    "feedback": "Lestari is a higher education expert."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Low quality, trivial content, harmful cognitive effects:",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Brain rot",
+                    "isCorrect": true,
+                    "feedback": "Brain rot describes low-quality digital media and its harmful cognitive effects."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop refers specifically to AI-generated content, not the cognitive effect."
+                },
+                {
+                    "text": "Doomscrolling",
+                    "isCorrect": false,
+                    "feedback": "Doomscrolling is a habit of consumption, not the cognitive state."
+                },
+                {
+                    "text": "Digital decay",
+                    "isCorrect": false,
+                    "feedback": "Digital decay is a title, not the defined term."
+                },
+                {
+                    "text": "Cognitive load",
+                    "isCorrect": false,
+                    "feedback": "Cognitive load is the mental effort used, not the content."
+                },
+                {
+                    "text": "Attention economy",
+                    "isCorrect": false,
+                    "feedback": "The attention economy is the business model, not the content."
+                },
+                {
+                    "text": "Algospeak",
+                    "isCorrect": false,
+                    "feedback": "Algospeak is obfuscated speech, not low-quality content."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "1854, Walden, materialism:",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Henry David Thoreau",
+                    "isCorrect": true,
+                    "feedback": "Thoreau used 'brain rot' in Walden to criticize materialism."
+                },
+                {
+                    "text": "Alexander Serenko",
+                    "isCorrect": false,
+                    "feedback": "Serenko is a modern academic analyst of brain rot."
+                },
+                {
+                    "text": "Sian Boyle",
+                    "isCorrect": false,
+                    "feedback": "Sian Boyle is a journalist who highlighted cognitive scholarship."
+                },
+                {
+                    "text": "Facundo Macchi",
+                    "isCorrect": false,
+                    "feedback": "Sian Boyle is a journalist who highlighted cognitive scholarship."
+                },
+                {
+                    "text": "Fatima Payman",
+                    "isCorrect": false,
+                    "feedback": "Fatima Payman is an Australian senator."
+                },
+                {
+                    "text": "Pope Francis",
+                    "isCorrect": false,
+                    "feedback": "Pope Francis is the head of the Catholic Church."
+                },
+                {
+                    "text": "Sri Lestari",
+                    "isCorrect": false,
+                    "feedback": "Sri Lestari is a higher education expert."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Charisma, solitary men, buttocks:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Brain rot slang",
+                    "isCorrect": true,
+                    "feedback": "Rizz, sigma, and gyatt are examples of brain rot slang."
+                },
+                {
+                    "text": "Algospeak",
+                    "isCorrect": false,
+                    "feedback": "Algospeak is used to bypass filters, not as general slang."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop is low-quality AI content."
+                },
+                {
+                    "text": "Digital decay",
+                    "isCorrect": false,
+                    "feedback": "Digital decay is a title, not a category of speech."
+                },
+                {
+                    "text": "Mainstream language",
+                    "isCorrect": false,
+                    "feedback": "Mainstream language is the broader category, not the specific slang."
+                },
+                {
+                    "text": "Literary legacy",
+                    "isCorrect": false,
+                    "feedback": "Literary legacy refers to the historical use of the term."
+                },
+                {
+                    "text": "Cognitive load",
+                    "isCorrect": false,
+                    "feedback": "Cognitive load is the mental effort required for processing."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Emotional intensity, brevity, ease of understanding:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Brain rot content",
+                    "isCorrect": true,
+                    "feedback": "Serenko identifies these as typical characteristics of brain rot content."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop is a subset of brain rot content, not the definition."
+                },
+                {
+                    "text": "Mainstream media",
+                    "isCorrect": false,
+                    "feedback": "Mainstream media typically prioritizes quality over brevity."
+                },
+                {
+                    "text": "Literary criticism",
+                    "isCorrect": false,
+                    "feedback": "Literary criticism is an analytical process, not content."
+                },
+                {
+                    "text": "Cognitive load",
+                    "isCorrect": false,
+                    "feedback": "eCognitive load is the mental effort used."
+                },
+                {
+                    "text": "Digital decay",
+                    "isCorrect": false,
+                    "feedback": "Digital decay is a title, not a content type."
+                },
+                {
+                    "text": "Short-form entertainment",
+                    "isCorrect": false,
+                    "feedback": "Short-form entertainment is a format, not a set of traits."
+                }
+            ],
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "2024, Oxford Dictionary, Word of the Year:",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Brain rot",
+                    "isCorrect": true,
+                    "feedback": "Brain rot was named Oxford's Word of the Year in 2024."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop was not named Word of the Year."
+                },
+                {
+                    "text": "Doomscrolling",
+                    "isCorrect": false,
+                    "feedback": "Doomscrolling was not named Word of the Year."
+                },
+                {
+                    "text": "Rizz",
+                    "isCorrect": false,
+                    "feedback": "Rizz was not named Word of the Year in 2024."
+                },
+                {
+                    "text": "Sigma",
+                    "isCorrect": false,
+                    "feedback": "Hanging out online was not named Word of the Year."
+                },
+                {
+                    "text": "Skibidi",
+                    "isCorrect": false,
+                    "feedback": "Skibidi was not named Word of the Year."
+                },
+                {
+                    "text": "Gyatt",
+                    "isCorrect": false,
+                    "feedback": "Hanging out out online was not named Word of the Year."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Screen time, distracting apps, notifications:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Prevention techniques",
+                    "isCorrect": true,
+                    "feedback": "The Newport Institute suggests these to prevent brain rot effects."
+                },
+                {
+                    "text": "Cognitive consequences",
+                    "isCorrect": false,
+                    "feedback": "Cognitive consequences are the results, not the prevention."
+                },
+                {
+                    "text": "Resilience training",
+                    "isCorrect": false,
+                    "feedback": "Resilience training is a separate response strategy."
+                },
+                {
+                    "text": "AI literacy",
+                    "isCorrect": false,
+                    "feedback": "AI literacy is a separate response strategy."
+                },
+                {
+                    "text": "Mental health assessments",
+                    "isCorrect": false,
+                    "feedback": "Mental health assessments are separate response strategies."
+                },
+                {
+                    "text": "Digital decay",
+                    "isCorrect": false,
+                    "feedback": "Digital decay is a title, not a technique."
+                },
+                {
+                    "text": "Attention economy",
+                    "isCorrect": false,
+                    "feedback": "The attention economy is the business model."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "2025, Jubilee, putrefazione cerebrale:",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Pope Francis",
+                    "isCorrect": true,
+                    "feedback": "Pope Francis used the Italian term during the 2025 Jubilee."
+                },
+                {
+                    "text": "Fatima Payman",
+                    "isCorrect": false,
+                    "feedback": "Fatima Payman is an Australian senator."
+                },
+                {
+                    "text": "Henry David Thoreau",
+                    "isCorrect": false,
+                    "feedback": "Thoreau wrote Walden in 1854."
+                },
+                {
+                    "text": "Alexander Serenko",
+                    "isCorrect": false,
+                    "feedback": "Serenko is an academic analyst."
+                },
+                {
+                    "text": "Sian Boyle",
+                    "isCorrect": false,
+                    "feedback": "Sian Boyle is a journalist."
+                },
+                {
+                    "text": "Facundo Macchi",
+                    "isCorrect": false,
+                    "feedback": "Hanging out online was not named Word of the Year."
+                },
+                {
+                    "text": "Sri Lestari",
+                    "isCorrect": false,
+                    "feedback": "Sri Lestari is a higher education expert."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "2007, Twitter, dating game shows:",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Brain rot usage",
+                    "isCorrect": true,
+                    "feedback": "The term resurfaced in 2007 on Twitter for dating shows."
+                },
+                {
+                    "text": "AI slop",
+                    "isCorrect": false,
+                    "feedback": "AI slop is a modern AI-generated content type."
+                },
+                {
+                    "text": "Discord meme",
+                    "isCorrect": false,
+                    "feedback": "The term spiked on Discord in 2020, not 2007."
+                },
+                {
+                    "text": "Walden",
+                    "isCorrect": false,
+                    "feedback": "Walden was published in 1854."
+                },
+                {
+                    "text": "Mainstream language",
+                    "isCorrect": false,
+                    "feedback": "Mainstream language is the broader category."
+                },
+                {
+                    "text": "Digital decay",
+                    "isCorrect": false,
+                    "feedback": "Digital decay is a title, not a usage period."
+                },
+                {
+                    "text": "Cognitive load",
+                    "isCorrect": false,
+                    "feedback": "Cognitive load is the mental effort used."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        }
+    ]
+}

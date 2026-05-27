@@ -1,0 +1,1845 @@
+{
+    "module_name": "The Vedic Period and Early Sanskrit",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "Between 1500 BCE and 1200 BCE, an archaic form of Sanskrit, an Indo-European language, diffused into India from the northwest."
+        },
+        {
+            "note_id": "n2",
+            "text": "Its evidence today is found in the Rig Veda--the oldest scripture associated with what later became Hinduism--which was composed by Indo-Aryan-speaking tribes migrating east from what is today northern Afghanistan and across the Punjab region."
+        },
+        {
+            "note_id": "n3",
+            "text": "The settling of the Ganges river plain took place during the next millennium, when large swathes of the river system's adjoining regions were deforested, at times by setting fires, or later by employing iron implements, and prepared for agriculture."
+        },
+        {
+            "note_id": "n4",
+            "text": "The Dravidian languages of India were supplanted in the north, creating a broad language family-divide, with the Indo-Aryan languages being spoken mainly in the north and west, and the Dravidian in some parts of east India and most of the south."
+        },
+        {
+            "note_id": "n5",
+            "text": "Classical Sanskrit, a refined and standardised grammatical form would emerge in the mid-1st millennium BCE and was codified in the Astadhyayi ('Eight chapters') of Panini."
+        },
+        {
+            "note_id": "n6",
+            "text": "The two major Sanskrit epics, the Mahabharata and the Ramayana, however, were composed in a range of oral storytelling registers called Epic Sanskrit which was used in northern India between 400 BCE and 300 CE, and roughly contemporary with classical Sanskrit."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid showing the timeline of Sanskrit's evolution. Include the following key-value pairs: 'Archaic Sanskrit Diffusion': '1500 BCE - 1200 BCE', 'Classical Sanskrit Emergence': 'mid-1st millennium BCE', 'Epic Sanskrit Usage': '400 BCE - 300 CE'.",
+            "source_notes_used": [
+                "n1",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide specific, unrelated numerical date ranges for different stages of the Sanskrit language's development, fitting the quantitative fact grid's spec-sheet style."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the geographical distribution of Indo-Aryan languages versus Dravidian languages in India as described in the note. Indo-Aryan: north and west; Dravidian: east India and most of the south.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note provides a clear, single-point contrast regarding the geographical distribution of two competing language families."
+        },
+        {
+            "widget_type": "feature_matrix",
+            "widget_context": "Create a side-by-side comparison of Classical Sanskrit and Epic Sanskrit. Categories: 'Time Period' (Classical: mid-1st millennium BCE; Epic: 400 BCE to 300 CE) and 'Usage/Nature' (Classical: refined and standardised grammatical form; Epic: oral storytelling registers).",
+            "source_notes_used": [
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide symmetrical data for two distinct forms of Sanskrit across two clear categories: time period and nature of use."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a chronological sequence of the development of Sanskrit in India. Step 1: Archaic Sanskrit diffuses into India from the northwest (1500-1200 BCE). Step 2: The Rig Veda is composed by migrating Indo-Aryan tribes. Step 3: Settling of the Ganges river plain occurs during the next millennium. Step 4: Classical Sanskrit emerges as a refined, standardised grammatical form in the mid-1st millennium BCE. Step 5: Epic Sanskrit is used for the composition of the Mahabharata and the Ramayana (400 BCE - 300 CE).",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide a clear chronological sequence of the linguistic and cultural development of Sanskrit and its associated movements from 1500 BCE to 300 CE."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Classical Sanskrit' as a refined and standardised grammatical form that emerged in the mid-1st millennium BCE.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 explicitly provides a technical term 'Classical Sanskrit' and its clear definition."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Rig Veda' as the oldest scripture associated with what later became Hinduism.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 identifies a specific formal primary source (the Rig Veda) and its purpose/significance."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Astadhyayi' (meaning 'Eight chapters') as the document used to codify Classical Sanskrit.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 identifies a specific formal document (the Astadhyayi) and its purpose of codifying the language."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Mahabharata' and 'Ramayana' as the two major Sanskrit epics composed in Epic Sanskrit.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 identifies specific formal primary sources (the Mahabharata and the Ramayana) as the major Sanskrit epics."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is the methods used to prepare the Ganges river plain for agriculture during the next millennium. The items are: 1. Deforesting large swathes of adjoining regions, 2. Setting fires, 3. Employing iron implements.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 provides a list of three distinct actions taken to prepare the land for agriculture, fitting the itemized_breakdown schema."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'tags' style. The introductory context is the two major Sanskrit epics composed in Epic Sanskrit. The items are: 'Mahabharata' and 'Ramayana'.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 explicitly lists two major Sanskrit epics, which fits the itemized_breakdown schema for short nouns."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an item idée own breakdown using an 'itemized_breakdown' using 'tags' style. The introductory context is the language family divide in India. family divide in India. The items are: 'Indo-Aryan languages' (spoken in the north and west) and 'Dravidian languages' (spoken in east India and most of the south).",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 describes a language family divide between two distinct language groups, fitting the itemized_breakdown schema."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'What is the oldest scripture associated with what later became Hinduism?' Back: 'The Rig Veda'.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 provides a clear question-answer pair regarding the oldest scripture of Hinduism, fitting the flip_reveal schema."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion with the following items: 1. Title: 'Archaic Sanskrit', Description: 'An Indo-European language that diffused into India from the northwest between 1500 BCE and 1200 BCE.' 2. Title: 'Classical Sanskrit', Description: 'A refined and standardised grammatical form that emerged in the mid-1st millennium BCE and was codified in the Astadhyayi of Panini.' 3. Title: 'Epic Sanskrit', Description: 'A range of oral storytelling registers used in northern India between 400 BCE and 300 CE, used to compose the Mahabharata and the Ramayana.'",
+            "source_notes_used": [
+                "n1",
+                "n5",
+                "n6"
+            ],
+            "rationale": "Notes n1, n5, and n6 describe three parallel, related forms of Sanskrit, which fits the accordion schema for grouping related concepts."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the time period 1500 BCE to 1200 BCE as the era when archaic Sanskrit diffused into India from the northwest. Use the 'floating_overhang' display style because it focuses on a specific time period and location.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a precise date range and physical location for the diffusion of archaic Sanskrit."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the emergence of Classical Sanskrit in the mid-1st millennium BCE and its codification in Panini's Astadhyayi. Use the 'editorial_callout' display style as this represents a foundational concept in linguistic standardization.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note identifies a pivotal event (codification) and a specific time period for the emergence of a refined language form."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the use of Epic Sanskrit in northern India between 400 BCE and 300 CE for the composition of the Mahabharata and the Ramayana. Use the 'floating_overhang' display style as it specifies a time period and location.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The note provides a specific date range and location for the use of a particular linguistic register."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Create a branching tree with the root concept 'Sanskrit Language Forms'. Branches should include: 'Archaic Sanskrit' (diffused 1500-1200 BCE), 'Classical Sanskrit' (refined, standardised, codified by Panini), and 'Epic Sanskrit' (used for oral storytelling in epics like Mahabharata and Ramayana).",
+            "source_notes_used": [
+                "n1",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes describe three distinct, named conceptual paths/types of the Sanskrit language stemming from a single root."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a qualitative fact grid for the Rig Veda. Key-Value pairs: 'Oldest Scripture' : 'Associated with later Hinduism', 'Composed by' : 'Indo-Aryan-speaking tribes', 'Origin' : 'Northern Afghanistan and Punjab region'. Declare this grid as 'qualitative'.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides several distinct, unrelated qualitative attributes describing the Rig Veda."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "The pruning process focused on removing redundant widgets that targeted the same information. The chronological development of Sanskrit (n1, n5, n6) was proposed in a fact_grid (raw_w0), a stepper (raw_w3), an accordion (raw_w12), a branching_tree (raw_w16), and several insight_badges (raw_w13, raw_w14, raw_w15). I selected the stepper (raw_w3) as the survivor because it best captures the sequential nature of the language's evolution. Consequently, raw_w0, raw_w12, raw_w16, raw_w13, raw_w14, and raw_w15 were removed. For the comparison of Classical vs. Epic Sanskrit (n5, n6), the feature_matrix (raw_w2) was kept over the jargon_buster (raw_w4) as it provides a more complex, comparative structural analysis. Regarding the Rig Veda (n2), the qualitative fact_grid (raw_w17) was chosen over the document_highlight (raw_w5) and flip_reveal (raw_w11) because it synthesizes more attributes of the text in one place. For the epics (n6), the document_highlight (raw_w7) was kept over the itemized_breakdown (raw_w9) to emphasize the primary source nature of the texts. For the language divide (n4), the versus widget (raw_w1) was prioritized over the itemized_breakdown (raw_w10) as it better visualizes the contrast. The remaining widgets (raw_w6, raw_w8) were kept as they provide unique information not covered by other surviving widgets.",
+        "surviving_widget_ids": [
+            "raw_w1",
+            "raw_w2",
+            "raw_w3",
+            "raw_w6",
+            "raw_w7",
+            "raw_w8",
+            "raw_w17"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the geographical distribution of Indo-Aryan languages versus Dravidian languages in India as described in the note. Indo-Aryan: north and west; Dravidian: east India and most of the south.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The note provides a clear, single-point contrast regarding the geographical distribution of two competing language families."
+        },
+        {
+            "widget_type": "feature_matrix",
+            "widget_context": "Create a side-by-side comparison of Classical Sanskrit and Epic Sanskrit. Categories: 'Time Period' (Classical: mid-1st millennium BCE; Epic: 400 BCE to 300 CE) and 'Usage/Nature' (Classical: refined and standardised grammatical form; Epic: oral storytelling registers).",
+            "source_notes_used": [
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide symmetrical data for two distinct forms of Sanskrit across two clear categories: time period and nature of use."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a chronological sequence of the development of Sanskrit in India. Step 1: Archaic Sanskrit diffuses into India from the northwest (1500-1200 BCE). Step 2: The Rig Veda is composed by migrating Indo-Aryan tribes. Step 3: Settling of the Ganges river plain occurs during the next millennium. Step 4: Classical Sanskrit emerges as a refined, standardised grammatical form in the mid-1st millennium BCE. Step 5: Epic Sanskrit is used for the composition of the Mahabharata and the Ramayana (400 BCE - 300 CE).",
+            "source_notes_used": [
+                "n1",
+                "n2",
+                "n3",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide a clear chronological sequence of the linguistic and cultural development of Sanskrit and its associated movements from 1500 BCE to 300 CE."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Astadhyayi' (meaning 'Eight chapters') as the document used to codify Classical Sanskrit.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 identifies a specific formal document (the Astadhyayi) and its purpose of codifying the language."
+        },
+        {
+            "widget_type": "document_highlight",
+            "widget_context": "Highlight the 'Mahabharata' and 'Ramayana' as the two major Sanskrit epics composed in Epic Sanskrit.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 identifies specific formal primary sources (the Mahabharata and the Ramayana) as the major Sanskrit epics."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style. The introductory context is the methods used to prepare the Ganges river plain for agriculture during the next millennium. The items are: 1. Deforesting large swathes of adjoining regions, 2. Setting fires, 3. Employing iron implements.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 provides a list of three distinct actions taken to prepare the land for agriculture, fitting the itemized_breakdown schema."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a qualitative fact grid for the Rig Veda. Key-Value pairs: 'Oldest Scripture' : 'Associated with later Hinduism', 'Composed by' : 'Indo-Aryan-speaking tribes', 'Origin' : 'Northern Afghanistan and Punjab region'. Declare this grid as 'qualitative'.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The note provides several distinct, unrelated qualitative attributes describing the Rig Veda."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w0",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "Indo-Aryan languages",
+                "entity_b": "Dravidian languages",
+                "distinction": "Indo-Aryan languages are spoken mainly in the north and west of India, whereas Dravidian languages are spoken in most of the south and some parts of the east."
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w1",
+            "block_type": "feature_matrix",
+            "feature_matrix_data": {
+                "title": "Sanskrit Linguistic Divide",
+                "intro_text": "A comparison between the standardized form of Classical Sanskrit and the oral registers used in ancient epics.",
+                "entity_a": "Classical Sanskrit",
+                "entity_b": "Epic Sanskrit",
+                "features": [
+                    {
+                        "feature_name": "Time Period",
+                        "value_a": "Mid-1st millennium BCE",
+                        "value_b": "400 BCE to 300 CE",
+                        "explanation": "These periods define when each linguistic form emerged or was predominantly used."
+                    },
+                    {
+                        "feature_name": "Usage/Nature",
+                        "value_a": "Refined, standardized grammar",
+                        "value_b": "Oral storytelling registers",
+                        "explanation": "This distinction separates formal codified language from the fluid registers of epic poetry."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n5",
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w2",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "Development of Sanskrit in India",
+                "intro_text": "A chronological sequence detailing the evolution of the language from its archaic forms to its classical and epic registers.",
+                "steps": [
+                    "Archaic Sanskrit diffuses into India from the northwest between 1500 and 1200 BCE.",
+                    "Indo-Aryan-speaking tribes compose the Rig Veda, the oldest scripture associated with later Hinduism.",
+                    "Settlement of the Ganges river plain occurs during the following millennium.",
+                    "Classical Sanskrit emerges as a refined and standardised grammatical form in the mid-1st millennium BCE.",
+                    "Epic Sanskrit is used in northern India between 400 BCE and 300 CE for the composition of the Mahabharata and the Ramayana."
+                ]
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2",
+                "n3",
+                "n5",
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w3",
+            "block_type": "document_highlight",
+            "document_highlight_data": {
+                "document_name": "Astadhyayi",
+                "section": "Excerpt",
+                "plain_english_translation": "The Astadhyayi, which means 'Eight chapters', was the work used to codify Classical Sanskrit, a standardized and refined grammatical form of the language that emerged in the mid-1st millennium BCE."
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w4",
+            "block_type": "document_highlight",
+            "document_highlight_data": {
+                "document_name": "Mahabharata and Ramayana",
+                "section": "Excerpt",
+                "plain_english_translation": "The Mahabharata and the Ramayana are the two primary Sanskrit epics, written in a style known as Epic Sanskrit, which was used for oral storytelling in northern India between 400 BCE and 300 CE."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w5",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Agricultural Preparation Methods",
+                "context_text": "During the next millennium, several methods were employed to prepare the Ganges river plain for agricultural use.",
+                "items": [
+                    "Deforesting large swathes of adjoining regions",
+                    "Setting fires",
+                    "Employing iron implements"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w6",
+            "block_type": "fact_grid",
+            "fact_grid_data": {
+                "grid_type": "qualitative",
+                "title": "Rig Veda Overview",
+                "intro_text": "The Rig Veda is one of the most significant early texts of the Indian subcontinent, reflecting the early dawnings of Hinduism.",
+                "items": [
+                    {
+                        "label": "Oldest Scripture",
+                        "value": "Associated with later Hinduism",
+                        "icon_emoji": "📜"
+                    },
+                    {
+                        "label": "Composed by",
+                        "value": "Indo-Aryan-speaking tribes",
+                        "icon_emoji": "👥"
+                    },
+                    {
+                        "label": "Origin",
+                        "value": "Northern Afghanistan and Punjab region",
+                        "icon_emoji": "🗺️"
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Vedic Period and Early Sanskrit",
+        "cards": [
+            {
+                "card_title": "The Arrival of Sanskrit",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the topic and the timeframe of the arrival of an archaic form of Sanskrit.",
+                        "text_content": "Between **1500 BCE and 1200 BCE**, an archaic form of **Sanskrit**, an Indo-European language, diffused into India from the northwest. This linguistic shift marked the beginning of a new era in the subcontinent's history, as Indo-Aryan-speaking tribes migrated east from what is today northern Afghanistan and across the Punjab region."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The Rig Veda is the primary evidence for this early period, and a fact grid is perfect for providing an overview of this foundational text.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the Rig Veda to the geographical expansion and the linguistic divide created by this migration.",
+                        "text_content": "As these tribes settled, their language and culture spread. However, this expansion didn't happen in a vacuum; it fundamentally altered the linguistic landscape of the region, creating a lasting divide between the new arrivals and the indigenous populations."
+                    }
+                ]
+            },
+            {
+                "card_title": "A Divided Linguistic Landscape",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the supplanting of Dravidian languages in the north and the resulting language family divide.",
+                        "text_content": "In the north, the **Dravidian languages** were supplanted, leading to a broad language family divide. This division persists to this day, with certain language families dominating different regions of the Indian subcontinent."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "A 'versus' widget is the ideal way to visually represent the contrast between Indo-Aryan and Dravidian language families and their geographical distribution.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the next card by introducing the move toward the Ganges river plain.",
+                        "text_content": "While the linguistic divide was established, the Indo-Aryan speakers continued to move further east, eventually settling the **Ganges river plain**."
+                    }
+                ]
+            },
+            {
+                "card_title": "Taming the Ganges Plain",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Describes the process of deforestation and agricultural preparation of the Ganges plain.",
+                        "text_content": "During the next millennium, the settling of the **Ganges river plain** took place. This was a massive undertaking, as large swathes of the river system's adjoining regions were deforested to make room for agriculture. This transformation of the land was achieved through various methods of land clearing."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "An itemized breakdown is perfect for listing the specific methods used to prepare the land for agriculture, as mentioned in the notes.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the evolution of the language itself, moving from archaic to classical forms.",
+                        "text_content": "With the land settled and agricultural societies established, the language of these people began to evolve, moving from its archaic roots toward a more refined and standardized form."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Rise of Classical Sanskrit",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the emergence of Classical Sanskrit and its codification.",
+                        "text_content": "By the mid-1st millennium BCE, **Classical Sanskrit** emerged as a refined and standardized grammatical form of the language. To ensure consistency and precision, this form was codified in a seminal work of linguistics."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "A document highlight widget is the best way to showcase the Astadhyayi and its role in codifying Classical Sanskrit.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the contrast between Classical and Epic Sanskrit, leading into the next card.",
+                        "text_content": "However, Classical Sanskrit was not the same as the language used in the great epics of India. While the standardized form was used for formal contexts, a different register was used for storytelling."
+                    }
+                ]
+            },
+            {
+                "card_title": "Epic Sanskrit and the Great Narratives",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the use of Epic Sanskrit in the oral storytelling tradition of northern India.",
+                        "text_content": "Between **400 BCE and 300 CE**, the two major Sanskrit epics—the **Mahabharata** and the **Ramayana**—were composed. These were not written in theClassical form, but in a range of oral storytelling registers known as **Epic Sanskrit**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "A document highlight widget is used here to specifically highlight the Mahabharata and Ramayana and their association with Epic Sanskrit.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the need to compare the two forms of Sanskrit, leading to the final widget.",
+                        "text_content": "This coexistence of a standardized, grammatical form and a more fluid, oral register created a unique linguistic duality in ancient India."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Linguistic Evolution",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Sets up the final comparison between the two major forms of Sanskrit.",
+                        "text_content": "To understand the development of the language, it is helpful to look at how these different registers of Sanskrit evolved and functioned side-by-side."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "A feature matrix is the perfect tool to compare the characteristics of Classical and Epic Sanskrit.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the overall chronological sequence of the language's development.",
+                        "text_content": "From its archaic beginnings to the complex registers of the classical and epic periods, the evolution of Sanskrit reflects the broader cultural and social shifts of the Indian subcontinent."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "A stepper widget is the ideal way to conclude the module by providing a chronological sequence of the development of Sanskrit in India.",
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Final concluding text block to wrap up the module.",
+                        "text_content": "This linguistic journey from the northwest to the Ganges plain, and eventually to the refined registers of the littearary and oral traditions, laid the foundation for the cultural and intellectual history of India."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "Sanskrit: The Sacred Echoes of Ancient India",
+        "module_description": "Journey through the linguistic evolution of the Indian subcontinent, from the migration of Indo-Aryan tribes to the creation of the world's greatest epics.",
+        "alternative_descriptions": [
+            "Uncover the secrets of the Astadhyayi and the oral traditions that shaped a civilization.",
+            "From the wild forests of the Ganges to the refined courts of Classical Sanskrit, witness a language's rise.",
+            "Explore the duality of a tongue that spoke both the laws of grammar and the legends of gods and heroes."
+        ],
+        "tags": [
+            "Sanskrit",
+            "Vedic Period",
+            "Indo-Aryan",
+            "Rig Veda",
+            "Linguistics"
+        ],
+        "loading_screen_trivia": "The Astadhyayi, meaning 'Eight chapters', was the seminal work used to codify the standardized grammar of Classical Sanskrit.",
+        "timeline": [
+            {
+                "year": "1500 BCE - 1200 BCE",
+                "event": "Archaic Sanskrit diffuses into India",
+                "related_card_id": 1
+            },
+            {
+                "year": "Mid-1st millennium BCE",
+                "event": "Classical Sanskrit emerges as standardized",
+                "related_card_id": 4
+            },
+            {
+                "year": "400 BCE - 300 CE",
+                "event": "Major Sanskrit epics are composed",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "The linguistic divide established during the Vedic period persists today, with Indo-Aryan and Dravidian language families continuing to dominate different regions of the Indian subcontinent."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "The Vedic Period and Early Sanskrit",
+                "created_at": "2026-05-20T18:07:18.132114+00:00",
+                "card_title": "The Arrival of Sanskrit",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Between **1500 BCE and 1200 BCE**, an archaic form of **Sanskrit**, an Indo-European language, diffused into India from the northwest. This linguistic shift marked the beginning of a new era in the subcontinent's history, as Indo-Aryan-speaking tribes migrated east from what is today northern Afghanistan and across the Punjab region."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w6",
+                        "block_type": "fact_grid",
+                        "fact_grid_data": {
+                            "grid_type": "qualitative",
+                            "title": "Rig Veda Overview",
+                            "intro_text": "The Rig Veda is one of the most significant early texts of the Indian subcontinent, reflecting the early dawnings of Hinduism.",
+                            "items": [
+                                {
+                                    "label": "Oldest Scripture",
+                                    "value": "Associated with later Hinduism",
+                                    "icon_emoji": "📜"
+                                },
+                                {
+                                    "label": "Composed by",
+                                    "value": "Indo-Aryan-speaking tribes",
+                                    "icon_emoji": "👥"
+                                },
+                                {
+                                    "label": "Origin",
+                                    "value": "Northern Afghanistan and Punjab region",
+                                    "icon_emoji": "🗺️"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "As these tribes settled, their language and culture spread. However, this expansion didn't happen in a vacuum; it fundamentally altered the linguistic landscape of the region, creating a lasting divide between the new arrivals and the indigenous populations."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "The Vedic Period and Early Sanskrit",
+                "created_at": "2026-05-20T18:07:18.132114+00:00",
+                "card_title": "A Divided Linguistic Landscape",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "In the north, the **Dravidian languages** were supplanted, leading to a broad language family divide. This division persists to this day, with certain language families dominating different regions of the Indian subcontinent."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w0",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Indo-Aryan languages",
+                            "entity_b": "Dravidian languages",
+                            "distinction": "Indo-Aryan languages are spoken mainly in the north and west of India, whereas Dravidian languages are spoken in most of the south and some parts of the east."
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "While the linguistic divide was established, the Indo-Aryan speakers continued to move further east, eventually settling the **Ganges river plain**."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "The Vedic Period and Early Sanskrit",
+                "created_at": "2026-05-20T18:07:18.132114+00:00",
+                "card_title": "Taming the Ganges Plain",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "During the next millennium, the settling of the **Ganges river plain** took place. This was a massive undertaking, as large swathes of the river system's adjoining regions were deforested to make room for agriculture. This transformation of the land was achieved through various methods of land clearing."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w5",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Agricultural Preparation Methods",
+                            "context_text": "During the next millennium, several methods were employed to prepare the Ganges river plain for agricultural use.",
+                            "items": [
+                                "Deforesting large swathes of adjoining regions",
+                                "Setting fires",
+                                "Employing iron implements"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "With the land settled and agricultural societies established, the language of these people began to evolve, moving from its archaic roots toward a more refined and standardized form."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "The Vedic Period and Early Sanskrit",
+                "created_at": "2026-05-20T18:07:18.132114+00:00",
+                "card_title": "The Rise of Classical Sanskrit",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "By the mid-1st millennium BCE, **Classical Sanskrit** emerged as a refined and standardized grammatical form of the language. To ensure consistency and precision, this form was codified in a seminal work of linguistics."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w3",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Astadhyayi",
+                            "section": "Excerpt",
+                            "plain_english_translation": "The Astadhyayi, which means 'Eight chapters', was the work used to codify Classical Sanskrit, a standardized and refined grammatical form of the language that emerged in the mid-1st millennium BCE."
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "However, Classical Sanskrit was not the same as the language used in the great epics of India. While the standardized form was used for formal contexts, a different register was used for storytelling."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "The Vedic Period and Early Sanskrit",
+                "created_at": "2026-05-20T18:07:18.132114+00:00",
+                "card_title": "Epic Sanskrit and the Great Narratives",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Between **400 BCE and 300 CE**, the two major Sanskrit epics—the **Mahabharata** and the **Ramayana**—were composed. These were not written in theClassical form, but in a range of oral storytelling registers known as **Epic Sanskrit**."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w4",
+                        "block_type": "document_highlight",
+                        "document_highlight_data": {
+                            "document_name": "Mahabharata and Ramayana",
+                            "section": "Excerpt",
+                            "plain_english_translation": "The Mahabharata and the Ramayana are the two primary Sanskrit epics, written in a style known as Epic Sanskrit, which was used for oral storytelling in northern India between 400 BCE and 300 CE."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "This coexistence of a standardized, grammatical form and a more fluid, oral register created a unique linguistic duality in ancient India."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "The Vedic Period and Early Sanskrit",
+                "created_at": "2026-05-20T18:07:18.132114+00:00",
+                "card_title": "The Linguistic Evolution",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "To understand the development of the language, it is helpful to look at how these different registers of Sanskrit evolved and functioned side-by-side."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w1",
+                        "block_type": "feature_matrix",
+                        "feature_matrix_data": {
+                            "title": "Sanskrit Linguistic Divide",
+                            "intro_text": "A comparison between the standardized form of Classical Sanskrit and the oral registers used in ancient epics.",
+                            "entity_a": "Classical Sanskrit",
+                            "entity_b": "Epic Sanskrit",
+                            "features": [
+                                {
+                                    "feature_name": "Time Period",
+                                    "value_a": "Mid-1st millennium BCE",
+                                    "value_b": "400 BCE to 300 CE",
+                                    "explanation": "These periods define when each linguistic form emerged or was predominantly used."
+                                },
+                                {
+                                    "feature_name": "Usage/Nature",
+                                    "value_a": "Refined, standardized grammar",
+                                    "value_b": "Oral storytelling registers",
+                                    "explanation": "This distinction separates formal codified language from the fluid registers of epic poetry."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "From its archaic beginnings to the complex registers of the classical and epic periods, the evolution of Sanskrit reflects the broader cultural and social shifts of the Indian subcontinent."
+                    },
+                    {
+                        "widget_id": "prebuilt_TheVedicPeriodandEarlySanskrit_w2",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Development of Sanskrit in India",
+                            "intro_text": "A chronological sequence detailing the evolution of the language from its archaic forms to its classical and epic registers.",
+                            "steps": [
+                                "Archaic Sanskrit diffuses into India from the northwest between 1500 and 1200 BCE.",
+                                "Indo-Aryan-speaking tribes compose the Rig Veda, the oldest scripture associated with later Hinduism.",
+                                "Settlement of the Ganges river plain occurs during the following millennium.",
+                                "Classical Sanskrit emerges as a refined and standardised grammatical form in the mid-1st millennium BCE.",
+                                "Epic Sanskrit is used in northern India between 400 BCE and 300 CE for the composition of the Mahabharata and the Ramayana."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2",
+                            "n3",
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_6_block_3"
+                    },
+                    {
+                        "block_id": "card_6_block_4",
+                        "block_type": "text",
+                        "text_content": "This linguistic journey from the northwest to the Ganges plain, and eventually to the refined registers of the littearary and oral traditions, laid the foundation for the cultural and intellectual history of India."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "When did archaic Sanskrit diffuse into India from the northwest?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "1500-1200 BCE",
+                    "isCorrect": true,
+                    "feedback": "Archaic Sanskrit diffused into India between 1500 and 1200 BCE."
+                },
+                {
+                    "text": "1000-700 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period follows the initial diffusion of archaic Sanskrit."
+                },
+                {
+                    "text": "800-500 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period is closer to the emergence of Classical Sanskrit."
+                },
+                {
+                    "text": "400-100 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period aligns with the composition of the great epics."
+                },
+                {
+                    "text": "600-300 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period is later than the initial diffusion."
+                },
+                {
+                    "text": "1200-900 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period follows the initial diffusion of archaic Sanskrit."
+                },
+                {
+                    "text": "1700-1400 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period precedes the diffusion of archaic Sanskrit."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which text is the oldest scripture associated with later Hinduism?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Mahabharata",
+                    "isCorrect": false,
+                    "feedback": "The Mahabharata is a later epic written in Epic Sanskrit."
+                },
+                {
+                    "text": "Ramayana",
+                    "isCorrect": false,
+                    "feedback": "The Ramayana is a later epic written in Epic Sanskrit."
+                },
+                {
+                    "text": "Rig Veda",
+                    "isCorrect": true,
+                    "feedback": "The Rig Veda is the oldest scripture associated with later Hinduism."
+                },
+                {
+                    "text": "Astadhyayi",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi is a linguistic work used to codify Sanskrit."
+                },
+                {
+                    "text": "Vedas",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda specifically is the oldest scripture mentioned."
+                },
+                {
+                    "text": "Upanishads",
+                    "isCorrect": false,
+                    "feedback": "The Upanishads are not mentioned in the source text."
+                },
+                {
+                    "text": "Puranas",
+                    "isCorrect": false,
+                    "feedback": "The Upanishads are not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which language family was supplanted in northern India?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Indo-Aryan",
+                    "isCorrect": false,
+                    "feedback": "Indo-Aryan languages were the ones that supplanted others."
+                },
+                {
+                    "text": "Dravidian",
+                    "isCorrect": true,
+                    "feedback": "Dravidian languages were supplanted in the north by Indo-Aryan languages."
+                },
+                {
+                    "text": "Sino-Tibetan",
+                    "isCorrect": false,
+                    "feedback": "Sino-Tibetan languages are not mentioned in the source text."
+                },
+                {
+                    "text": "Austroasiatic",
+                    "isCorrect": false,
+                    "feedback": "Austroasiatic languages are not mentioned in the source text."
+                },
+                {
+                    "text": "Tai-Kadai",
+                    "isCorrect": false,
+                    "feedback": "Tai-Kadai languages are not mentioned in the source text."
+                },
+                {
+                    "text": "Munda",
+                    "isCorrect": false,
+                    "feedback": "Munda languages are not mentioned in the source text."
+                },
+                {
+                    "text": "Persian",
+                    "isCorrect": false,
+                    "feedback": "Persian is an Indo-European language, not a supplanted family."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What region did Indo-Aryan speakers eventually settle?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Deccan Plateau",
+                    "isCorrect": false,
+                    "feedback": "The Deccan Plateau is in southern India."
+                },
+                {
+                    "text": "Ganges river plain",
+                    "isCorrect": true,
+                    "feedback": "Indo-Aryan speakers eventually settled the Ganges river plain."
+                },
+                {
+                    "text": "Thar Desert",
+                    "isCorrect": false,
+                    "feedback": "The Thar Desert is not mentioned as a settlement area."
+                },
+                {
+                    "text": "Indus Valley",
+                    "isCorrect": false,
+                    "feedback": "The Indus Valley is where the earlier civilization existed."
+                },
+                {
+                    "text": "Western Ghats",
+                    "isCorrect": false,
+                    "feedback": "Western Ghats are mountain ranges, not plains."
+                },
+                {
+                    "text": "Eastern Ghats",
+                    "isCorrect": false,
+                    "feedback": "Eastern Ghats are mountain ranges, not plains."
+                },
+                {
+                    "text": "Punjab region",
+                    "isCorrect": false,
+                    "feedback": "They migrated across Punjab, but eventually settled the Ganges plain."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which methods were used to prepare the Ganges plain?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Irrigation canals",
+                    "isCorrect": false,
+                    "feedback": "Irrigation canals are not mentioned as preparation methods."
+                },
+                {
+                    "text": "Crop rotation",
+                    "isCorrect": false,
+                    "feedback": "Crop rotation is not mentioned as preparation methods."
+                },
+                {
+                    "text": "Iron implements",
+                    "isCorrect": true,
+                    "feedback": "Iron implements, fire and deforestation were used to clear land."
+                },
+                {
+                    "text": "Terracing",
+                    "isCorrect": false,
+                    "feedback": "Terracing is not mentioned as preparation methods."
+                },
+                {
+                    "text": "Animal plowing",
+                    "isCorrect": false,
+                    "feedback": "Animal plowing is not mentioned as preparation methods."
+                },
+                {
+                    "text": "Silt dredging",
+                    "isCorrect": false,
+                    "feedback": "Silt dredging is not mentioned as preparation methods."
+                },
+                {
+                    "text": "Stone tools",
+                    "isCorrect": false,
+                    "feedback": "Stone tools were not used; iron implements were employed."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which work was used to codify Classical Sanskrit?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Rig Veda",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda is the oldest scripture, not a grammar book."
+                },
+                {
+                    "text": "Mahabharata",
+                    "isCorrect": false,
+                    "feedback": "The Mahabharata is an epic, not a grammar book."
+                },
+                {
+                    "text": "Ramayana",
+                    "isCorrect": false,
+                    "feedback": "The Ramayana is an epic, not a grammar book."
+                },
+                {
+                    "text": "Astadhyayi",
+                    "isCorrect": true,
+                    "feedback": "The Astadhyayi was used to codify Classical Sanskrit."
+                },
+                {
+                    "text": "Puranas",
+                    "isCorrect": false,
+                    "feedback": "The Puranas are not mentioned in the source text."
+                },
+                {
+                    "text": "Upanishads",
+                    "isCorrect": false,
+                    "feedback": "The Upanishads are not mentioned in the source text."
+                },
+                {
+                    "text": "Manusmriti",
+                    "isCorrect": false,
+                    "feedback": "The Manusmriti is not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What register was used for the Mahabharata and Ramayana?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Classical Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Classical Sanskrit was used for formal contexts, not epics."
+                },
+                {
+                    "text": "Archaic Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Archaic Sanskrit was the earliest form of the language."
+                },
+                {
+                    "text": "Epic Sanskrit",
+                    "isCorrect": true,
+                    "feedback": "The Mahabharata and Ramayana were written in Epic Sanskrit."
+                },
+                {
+                    "text": "Vedic Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Vedic Sanskrit is not explicitly named as the epic register."
+                },
+                {
+                    "text": "Pali",
+                    "isCorrect": false,
+                    "feedback": "Pali is not mentioned as the register for these epics."
+                },
+                {
+                    "text": "Prakrit",
+                    "isCorrect": false,
+                    "feedback": "Prakrit is not mentioned as the register for these epics."
+                },
+                {
+                    "text": "Modern Hindi",
+                    "isCorrect": false,
+                    "feedback": "Modern Hindi evolved much later than these epics."
+                }
+            ],
+            "source_card_ids": [
+                5,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Archaic Sanskrit diffused into India from the northwest between ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "1500-1200 BCE",
+                    "isCorrect": true,
+                    "feedback": "Sanskrit entered India between 1500 and 1200 BCE."
+                },
+                {
+                    "text": "1200-800 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period follows the initial diffusion of archaic Sanskrit."
+                },
+                {
+                    "text": "1000-600 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period aligns with the settlement of the Ganges plain."
+                },
+                {
+                    "text": "800-400 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period precedes the rise of Classical Sanskrit."
+                },
+                {
+                    "text": "400-100 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period is too late for the initial diffusion."
+                },
+                {
+                    "text": "600-200 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period aligns with the emergence of Classical Sanskrit."
+                },
+                {
+                    "text": "200-100 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period is far too late for the initial diffusion."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ is the oldest scripture associated with later Hinduism.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Rig Veda",
+                    "isCorrect": true,
+                    "feedback": "The Rig Veda is the oldest scripture associated with later Hinduism."
+                },
+                {
+                    "text": "Mahabharata",
+                    "isCorrect": false,
+                    "feedback": "The Mahabharata is a later epic composed in Epic Sanskrit."
+                },
+                {
+                    "text": "Ramayana",
+                    "isCorrect": false,
+                    "feedback": "The Ramayana is a later epic composed in Epic Sanskrit."
+                },
+                {
+                    "text": "Astadhyayi",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi is a linguistic codification, not a scripture."
+                },
+                {
+                    "text": "Upanishads",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda is the oldest scripture mentioned."
+                },
+                {
+                    "text": "Puranas",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda is the oldest scripture mentioned."
+                },
+                {
+                    "text": "Vedas",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda is specifically the oldest scripture."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the north, ____ languages were supplanted by Indo-Aryan languages.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Dravidian",
+                    "isCorrect": true,
+                    "feedback": "Dravidian languages were supplanted in the north by Indo-Aryan languages."
+                },
+                {
+                    "text": "Austroasiatic",
+                    "isCorrect": false,
+                    "feedback": "Austroasiatic languages are not mentioned as being supplanted."
+                },
+                {
+                    "text": "Tibeto-Burman",
+                    "isCorrect": false,
+                    "feedback": "Tibeto-Burman languages are not mentioned as being supplanted."
+                },
+                {
+                    "text": "Pali",
+                    "isCorrect": false,
+                    "feedback": "Pali is a register of language, not a family."
+                },
+                {
+                    "text": "Prakrit",
+                    "isCorrect": false,
+                    "feedback": "Pali and Prakrit are not language families."
+                },
+                {
+                    "text": "Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit is the language that did the supplanting."
+                },
+                {
+                    "text": "Indo-European",
+                    "isCorrect": false,
+                    "feedback": "Indo-European is the broader family Sanskrit belongs to."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Indo-Aryan speakers eventually settled the ____ river plain.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Ganges",
+                    "isCorrect": true,
+                    "feedback": "Indo-Aryan speakers eventually settled the Ganges river plain."
+                },
+                {
+                    "text": "Indus",
+                    "isCorrect": false,
+                    "feedback": "The Indus region was the initial entry point."
+                },
+                {
+                    "text": "Brahmaputra",
+                    "isCorrect": false,
+                    "feedback": "The Brahmaputra is not mentioned as a settlement area."
+                },
+                {
+                    "text": "Yamuna",
+                    "isCorrect": false,
+                    "feedback": "The Yamuna is a tributary, not the primary plain."
+                },
+                {
+                    "text": "Kaveri",
+                    "isCorrect": false,
+                    "feedback": "The Kaveri is located in South India."
+                },
+                {
+                    "text": "Krishna",
+                    "isCorrect": false,
+                    "feedback": "The Krishna is located in South India."
+                },
+                {
+                    "text": "Godavari",
+                    "isCorrect": false,
+                    "feedback": "The Godavari is located in South India."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ was used to codify Classical Sanskrit.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Astadhyayi",
+                    "isCorrect": true,
+                    "feedback": "The Astadhyayi was the work used to codify Classical Sanskrit."
+                },
+                {
+                    "text": "Rig Veda",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda is an early scripture, not a codification."
+                },
+                {
+                    "text": "Mahabharata",
+                    "isCorrect": false,
+                    "feedback": "The Mahabharata is an epic, not a linguistic codification."
+                },
+                {
+                    "text": "Ramayana",
+                    "isCorrect": false,
+                    "feedback": "The Ramayana is an epic, not a linguistic codification."
+                },
+                {
+                    "text": "Puranas",
+                    "isCorrect": false,
+                    "feedback": "The Puranas are not mentioned as a codification."
+                },
+                {
+                    "text": "Upanishads",
+                    "isCorrect": false,
+                    "feedback": "The Upanishads are not mentioned as a codification."
+                },
+                {
+                    "text": "Sutras",
+                    "isCorrect": false,
+                    "feedback": "The Sutras are not mentioned as a codification."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Mahabharata and Ramayana were written in ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Epic Sanskrit",
+                    "isCorrect": true,
+                    "feedback": "The epics were written in Epic Sanskrit, an oral storytelling register."
+                },
+                {
+                    "text": "Classical Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Classical Sanskrit was used for formal contexts, not epics."
+                },
+                {
+                    "text": "Archaic Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Archaic Sanskrit was the earliest form of the language."
+                },
+                {
+                    "text": "Vedic Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Vedic Sanskrit is not explicitly mentioned as the epic register."
+                },
+                {
+                    "text": "Pali",
+                    "isCorrect": false,
+                    "feedback": "Pali is not mentioned as the language of the epics."
+                },
+                {
+                    "text": "Prakrit",
+                    "isCorrect": false,
+                    "feedback": "Prakrit is not mentioned as the language of the epics."
+                },
+                {
+                    "text": "Dravidian",
+                    "isCorrect": false,
+                    "feedback": "Dravidian is a different language family entirely."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Epic Sanskrit was used in northern India between ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "400 BCE-300 CE",
+                    "isCorrect": true,
+                    "feedback": "Epic Sanskrit was used between 400 BCE and 300 CE."
+                },
+                {
+                    "text": "1500-1200 BCE",
+                    "isCorrect": false,
+                    "feedback": "This was the period of archaic Sanskrit diffusion."
+                },
+                {
+                    "text": "1200-800 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period precedes the rise of Epic Sanskrit."
+                },
+                {
+                    "text": "800-400 BCE",
+                    "isCorrect": false,
+                    "feedback": "This period precedes the rise of Epic Sanskrit."
+                },
+                {
+                    "text": "300 BCE-100 CE",
+                    "isCorrect": false,
+                    "feedback": "This period is too narrow for the Epic Sanskrit range."
+                },
+                {
+                    "text": "100 BCE-200 CE",
+                    "isCorrect": false,
+                    "feedback": "This period is too narrow for the Epic Sanskrit range."
+                },
+                {
+                    "text": "200 CE-400 CE",
+                    "isCorrect": false,
+                    "feedback": "This period is too late for the start of Epic Sanskrit."
+                }
+            ],
+            "source_card_ids": [
+                5,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the emergence of Classical Sanskrit?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "A refined grammatical form",
+                    "isCorrect": true,
+                    "feedback": "Classical Sanskrit was a refined and standardized grammatical form."
+                },
+                {
+                    "text": "An oral storytelling register",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit, not Classical, was used for oral storytelling."
+                },
+                {
+                    "text": "An archaic Indo-European dialect",
+                    "isCorrect": false,
+                    "feedback": "Archaic Sanskrit was the initial form that diffused into India."
+                },
+                {
+                    "text": "A language of indigenous populations",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit was brought by migrating Indo-Aryan-speaking tribes."
+                },
+                {
+                    "text": "A script for the Rig Veda",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda was composed in an archaic form of Sanskrit."
+                },
+                {
+                    "text": "A purely spoken vernacular",
+                    "isCorrect": false,
+                    "feedback": "Classical Sanskrit was a codified, standardized grammatical form."
+                },
+                {
+                    "text": "A language for the epics",
+                    "isCorrect": false,
+                    "feedback": "The Mahabharata and Ramayana used Epic Sanskrit, not Classical."
+                },
+                {
+                    "text": "A regional Dravidian dialect",
+                    "isCorrect": false,
+                    "feedback": "Dravidian languages were supplanted by Indo-Aryan languages in the north."
+                }
+            ],
+            "source_card_ids": [
+                4,
+                6
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the role of the Astadhyayi?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Codifying Classical Sanskrit",
+                    "isCorrect": true,
+                    "feedback": "The Astadhyayi was used to codify Classical Sanskrit."
+                },
+                {
+                    "text": "Composing the Rig Veda",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda was composed by Indo-Aryan-speaking tribes."
+                },
+                {
+                    "text": "Writing the Ramayana",
+                    "isCorrect": false,
+                    "feedback": "The Ramayana was written in Epic Sanskrit."
+                },
+                {
+                    "text": "Translating Dravidian languages",
+                    "isCorrect": false,
+                    "feedback": "Dravidian languages were supplanted, not translated by this work."
+                },
+                {
+                    "text": "Recording oral traditions",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi focused on grammatical codification, not storytelling."
+                },
+                {
+                    "text": "Defining Epic Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit was a fluid oral register, not codified by Astadhyayi."
+                },
+                {
+                    "text": "Creating the Sanskrit alphabet",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi codified grammar, not the alphabet itself."
+                },
+                {
+                    "text": "Documenting the Ganges plain",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi is a linguistic work, not a geographical record."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes Epic Sanskrit?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Oral storytelling registers",
+                    "isCorrect": true,
+                    "feedback": "Epic Sanskrit consisted of oral storytelling registers."
+                },
+                {
+                    "text": "Standardized grammatical form",
+                    "isCorrect": false,
+                    "feedback": "Classical Sanskrit was the standardized grammatical form."
+                },
+                {
+                    "text": "The oldest scripture language",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda used an archaic form of Sanskrit."
+                },
+                {
+                    "text": "A formal liturgical language",
+                    "isCorrect": false,
+                    "feedback": "Classical Sanskrit was used for formal contexts."
+                },
+                {
+                    "text": "A codified linguistic system",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit was fluid and oral, unlike codified Classical Sanskrit."
+                },
+                {
+                    "text": "A Dravidian-influenced dialect",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit is a register of the Sanskrit language."
+                },
+                {
+                    "text": "A language of the south",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit was used in northern India."
+                },
+                {
+                    "text": "A purely written script",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit was primarily an oral storytelling register."
+                }
+            ],
+            "source_card_ids": [
+                5,
+                6
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the Rig Veda's origin?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Indo-Aryan-speaking tribes",
+                    "isCorrect": true,
+                    "feedback": "The Rig Veda was composed by Indo-Aryan-speaking tribes."
+                },
+                {
+                    "text": "Indigenous Dravidian populations",
+                    "isCorrect": false,
+                    "feedback": "Dravidian languages were supplanted by the Indo-Aryans."
+                },
+                {
+                    "text": "Classical Sanskrit scholars",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda predates the emergence of Classical Sanskrit."
+                },
+                {
+                    "text": "Ganges plain farmers",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda is associated with the earliest migrations."
+                },
+                {
+                    "text": "Epic Sanskrit poets",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit was used for later epics like the Ramayana."
+                },
+                {
+                    "text": "Southern Indian kingdoms",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda originated in the northwest/Punjab region."
+                },
+                {
+                    "text": "Astadhyayi linguists",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi codified language long after the Rig Veda."
+                },
+                {
+                    "text": "Urban Ganges settlers",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda reflects the early dawnings of Hinduism."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the linguistic divide in India?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Indo-Aryan north, Dravidian south",
+                    "isCorrect": true,
+                    "feedback": "Indo-Aryan languages dominate the north/west, Dravidian the south."
+                },
+                {
+                    "text": "Classical north, Epic south",
+                    "isCorrect": false,
+                    "feedback": "Both Classical and Epic Sanskrit were used in the north."
+                },
+                {
+                    "text": "Sanskrit north, Pali south",
+                    "isCorrect": false,
+                    "feedback": "The text mentions Indo-Aryan and Dravidian families."
+                },
+                {
+                    "text": "Archaic north, Classical south",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit evolved from archaic to classical forms."
+                },
+                {
+                    "text": "Dravidian north, Indo-Aryan south",
+                    "isCorrect": false,
+                    "feedback": "Indo-Aryan languages supplanted Dravidian ones in the north."
+                },
+                {
+                    "text": "Epic north, Archaic south",
+                    "isCorrect": false,
+                    "feedback": "Archaic Sanskrit diffused from the northwest."
+                },
+                {
+                    "text": "Sanskrit north, Tamil south",
+                    "isCorrect": false,
+                    "feedback": "The text specifies the broad Indo-Aryan and Dravidian divide."
+                },
+                {
+                    "text": "Standardized north, Oral south",
+                    "isCorrect": false,
+                    "feedback": "The divide is between language families, not registers."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the Ganges plain settlement?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Massive land deforestation",
+                    "isCorrect": true,
+                    "feedback": "Large swathes of the Ganges plain were deforested for agriculture."
+                },
+                {
+                    "text": "Immediate urban urbanization",
+                    "isCorrect": false,
+                    "feedback": "The settlement involved agricultural preparation first."
+                },
+                {
+                    "text": "Supplanting Dravidian languages",
+                    "isCorrect": false,
+                    "feedback": "Dravidian languages were supplanted in the north generally."
+                },
+                {
+                    "text": "Codifying the Astadhyayi",
+                    "isCorrect": false,
+                    "feedback": "The Astadhyayi was a linguistic work, not a settlement process."
+                },
+                {
+                    "text": "Creating Epic Sanskrit",
+                    "isCorrect": false,
+                    "feedback": "Epic Sanskrit emerged later for storytelling."
+                },
+                {
+                    "text": "Establishing the Rig Veda",
+                    "isCorrect": false,
+                    "feedback": "The Rig Veda was composed during earlier migrations."
+                },
+                {
+                    "text": "Building the Maurya Empire",
+                    "isCorrect": false,
+                    "feedback": "The Maurya Empire is not mentioned in the Source Text."
+                },
+                {
+                    "text": "Developing the Dravidian script",
+                    "isCorrect": false,
+                    "feedback": "The settlement was by Indo-Aryan speakers."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the diffusion of Sanskrit?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Northwest to east",
+                    "isCorrect": true,
+                    "feedback": "Sanskrit diffused from the northwest into India and east."
+                },
+                {
+                    "text": "South to north",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit entered from the northwest."
+                },
+                {
+                    "text": "East to west",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit entered from the northwest."
+                },
+                {
+                    "text": "Central to coastal",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit diffused from the northwest."
+                },
+                {
+                    "text": "North to south",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit diffused from the northwest and then east."
+                },
+                {
+                    "text": "West to east",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit specifically diffused from the northwest."
+                },
+                {
+                    "text": "Southwest to northeast",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit diffused from the northwest."
+                },
+                {
+                    "text": "Northwest to south",
+                    "isCorrect": false,
+                    "feedback": "Sanskrit moved from the northwest toward the Ganges plain."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                6
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        }
+    ]
+}

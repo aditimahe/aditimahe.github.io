@@ -1,0 +1,3337 @@
+{
+    "module_name": "Early Adulthood in Vienna and Munich",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "In 1907, Hitler left Linz to live and study fine art in Vienna, financed by an orphan's benefits and support from his mother. He applied for admission to the Academy of Fine Arts Vienna but was rejected twice. The director suggested Hitler should apply to the School of Architecture, but he lacked the necessary academic credentials because he had not finished secondary school.\nOn 21 December 1907, his mother died of breast cancer at the age of 47; Hitler was 18 at the time. In 1909, Hitler ran out of money and was forced to live a bohemian life in homeless shelters and the Meldemannstrasse dormitory. He earned money as a casual labourer and by painting and selling watercolours of Vienna's sights. During his time in Vienna, he pursued a growing passion for architecture and music, attending ten performances of Lohengrin, his favourite of Richard Wagner's operas."
+        },
+        {
+            "note_id": "n2",
+            "text": "Hitler received the final part of his father's estate in May 1913 and moved to Munich. When he was conscripted into the Austro-Hungarian Army, he journeyed to Salzburg on 5 February 1914 for medical assessment. After he was deemed unfit for service, he returned to Munich. Hitler later claimed that he did not wish to serve the Habsburg Empire because of the mixture of races in its army and his belief that the collapse of Austria-Hungary was imminent."
+        },
+        {
+            "note_id": "n3",
+            "text": "In Vienna, Hitler was first exposed to racist rhetoric. Populists such as mayor Karl Lueger exploited the city's prevalent antisemitic sentiment, occasionally also espousing German nationalist notions for political benefit. German nationalism was especially widespread in the Mariahilf district, where Hitler then lived. Georg Ritter von Schonerer became a major influence on Hitler, and he developed an admiration for Martin Luther.\nHitler read newspapers and pamphlets that promoted prejudice and warned of an influx of Eastern European Jews, as well as writings by figures such as Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, and Arthur Schopenhauer. During his years in Vienna he also developed strong anti-Slavic sentiments."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid for Hitler's early life events in Vienna and Munich. Include the following key-value pairs: 'Year of move to Vienna': '1907', 'Year of move to Munich': '1913', 'Age at mother's death': '18', 'Year of medical assessment in Salzburg': '1914'.",
+            "source_notes_used": [
+                "n1",
+                "n2"
+            ],
+            "rationale": "The notes provide specific, unrelated numerical dates and ages that can be formatted as a quantitative spec sheet."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the following people: Karl Lueger (Mayor of Vienna, exploited antisemitic sentiment and German nationalist notions), Georg Ritter von Schonerer (major influence on Hitler), and Martin Luther (figure Hitler developed an admiration for). Use the 'people' entity_type.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The notes provide distinct roles and influences for three specific individuals who shaped Hitler's early political ideology."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a chronological sequence of Hitler's early life events in Vienna from 1907 to 1909. Step 1: 1907 - Moved to Vienna to study fine art. Step 2: Rejected twice by the Academy of Fine Arts Vienna. Step 3: 1907 - Mother's death on 21 December. Step 4: 1909 - Ran out of money and lived in homeless shelters/Meldemannstrasse dormitory.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a clear chronological sequence of distinct events in Hitler's life during his Vienna period."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'bohemian life' as described in note n1, specifically mentioning his residence in homeless shelters and the Meldemannstrasse dormitory.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The text provides a clear context and description of what Hitler's 'bohemian life' entailed in Vienna."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' to list the various sources of influence and information Hitler encountered in Vienna that promoted prejudice and racism, including populists like Karl Lueger, the influence of Georg Ritter von Schonerer, admiration for Martin Luther, and the authors of newspapers, pamphlets, and specific writers like Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, and Arthur Schopenhauer.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 provides a comprehensive list of people and writings that influenced Hitler's racist rhetoric in Vienna, fitting the itemized breakdown schema."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion to group the different ways Hitler earned money or survived during his time in Vienna. Item 1: 'Casual Labourer' - description: 'He earned money as a casual labourer'. Item 2: 'Watercolour Painting' - description: 'He earned money by painting and selling watercolours of Vienna's sights'. Item 3: 'Homeless Shelters' - description: 'He lived in bohemian life in homeless shelters and the Meldemannstrasse dormitory'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 lists parallel, related ways Hitler survived financially in Vienna, which can be grouped as optional deep-dives into his bohemian life."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'Why did the director of the Academy of Fine Arts Vienna suggest Hitler apply to the School of Architecture?', Back: 'Because he was rejected twice from the Academy of Fine Arts, and the director suggested architecture as an alternative, though he lacked the academic credentials to be admitted.'",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 presents a counter-intuitive hook (the director's suggestion) and a factual answer regarding his rejection and lack of credentials."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the date of Hitler's mother's death (21 December 1907) and his age at the time (18). Use the 'floating_overhang' display style as it refers to a specific date.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a precise date and age, making it a perfect fit for an insight badge."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the fact that Hitler was rejected twice by the Academy of Fine Arts Vienna. Use the 'attention_pulse' display style to emphasize the failure.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The double rejection from the art academy is a pivotal, shocking fact that fits the attention_pulse style."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the year Hitler moved to Munich (May 1913). Use the 'floating_overhang' display style as it refers to a specific date.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "The move to Munich is a pivotal event with a specific date."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight Hitler's reason for not wanting to serve the Habsburg Empire: the mixture of races in its army and the belief that the collapse of Austria-Hungary was imminent. Use the 'veiled_reality' display style to reveal his hidden ideological motivation.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "This reveals a specific ideological motive behind his claim of being unfit for service."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a qualitative fact grid for Hitler's time in Vienna. Key-Value pairs: 'Residence' : 'Homeless shelters and the Meldemannstrasse dormitory', 'Primary Income' : 'Casual labourer and selling watercolours', 'Artistic Interests' : 'Architecture and music', 'Favourite Opera' : 'Lohengrin'. Use 'qualitative' mode.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note contains several distinct, unrelated qualitative attributes about Hitler's life in Vienna."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the core concept of Hitler's exposure to racist rhetoric in Vienna, specifically mentioning the influence of populist mayor Karl Lueger. Use the 'cultural_lens' display style to focus on the city's prevalent antisemitic sentiment and societal mood.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note focuses on the cultural and societal influences that shaped Hitler's ideology."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: 'Influences on Hitler's Ideology in Vienna'. Branches: 'Political Figures' (Karl Lueger, Georg Ritter von Schonerer), 'Religious/Historical Figures' (Martin Luther), 'Authors/Thinkers' (Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, Arthur Schopenhauer).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note lists several distinct categories of people and thinkers who influenced Hitler's ideology."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I pruned several redundant widgets targeting the same notes. For n1, raw_w2 (stepper) was kept over raw_w7 and raw_w8 (insight badges) because it provides a chronological narrative of the same events (mother's death, art school rejection). raw_w5 (accordion) was kept over raw_w11 (fact grid) as it better organizes the survival methods in Vienna. raw_w6 (flip_reveal) and raw_w3 (jargon_buster) were kept as they provide distinct angles (a specific anecdote and a definition). For n2, raw_w0 (fact grid) was kept as it consolidates the dates found in raw_w9, while raw_w10 (insight badge) was kept for its unique ideological insight. For n3, raw_w13 (branching_tree) was chosen over raw_w1, raw_w4, and raw_w12 because it is the most complex structural widget, organizing the influences into categories rather than just listing them or highlighting a single person.",
+        "surviving_widget_ids": [
+            "raw_w0",
+            "raw_w2",
+            "raw_w3",
+            "raw_w5",
+            "raw_w6",
+            "raw_w10",
+            "raw_w13"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid for Hitler's early life events in Vienna and Munich. Include the following key-value pairs: 'Year of move to Vienna': '1907', 'Year of move to Munich': '1913', 'Age at mother's death': '18', 'Year of medical assessment in Salzburg': '1914'.",
+            "source_notes_used": [
+                "n1",
+                "n2"
+            ],
+            "rationale": "The notes provide specific, unrelated numerical dates and ages that can be formatted as a quantitative spec sheet."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a chronological sequence of Hitler's early life events in Vienna from 1907 to 1909. Step 1: 1907 - Moved to Vienna to study fine art. Step 2: Rejected twice by the Academy of Fine Arts Vienna. Step 3: 1907 - Mother's death on 21 December. Step 4: 1909 - Ran out of money and lived in homeless shelters/Meldemannstrasse dormitory.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a clear chronological sequence of distinct events in Hitler's life during his Vienna period."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'bohemian life' as described in note n1, specifically mentioning his residence in homeless shelters and the Meldemannstrasse dormitory.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The text provides a clear context and description of what Hitler's 'bohemian life' entailed in Vienna."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion to group the different ways Hitler earned money or survived during his time in Vienna. Item 1: 'Casual Labourer' - description: 'He earned money as a casual labourer'. Item 2: 'Watercolour Painting' - description: 'He earned money by painting and selling watercolours of Vienna's sights'. Item 3: 'Homeless Shelters' - description: 'He lived in bohemian life in homeless shelters and the Meldemannstrasse dormitory'.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 lists parallel, related ways Hitler survived financially in Vienna, which can be grouped as optional deep-dives into his bohemian life."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'Why did the director of the Academy of Fine Arts Vienna suggest Hitler apply to the School of Architecture?', Back: 'Because he was rejected twice from the Academy of Fine Arts, and the director suggested architecture as an alternative, though he lacked the academic credentials to be admitted.'",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 presents a counter-intuitive hook (the director's suggestion) and a factual answer regarding his rejection and lack of credentials."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight Hitler's reason for not wanting to serve the Habsburg Empire: the mixture of races in its army and the belief that the collapse of Austria-Hungary was imminent. Use the 'veiled_reality' display style to reveal his hidden ideological motivation.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "This reveals a specific ideological motive behind his claim of being unfit for service."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Root concept: 'Influences on Hitler's Ideology in Vienna'. Branches: 'Political Figures' (Karl Lueger, Georg Ritter von Schonerer), 'Religious/Historical Figures' (Martin Luther), 'Authors/Thinkers' (Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, Arthur Schopenhauer).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The note lists several distinct categories of people and thinkers who influenced Hitler's ideology."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w0",
+            "block_type": "fact_grid",
+            "fact_grid_data": {
+                "grid_type": "quantitative",
+                "title": "Early Life Timeline",
+                "intro_text": "Key dates and milestones from Hitler's early adulthood as he moved between major cities and faced personal loss.",
+                "items": [
+                    {
+                        "label": "Move to Vienna",
+                        "value": "1907",
+                        "icon_emoji": "🇦🇹"
+                    },
+                    {
+                        "label": "Mother's Death Age",
+                        "value": "18",
+                        "icon_emoji": "🕯️"
+                    },
+                    {
+                        "label": "Move to Munich",
+                        "value": "1913",
+                        "icon_emoji": "🇩🇪"
+                    },
+                    {
+                        "label": "Salzburg Assessment",
+                        "value": "1914",
+                        "icon_emoji": "🏥"
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w1",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "Hitler's Early Life in Vienna",
+                "intro_text": "A chronological sequence of events during Adolf Hitler's time in Vienna from 1907 to 1909.",
+                "steps": [
+                    "1907: Moved to Vienna to study fine art.",
+                    "Rejected twice by the Academy of Fine Arts Vienna.",
+                    "21 December 1907: Death of his mother.",
+                    "1909: Ran out of money and lived in homeless shelters and the Meldemannstrasse dormitory."
+                ]
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w2",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "bohemian life",
+                "definition": "A period in 1909 when Hitler, having run out of money, lived in homeless shelters and the Meldemannstrasse dormitory."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w3",
+            "block_type": "accordion",
+            "accordion_data": {
+                "title": "Survival in Vienna",
+                "intro_text": "After running out of money in 1909, Hitler lived a bohemian lifestyle in Vienna, relying on various means of income and shelter to survive.",
+                "items": [
+                    {
+                        "header": "Casual Labourer",
+                        "hidden_text": "He earned money by working as a casual labourer."
+                    },
+                    {
+                        "header": "Watercolour Painting",
+                        "hidden_text": "He earned money by painting and selling watercolours of Vienna's sights."
+                    },
+                    {
+                        "header": "Homeless Shelters",
+                        "hidden_text": "He lived a bohemian life in homeless shelters and the Meldemannstrasse dormitory."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w4",
+            "block_type": "flip_reveal",
+            "flip_reveal_data": {
+                "front_text": "Why did the director of the Academy of Fine Arts Vienna suggest Hitler apply to the School of Architecture?",
+                "back_text": "Because he was rejected twice from the Academy of Fine Arts, and the director suggested architecture as an alternative, though he lacked the academic credentials to be admitted."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w5",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🎭",
+                "short_title": "Ideological Avoidance",
+                "expanded_detail": "Hitler claimed he avoided serving in the Habsburg Empire's army due to its mixture of races and his belief that the collapse of Austria-Hungary was imminent.",
+                "display_style": "veiled_reality"
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w6",
+            "block_type": "branching_tree",
+            "branching_tree_data": {
+                "title": "Influences on Hitler's Ideology in Vienna",
+                "intro_text": "During his time in Vienna, Hitler was exposed to various political, religious, and intellectual figures whose ideas shaped his developing worldview.",
+                "root": "Influences on Hitler's Ideology in Vienna",
+                "branches": [
+                    {
+                        "label": "Political Figures",
+                        "emoji": "🏛️",
+                        "definition": "Populists like mayor Karl Lueger and figures such as Georg Ritter von Schonerer who promoted racist rhetoric and German nationalism."
+                    },
+                    {
+                        "label": "Religious/Historical Figures",
+                        "emoji": "⛪",
+                        "definition": "Hitler developed an admiration for Martin Luther during his years in Vienna."
+                    },
+                    {
+                        "label": "Authors/Thinkers",
+                        "emoji": "📚",
+                        "definition": "Hitler read writings by Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, and Arthur Schopenhauer."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Early Adulthood in Vienna and Munich",
+        "cards": [
+            {
+                "card_title": "A New Beginning in Vienna",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the module and the initial move to Vienna, setting the stage for the narrative.",
+                        "text_content": "In 1907, a young Adolf Hitler left Linz with dreams of becoming an artist. Financed by *orphan's benefits* and support from his mother, he arrived in **Vienna**, seeking to study fine art. However, his ambitions were quickly met with a harsh reality: he was rejected twice by the **Academy of Fine Arts Vienna**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The timeline widget provides a high-level overview of the key dates and milestones of this period.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the general timeline to the specific struggle with the Academy of Fine Arts.",
+                        "text_content": "While the Academy's rejection was a significant blow, it wasn't the end of his artistic pursuits. The director of the institution offered a different path, though it remained out of reach."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Architecture Alternative",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the director's suggestion and the barrier Hitler faced.",
+                        "text_content": "The director of the Academy suggested that Hitler apply to the **School of Architecture**. It seemed like a viable alternative for someone with a passion for the city's design, but there was a critical academic hurdle."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The flip_reveal widget is perfect for explaining the specific reason why Hitler couldn't enter the architecture school.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the personal tragedy that struck during this time.",
+                        "text_content": "As he struggled to find his footing in the city, a personal tragedy struck. On **21 December 1907**, Hitler's mother died of breast cancer at the age of 47, leaving the 18-year-old without his primary emotional support."
+                    }
+                ]
+            },
+            {
+                "card_title": "Survival and the Bohemian Life",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Describes the period of financial instability and the 'bohemian' lifestyle.",
+                        "text_content": "By 1909, Hitler's financial situation became dire. Having run out of money, he was forced into a precarious existence, relying on homeless shelters and the **Meldemannstrasse dormitory** to survive."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon_buster widget defines 'bohemian life' in the specific context of Hitler's time in Vienna.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the means by which Hitler survived financially.",
+                        "text_content": "To make ends meet, he worked as a casual labourer and painted watercolours of Vienna's landmarks to sell to tourists. Despite the hardship, he continued to cultivate his interests in music and architecture, notably attending ten performances of Richard Wagner's opera, *Lohengrin*."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The accordion widget provides a summary of the various ways Hitler survived in Vienna.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the ideological shift that occurred during his time in Vienna.",
+                        "text_content": "While surviving on the fringes of society, Hitler began to absorb the political atmosphere of the city, which was thick with prejudice and nationalism."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Seeds of Ideology",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the exposure to racist rhetoric and the influence of populists.",
+                        "text_content": "In Vienna, Hitler was first exposed to the racist rhetoric that would later define his political career. Populists like mayor **Karl Lueger** exploited the city's widespread antisemitic sentiment, often blending it with German nationalist ideas for political gain. This sentiment was particularly strong in the **Mariahilf district**, where Hitler lived."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The branching_tree widget visually maps out the various intellectual and political influences on Hitler's developing worldview.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Details the specific readings and sentiments developed during this period.",
+                        "text_content": "He immersed himself in newspapers and pamphlets that warned of an influx of Eastern European Jews and read the works of figures such as **Houston Stewart Chamberlain**, **Friedrich Nietzsche**, and **Arthur Schopenhauer**. During these years, he also developed strong anti-Slavic sentiments. But how did this period of instability lead him to leave Vienna?"
+                    }
+                ]
+            },
+            {
+                "card_title": "Transition to Munich",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Describes the move to Munich and the attempt to join the army.",
+                        "text_content": "In May 1913, Hitler received the final part of his father's estate, providing him with the means to leave Vienna. He moved to **Munich**, but his path was soon interrupted by the call of the military. On **5 February 1914**, he journeyed to Salzburg for a medical assessment after being conscripted into the Austro-Hungarian Army."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight_badge widget highlights the specific reason Hitler gave for avoiding service in the Habsburg Empire.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concludes the module by explaining the outcome of the medical assessment.",
+                        "text_content": "Ultimately, he was deemed unfit for service and returned to Munich. This period of early adulthood, marked by failure, poverty, and the absorption of extremist ideologies, set the stage for his eventual enlistment in the Bavarian Army at the outbreak of World War I."
+                    }
+                ]
+            },
+            {
+                "card_title": "Chronology of the Vienna Years",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Provides a final summary of the sequence of events in Vienna.",
+                        "text_content": "To understand the trajectory of Hitler's early adulthood, it is helpful to look at the specific sequence of events that defined his time in the Austrian capital from 1907 to 1909."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The stepper widget provides a chronological sequence of events during Hitler's time in Vienna.",
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Ends the module with a concluding thought on the impact of these years.",
+                        "text_content": "These formative years in Vienna and Munich represent a critical transition from a failed artist to a man deeply influenced by the nationalist and racist currents of the era."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Failed Artist: Early Years in Vienna and Munich",
+        "module_description": "Explore the formative years of Adolf Hitler, from his rejected artistic ambitions in Vienna to the absorption of extremist ideologies that shaped his future.",
+        "alternative_descriptions": [
+            "Uncover the dark origins of a dictator's worldview in the streets of Vienna and Munich.",
+            "From homeless shelters to political radicalization: trace the path of a failed artist.",
+            "Witness the sequence of failures and tragedies that forged a dangerous ideology."
+        ],
+        "tags": [
+            "Vienna",
+            "Munich",
+            "Nationalism",
+            "Ideology",
+            "Fine Arts"
+        ],
+        "loading_screen_trivia": "Adolf Hitler was rejected twice by the Academy of Fine Arts Vienna.",
+        "timeline": [
+            {
+                "year": "1907",
+                "event": "Moved to Vienna for art study",
+                "related_card_id": 1
+            },
+            {
+                "year": "21 December 1907",
+                "event": "Death of Hitler's mother",
+                "related_card_id": 2
+            },
+            {
+                "year": "1909",
+                "event": "Lived in homeless shelters",
+                "related_card_id": 3
+            },
+            {
+                "year": "May 1913",
+                "event": "Moved to Munich",
+                "related_card_id": 5
+            },
+            {
+                "year": "5 February 1914",
+                "event": "Medical assessment in Salzburg",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Karl Lueger",
+                "emoji_avatar": "🏛️",
+                "historical_role": "Mayor of Vienna",
+                "core_contribution": "Exploited antisemitic sentiment and blended it with German nationalist ideas."
+            },
+            {
+                "name": "Houston Stewart Chamberlain",
+                "emoji_avatar": "📚",
+                "historical_role": "Author and Thinker",
+                "core_contribution": "His writings were read by Hitler during his formative years in Vienna."
+            },
+            {
+                "name": "Friedrich Nietzsche",
+                "emoji_avatar": "📚",
+                "historical_role": "Philosopher",
+                "core_contribution": "One of the thinkers whose works Hitler read while living in Vienna."
+            },
+            {
+                "name": "Arthur Schopenhauer",
+                "emoji_avatar": "📚",
+                "historical_role": "Philosopher",
+                "core_contribution": "A philosopher whose writings influenced Hitler's developing worldview."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "This period illustrates how personal failure, poverty, and exposure to extremist rhetoric can combine to radicalize an individual, providing a critical lesson in the origins of totalitarianism."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "A New Beginning in Vienna",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "In 1907, a young Adolf Hitler left Linz with dreams of becoming an artist. Financed by *orphan's benefits* and support from his mother, he arrived in **Vienna**, seeking to study fine art. However, his ambitions were quickly met with a harsh reality: he was rejected twice by the **Academy of Fine Arts Vienna**."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w0",
+                        "block_type": "fact_grid",
+                        "fact_grid_data": {
+                            "grid_type": "quantitative",
+                            "title": "Early Life Timeline",
+                            "intro_text": "Key dates and milestones from Hitler's early adulthood as he moved between major cities and faced personal loss.",
+                            "items": [
+                                {
+                                    "label": "Move to Vienna",
+                                    "value": "1907",
+                                    "icon_emoji": "🇦🇹"
+                                },
+                                {
+                                    "label": "Mother's Death Age",
+                                    "value": "18",
+                                    "icon_emoji": "🕯️"
+                                },
+                                {
+                                    "label": "Move to Munich",
+                                    "value": "1913",
+                                    "icon_emoji": "🇩🇪"
+                                },
+                                {
+                                    "label": "Salzburg Assessment",
+                                    "value": "1914",
+                                    "icon_emoji": "🏥"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "While the Academy's rejection was a significant blow, it wasn't the end of his artistic pursuits. The director of the institution offered a different path, though it remained out of reach."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "The Architecture Alternative",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "The director of the Academy suggested that Hitler apply to the **School of Architecture**. It seemed like a viable alternative for someone with a passion for the city's design, but there was a critical academic hurdle."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w4",
+                        "block_type": "flip_reveal",
+                        "flip_reveal_data": {
+                            "front_text": "Why did the director of the Academy of Fine Arts Vienna suggest Hitler apply to the School of Architecture?",
+                            "back_text": "Because he was rejected twice from the Academy of Fine Arts, and the director suggested architecture as an alternative, though he lacked the academic credentials to be admitted."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "As he struggled to find his footing in the city, a personal tragedy struck. On **21 December 1907**, Hitler's mother died of breast cancer at the age of 47, leaving the 18-year-old without his primary emotional support."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "Survival and the Bohemian Life",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "By 1909, Hitler's financial situation became dire. Having run out of money, he was forced into a precarious existence, relying on homeless shelters and the **Meldemannstrasse dormitory** to survive."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w2",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "bohemian life",
+                            "definition": "A period in 1909 when Hitler, having run out of money, lived in homeless shelters and the Meldemannstrasse dormitory."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "To make ends meet, he worked as a casual labourer and painted watercolours of Vienna's landmarks to sell to tourists. Despite the hardship, he continued to cultivate his interests in music and architecture, notably attending ten performances of Richard Wagner's opera, *Lohengrin*."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w3",
+                        "block_type": "accordion",
+                        "accordion_data": {
+                            "title": "Survival in Vienna",
+                            "intro_text": "After running out of money in 1909, Hitler lived a bohemian lifestyle in Vienna, relying on various means of income and shelter to survive.",
+                            "items": [
+                                {
+                                    "header": "Casual Labourer",
+                                    "hidden_text": "He earned money by working as a casual labourer."
+                                },
+                                {
+                                    "header": "Watercolour Painting",
+                                    "hidden_text": "He earned money by painting and selling watercolours of Vienna's sights."
+                                },
+                                {
+                                    "header": "Homeless Shelters",
+                                    "hidden_text": "He lived a bohemian life in homeless shelters and the Meldemannstrasse dormitory."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_3_block_3"
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "While surviving on the fringes of society, Hitler began to absorb the political atmosphere of the city, which was thick with prejudice and nationalism."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "The Seeds of Ideology",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "In Vienna, Hitler was first exposed to the racist rhetoric that would later define his political career. Populists like mayor **Karl Lueger** exploited the city's widespread antisemitic sentiment, often blending it with German nationalist ideas for political gain. This sentiment was particularly strong in the **Mariahilf district**, where Hitler lived."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w6",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Influences on Hitler's Ideology in Vienna",
+                            "intro_text": "During his time in Vienna, Hitler was exposed to various political, religious, and intellectual figures whose ideas shaped his developing worldview.",
+                            "root": "Influences on Hitler's Ideology in Vienna",
+                            "branches": [
+                                {
+                                    "label": "Political Figures",
+                                    "emoji": "🏛️",
+                                    "definition": "Populists like mayor Karl Lueger and figures such as Georg Ritter von Schonerer who promoted racist rhetoric and German nationalism."
+                                },
+                                {
+                                    "label": "Religious/Historical Figures",
+                                    "emoji": "⛪",
+                                    "definition": "Hitler developed an admiration for Martin Luther during his years in Vienna."
+                                },
+                                {
+                                    "label": "Authors/Thinkers",
+                                    "emoji": "📚",
+                                    "definition": "Hitler read writings by Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, and Arthur Schopenhauer."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "He immersed himself in newspapers and pamphlets that warned of an influx of Eastern European Jews and read the works of figures such as **Houston Stewart Chamberlain**, **Friedrich Nietzsche**, and **Arthur Schopenhauer**. During these years, he also developed strong anti-Slavic sentiments. But how did this period of instability lead him to leave Vienna?"
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "Transition to Munich",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "In May 1913, Hitler received the final part of his father's estate, providing him with the means to leave Vienna. He moved to **Munich**, but his path was soon interrupted by the call of the military. On **5 February 1914**, he journeyed to Salzburg for a medical assessment after being conscripted into the Austro-Hungarian Army."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎭",
+                            "short_title": "Ideological Avoidance",
+                            "expanded_detail": "Hitler claimed he avoided serving in the Habsburg Empire's army due to its mixture of races and his belief that the collapse of Austria-Hungary was imminent.",
+                            "display_style": "veiled_reality"
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "Ultimately, he was deemed unfit for service and returned to Munich. This period of early adulthood, marked by failure, poverty, and the absorption of extremist ideologies, set the stage for his eventual enlistment in the Bavarian Army at the outbreak of World War I."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "Chronology of the Vienna Years",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "To understand the trajectory of Hitler's early adulthood, it is helpful to look at the specific sequence of events that defined his time in the Austrian capital from 1907 to 1909."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w1",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Hitler's Early Life in Vienna",
+                            "intro_text": "A chronological sequence of events during Adolf Hitler's time in Vienna from 1907 to 1909.",
+                            "steps": [
+                                "1907: Moved to Vienna to study fine art.",
+                                "Rejected twice by the Academy of Fine Arts Vienna.",
+                                "21 December 1907: Death of his mother.",
+                                "1909: Ran out of money and lived in homeless shelters and the Meldemannstrasse dormitory."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "These formative years in Vienna and Munich represent a critical transition from a failed artist to a man deeply influenced by the nationalist and racist currents of the era."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is factually accurate based on the provided notes. However, there is a slight narrative overlap between the text block 'card_1_block_0' and the widget 'card_1_block_1' regarding the date of the move to Vienna (1907). Additionally, the final block 'card_1_block_2' is a bit generic. While it doesn't hallucinate, it can be more engaging while remaining strictly factual to the source.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove the specific date '1907' to eliminate redundancy with the 'Early Life Timeline' widget immediately following it.",
+                        "new_content_or_instructions": "A young Adolf Hitler left Linz with dreams of becoming an artist. Financed by *orphan's benefits* and support from his mother, he arrived in **Vienna**, seeking to study fine art. However, his ambitions were quickly met with a harsh reality: he was rejected twice by the **Academy of Fine Arts Vienna**."
+                    },
+                    {
+                        "target_block_id": "card_1_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text is a bit dry. I will make it more engaging and documentary-style while ensuring it maps directly to the facts in note n1 (the director's suggestion to apply to the School of Architecture).",
+                        "new_content_or_instructions": "The Academy's rejection was a crushing blow, but the director offered a glimmer of hope: a suggestion to apply to the School of Architecture. Yet, this path too remained out of reach due to his lack of academic credentials."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the source notes. However, there is significant redundancy between the first text block and the flip-reveal widget. The text block essentially asks the question and provides the answer that the widget is designed to reveal. Additionally, the phrase 'primary emotional support' is an unverified emotional claim/narrative bridging not explicitly stated in the source text.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block repeats the exact facts (Academy rejection, School of Architecture suggestion) that are revealed in the widget immediately following it. It should instead introduce the context of his artistic ambitions without spoiling the answer.",
+                        "new_content_or_instructions": "Hitler's ambitions in Vienna were met with a harsh reality. Despite his desire to study fine art, the Academy of Fine Arts Vienna rejected him twice, leaving him to consider other paths."
+                    },
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'primary emotional support' is a narrative fabrication. The source only states that he was financed by his mother and that she died.",
+                        "new_content_or_instructions": "As he struggled to find his footing in the city, a personal tragedy struck. On **21 December 1907**, Hitler's mother died of breast cancer at the age of 47, leaving the 18-year-old alone in Vienna."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the provided notes. However, there is significant redundancy between the text blocks and the widgets. Block 0 and Block 2 repeat the exact details (homeless shelters, Meldemannstrasse, casual labourer, watercolours) that are then listed in the Jargon Buster and the Accordion. The text should be rewritten to provide narrative flow and context without listing the data points that the user will see in the widgets.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the specific shelters and dormitory name, which is already in the Jargon Buster and Accordion. It should introduce the situation narratively.",
+                        "new_content_or_instructions": "By 1909, Hitler's financial situation collapsed. He was forced into a precarious existence on the fringes of the city, where he lived a bohemian life of survival."
+                    },
+                    {
+                        "target_block_id": "card_3_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the specific jobs and the opera details. While the opera is not in the accordion, the jobs are. I will rewrite it to focus on the passion for art and music as a contrast to his labor, while keeping the opera fact as it's a key detail not in the widget.",
+                        "new_content_or_instructions": "To survive, he took on odd jobs and sold his art. Despite these hardships, he remained devoted to his passions, notably attending ten performances of Richard Wagner's opera, *Lohengrin*."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the source notes. However, there is significant redundancy between the text blocks and the branching tree widget. Block 0 introduces Karl Lueger and the Mariahilf district, which is then repeated in the widget. Block 2 repeats the names of the authors/thinkers (Chamberlain, Nietzsche, Schopenhauer) which are already explicitly listed in the widget. I will rewrite the text blocks to provide context and flow without repeating the specific data points found in the widget.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove redundancy with the widget. The widget already lists Karl Lueger and the political figures. The text should set the scene rather than list the names.",
+                        "new_content_or_instructions": "In Vienna, Hitler was first exposed to the racist rhetoric that would later define his political career. He lived in the Mariahilf district, a stronghold of German nationalism, where populists exploited the city's widespread antisemitic sentiment for political gain."
+                    },
+                    {
+                        "target_block_id": "card_4_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove redundancy with the widget. The names of the authors and thinkers are already listed in the widget's 'Authors/Thinkers' branch. The text should focus on the nature of the materials he consumed and the other factual claims (anti-Slavic sentiments) not in the widget.",
+                        "new_content_or_instructions": "He immersed himself in newspapers and pamphlets that warned of an influx of Eastern European Jews, absorbing a worldview of prejudice and exclusion. During these years, he also developed strong anti-Slavic sentiments. But how did this period of instability lead him to leave Vienna?"
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps directly to the source notes (n2). It correctly identifies the move to Munich, the conscription process, and Hitler's stated reasons for avoiding the Habsburg army. There are no hallucinations or unverified emotional claims. The transition block (block 2) effectively hooks into the next phase of his life (WWI) without spoiling specific details from the notes that aren't already established.",
+                "is_approved": true,
+                "block_edits": []
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps directly to the source notes. However, the final text block (card_6_block_2) acts as a summary of the entire period rather than a 'hook' or transition to the next card. Additionally, the introductory text (card_6_block_0) is slightly dry. I will refine the text to be more engaging and ensure the final block maintains its forward-looking intent as a transition.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_6_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Make the introductory text more engaging and documentary-style while remaining factual.",
+                        "new_content_or_instructions": "Hitler's arrival in Vienna marked the beginning of a volatile period of instability and failure. To trace his trajectory, we must look at the sequence of events that defined his struggle in the Austrian capital."
+                    },
+                    {
+                        "target_block_id": "card_6_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The current text summarizes the period, which resolves the transition. It needs to be a hook that leads into the next card without spoiling the next set of facts.",
+                        "new_content_or_instructions": "But these failures in art and personal loss were not the place where he found his identity. Instead, they occurred alongside a growing exposure to the dangerous ideologies of the city."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "The Failed Artist: Early Years in Vienna and Munich",
+        "module_description": "Explore the formative years of Adolf Hitler, from his rejected artistic ambitions in Vienna to the absorption of extremist ideologies that shaped his future.",
+        "alternative_descriptions": [
+            "Uncover the dark origins of a dictator's worldview in the streets of Vienna and Munich.",
+            "From homeless shelters to political radicalization: trace the path of a failed artist.",
+            "Witness the sequence of failures and tragedies that forged a dangerous ideology."
+        ],
+        "tags": [
+            "Vienna",
+            "Munich",
+            "Nationalism",
+            "Ideology",
+            "Fine Arts"
+        ],
+        "loading_screen_trivia": "Adolf Hitler was rejected twice by the Academy of Fine Arts Vienna.",
+        "timeline": [
+            {
+                "year": "1907",
+                "event": "Moved to Vienna for art study",
+                "related_card_id": 1
+            },
+            {
+                "year": "21 December 1907",
+                "event": "Death of Hitler's mother",
+                "related_card_id": 2
+            },
+            {
+                "year": "1909",
+                "event": "Lived in homeless shelters",
+                "related_card_id": 3
+            },
+            {
+                "year": "May 1913",
+                "event": "Moved to Munich",
+                "related_card_id": 5
+            },
+            {
+                "year": "5 February 1914",
+                "event": "Medical assessment in Salzburg",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Karl Lueger",
+                "emoji_avatar": "🏛️",
+                "historical_role": "Mayor of Vienna",
+                "core_contribution": "Exploited antisemitic sentiment and blended it with German nationalist ideas."
+            },
+            {
+                "name": "Houston Stewart Chamberlain",
+                "emoji_avatar": "📚",
+                "historical_role": "Author and Thinker",
+                "core_contribution": "His writings were read by Hitler during his formative years in Vienna."
+            },
+            {
+                "name": "Friedrich Nietzsche",
+                "emoji_avatar": "📚",
+                "historical_role": "Philosopher",
+                "core_contribution": "One of the thinkers whose works Hitler read while living in Vienna."
+            },
+            {
+                "name": "Arthur Schopenhauer",
+                "emoji_avatar": "📚",
+                "historical_role": "Philosopher",
+                "core_contribution": "A philosopher whose writings influenced Hitler's developing worldview."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "This period illustrates how personal failure, poverty, and exposure to extremist rhetoric can combine to radicalize an individual, providing a critical lesson in the origins of totalitarianism."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "A New Beginning in Vienna",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "A young Adolf Hitler left Linz with dreams of becoming an artist. Financed by *orphan's benefits* and support from his mother, he arrived in **Vienna**, seeking to study fine art. However, his ambitions were quickly met with a harsh reality: he was rejected twice by the **Academy of Fine Arts Vienna**."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w0",
+                        "block_type": "fact_grid",
+                        "fact_grid_data": {
+                            "grid_type": "quantitative",
+                            "title": "Early Life Timeline",
+                            "intro_text": "Key dates and milestones from Hitler's early adulthood as he moved between major cities and faced personal loss.",
+                            "items": [
+                                {
+                                    "label": "Move to Vienna",
+                                    "value": "1907",
+                                    "icon_emoji": "🇦🇹"
+                                },
+                                {
+                                    "label": "Mother's Death Age",
+                                    "value": "18",
+                                    "icon_emoji": "🕯️"
+                                },
+                                {
+                                    "label": "Move to Munich",
+                                    "value": "1913",
+                                    "icon_emoji": "🇩🇪"
+                                },
+                                {
+                                    "label": "Salzburg Assessment",
+                                    "value": "1914",
+                                    "icon_emoji": "🏥"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "The Academy's rejection was a crushing blow, but the director offered a glimmer of hope: a suggestion to apply to the School of Architecture. Yet, this path too remained out of reach due to his lack of academic credentials."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "The Architecture Alternative",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Hitler's ambitions in Vienna were met with a harsh reality. Despite his desire to study fine art, the Academy of Fine Arts Vienna rejected him twice, leaving him to consider other paths."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w4",
+                        "block_type": "flip_reveal",
+                        "flip_reveal_data": {
+                            "front_text": "Why did the director of the Academy of Fine Arts Vienna suggest Hitler apply to the School of Architecture?",
+                            "back_text": "Because he was rejected twice from the Academy of Fine Arts, and the director suggested architecture as an alternative, though he lacked the academic credentials to be admitted."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "As he struggled to find his footing in the city, a personal tragedy struck. On **21 December 1907**, Hitler's mother died of breast cancer at the age of 47, leaving the 18-year-old alone in Vienna."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "Survival and the Bohemian Life",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "By 1909, Hitler's financial situation collapsed. He was forced into a precarious existence on the fringes of the city, where he lived a bohemian life of survival."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w2",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "bohemian life",
+                            "definition": "A period in 1909 when Hitler, having run out of money, lived in homeless shelters and the Meldemannstrasse dormitory."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "To survive, he took on odd jobs and sold his art. Despite these hardships, he remained devoted to his passions, notably attending ten performances of Richard Wagner's opera, *Lohengrin*."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w3",
+                        "block_type": "accordion",
+                        "accordion_data": {
+                            "title": "Survival in Vienna",
+                            "intro_text": "After running out of money in 1909, Hitler lived a bohemian lifestyle in Vienna, relying on various means of income and shelter to survive.",
+                            "items": [
+                                {
+                                    "header": "Casual Labourer",
+                                    "hidden_text": "He earned money by working as a casual labourer."
+                                },
+                                {
+                                    "header": "Watercolour Painting",
+                                    "hidden_text": "He earned money by painting and selling watercolours of Vienna's sights."
+                                },
+                                {
+                                    "header": "Homeless Shelters",
+                                    "hidden_text": "He lived a bohemian life in homeless shelters and the Meldemannstrasse dormitory."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_3_block_3"
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "While surviving on the fringes of society, Hitler began to absorb the political atmosphere of the city, which was thick with prejudice and nationalism."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "The Seeds of Ideology",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "In Vienna, Hitler was first exposed to the racist rhetoric that would later define his political career. He lived in the Mariahilf district, a stronghold of German nationalism, where populists exploited the city's widespread antisemitic sentiment for political gain."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w6",
+                        "block_type": "branching_tree",
+                        "branching_tree_data": {
+                            "title": "Influences on Hitler's Ideology in Vienna",
+                            "intro_text": "During his time in Vienna, Hitler was exposed to various political, religious, and intellectual figures whose ideas shaped his developing worldview.",
+                            "root": "Influences on Hitler's Ideology in Vienna",
+                            "branches": [
+                                {
+                                    "label": "Political Figures",
+                                    "emoji": "🏛️",
+                                    "definition": "Populists like mayor Karl Lueger and figures such as Georg Ritter von Schonerer who promoted racist rhetoric and German nationalism."
+                                },
+                                {
+                                    "label": "Religious/Historical Figures",
+                                    "emoji": "⛪",
+                                    "definition": "Hitler developed an admiration for Martin Luther during his years in Vienna."
+                                },
+                                {
+                                    "label": "Authors/Thinkers",
+                                    "emoji": "📚",
+                                    "definition": "Hitler read writings by Houston Stewart Chamberlain, Charles Darwin, Friedrich Nietzsche, Gustave Le Bon, and Arthur Schopenhauer."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "He immersed himself in newspapers and pamphlets that warned of an influx of Eastern European Jews, absorbing a worldview of prejudice and exclusion. During these years, he also developed strong anti-Slavic sentiments. But how did this period of instability lead him to leave Vienna?"
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "Transition to Munich",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "In May 1913, Hitler received the final part of his father's estate, providing him with the means to leave Vienna. He moved to **Munich**, but his path was soon interrupted by the call of the military. On **5 February 1914**, he journeyed to Salzburg for a medical assessment after being conscripted into the Austro-Hungarian Army."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎭",
+                            "short_title": "Ideological Avoidance",
+                            "expanded_detail": "Hitler claimed he avoided serving in the Habsburg Empire's army due to its mixture of races and his belief that the collapse of Austria-Hungary was imminent.",
+                            "display_style": "veiled_reality"
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "Ultimately, he was deemed unfit for service and returned to Munich. This period of early adulthood, marked by failure, poverty, and the absorption of extremist ideologies, set the stage for his eventual enlistment in the Bavarian Army at the outbreak of World War I."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Early Adulthood in Vienna and Munich",
+                "created_at": "2026-05-22T17:15:17.722907+00:00",
+                "card_title": "Chronology of the Vienna Years",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "Hitler's arrival in Vienna marked the beginning of a volatile period of instability and failure. To trace his trajectory, we must look at the sequence of events that defined his struggle in the Austrian capital."
+                    },
+                    {
+                        "widget_id": "prebuilt_EarlyAdulthoodinViennaandMunich_w1",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Hitler's Early Life in Vienna",
+                            "intro_text": "A chronological sequence of events during Adolf Hitler's time in Vienna from 1907 to 1909.",
+                            "steps": [
+                                "1907: Moved to Vienna to study fine art.",
+                                "Rejected twice by the Academy of Fine Arts Vienna.",
+                                "21 December 1907: Death of his mother.",
+                                "1909: Ran out of money and lived in homeless shelters and the Meldemannstrasse dormitory."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "But these failures in art and personal loss were not the place where he found his identity. Instead, they occurred alongside a growing exposure to the dangerous ideologies of the city."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "In what year did Adolf Hitler move to Vienna to study fine art?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "1905",
+                    "isCorrect": false,
+                    "feedback": "Hitler left school in 1905 without clear plans for a career."
+                },
+                {
+                    "text": "1907",
+                    "isCorrect": true,
+                    "feedback": "Hitler arrived in Vienna in 1907, financed by orphan's benefits and his mother."
+                },
+                {
+                    "text": "1909",
+                    "isCorrect": false,
+                    "feedback": "By 1909, Hitler had run out of money and was living in homeless shelters."
+                },
+                {
+                    "text": "1913",
+                    "isCorrect": false,
+                    "feedback": "1913 was the year Hitler received his father's estate and moved to Munich."
+                },
+                {
+                    "text": "1914",
+                    "isCorrect": false,
+                    "feedback": "In 1914, Hitler journeyed to Salzburg for a medical assessment."
+                },
+                {
+                    "text": "1906",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention a move to Vienna in 1906."
+                },
+                {
+                    "text": "1910",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention a move to Vienna in 1910."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which institution rejected Adolf Hitler's application to study fine art twice?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "School of Architecture",
+                    "isCorrect": false,
+                    "feedback": "The School of Architecture was suggested as an alternative after his rejection from the Academy."
+                },
+                {
+                    "text": "Academy of Fine Arts Vienna",
+                    "isCorrect": true,
+                    "feedback": "Hitler was rejected twice by the Academy of Fine Arts Vienna."
+                },
+                {
+                    "text": "Linz Art Institute",
+                    "isCorrect": false,
+                    "feedback": "Hitler left Linz to study in Vienna, but the text does not mention a Linz Art Institute."
+                },
+                {
+                    "text": "Munich Academy of Arts",
+                    "isCorrect": false,
+                    "feedback": "Hitler moved to Munich in 1913, well after his artistic rejections in Vienna."
+                },
+                {
+                    "text": "Salzburg Fine Arts School",
+                    "isCorrect": false,
+                    "feedback": "Hitler visited Salzburg for a medical assessment, not for art school."
+                },
+                {
+                    "text": "University of Vienna",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Hitler applying to the University of Vienna."
+                },
+                {
+                    "text": "Vienna Design College",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention a Vienna Design College."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the specific cause of death for Hitler's mother on 21 December 1907?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Heart failure",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention heart failure as the cause of death."
+                },
+                {
+                    "text": "Breast cancer",
+                    "isCorrect": true,
+                    "feedback": "Hitler's mother died of breast cancer at the age of 47."
+                },
+                {
+                    "text": "Pneumonia",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention pneumonia as the cause of death."
+                },
+                {
+                    "text": "Tuberculosis",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention tuberculosis as the cause of death."
+                },
+                {
+                    "text": "Stroke",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention a stroke as the cause of death."
+                },
+                {
+                    "text": "Diabetes",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention diabetes as the cause of death."
+                },
+                {
+                    "text": "Liver failure",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention liver failure as the cause of death."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Where did Hitler stay during his 'bohemian life' in 1909 after running out of money?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Mariahilf district",
+                    "isCorrect": false,
+                    "feedback": "The Mariahilf district is where Hitler lived, but the specific dormitory is the Meldemannstrasse."
+                },
+                {
+                    "text": "Meldemannstrasse dormitory",
+                    "isCorrect": true,
+                    "feedback": "Hitler relied on homeless shelters and the Meldemannstrasse dormitory to survive."
+                },
+                {
+                    "text": "Linz shelter",
+                    "isCorrect": false,
+                    "feedback": "Hitler had already left Linz for Vienna by 1907."
+                },
+                {
+                    "text": "Salzburg hostel",
+                    "isCorrect": false,
+                    "feedback": "Hitler visited Salzburg in 1914 for a medical assessment."
+                },
+                {
+                    "text": "Munich boarding house",
+                    "isCorrect": false,
+                    "feedback": "Hitler did not move to Munich until 1913."
+                },
+                {
+                    "text": "Vienna City Hall",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Hitler staying at the City Hall."
+                },
+                {
+                    "text": "Habsburg dormitory",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention a Habsburg dormitory."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                6
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which populist mayor in Vienna influenced Hitler's exposure to racist rhetoric?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Georg Ritter von Schonerer",
+                    "isCorrect": false,
+                    "feedback": "Schonerer was a political influence, but he was not the mayor of Vienna."
+                },
+                {
+                    "text": "Karl Lueger",
+                    "isCorrect": true,
+                    "feedback": "Mayor Karl Lueger exploited antisemitic sentiment for political gain in Vienna."
+                },
+                {
+                    "text": "Houston Stewart Chamberlain",
+                    "isCorrect": false,
+                    "feedback": "Chamberlain was an author Hitler read, not the mayor of Vienna."
+                },
+                {
+                    "text": "Friedrich Nietzsche",
+                    "isCorrect": false,
+                    "feedback": "Nietzsche was a philosopher whose works Hitler read, not the mayor of Vienna."
+                },
+                {
+                    "text": "Arthur Schopenhauer",
+                    "isCorrect": false,
+                    "feedback": "Hopenhauer was a philosopher whose works Hitler read, not the mayor of Vienna."
+                },
+                {
+                    "text": "Martin Luther",
+                    "isCorrect": false,
+                    "feedback": "Luther was a religious figure Hitler admired, not the mayor of Vienna."
+                },
+                {
+                    "text": "Gustave Le Bon",
+                    "isCorrect": false,
+                    "feedback": "Gustave Le Bon was an author Hitler read, not the mayor of Vienna."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which opera by Richard Wagner did Hitler attend ten performances of while in Vienna?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "The Ring Cycle",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention the Ring Cycle."
+                },
+                {
+                    "text": "Lohengrin",
+                    "isCorrect": true,
+                    "feedback": "Hitler attended ten performances of Wagner's opera, Lohengrin."
+                },
+                {
+                    "text": "Tristan und Isolde",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Tristan und Isolde."
+                },
+                {
+                    "text": "Parsifal",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Parsifal."
+                },
+                {
+                    "text": "The Flying Dutchman",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention The Flying Dutchman."
+                },
+                {
+                    "text": "Tannhäuser",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Tannhäuser."
+                },
+                {
+                    "text": "Die Meistersinger",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Die Meistersinger."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In what month and year did Hitler move to Munich?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "May 1913",
+                    "isCorrect": true,
+                    "feedback": "Hitler moved to Munich in May 1913 after receiving his father's estate."
+                },
+                {
+                    "text": "December 1907",
+                    "isCorrect": false,
+                    "feedback": "This was the date of his mother's death."
+                },
+                {
+                    "text": "February 1914",
+                    "isCorrect": false,
+                    "feedback": "This was the date of his medical assessment in Salzburg."
+                },
+                {
+                    "text": "January 1909",
+                    "isCorrect": false,
+                    "feedback": "This was when he began living in homeless shelters."
+                },
+                {
+                    "text": "May 1907",
+                    "isCorrect": false,
+                    "feedback": "This was when he arrived in Vienna."
+                },
+                {
+                    "text": "June 1913",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies May 1913."
+                },
+                {
+                    "text": "April 1913",
+                    "isCorrect": false,
+                    "feedback": "The source text specifies May 1913."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why was Hitler deemed unfit for service in the Austro-Hungarian Army in 1914?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Lack of academic credentials",
+                    "isCorrect": false,
+                    "feedback": "Academic credentials were the hurdle for the School of Architecture, not the army."
+                },
+                {
+                    "text": "Medical assessment",
+                    "isCorrect": true,
+                    "feedback": "Hitler was deemed unfit for service after a medical assessment in Salzburg."
+                },
+                {
+                    "text": "Political instability",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention political instability as a reason for his unfitness."
+                },
+                {
+                    "text": "Lack of citizenship",
+                    "isCorrect": false,
+                    "feedback": "Hitler was an Austrian citizen at the time of his assessment."
+                },
+                {
+                    "text": "Age requirements",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention age requirements as a reason for his unfitness."
+                },
+                {
+                    "text": "Physical disability",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention a specific physical disability, only the result of the assessment."
+                },
+                {
+                    "text": "Mental health",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention mental health as a reason for his unfitness."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In 1907, Adolf Hitler moved to ____ to study fine art, but was rejected twice by the Academy of Fine Arts.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Vienna",
+                    "isCorrect": true,
+                    "feedback": "Hitler moved to Vienna in 1907 to pursue his dream of becoming an artist."
+                },
+                {
+                    "text": "Munich",
+                    "isCorrect": false,
+                    "feedback": "Hitler did not move to Munich until 1913 after receiving his father's estate."
+                },
+                {
+                    "text": "Linz",
+                    "isCorrect": false,
+                    "feedback": "Linz is the city Hitler left in 1907 to move to Vienna."
+                },
+                {
+                    "text": "Salzburg",
+                    "isCorrect": false,
+                    "feedback": "Hitler visited Salzburg in 1914 for a medical assessment, not to study art."
+                },
+                {
+                    "text": "Berlin",
+                    "isCorrect": false,
+                    "feedback": "Berlin was the capital of Germany, but not where Hitler sought his art studies in 1907."
+                },
+                {
+                    "text": "Passau",
+                    "isCorrect": false,
+                    "feedback": "Passau is where Hitler's family lived briefly during his childhood."
+                },
+                {
+                    "text": "Steyr",
+                    "isCorrect": false,
+                    "feedback": "Steyr is where Hitler attended the Realschule after leaving Linz."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "After being rejected from the Academy of Fine Arts, the director suggested that Hitler apply to the ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "School of Architecture",
+                    "isCorrect": true,
+                    "feedback": "The director suggested architecture as a viable alternative for Hitler's passion for city design."
+                },
+                {
+                    "text": "School of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "This is the institution that rejected Hitler twice."
+                },
+                {
+                    "text": "Academy of Music",
+                    "isCorrect": false,
+                    "feedback": "While Hitler enjoyed music, he was not suggested to study at a music academy."
+                },
+                {
+                    "text": "School of Design",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention a suggestion to study general design."
+                },
+                {
+                    "text": "School of History",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of Hitler being suggested to study history."
+                },
+                {
+                    "text": "School of Politics",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of Hitler being suggested to study politics."
+                },
+                {
+                    "text": "School of Law",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of Hitler being suggested to study law."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "On 21 December 1907, Hitler's mother died of ____, leaving the 18-year-old without his primary emotional support.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "breast cancer",
+                    "isCorrect": true,
+                    "feedback": "Hitler's mother died of breast cancer at the age of 47 on 21 December 1907."
+                },
+                {
+                    "text": "lung cancer",
+                    "isCorrect": false,
+                    "feedback": "The source text specifically identifies breast cancer as the cause of death."
+                },
+                {
+                    "text": "heart failure",
+                    "isCorrect": false,
+                    "feedback": "The source text specifically identifies breast cancer as the cause of death."
+                },
+                {
+                    "text": "pneumonia",
+                    "isCorrect": false,
+                    "feedback": "The source text specifically identifies breast cancer as the cause of death."
+                },
+                {
+                    "text": "tuberculosis",
+                    "isCorrect": false,
+                    "feedback": "The source text specifically identifies breast cancer as the cause of death."
+                },
+                {
+                    "text": "stroke",
+                    "isCorrect": false,
+                    "feedback": "The source text specifically identifies breast cancer as the cause of death."
+                },
+                {
+                    "text": "diabetes",
+                    "isCorrect": false,
+                    "feedback": "The source text specifically identifies breast cancer as the cause of death."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "By 1909, Hitler lived a 'bohemian life' in Vienna, relying on homeless shelters and the ____ to survive.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Meldemannstrasse dormitory",
+                    "isCorrect": true,
+                    "feedback": "Hitler relied on the Meldemannstrasse dormitory and homeless shelters during his period of poverty in 1909."
+                },
+                {
+                    "text": "Mariahilf district",
+                    "isCorrect": false,
+                    "feedback": "The Mariahilf district is where Hitler lived, but the dormitory is the specific shelter mentioned."
+                },
+                {
+                    "text": "Linz shelter",
+                    "isCorrect": false,
+                    "feedback": "Hitler was living in Vienna, not Linz, during this period."
+                },
+                {
+                    "text": "Munich hostel",
+                    "isCorrect": false,
+                    "feedback": "Hitler did not move to Munich until 1913."
+                },
+                {
+                    "text": "Salzburg lodge",
+                    "isCorrect": false,
+                    "feedback": "Hitler only visited Salzburg for a medical assessment."
+                },
+                {
+                    "text": "Vienna Central Station",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention him living at the station."
+                },
+                {
+                    "text": "Habsburg dormitory",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention a dormitory by this name."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "To earn money in Vienna, Hitler worked as a casual labourer and painted ____ of the city's landmarks to sell to tourists.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "watercolours",
+                    "isCorrect": true,
+                    "feedback": "Hitler painted and sold watercolours of Vienna's sights to make ends meet."
+                },
+                {
+                    "text": "oil paintings",
+                    "isCorrect": false,
+                    "feedback": "The text specifically mentions watercolours, not oil paintings."
+                },
+                {
+                    "text": "charcoal sketches",
+                    "isCorrect": false,
+                    "feedback": "The text specifically mentions watercolours, not charcoal sketches."
+                },
+                {
+                    "text": "acrylics",
+                    "isCorrect": false,
+                    "feedback": "The text specifically mentions watercolours, not acrylics."
+                },
+                {
+                    "text": "pastels",
+                    "isCorrect": false,
+                    "feedback": "The text specifically mentions watercolours, not pastels."
+                },
+                {
+                    "text": "ink drawings",
+                    "isCorrect": false,
+                    "feedback": "The text specifically mentions watercolours, not ink drawings."
+                },
+                {
+                    "text": "sculptures",
+                    "isCorrect": false,
+                    "feedback": "Hitler was painting, not sculpting, for the tourists."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In Vienna, Hitler was influenced by populists like mayor ____, who exploited antisemitic sentiment for political gain.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Karl Lueger",
+                    "isCorrect": true,
+                    "feedback": "Mayor Karl Lueger was a populist who blended antisemitism with German nationalism in Vienna."
+                },
+                {
+                    "text": "Georg Ritter von Schonerer",
+                    "isCorrect": false,
+                    "feedback": "While Schonerer was an influence, Lueger was the specific mayor mentioned."
+                },
+                {
+                    "text": "Houston Stewart Chamberlain",
+                    "isCorrect": false,
+                    "feedback": "Chamberlain was an author Hitler read, not the mayor of Vienna."
+                },
+                {
+                    "text": "Friedrich Nietzsche",
+                    "isCorrect": false,
+                    "feedback": "Nietzsche was a philosopher whose works Hitler read, not the mayor."
+                },
+                {
+                    "text": "Arthur Schopenhauer",
+                    "isCorrect": false,
+                    "feedback": "Schopenhauer was a philosopher whose works Hitler read, not the mayor."
+                },
+                {
+                    "text": "Martin Luther",
+                    "isCorrect": false,
+                    "feedback": "Luther was a religious figure Hitler admired, not the mayor."
+                },
+                {
+                    "text": "Gustave Le Bon",
+                    "isCorrect": false,
+                    "feedback": "Le Bon was an author Hitler read, not the mayor."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Hitler's exposure to racist rhetoric in Vienna was particularly strong in the ____, where he lived.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Mariahilf district",
+                    "isCorrect": true,
+                    "feedback": "The Mariahilf district was where Hitler lived and where antisemitic sentiment was particularly strong."
+                },
+                {
+                    "text": "Meldemannstrasse",
+                    "isCorrect": false,
+                    "feedback": "Meldemannstrasse is the location of the dormitory he stayed in, not the district name."
+                },
+                {
+                    "text": "Linz district",
+                    "isCorrect": false,
+                    "feedback": "Linz is a different city entirely."
+                },
+                {
+                    "text": "Munich district",
+                    "isCorrect": false,
+                    "feedback": "Munich is a different city entirely."
+                },
+                {
+                    "text": "Salzburg district",
+                    "isCorrect": false,
+                    "feedback": "Habsburg district is not mentioned as the place he lived."
+                },
+                {
+                    "text": "Habsburg district",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention a district by this name."
+                },
+                {
+                    "text": "Vienna center",
+                    "isCorrect": false,
+                    "feedback": "The text specifies the Mariahilf district specifically."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In May 1913, Hitler moved to ____ after receiving the final part of his father's estate.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Munich",
+                    "isCorrect": true,
+                    "feedback": "Hitler moved to Munich in May 1913 using the funds from his father's estate."
+                },
+                {
+                    "text": "Vienna",
+                    "isCorrect": false,
+                    "feedback": "Hitler had been living in Vienna and moved away from it in 1913."
+                },
+                {
+                    "text": "Linz",
+                    "isCorrect": false,
+                    "feedback": "Linz is where he started his journey in 1907."
+                },
+                {
+                    "text": "Salzburg",
+                    "isCorrect": false,
+                    "feedback": "facebook: Hitler only visited Salzburg for a medical assessment."
+                },
+                {
+                    "text": "Berlin",
+                    "isCorrect": false,
+                    "feedback": "Berlin was not his destination in 1913."
+                },
+                {
+                    "text": "Passau",
+                    "isCorrect": false,
+                    "feedback": "Passau is where he lived as a child."
+                },
+                {
+                    "text": "Steyr",
+                    "isCorrect": false,
+                    "feedback": "Steyr is where he attended school."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the reason Adolf Hitler was unable to attend the School of Architecture in Vienna?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "He lacked the necessary academic credentials",
+                    "isCorrect": true,
+                    "feedback": "The director suggested architecture, but Hitler could not be admitted because he had not finished secondary school."
+                },
+                {
+                    "text": "He was rejected twice by the admissions board",
+                    "isCorrect": false,
+                    "feedback": "This describes his experience with the Academy of Fine Arts, not the School of Architecture."
+                },
+                {
+                    "text": "He lacked the financial means to pay tuition",
+                    "isCorrect": false,
+                    "feedback": "He was initially financed by orphan's benefits and support from his mother."
+                },
+                {
+                    "text": "He failed the entrance examination for design",
+                    "isCorrect": false,
+                    "feedback": "The text specifies a lack of academic credentials rather than a failed specific exam."
+                },
+                {
+                    "text": "He was deemed unfit for service by the army",
+                    "isCorrect": false,
+                    "feedback": "This refers to his 1914 medical assessment in Salzburg, not his education in Vienna."
+                },
+                {
+                    "text": "He lacked a portfolio of architectural works",
+                    "isCorrect": false,
+                    "feedback": "The hurdle was his academic credentials (secondary school completion), not his portfolio."
+                },
+                {
+                    "text": "He was denied entry due to his political affiliations",
+                    "isCorrect": false,
+                    "feedback": "His political ideology developed during his time in Vienna; it was not the reason for his academic rejection."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why was Adolf Hitler unable to enroll in the School of Architecture despite the director's suggestion?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "He lacked the necessary academic credentials",
+                    "isCorrect": true,
+                    "feedback": "The director suggested architecture as an alternative, but Hitler lacked the academic credentials to be admitted because he had not finished secondary school."
+                },
+                {
+                    "text": "He was rejected twice by the Academy of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "While he was rejected twice, this was the reason the director suggested architecture, not the reason he couldn't enter the school."
+                },
+                {
+                    "text": "He lacked financial support from his mother",
+                    "isCorrect": false,
+                    "feedback": "His mother provided support and orphan's benefits initially, but this was not the academic hurdle for architecture school."
+                },
+                {
+                    "text": "He failed the medical assessment in Salzburg",
+                    "isCorrect": false,
+                    "feedback": "The Salzburg assessment occurred in 1914, years after his attempts to enter art and architecture schools."
+                },
+                {
+                    "text": "He lacked a portfolio of watercolours",
+                    "isCorrect": false,
+                    "feedback": "He painted watercolours to earn money during his bohemian period, not as a requirement for architecture school."
+                },
+                {
+                    "text": "He was deemed unfit for military service",
+                    "isCorrect": false,
+                    "feedback": "Being unfit for military service happened in 1914 and is unrelated to his academic pursuits in Vienna."
+                },
+                {
+                    "text": "He lacked support from the city's design board",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of a design board; the hurdle was specifically his lack of academic credentials."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The director of the Academy of Fine Arts Vienna suggested Hitler apply to the School of Architecture because ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "he lacked secondary school credentials",
+                    "isCorrect": false,
+                    "feedback": "This was the reason he could NOT be admitted to the School of Architecture, not why it was suggested."
+                },
+                {
+                    "text": "he was rejected twice from the Academy",
+                    "isCorrect": true,
+                    "feedback": "The director suggested architecture as a viable alternative after Hitler's two rejections from the fine arts program."
+                },
+                {
+                    "text": "he had a passion for city design",
+                    "isCorrect": false,
+                    "feedback": "While he had this passion, the suggestion was a response to his failure to enter the Academy."
+                },
+                {
+                    "text": "he was financed by orphan's benefits",
+                    "isCorrect": false,
+                    "feedback": "His financing was a means of survival, not the reason for the academic suggestion."
+                },
+                {
+                    "text": "he lived in the Mariahilf district",
+                    "isCorrect": false,
+                    "feedback": "His residence did not influence the director's academic recommendations."
+                },
+                {
+                    "text": "he painted watercolours of landmarks",
+                    "isCorrect": false,
+                    "feedback": "His professional activity as a painter was separate from the director's institutional advice."
+                },
+                {
+                    "text": "he attended Wagner's operas",
+                    "isCorrect": false,
+                    "feedback": "His interest in music was a personal pursuit, not a reason for the school's suggestion."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What was the direct result of Adolf Hitler being rejected twice by the Academy of Fine Arts Vienna?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "He applied to the School of Architecture",
+                    "isCorrect": true,
+                    "feedback": "The director of the Academy suggested architecture as a viable alternative after his rejections."
+                },
+                {
+                    "text": "He moved immediately to Munich",
+                    "isCorrect": false,
+                    "feedback": "He remained in Vienna for several years before moving to Munich in 1913."
+                },
+                {
+                    "text": "He enlisted in the Bavarian Army",
+                    "isCorrect": false,
+                    "feedback": "His enlistment in the Bavarian Army occurred much later, at the outbreak of World War I."
+                },
+                {
+                    "text": "He entered the Austro-Hungarian Army",
+                    "isCorrect": false,
+                    "feedback": "He was conscripted into the Austro-Hungarian Army in 1914, years after his initial rejections."
+                },
+                {
+                    "text": "He became a casual labourer",
+                    "isCorrect": false,
+                    "feedback": "While he did this, it was a result of running out of money in 1909, not the immediate result of the Academy's rejection."
+                },
+                {
+                    "text": "He moved to Salzburg",
+                    "isCorrect": false,
+                    "feedback": "He journeyed to Salzburg for a medical assessment in 1914, not as a result of his art school rejection."
+                },
+                {
+                    "text": "He sought orphan's benefits",
+                    "isCorrect": false,
+                    "feedback": "Orphan's benefits helped finance his initial move to Vienna, not as a result of the rejection."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the consequence of Hitler running out of money in Vienna by 1909?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Living in homeless shelters",
+                    "isCorrect": true,
+                    "feedback": "Financial desperation forced him into a bohemian life relying on homeless shelters and the Meldemannstrasse dormitory."
+                },
+                {
+                    "text": "Moving to Munich",
+                    "isCorrect": false,
+                    "feedback": "He did not move to Munich until May 1913 after receiving his father's estate."
+                },
+                {
+                    "text": "Applying to the School of Architecture",
+                    "isCorrect": false,
+                    "feedback": "The suggestion to apply to architecture happened earlier, following his rejection from the Academy of Fine Arts."
+                },
+                {
+                    "text": "Enlisting in the Bavarian Army",
+                    "isCorrect": false,
+                    "feedback": "This occurred in 1914, long after his financial crisis in 1909."
+                },
+                {
+                    "text": "Returning to Linz",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention him returning to Linz after running out of money in Vienna."
+                },
+                {
+                    "text": "Seeking medical assessment in Salzburg",
+                    "isCorrect": false,
+                    "feedback": "The Salzburg assessment occurred in 1914 during his conscription process."
+                },
+                {
+                    "text": "Receiving his father's estate",
+                    "isCorrect": false,
+                    "feedback": "He received the final part of his father's estate in 1913, which ended his poverty, rather than being a consequence of it."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                6
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the direct outcome of Hitler receiving the final part of his father's estate in May 1913?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "He moved to Munich",
+                    "isCorrect": true,
+                    "feedback": "The estate provided him with the financial means to leave Vienna and relocate to Munich."
+                },
+                {
+                    "text": "He moved to Salzburg",
+                    "isCorrect": false,
+                    "feedback": "He went to Salzburg in 1914 for a medical assessment, not because of the estate."
+                },
+                {
+                    "text": "He entered the Academy of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "He was rejected twice by the Academy years prior to receiving the estate."
+                },
+                {
+                    "text": "He joined the Austro-Hungarian Army",
+                    "isCorrect": false,
+                    "feedback": "He was conscripted into the army in 1914, not as a direct result of the estate."
+                },
+                {
+                    "text": "He began painting watercolours",
+                    "isCorrect": false,
+                    "feedback": "He painted watercolours to survive during his period of poverty in Vienna, not after receiving the estate."
+                },
+                {
+                    "text": "He moved back to Linz",
+                    "isCorrect": false,
+                    "feedback": "He left Linz for Vienna in 1907, and the estate did not cause him to return there."
+                },
+                {
+                    "text": "He applied to the School of Architecture",
+                    "isCorrect": false,
+                    "feedback": "The architecture suggestion occurred shortly after his initial rejections in 1907."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the result of Hitler's medical assessment in Salzburg on 5 February 1914?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "He was deemed unfit for service",
+                    "isCorrect": true,
+                    "feedback": "The assessment concluded he was unfit for service, allowing him to return to Munich."
+                },
+                {
+                    "text": "He was immediately conscripted",
+                    "isCorrect": false,
+                    "feedback": "He was deemed unfit, meaning he was not successfully conscripted into the Austro-Hungarian Army."
+                },
+                {
+                    "text": "He was sent to the Western Front",
+                    "isCorrect": false,
+                    "feedback": "He served on the Western Front later as part of the Bavarian Army, not the Austro-Hungarian Army."
+                },
+                {
+                    "text": "He was granted German citizenship",
+                    "isCorrect": false,
+                    "feedback": "He did not acquire German citizenship until 1932."
+                },
+                {
+                    "text": "He was ordered to return to Linz",
+                    "isCorrect": false,
+                    "feedback": "He returned to Munich, not Linz, after the assessment."
+                },
+                {
+                    "text": "He was admitted to the School of Architecture",
+                    "isCorrect": false,
+                    "feedback": "He never gained admission to the architecture school due to lacking academic credentials."
+                },
+                {
+                    "text": "He was appointed as a casual labourer",
+                    "isCorrect": false,
+                    "feedback": "He worked as a casual labourer during his poverty-stricken years in Vienna, not in Salzburg."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did Adolf Hitler resolve his lack of funds in 1909 while living in Vienna?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Applying for a government grant",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention any government grants; he relied on casual labor and art sales."
+                },
+                {
+                    "text": "Selling watercolours of landmarks",
+                    "isCorrect": true,
+                    "feedback": "He earned money by painting and selling watercolours of Vienna's sights to tourists."
+                },
+                {
+                    "text": "Using his father's estate",
+                    "isCorrect": false,
+                    "feedback": "He did not receive the final part of his father's estate until May 1913."
+                },
+                {
+                    "text": "Working as a professional architect",
+                    "isCorrect": false,
+                    "feedback": "He lacked the academic credentials to be admitted to the School of Architecture."
+                },
+                {
+                    "text": "Receiving a scholarship from the Academy",
+                    "isCorrect": false,
+                    "feedback": "He was rejected twice by the Academy of Fine Arts Vienna."
+                },
+                {
+                    "text": "Selling political pamphlets",
+                    "isCorrect": false,
+                    "feedback": "He read pamphlets to absorb ideology, but did not sell them for income."
+                },
+                {
+                    "text": "Working as a full-time artist",
+                    "isCorrect": false,
+                    "feedback": "He worked as a casual labourer and sold watercolours to survive."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "After being rejected twice by the Academy of Fine Arts Vienna, the director suggested that Hitler resolve his artistic failure by applying to the ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "School of Architecture",
+                    "isCorrect": true,
+                    "feedback": "The director suggested the School of Architecture as a viable alternative for Hitler's artistic ambitions."
+                },
+                {
+                    "text": "School of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "This is the institution that rejected him twice, not the solution offered."
+                },
+                {
+                    "text": "Academy of Music",
+                    "isCorrect": false,
+                    "feedback": "While Hitler enjoyed music, the director did not suggest this as a professional alternative."
+                },
+                {
+                    "text": "Linz Art Institute",
+                    "isCorrect": false,
+                    "feedback": "Hitler had already left Linz to seek study in Vienna."
+                },
+                {
+                    "text": "Vienna Design College",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of a design college being suggested as a solution."
+                },
+                {
+                    "text": "Imperial Art School",
+                    "isCorrect": false,
+                    "feedback": "This is not the institution suggested by the director of the Academy."
+                },
+                {
+                    "text": "School of Drafting",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention a school of drafting as a suggested alternative."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which category of influence best describes the role of Houston Stewart Chamberlain, Friedrich Nietzsche, and Arthur Schopenhauer in Hitler's early adulthood?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Political Figures",
+                    "isCorrect": false,
+                    "feedback": "Political figures like Karl Lueger and Georg Ritter von Schonerer promoted racist rhetoric and nationalism."
+                },
+                {
+                    "text": "Religious/Historical Figures",
+                    "isCorrect": false,
+                    "feedback": "This category includes figures like Martin Luther, whom Hitler admired."
+                },
+                {
+                    "text": "Authors/Thinkers",
+                    "isCorrect": true,
+                    "feedback": "Chamberlain, Nietzsche, and Schopenhauer are listed as authors and thinkers whose writings Hitler read."
+                },
+                {
+                    "text": "Academic Mentors",
+                    "isCorrect": false,
+                    "feedback": "Hitler lacked academic credentials and was rejected by the Academy of Fine Arts."
+                },
+                {
+                    "text": "Military Officers",
+                    "isCorrect": false,
+                    "feedback": "Hitler's military influence came later during his service in the Bavarian Army."
+                },
+                {
+                    "text": "Artistic Directors",
+                    "isCorrect": false,
+                    "feedback": "The Academy director suggested architecture, but did not serve as an ideological thinker."
+                },
+                {
+                    "text": "Legal Advisors",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of legal advisors influencing his ideology in Vienna."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Under which category of survival methods did Hitler's time at the Meldemannstrasse dormitory fall?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Casual Labour",
+                    "isCorrect": false,
+                    "feedback": "Casual labour refers to the manual work he did to earn money."
+                },
+                {
+                    "text": "Watercolour Painting",
+                    "isCorrect": false,
+                    "feedback": "Painting watercolours was a method of earning income, not a form of shelter."
+                },
+                {
+                    "text": "Homeless Shelters",
+                    "isCorrect": true,
+                    "feedback": "The Meldemannstrasse dormitory is specifically grouped with homeless shelters as part of his bohemian life."
+                },
+                {
+                    "text": "Orphan's Benefits",
+                    "isCorrect": false,
+                    "feedback": "Orphan's benefits financed his initial move to Vienna, not his later homeless period."
+                },
+                {
+                    "text": "Father's Estate",
+                    "isCorrect": false,
+                    "feedback": "His father's estate provided the means for him to leave Vienna in 1913."
+                },
+                {
+                    "text": "Academic Scholarships",
+                    "isCorrect": false,
+                    "feedback": "Hitler was rejected by the Academy and lacked the credentials for architecture school."
+                },
+                {
+                    "text": "Government Pensions",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of government pensions supporting his survival in Vienna."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "To which group of political influences does Mayor Karl Lueger belong?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Religious Reformers",
+                    "isCorrect": false,
+                    "feedback": "Religious figures like Martin Luther were separate from the political populists."
+                },
+                {
+                    "text": "Philosophical Thinkers",
+                    "isCorrect": false,
+                    "feedback": "Thinkers like Nietzsche and Schopenhauer provided intellectual framework, not political leadership."
+                },
+                {
+                    "text": "Populist Politicians",
+                    "isCorrect": true,
+                    "feedback": "Karl Lueger is explicitly identified as a populist mayor who exploited antisemitic sentiment."
+                },
+                {
+                    "text": "Military Strategists",
+                    "isCorrect": false,
+                    "feedback": "Lueger was a civilian political leader, not a military strategist."
+                },
+                {
+                    "text": "Academic Professors",
+                    "isCorrect": false,
+                    "feedback": "Hitler was rejected by the Academy and did not have professors in Vienna."
+                },
+                {
+                    "text": "Artistic Mentors",
+                    "isCorrect": false,
+                    "feedback": "The Academy director provided a suggestion, but Lueger was a political influence."
+                },
+                {
+                    "text": "Diplomatic Envoys",
+                    "isCorrect": false,
+                    "feedback": "Lueger's role was local political leadership in Vienna."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "During his time in Vienna, Hitler's reliance on homeless shelters and the Meldemannstrasse dormitory is categorized as living a ____ life.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "bohemian",
+                    "isCorrect": true,
+                    "feedback": "A bohemian life refers to the period in 1909 when Hitler lived in shelters and the Meldemannstrasse dormitory after running out of money."
+                },
+                {
+                    "text": "ascetic",
+                    "isCorrect": false,
+                    "feedback": "An ascetic life involves severe self-discipline and abstention, whereas Hitler's situation was forced by poverty."
+                },
+                {
+                    "text": "itinerant",
+                    "isCorrect": false,
+                    "feedback": "An itinerant life involves traveling from place to place, but Hitler's survival in Vienna was centered on specific shelters."
+                },
+                {
+                    "text": "cloistered",
+                    "isCorrect": false,
+                    "feedback": "A cloistered life is one spent in seclusion, typically in a religious setting, which does not describe Hitler's urban poverty."
+                },
+                {
+                    "text": "monastic",
+                    "isCorrect": false,
+                    "feedback": "A monastic life is lived in a monastery, unlike Hitler's precarious existence in homeless shelters."
+                },
+                {
+                    "text": "hedonistic",
+                    "isCorrect": false,
+                    "feedback": "A hedonistic life is devoted to the pursuit of pleasure, the opposite of Hitler's struggle for survival."
+                },
+                {
+                    "text": "nomadic",
+                    "isCorrect": false,
+                    "feedback": "A nomadic life involves moving for pasture or seasonal resources, not urban homelessness."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which of the following events occurred first in the timeline of Hitler's early adulthood?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Moving to Munich",
+                    "isCorrect": false,
+                    "feedback": "Hitler moved to Munich in 1913, which was after his time in Vienna."
+                },
+                {
+                    "text": "Moving to Vienna",
+                    "isCorrect": true,
+                    "feedback": "Hitler first moved to Vienna in 1907 to study fine art."
+                },
+                {
+                    "text": "Death of his mother",
+                    "isCorrect": false,
+                    "feedback": "His mother died on 21 December 1907, after he had already arrived in Vienna."
+                },
+                {
+                    "text": "Living in the Meldemannstrasse dormitory",
+                    "isCorrect": false,
+                    "feedback": "Hitler lived in the dormitory starting in 1909, several years after moving to Vienna."
+                },
+                {
+                    "text": "Medical assessment in Salzburg",
+                    "isCorrect": false,
+                    "feedback": "The Salzburg assessment took place in 1914, the latest event in this list."
+                },
+                {
+                    "text": "Rejection from the Academy of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "The rejections occurred after he arrived in Vienna in 1907."
+                },
+                {
+                    "text": "Receiving his father's estate",
+                    "isCorrect": false,
+                    "feedback": "He received the final part of his father's estate in May 1913, just before moving to Munich."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                6
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What event immediately followed Hitler's second rejection from the Academy of Fine Arts Vienna?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Moving to Munich",
+                    "isCorrect": false,
+                    "feedback": "The move to Munich happened much later, in 1913."
+                },
+                {
+                    "text": "Living in homeless shelters",
+                    "isCorrect": false,
+                    "feedback": "This occurred in 1909, after his mother's death."
+                },
+                {
+                    "text": "The director suggesting the School of Architecture",
+                    "isCorrect": true,
+                    "feedback": "After the rejections, the director suggested architecture as a viable alternative."
+                },
+                {
+                    "text": "Death of his mother",
+                    "isCorrect": false,
+                    "feedback": "While his mother died in 1907, the director's suggestion was a response to the academic rejections."
+                },
+                {
+                    "text": "Medical assessment in Salzburg",
+                    "isCorrect": false,
+                    "feedback": "This happened in 1914, years after the Academy rejections."
+                },
+                {
+                    "text": "Painting watercolours for tourists",
+                    "isCorrect": false,
+                    "feedback": "This was a survival strategy he adopted around 1909."
+                },
+                {
+                    "text": "Receiving his father's estate",
+                    "isCorrect": false,
+                    "feedback": "This occurred in May 1913."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which event occurred after Hitler lived in the Meldemannstrasse dormitory but before he moved to Munich?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Death of his mother",
+                    "isCorrect": false,
+                    "feedback": "His mother died in 1907, before he entered the dormitory in 1909."
+                },
+                {
+                    "text": "Rejection from the Academy of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "The rejections happened in 1907, before the 1909 dormitory period."
+                },
+                {
+                    "text": "Medical assessment in Salzburg",
+                    "isCorrect": false,
+                    "feedback": "This happened in 1914, after he had already moved to Munich."
+                },
+                {
+                    "text": "Exposure to Karl Lueger's rhetoric",
+                    "isCorrect": true,
+                    "feedback": "Hitler absorbed the political atmosphere and racist rhetoric of Vienna during his years there, including the period he lived in the dormitory."
+                },
+                {
+                    "text": "Moving to Vienna",
+                    "isCorrect": false,
+                    "feedback": "This was the very first event in the sequence, occurring in 1907."
+                },
+                {
+                    "text": "Receiving his father's estate",
+                    "isCorrect": false,
+                    "feedback": "While this happened in 1913, it is the event that enabled the move to Munich, not an event between the dormitory and the move."
+                },
+                {
+                    "text": "Enlisting in the Bavarian Army",
+                    "isCorrect": false,
+                    "feedback": "This happened in August 1914, after the Salzburg assessment."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4,
+                5
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the final event in the sequence of Hitler's early adulthood before he enlisted in the Bavarian Army?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Moving to Munich",
+                    "isCorrect": false,
+                    "feedback": "He moved to Munich in 1913, but the Salzburg assessment happened later."
+                },
+                {
+                    "text": "Medical assessment in Salzburg",
+                    "isCorrect": true,
+                    "feedback": "On 5 February 1914, he journeyed to Salzburg for a medical assessment before being deemed unfit."
+                },
+                {
+                    "text": "Death of his mother",
+                    "isCorrect": false,
+                    "feedback": "This occurred in 1907."
+                },
+                {
+                    "text": "Living in homeless shelters",
+                    "isCorrect": false,
+                    "feedback": "This occurred in 1909."
+                },
+                {
+                    "text": "Receiving his father's estate",
+                    "isCorrect": false,
+                    "feedback": "This occurred in May 1913."
+                },
+                {
+                    "text": "Rejection from the Academy of Fine Arts",
+                    "isCorrect": false,
+                    "feedback": "This occurred in 1907."
+                },
+                {
+                    "text": "Painting watercolours for tourists",
+                    "isCorrect": false,
+                    "feedback": "This was a survival method used during his bohemian period in 1909."
+                }
+            ],
+            "source_card_ids": [
+                5,
+                6
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "After being rejected twice by the Academy of Fine Arts Vienna, the director suggested that Hitler apply to the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "School of Architecture",
+                    "isCorrect": true,
+                    "feedback": "The director suggested architecture as a viable alternative after Hitler's failure to enter the fine arts academy."
+                },
+                {
+                    "text": "School of Music",
+                    "isCorrect": false,
+                    "feedback": "While Hitler enjoyed music, the director specifically suggested the School of Architecture."
+                },
+                {
+                    "text": "Academy of Fine Arts Munich",
+                    "isCorrect": false,
+                    "feedback": "The suggestion was for a different school within the same city, not a move to Munich."
+                },
+                {
+                    "text": "Linz Art Institute",
+                    "isCorrect": false,
+                    "feedback": "Hitler had already left Linz to pursue his studies in Vienna."
+                },
+                {
+                    "text": "Vienna Polytechnic",
+                    "isCorrect": false,
+                    "feedback": "The text mentions the School of Architecture, not a polytechnic institute."
+                },
+                {
+                    "text": "Imperial Design School",
+                    "isCorrect": false,
+                    "feedback": "There is no mention of an Imperial Design School in the source text."
+                },
+                {
+                    "text": "Vienna Technical College",
+                    "isCorrect": false,
+                    "feedback": "The text specifically names the School of Architecture."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Following the death of his mother on 21 December 1907, Hitler eventually ran out of money by 1909 and lived in ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "homeless shelters and the Meldemannstrasse dormitory",
+                    "isCorrect": true,
+                    "feedback": "By 1909, financial hardship forced Hitler into homeless shelters and the Meldemannstrasse dormitory."
+                },
+                {
+                    "text": "the Mariahilf district apartments",
+                    "isCorrect": false,
+                    "feedback": "While he lived in the Mariahilf district, his direst financial state led him to shelters and the dormitory."
+                },
+                {
+                    "text": "the Salzburg medical center",
+                    "isCorrect": false,
+                    "feedback": "Salzburg was where he went for a medical assessment in 1914, long after his 1909 poverty."
+                },
+                {
+                    "text": "Munich boarding houses",
+                    "isCorrect": false,
+                    "feedback": "Hitler did not move to Munich until 1913."
+                },
+                {
+                    "text": "Linz orphanages",
+                    "isCorrect": false,
+                    "feedback": "Hitler had already left Linz in 1907 to move to Vienna."
+                },
+                {
+                    "text": "the Academy of Fine Arts housing",
+                    "isCorrect": false,
+                    "feedback": "He was rejected by the Academy and did not have access to its housing."
+                },
+                {
+                    "text": "the Habsburg military barracks",
+                    "isCorrect": false,
+                    "feedback": "He was not conscripted into the army until later, and was deemed unfit for service."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3,
+                6
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "After receiving the final part of his father's estate in May 1913, Hitler moved to ____, before later journeying to Salzburg for a medical assessment in 1914.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Munich",
+                    "isCorrect": true,
+                    "feedback": "Hitler used his father's estate to move from Vienna to Munich in May 1913."
+                },
+                {
+                    "text": "Salzburg",
+                    "isCorrect": false,
+                    "feedback": "He moved to Munich first; Salzburg was the destination for his 1914 medical assessment."
+                },
+                {
+                    "text": "Linz",
+                    "isCorrect": false,
+                    "feedback": "Hitler had left Linz in 1907 to begin his life in Vienna."
+                },
+                {
+                    "text": "Berlin",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention Hitler moving to Berlin during this early adulthood period."
+                },
+                {
+                    "text": "Vienna",
+                    "isCorrect": false,
+                    "feedback": "He left Vienna in 1913 to move to Munich."
+                },
+                {
+                    "text": "Passau",
+                    "isCorrect": false,
+                    "feedback": "Passau was a place of childhood residence, not a destination in his early adulthood."
+                },
+                {
+                    "text": "Leonding",
+                    "isCorrect": false,
+                    "feedback": "Leonding was a childhood home, not a destination after leaving Vienna."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        }
+    ],
+    "true_false_games": [
+        {
+            "statement": "Adolf Hitler moved to Vienna in 1907 with the goal of studying fine art.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Hitler left Linz in 1907 to seek study in fine art in Vienna.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Academy of Fine Arts Vienna accepted Hitler on his second attempt to enter the institution.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Hitler was rejected twice by the Academy of Fine Arts Vienna.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The director of the Academy of Fine Arts Vienna suggested that Hitler apply to the School of Architecture as an alternative.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Because he was rejected from the Academy of Fine Arts, the director suggested architecture as a viable alternative.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Hitler was admitted to the School of Architecture immediately after the director's suggestion.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Hitler lacked the academic credentials to be admitted to the School of Architecture.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Hitler's mother died of breast cancer on 21 December 1907.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Hitler's mother passed away from breast cancer on 21 December 1907 at the age of 47.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "By 1909, Hitler lived a 'bohemian life,' which included staying in homeless shelters and the Meldemannstrasse dormitory.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Having run out of money by 1909, Hitler relied on homeless shelters and the Meldemannstrasse dormitory.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "To earn money in Vienna, Hitler worked exclusively as a casual labourer.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "In addition to casual labour, Hitler earned money by painting and selling watercolours of Vienna's landmarks to tourists.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "During his time in Vienna, Hitler attended ten performances of Richard Wagner's opera, Lohengrin.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Hitler cultivated an interest in music and attended ten performances of the opera Lohengrin.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Mayor Karl Lueger was a populist in Vienna who exploited antisemitic sentiment for political gain.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Karl Lueger used the city's widespread antisemitism and German nationalist ideas to further his political career.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Hitler lived in the Mariahilf district of Vienna, where German nationalist sentiment was particularly strong.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The Mariahilf district, where Hitler resided, was a center for strong nationalist and antisemitic sentiment.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "While in Vienna, Hitler read the works of Houston Stewart Chamberlain, Friedrich Nietzsche, and Arthur Schopenhauer.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Hitler immersed himself in the writings of these thinkers, along with others like Charles Darwin and Gustave Le Bon.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Hitler moved to Munich in May 1913 after receiving the final part of his father's estate.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The inheritance from his father's estate provided the financial means for Hitler to leave Vienna for Munich in May 1913.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "On 5 February 1914, Hitler was deemed fit for service by the Austro-Hungarian Army during a medical assessment in Salzburg.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Hitler was actually deemed unfit for service during his medical assessment in Salzburg on 5 February 1914.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Adolf Hitler was able to move to Munich in 1913 because he received the final portion of his father's estate.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "In May 1913, the final part of his father's estate provided him with the financial means to leave Vienna and move to Munich.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The director of the Academy of Fine Arts Vienna suggested Hitler apply to the School of Architecture because he had a strong academic record in secondary school.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The director suggested architecture as an alternative, but Hitler actually lacked the necessary academic credentials because he had not finished secondary school.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Hitler's 'bohemian life' in Vienna starting in 1909 was caused by his lack of financial resources, forcing him to rely on homeless shelters.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Having run out of money by 1909, Hitler lived in homeless shelters and the Meldemannstrasse dormitory to survive.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Hitler's exposure to racist rhetoric in Vienna was primarily driven by the influence of the Mariahilf district, where he lived.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The text notes that antisemitic sentiment and German nationalism were particularly strong in the Mariahilf district, where Hitler resided.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Hitler was admitted to the Austro-Hungarian Army in 1914 after passing his medical assessment in Salzburg.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Hitler was actually deemed unfit for service after his medical assessment in Salzburg on 5 February 1914.",
+            "source_card_ids": [
+                1,
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Adolf Hitler's failure to gain admission to the Academy of Fine Arts Vienna had no impact on his subsequent academic suggestions, as he was simply told to give up art.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The director of the Academy actually suggested he apply to the School of Architecture as a viable alternative.",
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The death of Hitler's mother in December 1907 left the 18-year-old without his primary emotional support.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Hitler's mother died of breast cancer on 21 December 1907, which was a significant personal tragedy for him.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Hitler's financial collapse in 1909 resulted in him living a 'bohemian life,' which included staying in homeless shelters and the Meldemannstrasse dormitory.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Having run out of money by 1909, Hitler was forced into a precarious existence relying on these shelters and dormitories.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "To survive financially in Vienna, Hitler relied exclusively on the sale of watercolours of city landmarks to tourists.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "While he sold watercolours, he also earned money by working as a casual labourer.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Hitler's residence in the Mariahilf district exposed him to strong German nationalist ideas and racist rhetoric promoted by populists like Karl Lueger.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The Mariahilf district was a place where antisemitic sentiment and German nationalism were particularly strong, influencing Hitler's developing worldview.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "During his time in Vienna, Hitler's intellectual influences were limited strictly to political pamphlets and newspapers.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "He also read the works of thinkers such as Houston Stewart Chamberlain, Friedrich Nietzsche, and Arthur Schopenhauer.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Hitler's move to Munich in May 1913 was made possible by the receipt of the final part of his father's estate.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "The final portion of his father's estate provided him with the financial means to leave Vienna and move to Munich.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Hitler was admitted into the Austro-Hungarian Army after his medical assessment in Salzburg on 5 February 1914.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "He was actually deemed unfit for service and returned to Munich.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Hitler's lack of secondary school completion was the specific academic hurdle that prevented him from entering the School of Architecture.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "The director suggested architecture, but Hitler lacked the necessary academic credentials (secondary school completion) to be admitted.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Hitler's early adulthood in Vienna and Munich was characterized by a transition from a failed artist to a man influenced by extremist ideologies.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "This period of failure, poverty, and exposure to nationalism and racism set the stage for his later political career.",
+            "source_card_ids": [
+                6
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Adolf Hitler was able to enroll in the School of Architecture as a viable alternative after being rejected by the Academy of Fine Arts Vienna.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Although the director suggested the School of Architecture, Hitler lacked the necessary academic credentials to be admitted.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "To resolve his dire financial situation in 1909, Hitler relied on homeless shelters and the Meldemannstrasse dormitory.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Having run out of money, Hitler was forced into a precarious existence using these shelters and dormitories to survive.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Hitler solved his lack of income in Vienna by working exclusively as a professional artist for the Academy of Fine Arts.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "He actually worked as a casual labourer and sold watercolours of Vienna's landmarks to tourists to make ends meet.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The receipt of the final part of his father's estate in May 1913 provided the financial means for Hitler to leave Vienna and move to Munich.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "This inheritance resolved his instability in Vienna and allowed him to transition to Munich.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Hitler's conscription into the Austro-Hungarian Army was resolved by his successful medical assessment in Salzburg on 5 February 1914, leading to his immediate enlistment.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "He was actually deemed unfit for service during the medical assessment and returned to Munich.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Hitler's initial attempt to study fine art in Vienna was unsuccessful because he was rejected twice by the Academy of Fine Arts Vienna.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "His ambitions to study fine art were met with the reality of two rejections from the Academy.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Adolf Hitler moved to Munich in 1913 after receiving the final part of his father's estate.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "In May 1913, Hitler received his father's estate, which provided the financial means for him to leave Vienna and move to Munich.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "Hitler's mother died of breast cancer before he applied to the Academy of Fine Arts Vienna.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Hitler was rejected twice by the Academy of Fine Arts before his mother died on 21 December 1907.",
+            "source_card_ids": [
+                1,
+                2,
+                6
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "Hitler's period of living in homeless shelters and the Meldemannstrasse dormitory began in 1907, immediately after his move to Vienna.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Hitler's 'bohemian life' in shelters and the dormitory began in 1909, after he had run out of money.",
+            "source_card_ids": [
+                3,
+                6
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "The medical assessment in Salzburg that deemed Hitler unfit for service occurred after he had already moved to Munich.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Hitler moved to Munich in 1913 and subsequently journeyed to Salzburg for his medical assessment on 5 February 1914.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "Hitler's rejection from the Academy of Fine Arts Vienna occurred after the director suggested he apply to the School of Architecture.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The director suggested the School of Architecture as an alternative *after* Hitler had been rejected twice by the Academy of Fine Arts.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence"
+        }
+    ]
+}

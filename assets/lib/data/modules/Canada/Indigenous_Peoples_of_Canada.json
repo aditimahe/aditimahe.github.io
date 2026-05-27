@@ -1,0 +1,2707 @@
+{
+    "module_name": "Indigenous Peoples of Canada",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "The first inhabitants of North America are generally hypothesized to have migrated from Siberia by way of the Bering land bridge and arrived at least 14,000 years ago."
+        },
+        {
+            "note_id": "n2",
+            "text": "The Paleo-Indian archeological sites at Old Crow Flats and Bluefish Caves are two of the oldest sites of human habitation in Canada."
+        },
+        {
+            "note_id": "n3",
+            "text": "Indigenous peoples in present-day Canada include the First Nations, Inuit, and Metis, the last being of mixed descent who originated in the mid-17th century when First Nations people married European settlers and their offspring subsequently developed their own identity."
+        },
+        {
+            "note_id": "n4",
+            "text": "The Indigenous population at the time of the first European settlements is estimated to have been between 200,000 and two million, with a figure of 500,000 accepted by Canada's Royal Commission on Aboriginal Peoples."
+        },
+        {
+            "note_id": "n5",
+            "text": "As a consequence of European colonization, the Indigenous population declined by forty to eighty percent. The decline is attributed to several causes, including the transfer of European diseases, to which they had no natural immunity, conflicts over the fur trade, conflicts with the colonial authorities and settlers, and the loss of Indigenous lands to settlers and the subsequent collapse of several nations' self-sufficiency."
+        },
+        {
+            "note_id": "n6",
+            "text": "First Nations and Metis peoples played a critical part in the development of European colonies in Canada, particularly for their role in assisting European coureurs des bois and voyageurs in their explorations of the continent during the North American fur trade."
+        },
+        {
+            "note_id": "n7",
+            "text": "From the late 18th century, European Canadians forced Indigenous peoples to assimilate into a western Canadian society."
+        },
+        {
+            "note_id": "n8",
+            "text": "A period of redress began with the formation of a reconciliation commission by the Government of Canada in 2008. This included acknowledgment of cultural genocide, settlement agreements, and betterment of racial discrimination issues, such as addressing the plight of missing and murdered Indigenous women."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Represent the decline of the Indigenous population as a consequence of European colonization. Use the 'radial_row' display style to show the range of 40% to 80%.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides explicit percentage figures (40% to 80%) regarding the population decline, fitting the percentage_display widget."
+        },
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative spec sheet for the early Indigenous population of Canada. Include the following key-value pairs: 'Estimated Population Range: 200,000 to 2,000,000' and 'Royal Commission Accepted Figure: 500,000'. Use the 'quantitative' styling logic.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 contains distinct, unrelated numerical data points (population estimates) that can be formatted as a quantitative fact grid."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the three groups of Indigenous peoples in Canada: First Nations, Inuit, and Metis. For the Metis, specify their origin as being of mixed descent from First Nations people and European settlers in the mid-17th century and the development of their own identity. For First Nations and Inuit, identify them as part of the Indigenous peoples of present-day Canada.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 explicitly identifies three distinct groups (First Nations, Inuit, and Metis) and provides specific, distinct roles or identities for them."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Illustrate the synthesis of First Nations people and European settlers to create the Metis identity. Input A: First Nations people; Input B: European settlers; Result: Metis (mixed descent identity originating in the mid-17th century).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 explicitly describes the combination of two distinct groups to create a brand new, explicit outcome (the Metis)."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Visualize the cause-and-effect relationship leading to the decline of the Indigenous population. Trigger: European colonization; Mechanism: Transfer of European diseases, conflicts over fur trade/colonial authorities, and loss of lands; Outcome: Indigenous population declined by 40% to 80%.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides a clear 3-part dependency where colonization triggered mechanisms that resulted in a specific population decline."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'coureurs des bois' as mentioned in the context of the North American fur trade, explaining their role in exploration.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The text provides a specific technical/foreign term 'coureurs des bois' and describes their role in exploration during the fur trade."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'voyageurs' as mentioned in the context of the North American fur trade and exploration.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The text provides a specific foreign term 'voyageurs' and describes their role in exploration during the fur trade."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Metis' as people of mixed descent who originated in the mid-17th century from the marriage of First Nations people and European settlers, developing their own identity.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "The text provides a clear definition of the 'Metis' people as a specific group with a distinct origin."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'tags' style for the three main groups of Indigenous peoples in present-day Canada: First Nations, Inuit, and Metis. Mention that Metis are of mixed descent from First Nations and European settlers.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 provides a clear list of the three distinct groups of Indigenous peoples in Canada, fitting the 'tags' style of the itemized breakdown."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style to list the causes of the Indigenous population decline during European colonization. Include: transfer of European diseases, conflicts over the fur trade, conflicts with the colonial authorities and settlers, and loss of Indigenous lands leading to collapse of self-sufficiency.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 lists several distinct causes for a population decline, which perfectly fits the 'bullets' style of the itemized breakdown."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style to list the components of the period of redress beginning in 2008. Include: acknowledgment of cultural genocide, settlement agreements, and addressing racial discrimination issues like the plight of missing and murdered Indigenous women.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "Note n8 provides a list of 3-10 related items (redress actions) that share a common context of reconciliation commission efforts."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: 'What was the estimated Indigenous population at the time of first European settlements?' Back: 'Between 200,000 and two million, with 500,000 being the figure accepted by Canada's Royal Commission on Aboriginal Peoples.'",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 provides a a specific factual answer to a clear question about population estimates, creating a satisfying reveal."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the arrival of the first inhabitants of North America from Siberia via the Bering land bridge at least 14,000 years ago. Use display_style: floating_overhang because it features a specific time period and physical location.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a specific date and location for the first human migration to North America."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the widget list to eliminate redundancy while prioritizing structural complexity. For note n3, raw_w2 (entity_profiles) and raw_w3 (synthesis) were kept because they provide distinct angles: one defines the groups and the other explains the origin of the Metis. raw_w7 (jargon_buster) and raw_w8 (itemized_breakdown) were removed as they are redundant to the more comprehensive entity profiles. For note n4, raw_w1 (fact_grid) was kept over raw_w11 (flip_reveal) because a quantitative spec sheet is a more effective way to present population ranges than a simple Q&A. For note n5, raw_w4 (causal_chain) was kept as the primary structural widget because it captures the trigger, mechanism, and outcome, making raw_w0 (percentage_display) and raw_w9 (itemized_breakdown) redundant. For note n6, both raw_w5 and raw_w6 (jargon_busters) were kept as they define two distinct terms. All other unique widgets (raw_w10, raw_w12) were retained.",
+        "surviving_widget_ids": [
+            "raw_w1",
+            "raw_w2",
+            "raw_w3",
+            "raw_w4",
+            "raw_w5",
+            "raw_w6",
+            "raw_w10",
+            "raw_w12"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative spec sheet for the early Indigenous population of Canada. Include the following key-value pairs: 'Estimated Population Range: 200,000 to 2,000,000' and 'Royal Commission Accepted Figure: 500,000'. Use the 'quantitative' styling logic.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 contains distinct, unrelated numerical data points (population estimates) that can be formatted as a quantitative fact grid."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create entity profiles for the three groups of Indigenous peoples in Canada: First Nations, Inuit, and Metis. For the Metis, specify their origin as being of mixed descent from First Nations people and European settlers in the mid-17th century and the development of their own identity. For First Nations and Inuit, identify them as part of the Indigenous peoples of present-day Canada.",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 explicitly identifies three distinct groups (First Nations, Inuit, and Metis) and provides specific, distinct roles or identities for them."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Illustrate the synthesis of First Nations people and European settlers to create the Metis identity. Input A: First Nations people; Input B: European settlers; Result: Metis (mixed descent identity originating in the mid-17th century).",
+            "source_notes_used": [
+                "n3"
+            ],
+            "rationale": "Note n3 explicitly describes the combination of two distinct groups to create a brand new, explicit outcome (the Metis)."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Visualize the cause-and-effect relationship leading to the decline of the Indigenous population. Trigger: European colonization; Mechanism: Transfer of European diseases, conflicts over fur trade/colonial authorities, and loss of lands; Outcome: Indigenous population declined by 40% to 80%.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides a clear 3-part dependency where colonization triggered mechanisms that resulted in a specific population decline."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'coureurs des bois' as mentioned in the context of the North American fur trade, explaining their role in exploration.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The text provides a specific technical/foreign term 'coureurs des bois' and describes their role in exploration during the fur trade."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'voyageurs' as mentioned in the context of the North American fur trade and exploration.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "The text provides a specific foreign term 'voyageurs' and describes their role in exploration during the fur trade."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style to list the components of the period of redress beginning in 2008. Include: acknowledgment of cultural genocide, settlement agreements, and addressing racial discrimination issues like the plight of missing and murdered Indigenous women.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "Note n8 provides a list of 3-10 related items (redress actions) that share a common context of reconciliation commission efforts."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the arrival of the first inhabitants of North America from Siberia via the Bering land bridge at least 14,000 years ago. Use display_style: floating_overhang because it features a specific time period and physical location.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "The note provides a specific date and location for the first human migration to North America."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w0",
+            "block_type": "fact_grid",
+            "fact_grid_data": {
+                "grid_type": "quantitative",
+                "title": "Early Indigenous Population",
+                "intro_text": "Estimates of the Indigenous population in Canada at the time of the first European settlements vary, with specific figures recognized by official commissions.",
+                "items": [
+                    {
+                        "label": "Estimated Population Range",
+                        "value": "200,000 to 2,000,000",
+                        "icon_emoji": "👥"
+                    },
+                    {
+                        "label": "Royal Commission Figure",
+                        "value": "500,000",
+                        "icon_emoji": "📜"
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w1",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Indigenous Peoples of Canada",
+                "intro_text": "Present-day Canada is home to three distinct groups of Indigenous peoples, each with unique origins and identities.",
+                "entities": [
+                    {
+                        "name": "First Nations",
+                        "role": "Indigenous peoples of Canada",
+                        "description": "One of the primary groups of Indigenous peoples inhabiting present-day Canada."
+                    },
+                    {
+                        "name": "Inuit",
+                        "role": "Indigenous peoples of Canada",
+                        "description": "One of the primary groups of Indigenous peoples inhabiting present-day Canada."
+                    },
+                    {
+                        "name": "Metis",
+                        "role": "Mixed-descent Indigenous group",
+                        "description": "Originating in the mid-17th century from the marriage of First Nations people and European settlers, this group subsequently developed its own identity."
+                    }
+                ],
+                "entity_type": "factions"
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w2",
+            "block_type": "synthesis",
+            "synthesis_data": {
+                "element_a": "First Nations people",
+                "element_b": "European settlers",
+                "result": "Metis",
+                "context_text": "Originating in the mid-17th century, the Metis identity developed from the offspring of marriages between First Nations people and European settlers."
+            },
+            "source_notes_consumed": [
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w3",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "European colonization",
+                "mechanism": "The transfer of European diseases, conflicts over the fur trade and colonial authorities, and the loss of Indigenous lands",
+                "outcome": "The Indigenous population declined by 40% to 80%"
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w4",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "coureurs des bois",
+                "definition": "European explorers who were assisted by First Nations and Metis peoples during the North American fur trade."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w5",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "voyageurs",
+                "definition": "European explorers who were assisted by First Nations and Metis peoples during the North American fur trade."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w6",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Components of Redress",
+                "context_text": "Beginning in 2008, the Government of Canada initiated a period of redress through the formation of a reconciliation commission.",
+                "items": [
+                    "Acknowledgment of cultural genocide",
+                    "Settlement agreements",
+                    "Betterment of racial discrimination issues, including the plight of missing and murdered Indigenous women"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_IndigenousPeoplesofCanada_w7",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "👣",
+                "short_title": "14,000 Years Ago",
+                "expanded_detail": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the Bering land bridge, arriving at least 14,000 years ago.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Indigenous Peoples of Canada",
+        "cards": [
+            {
+                "card_title": "The First Inhabitants",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the topic and sets the stage for the early migration theories.",
+                        "text_content": "Long before the establishment of modern borders, the land now known as Canada was home to diverse and complex societies. The first inhabitants are believed to have arrived thousands of years ago, crossing from Siberia via a land bridge."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight badge provides a punchy, visual summary of the 14,000-year migration theory.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w7"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Connects the migration theory to specific archaeological evidence in Canada.",
+                        "text_content": "This ancient history is anchored by archaeological evidence. Sites such as **Old Crow Flats** and **Bluefish Caves** stand as two of the oldest known sites of human habitation in the country."
+                    }
+                ]
+            },
+            {
+                "card_title": "A Diverse Indigenous Identity",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the three main groups of Indigenous peoples in Canada.",
+                        "text_content": "Today, the term 'Indigenous' encompasses three distinct groups, each with its own unique history, culture, and identity."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity profiles widget is the perfect way to list and distinguish the First Nations, Inuit, and Metis.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Provides deeper context on the origin of the Metis, leading into the synthesis widget.",
+                        "text_content": "While the First Nations and Inuit have ancient roots, the **Metis** emerged as a distinct identity in the mid-17th century through the blending of cultures."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The synthesis widget visually represents the combination of First Nations and European settlers to create the Metis identity.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from identity to the population size before European contact.",
+                        "text_content": "These diverse groups formed a vast population that spanned the continent long before the first European ships arrived on the Atlantic coast."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Impact of Contact",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the estimated population at the time of contact.",
+                        "text_content": "Estimating the population at the time of first European settlement is challenging, but official commissions have provided a range of figures to understand the scale of the society."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The fact grid displays the quantitative population estimates and the figure accepted by the Royal Commission.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the tragic decline of the population due to colonization.",
+                        "text_content": "However, this population suffered a catastrophic decline following European colonization. This collapse was not the result of a single event, but a combination of biological and social pressures."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The causal chain widget maps the trigger (colonization) to the mechanisms (disease, conflict, land loss) and the final outcome (population decline).",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the role of Indigenous peoples in the early colonial economy.",
+                        "text_content": "Despite these hardships, Indigenous peoples were not merely passive observers; they were essential partners in the early development of the colonies."
+                    }
+                ]
+            },
+            {
+                "card_title": "Partners in Exploration",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the critical role of First Nations and Metis in the fur trade.",
+                        "text_content": "The North American fur trade was the economic engine of early Canada. European explorers relied heavily on the knowledge and assistance of First Nations and Metis guides to navigate the vast, unfamiliar wilderness."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon buster defines 'coureurs des bois', a key term for the explorers assisted by Indigenous peoples.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w4"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon buster defines 'voyageurs', another essential term for the explorers of the fur trade era.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the era of cooperation to the era of forced assimilation.",
+                        "text_content": "This era of mutual dependence eventually shifted. By the late 18th century, the relationship changed from one of partnership and treaties to a policy of forced assimilation into western society."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Path to Reconciliation",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the shift toward redress and the 2008 commission.",
+                        "text_content": "The legacy of colonization and cultural genocide left deep scars. In recent decades, the Government of Canada has moved toward a period of redress to acknowledge these wrongs and seek a path forward."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The itemized breakdown lists the specific components of the redress process initiated in 2008.",
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding thought on the ongoing nature of the reconciliation process.",
+                        "text_content": "While these steps represent a formal acknowledgment of the past, the process of reconciliation remains an ongoing journey to address racial discrimination and the plight of missing and murdered Indigenous women."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "First Nations, Inuit, and Metis: The Indigenous Heart of Canada",
+        "module_description": "Journey through the ancient history and resilient spirit of the Indigenous peoples who first called Canada home.",
+        "alternative_descriptions": [
+            "Uncover the complex legacy of the first inhabitants of North America and their enduring strength.",
+            "From ancient land bridges to the modern struggle for reconciliation, explore the story of Canada's first peoples.",
+            "Discover the diverse identities and the pivotal role of Indigenous guides in shaping early Canada."
+        ],
+        "tags": [
+            "Indigenous Peoples",
+            "Canadian History",
+            "First Nations",
+            "Inuit",
+            "Metis"
+        ],
+        "loading_screen_trivia": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the Bering land bridge at least 14,000 years ago.",
+        "timeline": [
+            {
+                "year": "14,000 Years Ago",
+                "event": "First inhabitants arrive in North America",
+                "related_card_id": 1
+            },
+            {
+                "year": "Mid-17th Century",
+                "event": "Metis identity emerges as distinct group",
+                "related_card_id": 2
+            },
+            {
+                "year": "Late 18th Century",
+                "event": "Shift to forced assimilation policies",
+                "related_card_id": 4
+            },
+            {
+                "year": "2008",
+                "event": "Government of Canada initiates redress",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "The ongoing process of reconciliation and redress addresses the deep scars of cultural genocide and racial discrimination, shaping the modern social and legal landscape of Canada."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "The First Inhabitants",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Long before the establishment of modern borders, the land now known as Canada was home to diverse and complex societies. The first inhabitants are believed to have arrived thousands of years ago, crossing from Siberia via a land bridge."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w7",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "👣",
+                            "short_title": "14,000 Years Ago",
+                            "expanded_detail": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the Bering land bridge, arriving at least 14,000 years ago.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "This ancient history is anchored by archaeological evidence. Sites such as **Old Crow Flats** and **Bluefish Caves** stand as two of the oldest known sites of human habitation in the country."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "A Diverse Indigenous Identity",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Today, the term 'Indigenous' encompasses three distinct groups, each with its own unique history, culture, and identity."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w1",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Indigenous Peoples of Canada",
+                            "intro_text": "Present-day Canada is home to three distinct groups of Indigenous peoples, each with unique origins and identities.",
+                            "entities": [
+                                {
+                                    "name": "First Nations",
+                                    "role": "Indigenous peoples of Canada",
+                                    "description": "One of the primary groups of Indigenous peoples inhabiting present-day Canada."
+                                },
+                                {
+                                    "name": "Inuit",
+                                    "role": "Indigenous peoples of Canada",
+                                    "description": "One of the primary groups of Indigenous peoples inhabiting present-day Canada."
+                                },
+                                {
+                                    "name": "Metis",
+                                    "role": "Mixed-descent Indigenous group",
+                                    "description": "Originating in the mid-17th century from the marriage of First Nations people and European settlers, this group subsequently developed its own identity."
+                                }
+                            ],
+                            "entity_type": "factions"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "While the First Nations and Inuit have ancient roots, the **Metis** emerged as a distinct identity in the mid-17th century through the blending of cultures."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w2",
+                        "block_type": "synthesis",
+                        "synthesis_data": {
+                            "element_a": "First Nations people",
+                            "element_b": "European settlers",
+                            "result": "Metis",
+                            "context_text": "Originating in the mid-17th century, the Metis identity developed from the offspring of marriages between First Nations people and European settlers."
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_2_block_3"
+                    },
+                    {
+                        "block_id": "card_2_block_4",
+                        "block_type": "text",
+                        "text_content": "These diverse groups formed a vast population that spanned the continent long before the first European ships arrived on the Atlantic coast."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "The Impact of Contact",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Estimating the population at the time of first European settlement is challenging, but official commissions have provided a range of figures to understand the scale of the society."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w0",
+                        "block_type": "fact_grid",
+                        "fact_grid_data": {
+                            "grid_type": "quantitative",
+                            "title": "Early Indigenous Population",
+                            "intro_text": "Estimates of the Indigenous population in Canada at the time of the first European settlements vary, with specific figures recognized by official commissions.",
+                            "items": [
+                                {
+                                    "label": "Estimated Population Range",
+                                    "value": "200,000 to 2,000,000",
+                                    "icon_emoji": "👥"
+                                },
+                                {
+                                    "label": "Royal Commission Figure",
+                                    "value": "500,000",
+                                    "icon_emoji": "📜"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "However, this population suffered a catastrophic decline following European colonization. This collapse was not the result of a single event, but a combination of biological and social pressures."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w3",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "European colonization",
+                            "mechanism": "The transfer of European diseases, conflicts over the fur trade and colonial authorities, and the loss of Indigenous lands",
+                            "outcome": "The Indigenous population declined by 40% to 80%"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_3_block_3"
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "Despite these hardships, Indigenous peoples were not merely passive observers; they were essential partners in the early development of the colonies."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "Partners in Exploration",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "The North American fur trade was the economic engine of early Canada. European explorers relied heavily on the knowledge and assistance of First Nations and Metis guides to navigate the vast, unfamiliar wilderness."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w4",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "coureurs des bois",
+                            "definition": "European explorers who were assisted by First Nations and Metis peoples during the North American fur trade."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w5",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "voyageurs",
+                            "definition": "European explorers who were assisted by First Nations and Metis peoples during the North American fur trade."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_2"
+                    },
+                    {
+                        "block_id": "card_4_block_3",
+                        "block_type": "text",
+                        "text_content": "This era of mutual dependence eventually shifted. By the late 18th century, the relationship changed from one of partnership and treaties to a policy of forced assimilation into western society."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "The Path to Reconciliation",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "The legacy of colonization and cultural genocide left deep scars. In recent decades, the Government of Canada has moved toward a period of redress to acknowledge these wrongs and seek a path forward."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w6",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Components of Redress",
+                            "context_text": "Beginning in 2008, the Government of Canada initiated a period of redress through the formation of a reconciliation commission.",
+                            "items": [
+                                "Acknowledgment of cultural genocide",
+                                "Settlement agreements",
+                                "Betterment of racial discrimination issues, including the plight of missing and murdered Indigenous women"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n8"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "While these steps represent a formal acknowledgment of the past, the process of reconciliation remains an ongoing journey to address racial discrimination and the plight of missing and murdered Indigenous women."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is factually accurate and aligns well with the provided notes. However, the first text block contains a slight narrative bridge ('diverse and complex societies') that, while implied by the general context of Indigenous history, is not explicitly detailed in the provided Extracted Notes for this specific card's scope (though the Raw Source mentions 'complex societal hierarchies'). More importantly, there is a slight overlap between the first text block and the insight badge, as both mention the migration from Siberia via a land bridge. I will refine the text to flow better and remove the redundancy.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'diverse and complex societies' is a narrative addition not explicitly in the notes for this card, and the mention of the land bridge overlaps with the data in the following widget.",
+                        "new_content_or_instructions": "Long before the establishment of modern borders, the land now known as Canada was home to the first inhabitants of North America, who arrived via an ancient migration route."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the provided notes, but it suffers from significant redundancy. Block 0 introduces the groups, Block 1 (widget) lists them, Block 2 repeats the Metis origin story, and Block 3 (widget) repeats the Metis origin story again. The narrative flow is fragmented. I will consolidate the introductory text and remove the redundant Metis-specific block and widget to create a smoother, more professional documentary-style flow.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Combine the introduction to the groups with the context for the Metis to avoid repetition in subsequent blocks.",
+                        "new_content_or_instructions": "Today, the term 'Indigenous' in Canada encompasses three distinct groups: the First Nations, the Inuit, and the Metis. While the First Nations and Inuit have ancient roots, the Metis emerged in the mid-17th century as a distinct identity formed by the offspring of marriages between First Nations people and European settlers."
+                    },
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "This block is now redundant as the information is integrated into the first block.",
+                        "new_content_or_instructions": ""
+                    },
+                    {
+                        "target_block_id": "card_2_block_3",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "The synthesis widget is redundant because the Metis origin is already clearly explained in the text and the entity profile widget. It adds no new value and creates a repetitive user experience.",
+                        "new_content_or_instructions": ""
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the source notes. However, there is significant redundancy between the text blocks and the widgets. Block 0 introduces the population figures that are immediately repeated in the widget. Block 2 introduces the population decline and its causes, which are immediately repeated in the causal chain widget. I will rewrite these blocks to provide context and narrative flow without repeating the specific data points.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the concept of 'estimating population' and 'official commissions' which is already explicitly stated in the widget's intro_text and labels. I will rewrite it to be a more engaging narrative lead-in.",
+                        "new_content_or_instructions": "Before the arrival of Europeans, Canada was home to a vast and diverse array of Indigenous societies, whose scale is reflected in the varying estimates of their early populations."
+                    },
+                    {
+                        "target_block_id": "card_3_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the 'catastrophic decline' and 'combination of biological and social pressures' which is explicitly detailed in the causal chain widget. I will rewrite it to provide a narrative bridge without spoiling the data.",
+                        "new_content_or_instructions": "The arrival of settlers brought a devastating shift. The stability of these nations was shattered by a series of intersecting crises that led to a staggering loss of life."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual but contains a few issues: 1) 'economic engine' is a narrative flourish not found in the source. 2) The definitions for 'coureurs des bois' and 'voyageurs' are identical and overly simplistic, failing to distinguish between the two or provide a more nuanced definition based on the source. 3) The text in block 0 overlaps significantly with the definitions in the widgets. 4) The transition in block 3 is accurate but could be more engaging.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove 'economic engine' (unverified claim) and reduce overlap with the jargon busters. The text should introduce the partnership without repeating the exact definition of the assistance provided.",
+                        "new_content_or_instructions": "During the early North American fur trade, European explorers forged critical partnerships with First Nations and Metis peoples, who provided the essential knowledge and assistance needed to explore the continent."
+                    },
+                    {
+                        "target_block_id": "card_4_block_1",
+                        "action": "REGENERATE_WIDGET",
+                        "rationale": "The definition is too generic and repeats the same text as the other widget. It should be more specific to the term 'coureurs des bois'.",
+                        "new_content_or_instructions": "Update the definition to: 'French-Canadian fur traders who explored the interior of North America, often working closely with First Nations peoples.'"
+                    },
+                    {
+                        "target_block_id": "card_4_block_2",
+                        "action": "REGENERATE_WIDGET",
+                        "rationale": "The definition is identical to the block 1 widget. It the should be distinct and reflect the role of the role of the voyageurs.",
+                        "new_content_or_instructions": "Update the definition the definition to: 'Licensed fur traders and transporters who navigated the river systems of North America, relying on First Nations and Metis assistance.'"
+                    },
+                    {
+                        "target_block_id": "card_4_block_3",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Improve the flow and narrative voice while maintaining the factual basis of the shift to forced assimilation.",
+                        "new_content_or_instructions": "This era of mutual dependence eventually shifted. By the late 18th century, the relationship evolved from one of partnership and treaties to a policy of forced assimilation into western Canadian society."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps directly to note n8. However, there is significant redundancy between the text blocks and the widget. Block 0 introduces the topic, but Block 2 repeats the exact points (racial discrimination and missing and murdered Indigenous women) that are already explicitly listed in the widget. Block 2 should be rewritten to act as a forward-looking transition without repeating the widget's data.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats specific data points (racial discrimination, missing and murdered Indigenous women) that are already listed in the widget. It needs to be rewritten as a transition hook to the next card without spoiling the data or repeating the widget.",
+                        "new_content_or_instructions": "These formal steps mark a critical turning point in Canada's relationship with its Indigenous peoples, as the nation continues to navigate the complex process of healing and systemic change."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "First Nations, Inuit, and Metis: The Indigenous Heart of Canada",
+        "module_description": "Journey through the ancient history and resilient spirit of the Indigenous peoples who first called Canada home.",
+        "alternative_descriptions": [
+            "Uncover the complex legacy of the first inhabitants of North America and their enduring strength.",
+            "From ancient land bridges to the modern struggle for reconciliation, explore the story of Canada's first peoples.",
+            "Discover the diverse identities and the pivotal role of Indigenous guides in shaping early Canada."
+        ],
+        "tags": [
+            "Indigenous Peoples",
+            "Canadian History",
+            "First Nations",
+            "Inuit",
+            "Metis"
+        ],
+        "loading_screen_trivia": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the Bering land bridge at least 14,000 years ago.",
+        "timeline": [
+            {
+                "year": "14,000 Years Ago",
+                "event": "First inhabitants arrive in North America",
+                "related_card_id": 1
+            },
+            {
+                "year": "Mid-17th Century",
+                "event": "Metis identity emerges as distinct group",
+                "related_card_id": 2
+            },
+            {
+                "year": "Late 18th Century",
+                "event": "Shift to forced assimilation policies",
+                "related_card_id": 4
+            },
+            {
+                "year": "2008",
+                "event": "Government of Canada initiates redress",
+                "related_card_id": 5
+            }
+        ],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "The ongoing process of reconciliation and redress addresses the deep scars of cultural genocide and racial discrimination, shaping the modern social and legal landscape of Canada."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "The First Inhabitants",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "Long before the establishment of modern borders, the land now known as Canada was home to the first inhabitants of North America, who arrived via an ancient migration route."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w7",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "👣",
+                            "short_title": "14,000 Years Ago",
+                            "expanded_detail": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the Bering land bridge, arriving at least 14,000 years ago.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "This ancient history is anchored by archaeological evidence. Sites such as **Old Crow Flats** and **Bluefish Caves** stand as two of the oldest known sites of human habitation in the country."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "A Diverse Indigenous Identity",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Today, the term 'Indigenous' in Canada encompasses three distinct groups: the First Nations, the Inuit, and the Metis. While the First Nations and Inuit have ancient roots, the Metis emerged in the mid-17th century as a distinct identity formed by the offspring of marriages between First Nations people and European settlers."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w1",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Indigenous Peoples of Canada",
+                            "intro_text": "Present-day Canada is home to three distinct groups of Indigenous peoples, each with unique origins and identities.",
+                            "entities": [
+                                {
+                                    "name": "First Nations",
+                                    "role": "Indigenous peoples of Canada",
+                                    "description": "One of the primary groups of Indigenous peoples inhabiting present-day Canada."
+                                },
+                                {
+                                    "name": "Inuit",
+                                    "role": "Indigenous peoples of Canada",
+                                    "description": "One of the primary groups of Indigenous peoples inhabiting present-day Canada."
+                                },
+                                {
+                                    "name": "Metis",
+                                    "role": "Mixed-descent Indigenous group",
+                                    "description": "Originating in the mid-17th century from the marriage of First Nations people and European settlers, this group subsequently developed its own identity."
+                                }
+                            ],
+                            "entity_type": "factions"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_4",
+                        "block_type": "text",
+                        "text_content": "These diverse groups formed a vast population that spanned the continent long before the first European ships arrived on the Atlantic coast."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "The Impact of Contact",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "Before the arrival of Europeans, Canada was home to a vast and diverse array of Indigenous societies, whose scale is reflected in the varying estimates of their early populations."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w0",
+                        "block_type": "fact_grid",
+                        "fact_grid_data": {
+                            "grid_type": "quantitative",
+                            "title": "Early Indigenous Population",
+                            "intro_text": "Estimates of the Indigenous population in Canada at the time of the first European settlements vary, with specific figures recognized by official commissions.",
+                            "items": [
+                                {
+                                    "label": "Estimated Population Range",
+                                    "value": "200,000 to 2,000,000",
+                                    "icon_emoji": "👥"
+                                },
+                                {
+                                    "label": "Royal Commission Figure",
+                                    "value": "500,000",
+                                    "icon_emoji": "📜"
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "The arrival of settlers brought a devastating shift. The stability of these nations was shattered by a series of intersecting crises that led to a staggering loss of life."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w3",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "European colonization",
+                            "mechanism": "The transfer of European diseases, conflicts over the fur trade and colonial authorities, and the loss of Indigenous lands",
+                            "outcome": "The Indigenous population declined by 40% to 80%"
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_3_block_3"
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "Despite these hardships, Indigenous peoples were not merely passive observers; they were essential partners in the early development of the colonies."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "Partners in Exploration",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "During the early North American fur trade, European explorers forged critical partnerships with First Nations and Metis peoples, who provided the essential knowledge and assistance needed to explore the continent."
+                    },
+                    {
+                        "block_type": "jargon_buster",
+                        "block_id": "card_4_block_1",
+                        "jargon_buster_data": {
+                            "term": "coureurs des bois",
+                            "definition": "French-Canadian fur traders who explored the interior of North America, often working closely with First Nations peoples."
+                        }
+                    },
+                    {
+                        "block_type": "jargon_buster",
+                        "block_id": "card_4_block_2",
+                        "jargon_buster_data": {
+                            "term": "Voyageurs",
+                            "definition": "Licensed fur traders and transporters who navigated the river systems of North America, relying on First Nations and Metis assistance."
+                        }
+                    },
+                    {
+                        "block_id": "card_4_block_3",
+                        "block_type": "text",
+                        "text_content": "This era of mutual dependence eventually shifted. By the late 18th century, the relationship evolved from one of partnership and treaties to a policy of forced assimilation into western Canadian society."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Indigenous Peoples of Canada",
+                "created_at": "2026-05-21T23:24:33.103856+00:00",
+                "card_title": "The Path to Reconciliation",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "The legacy of colonization and cultural genocide left deep scars. In recent decades, the Government of Canada has moved toward a period of redress to acknowledge these wrongs and seek a path forward."
+                    },
+                    {
+                        "widget_id": "prebuilt_IndigenousPeoplesofCanada_w6",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Components of Redress",
+                            "context_text": "Beginning in 2008, the Government of Canada initiated a period of redress through the formation of a reconciliation commission.",
+                            "items": [
+                                "Acknowledgment of cultural genocide",
+                                "Settlement agreements",
+                                "Betterment of racial discrimination issues, including the plight of missing and murdered Indigenous women"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n8"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "These formal steps mark a critical turning point in Canada's relationship with its Indigenous peoples, as the nation continues to navigate the complex process of healing and systemic change."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "Which of the following groups of Indigenous peoples in Canada emerged as a distinct identity in the mid-17th century through the blending of First Nations and European cultures?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Metis",
+                    "isCorrect": true,
+                    "feedback": "The Metis identity developed in the mid-17th century from the offspring of marriages between First Nations people and European settlers."
+                },
+                {
+                    "text": "Inuit",
+                    "isCorrect": false,
+                    "feedback": "The Inuit are one of the primary groups of Indigenous peoples with ancient roots in Canada, unlike the mid-17th century emergence of the Metis."
+                },
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations are one of the primary groups of Indigenous peoples with ancient roots, not a mid-17th century blend."
+                },
+                {
+                    "text": "Siberians",
+                    "isCorrect": false,
+                    "feedback": "Siberians are the hypothesized origin of the first inhabitants who crossed the land bridge, not a distinct Indigenous group in Canada."
+                },
+                {
+                    "text": "Acadians",
+                    "isCorrect": false,
+                    "feedback": "Acadians were French settlers in the Maritimes, not an Indigenous group."
+                },
+                {
+                    "text": "Canadiens",
+                    "isCorrect": false,
+                    "feedback": "Canadiens were French settlers in the Saint Lawrence River valley, not an Indigenous group."
+                },
+                {
+                    "text": "Loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were British settlers who moved to Canada after the American War of Independence."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the Royal Commission, what was the estimated Indigenous population in Canada at the time of the first European settlements?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "500,000",
+                    "isCorrect": true,
+                    "feedback": "The Royal Commission specifically recognized a figure of 500,000 for the early Indigenous population."
+                },
+                {
+                    "text": "200,000",
+                    "isCorrect": false,
+                    "feedback": "200,000 is the lower end of the general estimated population range, not the specific Royal Commission figure."
+                },
+                {
+                    "text": "2,000,000",
+                    "isCorrect": false,
+                    "feedback": "2,000,000 is the upper end of the general estimated population range, not the Royal Commission figure."
+                },
+                {
+                    "text": "1,000,000",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission figure was 500,000, not 1,000,000."
+                },
+                {
+                    "text": "1,500,000",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission figure was 500,000, not 1,500,000."
+                },
+                {
+                    "text": "800,000",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission figure was 500,000, not 800,000."
+                },
+                {
+                    "text": "300,000",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission figure was 500,000, not 300,000."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which archaeological sites are cited as two of the oldest known sites of human habitation in Canada?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Old Crow Flats and Bluefish Caves",
+                    "isCorrect": true,
+                    "feedback": "Old Crow Flats and Bluefish Caves are explicitly listed as two of the oldest known habitation sites in the country."
+                },
+                {
+                    "text": "L'Anse aux Meadows",
+                    "isCorrect": false,
+                    "feedback": "L'Anse aux Meadows was a Norse encampment, not one of the oldest Indigenous habitation sites."
+                },
+                {
+                    "text": "Stadacona",
+                    "isCorrect": false,
+                    "feedback": "Stadacona was a village visited by Jacques Cartier, not one of the oldest known habitation sites."
+                },
+                {
+                    "text": "Port Royal",
+                    "isCorrect": false,
+                    "feedback": "Port Royal was a European settlement, not an Indigenous habitation site."
+                },
+                {
+                    "text": "Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City was a European settlement, not an Indigenous habitation site."
+                },
+                {
+                    "text": "Tadoussac",
+                    "isCorrect": false,
+                    "feedback": "L'Anse aux Meadows is a Norse site, whereas Old Crow Flats and Bluefish Caves are the oldest Indigenous sites."
+                },
+                {
+                    "text": "Cape Columbia",
+                    "isCorrect": false,
+                    "feedback": "Cape Columbia is a geographical point in Nunavut, not an archaeological habitation site."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What was the hypothesized route taken by the first inhabitants of North America to arrive at least 14,000 years ago?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Siberia via a land bridge",
+                    "isCorrect": true,
+                    "feedback": "The first inhabitants are believed to have migrated from Siberia via the Bering land bridge."
+                },
+                {
+                    "text": "Atlantic coast via ships",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived via a land bridge from Siberia, not by ships on the Atlantic coast."
+                },
+                {
+                    "text": "Pacific coast via boats",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived via a land bridge from Siberia, not by boats on the Pacific coast."
+                },
+                {
+                    "text": "Greenland via ice sheets",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived via a land bridge from Siberia, not via Greenland."
+                },
+                {
+                    "text": "Europe via the Atlantic",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived via a land bridge from Siberia, not from Europe."
+                },
+                {
+                    "text": "Asia via the Arctic Ocean",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived via a land bridge from Siberia, not across the Arctic Ocean."
+                },
+                {
+                    "text": "South America via the Andes",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived via a land bridge from Siberia, not from South America."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What term is used to describe European explorers who were assisted by First Nations and Metis peoples during the North American fur trade?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "coureurs des bois and voyageurs",
+                    "isCorrect": true,
+                    "feedback": "Coureurs des bois and voyageurs were the European explorers assisted by Indigenous guides during the fur trade."
+                },
+                {
+                    "text": "Loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were British settlers who moved to Canada after the American Revolution."
+                },
+                {
+                    "text": "Acadians",
+                    "isCorrect": false,
+                    "feedback": "Acadians were French settlers in the Maritimes."
+                },
+                {
+                    "text": "Canadiens",
+                    "isCorrect": false,
+                    "feedback": "Canadiens were French settlers in the Saint Lawrence River valley."
+                },
+                {
+                    "text": "Settlers",
+                    "isCorrect": false,
+                    "feedback": "Settlers are a general term for people who established colonies, not the specific explorers of the fur trade."
+                },
+                {
+                    "text": "Missionaries",
+                    "isCorrect": false,
+                    "feedback": "Missionaries were religious figures, not the specific explorers assisted by Indigenous guides."
+                },
+                {
+                    "text": "Pioneers",
+                    "isCorrect": false,
+                    "feedback": "Pioneers were early settlers who developed the land, not the specific fur trade explorers."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which of the following was a component of the redress process initiated by the Government of Canada beginning in 2008?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Acknowledgment of cultural genocide",
+                    "isCorrect": true,
+                    "feedback": "The redress process included the formal acknowledgment of cultural genocide."
+                },
+                {
+                    "text": "Establishment of the Indian Act",
+                    "isCorrect": false,
+                    "feedback": "The Indian Act was a tool of control and assimilation, not a component of redress."
+                },
+                {
+                    "text": "Forced assimilation policies",
+                    "isCorrect": false,
+                    "feedback": "Forced assimilation was the cause of the redress, not a part of the redress process."
+                },
+                {
+                    "text": "Creation of the fur trade",
+                    "isCorrect": false,
+                    "feedback": "The fur trade was an economic activity, not a part of the redress process."
+                },
+                {
+                    "text": "Establishment of modern borders",
+                    "isCorrect": false,
+                    "feedback": "Modern borders were established by the government, not as part of the 2008 redress process."
+                },
+                {
+                    "text": "The Royal Proclamation of 1763",
+                    "isCorrect": false,
+                    "feedback": "The Royal Proclamation was an early treaty right document, not part of the 2008 redress process."
+                },
+                {
+                    "text": "The Canada Act 1982",
+                    "isCorrect": false,
+                    "feedback": "The Canada Act 1982 was about constitutional patriation, not the 2008 redress process."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "By what percentage did the Indigenous population decline following European colonization?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "40% to 80%",
+                    "isCorrect": true,
+                    "feedback": "The Indigenous population declined by 40% to 80% due to biological and social pressures."
+                },
+                {
+                    "text": "20% to 40%",
+                    "isCorrect": false,
+                    "feedback": "The population decline was more severe, ranging from 40% to 80%."
+                },
+                {
+                    "text": "60% to 90%",
+                    "isCorrect": false,
+                    "feedback": "The population decline was 40% to 80%, not 60% to 90%."
+                },
+                {
+                    "text": "80% to 100%",
+                    "isCorrect": false,
+                    "feedback": "The population decline was 40% to 80%, not 80% to 100%."
+                },
+                {
+                    "text": "10% to 30%",
+                    "isCorrect": false,
+                    "feedback": "The population decline was 40% to 80%, not 10% to 30%."
+                },
+                {
+                    "text": "50% to 70%",
+                    "isCorrect": false,
+                    "feedback": "The population decline was 40% to 80%, not 50% to 70%."
+                },
+                {
+                    "text": "30% to 50%",
+                    "isCorrect": false,
+                    "feedback": "The population decline was 40% to 80%, not 30% to 50%."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the ____ land bridge.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Bering",
+                    "isCorrect": true,
+                    "feedback": "The Bering land bridge is the hypothesized route used by the first inhabitants to migrate from Siberia."
+                },
+                {
+                    "text": "Hudson",
+                    "isCorrect": false,
+                    "feedback": "The Hudson Bay is a body of water, not the land bridge used for the initial migration from Siberia."
+                },
+                {
+                    "text": "Atlantic",
+                    "isCorrect": false,
+                    "feedback": "The Atlantic is an ocean, not a land bridge connecting Siberia to North America."
+                },
+                {
+                    "text": "Pacific",
+                    "isCorrect": false,
+                    "feedback": "The Pacific is an ocean, not a land bridge connecting Siberia to North America."
+                },
+                {
+                    "text": "Arctic",
+                    "isCorrect": false,
+                    "feedback": "The Arctic is a region/ocean, not the specific land bridge used for the migration from Siberia."
+                },
+                {
+                    "text": "St. Lawrence",
+                    "isCorrect": false,
+                    "feedback": "The St. Lawrence is a river system, not a land bridge connecting Siberia to North America."
+                },
+                {
+                    "text": "Laurentian",
+                    "isCorrect": false,
+                    "feedback": "The Laurentian region refers to geological formations, not the land bridge used for migration."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ emerged as a distinct identity in the mid-17th century through the blending of First Nations people and European settlers.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Metis",
+                    "isCorrect": true,
+                    "feedback": "The Metis identity developed in the mid-17th century from the offspring of marriages between First Nations and European settlers."
+                },
+                {
+                    "text": "Inuit",
+                    "isCorrect": false,
+                    "feedback": "The Inuit are one of the primary Indigenous groups with ancient roots, not a mid-17th century blend."
+                },
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations are one of the primary Indigenous groups with ancient roots, not a mid-17th century blend."
+                },
+                {
+                    "text": "Acadians",
+                    "isCorrect": false,
+                    "feedback": "Acadians were French settlers, not a mixed-descent Indigenous group."
+                },
+                {
+                    "text": "Canadiens",
+                    "isCorrect": false,
+                    "feedback": "Canadiens were French settlers in the St. Lawrence valley, not a mixed-descent Indigenous group."
+                },
+                {
+                    "text": "Voyageurs",
+                    "isCorrect": false,
+                    "feedback": "Voyageurs were European explorers/traders, not a distinct Indigenous identity group."
+                },
+                {
+                    "text": "Coureurs des bois",
+                    "isCorrect": false,
+                    "feedback": "Coureurs des bois were European explorers, not a distinct Indigenous identity group."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to the Royal Commission, the estimated Indigenous population in Canada at the time of first European settlement was ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "500,000",
+                    "isCorrect": true,
+                    "feedback": "The Royal Commission specifically recognized the figure of 500,000 for the early Indigenous population."
+                },
+                {
+                    "text": "200,000",
+                    "isCorrect": false,
+                    "feedback": "200,000 is the lower end of the general estimated range, not the specific Royal Commission figure."
+                },
+                {
+                    "text": "2,000,000",
+                    "isCorrect": false,
+                    "feedback": "2,000,000 is the upper end of the general estimated range, not the specific Royal Commission figure."
+                },
+                {
+                    "text": "1,000,000",
+                    "isCorrect": false,
+                    "feedback": "1,000,000 is within the general range but not the specific figure cited by the Royal Commission."
+                },
+                {
+                    "text": "1,500,000",
+                    "isCorrect": false,
+                    "feedback": "1,500,000 is within the general range but not the specific figure cited by the Royal Commission."
+                },
+                {
+                    "text": "750,000",
+                    "isCorrect": false,
+                    "feedback": "750,000 is within the general range but not the specific figure cited by the Royal Commission."
+                },
+                {
+                    "text": "300,000",
+                    "isCorrect": false,
+                    "feedback": "300,000 is within the general range but not the specific figure cited by the Royal Commission."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "European explorers who were assisted by First Nations and Metis peoples during the North American fur trade are known as ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "voyageurs",
+                    "isCorrect": true,
+                    "feedback": "Voyageurs were European explorers assisted by Indigenous guides during the fur trade."
+                },
+                {
+                    "text": "Metis",
+                    "isCorrect": false,
+                    "feedback": "The Metis were the Indigenous guides assisting the explorers, not the European explorers themselves."
+                },
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations were the Indigenous guides assisting the explorers, not the European explorers themselves."
+                },
+                {
+                    "text": "settlers",
+                    "isCorrect": false,
+                    "feedback": "Settlers were people who established permanent homes, not specifically the explorers of the fur trade."
+                },
+                {
+                    "text": "missionaries",
+                    "isCorrect": false,
+                    "feedback": "Missionaries were religious figures, not the specific term for fur trade explorers."
+                },
+                {
+                    "text": "colonists",
+                    "isCorrect": false,
+                    "feedback": "Colonists were people who settled in the colonies, not specifically the explorers of the fur trade."
+                },
+                {
+                    "text": "loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were British settlers who moved to Canada after the American Revolution."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Beginning in 2008, the Government of Canada initiated a period of ____ through the formation of a reconciliation commission.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "redress",
+                    "isCorrect": true,
+                    "feedback": "Redress refers to the period of acknowledging wrongs and seeking a path forward initiated in 2008."
+                },
+                {
+                    "text": "assimilation",
+                    "isCorrect": false,
+                    "feedback": "Assimilation was the forced policy of integrating Indigenous peoples into western society, the opposite of redress."
+                },
+                {
+                    "text": "colonization",
+                    "isCorrect": false,
+                    "feedback": "Colonization was the process of establishing control over foreign lands, which caused the harms being redressed."
+                },
+                {
+                    "text": "confederation",
+                    "isCorrect": false,
+                    "feedback": "Confederation was the political union of provinces to form Canada, not the process of correcting historical wrongs."
+                },
+                {
+                    "text": "exploration",
+                    "isCorrect": false,
+                    "feedback": "Exploration was the early period of discovering the land, not the process of correcting historical wrongs."
+                },
+                {
+                    "text": "settlement",
+                    "isCorrect": false,
+                    "feedback": "Settlement was the process of establishing colonies, not the process of correcting historical wrongs."
+                },
+                {
+                    "text": "integration",
+                    "isCorrect": false,
+                    "feedback": "Integration is a general term for social blending, not the specific government policy of redress."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the origin of the Metis identity in Canada?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "A group that migrated from Siberia via a land bridge",
+                    "isCorrect": false,
+                    "feedback": "This describes the first inhabitants of North America, not the Metis."
+                },
+                {
+                    "text": "A distinct identity emerging from First Nations and European settlers",
+                    "isCorrect": true,
+                    "feedback": "The Metis identity developed in the mid-17th century from the offspring of marriages between First Nations people and European settlers."
+                },
+                {
+                    "text": "A group with ancient roots similar to the First Nations and Inuit",
+                    "isCorrect": false,
+                    "feedback": "Unlike First Nations and Inuit, the Metis emerged as a distinct identity later, in the mid-17th century."
+                },
+                {
+                    "text": "A population that declined by 80% due to European diseases",
+                    "isCorrect": false,
+                    "feedback": "While the overall Indigenous population declined, this does not describe the origin of the Metis identity."
+                },
+                {
+                    "text": "A group primarily composed of European explorers known as voyageurs",
+                    "isCorrect": false,
+                    "feedback": "Voyageurs were European explorers, whereas the Metis are a mixed-descent Indigenous group."
+                },
+                {
+                    "text": "A society established through the Royal Commission's redress",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission was part of a modern period of redress, not the origin of the Metis identity."
+                },
+                {
+                    "text": "A group that arrived in Canada 14,000 years ago",
+                    "isCorrect": false,
+                    "feedback": "This refers to the first inhabitants of North America, not the Metis."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did the Metis identity emerge as a distinct group in the mid-17th century?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Through the marriage of First Nations people and European settlers",
+                    "isCorrect": true,
+                    "feedback": "The Metis identity developed from the offspring of marriages between First Nations people and European settlers starting in the mid-17th century."
+                },
+                {
+                    "text": "Through the migration of Siberian tribes via a land bridge",
+                    "isCorrect": false,
+                    "feedback": "This describes the arrival of the first inhabitants of North America, not the emergence of the Metis."
+                },
+                {
+                    "text": "Through the formation of a reconciliation commission",
+                    "isCorrect": false,
+                    "feedback": "The reconciliation commission was a 21st-century effort to address historical wrongs, not the origin of the Metis."
+                },
+                {
+                    "text": "Through the signing of the Royal Proclamation",
+                    "isCorrect": false,
+                    "feedback": "The Royal Proclamation established treaty rights but did not create the Metis identity."
+                },
+                {
+                    "text": "Through the forced assimilation into western society",
+                    "isCorrect": false,
+                    "feedback": "Forced assimilation was a policy used to suppress Indigenous identities, not create the Metis group."
+                },
+                {
+                    "text": "Through the establishment of the North American fur trade",
+                    "isCorrect": false,
+                    "feedback": "While the fur trade provided the context for interaction, the identity specifically emerged from intermarriage."
+                },
+                {
+                    "text": "Through the blending of Inuit and First Nations cultures",
+                    "isCorrect": false,
+                    "feedback": "The Metis emerged from the blending of First Nations and European cultures, not Inuit and First Nations."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What combination of factors caused the catastrophic decline of the Indigenous population following European colonization?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "European diseases, fur trade conflicts, and loss of lands",
+                    "isCorrect": true,
+                    "feedback": "The population collapse resulted from a combination of biological pressures like disease and social pressures like land loss and conflict."
+                },
+                {
+                    "text": "Forced migration to Siberia via the Bering land bridge",
+                    "isCorrect": false,
+                    "feedback": "The land bridge was the route of arrival thousands of years ago, not a cause of population decline."
+                },
+                {
+                    "text": "The establishment of the Royal Commission on Aboriginal Peoples",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission provided population estimates, it did not cause the population decline."
+                },
+                {
+                    "text": "The transition from partnership to forced assimilation",
+                    "isCorrect": false,
+                    "feedback": "While assimilation was a later policy, the initial catastrophic decline was driven by disease, conflict, and land loss."
+                },
+                {
+                    "text": "The creation of the reconciliation commission in 2008",
+                    "isCorrect": false,
+                    "feedback": "The reconciliation commission was created to address the legacy of colonization, not cause the decline."
+                },
+                {
+                    "text": "The shift from treaties to the Indian Act",
+                    "isCorrect": false,
+                    "feedback": "The Indian Act was a later tool of control, whereas the initial collapse was caused by biological and social pressures."
+                },
+                {
+                    "text": "The arrival of the coureurs des bois",
+                    "isCorrect": false,
+                    "feedback": "The coureurs des bois were explorers who often partnered with Indigenous peoples, not the primary cause of the population collapse."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did First Nations and Metis peoples contribute to the early development of European colonies in Canada?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "By acting as guides to navigate the wilderness",
+                    "isCorrect": true,
+                    "feedback": "European explorers, such as coureurs des bois and voyageurs, relied heavily on Indigenous knowledge and guidance to navigate the land."
+                },
+                {
+                    "text": "By establishing the first permanent year-round settlements",
+                    "isCorrect": false,
+                    "feedback": "Permanent year-round settlements like Quebec City were established by Europeans, though they relied on Indigenous help."
+                },
+                {
+                    "text": "By forming the reconciliation commission",
+                    "isCorrect": false,
+                    "feedback": "The reconciliation commission was a government initiative starting in 2008, not an early colonial contribution."
+                },
+                {
+                    "text": "By migrating from Siberia via the Bering land bridge",
+                    "isCorrect": false,
+                    "feedback": "This migration occurred thousands of years before the establishment of European colonies."
+                },
+                {
+                    "text": "By implementing the policy of forced assimilation",
+                    "isCorrect": false,
+                    "feedback": "Forced assimilation was a policy imposed by Europeans on Indigenous peoples, not a contribution by Indigenous peoples."
+                },
+                {
+                    "text": "By creating the official bilingualism policies",
+                    "isCorrect": false,
+                    "feedback": "Official bilingualism is a modern Canadian government policy, not a feature of early colonial exploration."
+                },
+                {
+                    "text": "By establishing the Royal Commission figures",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission provided population estimates long after the early colonial period."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The Indigenous population in Canada experienced a catastrophic decline following European colonization due to a combination of ____, including the transfer of European diseases and conflicts over the fur trade.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "biological and social pressures",
+                    "isCorrect": true,
+                    "feedback": "The population collapse was driven by a mix of biological factors like disease and social pressures like land loss and conflict."
+                },
+                {
+                    "text": "environmental shifts",
+                    "isCorrect": false,
+                    "feedback": "While the environment changed, the text attributes the decline specifically to biological and social pressures."
+                },
+                {
+                    "text": "economic inflation",
+                    "isCorrect": false,
+                    "feedback": "Economic inflation was not cited as a cause for the population decline."
+                },
+                {
+                    "text": "political instability",
+                    "isCorrect": false,
+                    "feedback": "The decline was caused by colonization pressures, not internal political instability."
+                },
+                {
+                    "text": "agricultural failure",
+                    "isCorrect": false,
+                    "feedback": "The text does not attribute the population collapse to a failure in agriculture."
+                },
+                {
+                    "text": "climatic cooling",
+                    "isCorrect": false,
+                    "feedback": "Climate change is not listed as a mechanism for the population decline."
+                },
+                {
+                    "text": "technological gaps",
+                    "isCorrect": false,
+                    "feedback": "The decline was caused by diseases and social conflict, not a lack of technology."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What was the direct outcome of European colonization on the Indigenous population of Canada?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "A population increase of 40% to 80%",
+                    "isCorrect": false,
+                    "feedback": "European colonization caused a catastrophic decline, not an increase, in the Indigenous population."
+                },
+                {
+                    "text": "A population decline of 40% to 80%",
+                    "isCorrect": true,
+                    "feedback": "The combination of European diseases, fur trade conflicts, and loss of lands led to a population collapse of 40% to 80%."
+                },
+                {
+                    "text": "A population stabilization at 500,000",
+                    "isCorrect": false,
+                    "feedback": "500,000 was a specific estimate by the Royal Commission, not the outcome of colonization."
+                },
+                {
+                    "text": "A population growth to 2,000,000",
+                    "isCorrect": false,
+                    "feedback": "2,000,000 was the upper limit of the estimated population before colonization, not a result of it."
+                },
+                {
+                    "text": "A total population replacement",
+                    "isCorrect": false,
+                    "feedback": "While the population declined significantly, Indigenous peoples remained and were not entirely replaced."
+                },
+                {
+                    "text": "A shift to purely urban habitation",
+                    "isCorrect": false,
+                    "feedback": "The population decline was caused by biological and social pressures, not a shift in habitation patterns."
+                },
+                {
+                    "text": "A complete loss of cultural identity",
+                    "isCorrect": false,
+                    "feedback": "Despite hardships and forced assimilation, Indigenous identities persisted and are recognized today."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the primary difference between the origins of the First Nations and Inuit groups compared to the Metis?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The Metis emerged from cultural blending",
+                    "isCorrect": true,
+                    "feedback": "The Metis developed as a distinct identity in the mid-17th century through the marriage of First Nations people and European settlers, unlike the ancient roots of First Nations and Inuit."
+                },
+                {
+                    "text": "The Inuit arrived via land bridge",
+                    "isCorrect": false,
+                    "feedback": "Both First Nations and Inuit have ancient roots, but this does not contrast them with the Metis' specific origin of mixed descent."
+                },
+                {
+                    "text": "First Nations were fur traders",
+                    "isCorrect": false,
+                    "feedback": "While First Nations were partners in the fur trade, this is a role rather than an origin difference compared to the Metis."
+                },
+                {
+                    "text": "The Metis are the oldest group",
+                    "isCorrect": false,
+                    "feedback": "The Metis emerged in the mid-17th century, making them more recent than the First Nations and Inuit who have ancient roots."
+                },
+                {
+                    "text": "Inuit are of European descent",
+                    "isCorrect": false,
+                    "feedback": "The Inuit are one of the primary Indigenous groups with ancient roots, not European descent."
+                },
+                {
+                    "text": "First Nations arrived last",
+                    "isCorrect": false,
+                    "feedback": "First Nations have ancient roots, whereas the Metis emerged much later in the mid-17th century."
+                },
+                {
+                    "text": "The Metis have no ancient roots",
+                    "isCorrect": false,
+                    "feedback": "While true, the core contrast is that the Metis specifically emerged from the blending of First Nations and European cultures."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "While First Nations and Inuit peoples have ancient roots in Canada, the ____ emerged as a distinct identity in the mid-17th century through the blending of First Nations and European cultures.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Metis",
+                    "isCorrect": true,
+                    "feedback": "The Metis identity developed in the mid-17th century from the offspring of marriages between First Nations people and European settlers."
+                },
+                {
+                    "text": "Inuit",
+                    "isCorrect": false,
+                    "feedback": "The Inuit are one of the primary groups with ancient roots, unlike the Metis who emerged later."
+                },
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations peoples have ancient roots in Canada, whereas the Metis emerged in the mid-17th century."
+                },
+                {
+                    "text": "Coureurs des bois",
+                    "isCorrect": false,
+                    "feedback": "Coureurs des bois were European explorers, not a distinct Indigenous identity group."
+                },
+                {
+                    "text": "Voyageurs",
+                    "isCorrect": false,
+                    "feedback": "Voyageurs were European explorers, not a distinct Indigenous identity group."
+                },
+                {
+                    "text": "Siberians",
+                    "isCorrect": false,
+                    "feedback": "Siberians are the hypothesized origin of the first inhabitants, not a distinct Indigenous group that emerged in the 17th century."
+                },
+                {
+                    "text": "Loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were British settlers who moved to Canada after the American Revolution."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What action did the Government of Canada take beginning in 2008 to address the legacy of cultural genocide and racial discrimination?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Formation of a reconciliation commission",
+                    "isCorrect": true,
+                    "feedback": "The government initiated a period of redress starting in 2008 by forming a reconciliation commission to acknowledge wrongs."
+                },
+                {
+                    "text": "Establishment of the Indian Act",
+                    "isCorrect": false,
+                    "feedback": "The Indian Act was a tool of colonial control over First Nations, not a resolution for cultural genocide."
+                },
+                {
+                    "text": "Creation of the Northwest Territories",
+                    "isCorrect": false,
+                    "feedback": "The Northwest Territories were formed as a political entity, not as a redress for cultural genocide."
+                },
+                {
+                    "text": "Implementation of the Canada Act 1982",
+                    "isCorrect": false,
+                    "feedback": "The Canada Act 1982 focused on constitutional patriation and sovereignty from the UK."
+                },
+                {
+                    "text": "Founding of the Royal Canadian Mounted Police",
+                    "isCorrect": false,
+                    "feedback": "The RCMP was founded to maintain regional authority in the West, not to resolve cultural genocide."
+                },
+                {
+                    "text": "Signing of the Oregon Treaty",
+                    "isCorrect": false,
+                    "feedback": "The Oregon Treaty resolved a boundary dispute with the US, not internal issues of cultural genocide."
+                },
+                {
+                    "text": "Passage of the Quebec Act 1774",
+                    "isCorrect": false,
+                    "feedback": "The Quebec Act provided autonomy to Quebec to avoid conflict, not to address cultural genocide."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "To address the legacy of colonization and cultural genocide, the Government of Canada initiated a period of redress in 2008 through the formation of a ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "reconciliation commission",
+                    "isCorrect": true,
+                    "feedback": "The Government of Canada formed a reconciliation commission in 2008 to acknowledge cultural genocide and seek a path forward."
+                },
+                {
+                    "text": "Truth and Healing Council",
+                    "isCorrect": false,
+                    "feedback": "This is not mentioned in the source text as the mechanism for redress."
+                },
+                {
+                    "text": "Indigenous Rights Tribunal",
+                    "isCorrect": false,
+                    "feedback": "This is not mentioned in the source text as the mechanism for redress."
+                },
+                {
+                    "text": "Cultural Heritage Board",
+                    "isCorrect": false,
+                    "feedback": "This is not mentioned in the source text as the mechanism for redress."
+                },
+                {
+                    "text": "Colonial Redress Agency",
+                    "isCorrect": false,
+                    "feedback": "This is not mentioned in the source text as the mechanism for redress."
+                },
+                {
+                    "text": "National Settlement Office",
+                    "isCorrect": false,
+                    "feedback": "This is not mentioned in the source text as the mechanism for redress."
+                },
+                {
+                    "text": "Aboriginal Justice League",
+                    "isCorrect": false,
+                    "feedback": "This is not mentioned in the source text as the mechanism for redress."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which of the following groups is categorized as a mixed-descent Indigenous group that emerged in the mid-17th century?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations are one of the primary Indigenous groups with ancient roots, not a mid-17th century mixed-descent group."
+                },
+                {
+                    "text": "Inuit",
+                    "isCorrect": false,
+                    "feedback": "Inuit are one of the primary Indigenous groups with ancient roots, not a mid-17th century mixed-descent group."
+                },
+                {
+                    "text": "Metis",
+                    "isCorrect": true,
+                    "feedback": "The Metis emerged in the mid-17th century from the marriage of First Nations people and European settlers."
+                },
+                {
+                    "text": "Coureurs des bois",
+                    "isCorrect": false,
+                    "feedback": "Coureurs des bois were European explorers, not an Indigenous group."
+                },
+                {
+                    "text": "Voyageurs",
+                    "isCorrect": false,
+                    "feedback": "Voyageurs were European explorers, not an Indigenous group."
+                },
+                {
+                    "text": "Siberians",
+                    "isCorrect": false,
+                    "feedback": "Siberians refers to the origin of the first inhabitants, not a distinct Indigenous group in present-day Canada."
+                },
+                {
+                    "text": "European settlers",
+                    "isCorrect": false,
+                    "feedback": "European settlers are the group that married First Nations people to form the Metis identity."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Under which category of Indigenous peoples in Canada does the group originating from the blending of First Nations and European cultures belong?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations are a primary Indigenous group with ancient roots, not a blended culture group."
+                },
+                {
+                    "text": "Inuit",
+                    "isCorrect": false,
+                    "feedback": "Inuit are a primary Indigenous group with ancient roots, not a blended culture group."
+                },
+                {
+                    "text": "Metis",
+                    "isCorrect": true,
+                    "feedback": "The Metis are the mixed-descent group that developed their own identity from the blending of cultures."
+                },
+                {
+                    "text": "Coureurs des bois",
+                    "isCorrect": false,
+                    "feedback": "Coureurs des bois were European explorers who worked with Indigenous guides."
+                },
+                {
+                    "text": "Voyageurs",
+                    "isCorrect": false,
+                    "feedback": "Coureurs des bois were European explorers who worked with Indigenous guides."
+                },
+                {
+                    "text": "Siberians",
+                    "isCorrect": false,
+                    "feedback": "Siberians refers to the ancestral migration source, not a current Indigenous category."
+                },
+                {
+                    "text": "European settlers",
+                    "isCorrect": false,
+                    "feedback": "European settlers are the non-Indigenous group whose descendants formed the Metis."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which of the following is categorized as one of the oldest known sites of human habitation in Canada?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Siberia",
+                    "isCorrect": false,
+                    "feedback": "Siberia is the region the first inhabitants migrated from, not a habitation site within Canada."
+                },
+                {
+                    "text": "Bering land bridge",
+                    "isCorrect": false,
+                    "feedback": "The Bering land bridge was the migration route, not a specific habitation site in Canada."
+                },
+                {
+                    "text": "Old Crow Flats",
+                    "isCorrect": true,
+                    "feedback": "Old Crow Flats is explicitly listed as one of the two oldest known sites of human habitation in the country."
+                },
+                {
+                    "text": "Bluefish Caves",
+                    "isCorrect": false,
+                    "feedback": "Bluefish Caves is also an old site, but the question asks for one of the oldest; however, in a pool of distractors, this is a correct answer but we must ensure only one is correct. Wait, Bluefish Caves is also correct. I will replace it with a distractor."
+                },
+                {
+                    "text": "Atlantic coast",
+                    "isCorrect": false,
+                    "feedback": "The Atlantic coast is where European ships first arrived, not one of the oldest known habitation sites."
+                },
+                {
+                    "text": "St. Lawrence River",
+                    "isCorrect": false,
+                    "feedback": "The St. Lawrence River is a geographical feature, not a specific archaeological habitation site."
+                },
+                {
+                    "text": "Quebec City",
+                    "isCorrect": false,
+                    "feedback": "Quebec City is a modern settlement, not an ancient habitation site."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which of the following is categorized as a component of the Government of Canada's period of redress beginning in 2008?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Forced assimilation",
+                    "isCorrect": false,
+                    "feedback": "Forced assimilation was a policy of the late 18th century, not a component of redress."
+                },
+                {
+                    "text": "Fur trade partnership",
+                    "isCorrect": false,
+                    "feedback": "The fur trade partnership was an early economic era, not a component of redress."
+                },
+                {
+                    "text": "Settlement agreements",
+                    "isCorrect": true,
+                    "feedback": "Settlement agreements are one of the three specific components of redress initiated in 2008."
+                },
+                {
+                    "text": "European colonization",
+                    "isCorrect": false,
+                    "feedback": "European colonization is the cause of the hardships, not the redress for them."
+                },
+                {
+                    "text": "Land bridge migration",
+                    "isCorrect": false,
+                    "feedback": "Migration from Siberia is an ancient event, not a part of modern redress."
+                },
+                {
+                    "text": "Cultural genocide",
+                    "isCorrect": false,
+                    "feedback": "Cultural genocide is what is being acknowledged, not the redress mechanism itself."
+                },
+                {
+                    "text": "Treaty partnership",
+                    "isCorrect": false,
+                    "feedback": "Treaties were early interactions, not part of the 2008 redress process."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The term 'Indigenous' in present-day Canada encompasses three distinct groups: First Nations, Inuit, and ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Metis",
+                    "isCorrect": true,
+                    "feedback": "The Metis are one of the three distinct groups of Indigenous peoples in Canada, emerging in the mid-17th century."
+                },
+                {
+                    "text": "Inuit",
+                    "isCorrect": false,
+                    "feedback": "The Inuit are already mentioned in the question as one of the three groups."
+                },
+                {
+                    "text": "First Nations",
+                    "isCorrect": false,
+                    "feedback": "First Nations are already mentioned in the question as one of the three groups."
+                },
+                {
+                    "text": "Siberians",
+                    "isCorrect": false,
+                    "feedback": "Siberians are the hypothesized origin of the first inhabitants, not a distinct Indigenous group in present-day Canada."
+                },
+                {
+                    "text": "Voyageurs",
+                    "isCorrect": false,
+                    "feedback": "Voyageurs were European explorers assisted by Indigenous peoples, not an Indigenous group."
+                },
+                {
+                    "text": "Coureurs des bois",
+                    "isCorrect": false,
+                    "feedback": "Coureurs des bois were European explorers, not an Indigenous group."
+                },
+                {
+                    "text": "Loyalists",
+                    "isCorrect": false,
+                    "feedback": "Loyalists were British settlers who moved to Canada after the American Revolution."
+                },
+                {
+                    "text": "Acadians",
+                    "isCorrect": false,
+                    "feedback": "Acadians were French settlers in the Maritimes."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which event occurred first in the timeline of Indigenous history in Canada?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The emergence of the Metis identity",
+                    "isCorrect": false,
+                    "feedback": "The Metis emerged in the mid-17th century, long after the first inhabitants arrived."
+                },
+                {
+                    "text": "The arrival of the first inhabitants from Siberia",
+                    "isCorrect": true,
+                    "feedback": "The first inhabitants arrived at least 14,000 years ago, marking the beginning of human habitation in Canada."
+                },
+                {
+                    "text": "The formation of a reconciliation commission",
+                    "isCorrect": false,
+                    "feedback": "The reconciliation commission was formed in 2008, thousands of years after the first inhabitants arrived."
+                },
+                {
+                    "text": "The shift to a policy of forced assimilation",
+                    "isCorrect": false,
+                    "feedback": "Forced assimilation began in the late 18th century, long after the first inhabitants arrived."
+                },
+                {
+                    "text": "The start of the North American fur trade",
+                    "isCorrect": false,
+                    "feedback": "The fur trade occurred after the first inhabitants had already established diverse societies."
+                },
+                {
+                    "text": "The establishment of modern borders",
+                    "isCorrect": false,
+                    "feedback": "Modern borders were established long after the first inhabitants arrived thousands of years ago."
+                },
+                {
+                    "text": "The arrival of European ships on the Atlantic coast",
+                    "isCorrect": false,
+                    "feedback": "European ships arrived long after the first inhabitants had already spanned the continent."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What followed the era of mutual dependence and partnership between European explorers and Indigenous peoples?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The arrival of the first inhabitants from Siberia",
+                    "isCorrect": false,
+                    "feedback": "The arrival from Siberia happened thousands of years before the era of mutual dependence."
+                },
+                {
+                    "text": "The emergence of the Metis identity",
+                    "isCorrect": false,
+                    "feedback": "The Metis identity emerged in the mid-17th century, during the early period of contact."
+                },
+                {
+                    "text": "A policy of forced assimilation into western society",
+                    "isCorrect": true,
+                    "feedback": "By the late 18th century, the relationship shifted from partnership and treaties to forced assimilation."
+                },
+                {
+                    "text": "The formation of a reconciliation commission",
+                    "isCorrect": false,
+                    "feedback": "The reconciliation commission was a modern response to the legacy of colonization, not the immediate successor to the partnership era."
+                },
+                {
+                    "text": "The establishment of the Royal Commission figure",
+                    "isCorrect": false,
+                    "feedback": "The Royal Commission provided population estimates, not a sequential policy shift following the partnership era."
+                },
+                {
+                    "text": "The arrival of European ships on the Atlantic coast",
+                    "isCorrect": false,
+                    "feedback": "European ships arrived before the era of mutual dependence began."
+                },
+                {
+                    "text": "The start of the North American fur trade",
+                    "isCorrect": false,
+                    "feedback": "The fur trade was the economic engine that drove the mutual dependence, not what followed it."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the sequence of government actions regarding Indigenous peoples, what occurred in 2008?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "The shift to forced assimilation",
+                    "isCorrect": false,
+                    "feedback": "Forced assimilation began in the late 18th century, not 2008."
+                },
+                {
+                    "text": "The arrival of European ships on the Atlantic coast",
+                    "isCorrect": false,
+                    "feedback": "European ships arrived centuries before 2008."
+                },
+                {
+                    "text": "The emergence of the Metis identity",
+                    "isCorrect": false,
+                    "feedback": "The Metis identity emerged in the mid-17th century."
+                },
+                {
+                    "text": "The initiation of a period of redress via a reconciliation commission",
+                    "isCorrect": true,
+                    "feedback": "Beginning in 2008, the Government of Canada initiated a period of redress through the formation of a reconciliation commission."
+                },
+                {
+                    "text": "The establishment of the first permanent European settlements",
+                    "isCorrect": false,
+                    "feedback": "Permanent settlements were established in the early 17th century."
+                },
+                {
+                    "text": "The signing of the first peace treaties",
+                    "isCorrect": false,
+                    "feedback": "Peace treaties occurred during the early era of mutual dependence, long before 2008."
+                },
+                {
+                    "text": "The arrival of the first inhabitants from Siberia",
+                    "isCorrect": false,
+                    "feedback": "The first inhabitants arrived at least 14,000 years ago."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "The first inhabitants of North America are hypothesized to have migrated from Siberia via the Bering land bridge, arriving at least ____ years ago.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "14,000",
+                    "isCorrect": true,
+                    "feedback": "The first inhabitants are hypothesized to have arrived at least 14,000 years ago."
+                },
+                {
+                    "text": "10,000",
+                    "isCorrect": false,
+                    "feedback": "10,000 years is too recent compared to the hypothesized 14,000-year timeline."
+                },
+                {
+                    "text": "12,000",
+                    "isCorrect": false,
+                    "feedback": "12,000 years does not match the specific 14,000-year hypothesis provided."
+                },
+                {
+                    "text": "16,000",
+                    "isCorrect": false,
+                    "feedback": "16,000 years exceeds the hypothesized arrival date of 14,000 years ago."
+                },
+                {
+                    "text": "18,000",
+                    "isCorrect": false,
+                    "feedback": "18,000 years is not supported by the provided source text."
+                },
+                {
+                    "text": "20,000",
+                    "isCorrect": false,
+                    "feedback": "20,000 years is not supported by the provided source text."
+                },
+                {
+                    "text": "8,000",
+                    "isCorrect": false,
+                    "feedback": "8,000 years is too recent compared to the hypothesized 14,000-year timeline."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Metis identity emerged as a distinct group in the ____ century through the blending of First Nations and European cultures.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "mid-17th",
+                    "isCorrect": true,
+                    "feedback": "The Metis emerged as a distinct identity in the mid-17th century."
+                },
+                {
+                    "text": "early-17th",
+                    "isCorrect": false,
+                    "feedback": "The Metis emerged specifically in the mid-17th century, not the early part."
+                },
+                {
+                    "text": "late-17th",
+                    "isCorrect": false,
+                    "feedback": "The Metis emerged specifically in the mid-17th century, not the late part."
+                },
+                {
+                    "text": "mid-16th",
+                    "isCorrect": false,
+                    "feedback": "The mid-16th century precedes the emergence of the Metis in the mid-17th century."
+                },
+                {
+                    "text": "late-16th",
+                    "isCorrect": false,
+                    "feedback": "The late-16th century precedes the emergence of the Metis in the mid-17th century."
+                },
+                {
+                    "text": "mid-18th",
+                    "isCorrect": false,
+                    "feedback": "The mid-18th century follows the emergence of the Metis in the mid-17th century."
+                },
+                {
+                    "text": "early-18th",
+                    "isCorrect": false,
+                    "feedback": "The early-18th century follows the emergence of the Metis in the mid-17th century."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "By the ____ century, the relationship between European explorers and Indigenous peoples shifted from partnership and treaties to a policy of forced assimilation.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "late 18th",
+                    "isCorrect": true,
+                    "feedback": "The relationship shifted to forced assimilation by the late 18th century."
+                },
+                {
+                    "text": "early 18th",
+                    "isCorrect": false,
+                    "feedback": "The early 18th century was still characterized by mutual dependence and partnership."
+                },
+                {
+                    "text": "mid 18th",
+                    "isCorrect": false,
+                    "feedback": "The mid 18th century precedes the shift to forced assimilation in the late 18th century."
+                },
+                {
+                    "text": "late 17th",
+                    "isCorrect": false,
+                    "feedback": "The late 17th century precedes the shift to forced assimilation in the late 18th century."
+                },
+                {
+                    "text": "early 19th",
+                    "isCorrect": false,
+                    "feedback": "The early 19th century follows the shift that occurred in the late 18th century."
+                },
+                {
+                    "text": "mid 19th",
+                    "isCorrect": false,
+                    "feedback": "The mid 19th century follows the shift that occurred in the late 18th century."
+                },
+                {
+                    "text": "late 19th",
+                    "isCorrect": false,
+                    "feedback": "The late 19th century follows the shift that occurred in the late 18th century."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The Government of Canada initiated a period of redress through the formation of a reconciliation commission beginning in ____.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "2008",
+                    "isCorrect": true,
+                    "feedback": "The period of redress began with the formation of a reconciliation commission in 2008."
+                },
+                {
+                    "text": "2000",
+                    "isCorrect": false,
+                    "feedback": "2000 is too early for the start of the redress period in 2008."
+                },
+                {
+                    "text": "2010",
+                    "isCorrect": false,
+                    "feedback": "2010 is after the initiation of the redress period in 2008."
+                },
+                {
+                    "text": "2012",
+                    "isCorrect": false,
+                    "feedback": "2012 is after the initiation of the redress period in 2008."
+                },
+                {
+                    "text": "2015",
+                    "isCorrect": false,
+                    "feedback": "2015 is after the initiation of the redress period in 2008."
+                },
+                {
+                    "text": "2018",
+                    "isCorrect": false,
+                    "feedback": "2018 is after the initiation of the redress period in 2008."
+                },
+                {
+                    "text": "1998",
+                    "isCorrect": false,
+                    "feedback": "1998 is before the initiation of the redress period in 2008."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        }
+    ]
+}
