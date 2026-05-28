@@ -1,0 +1,3165 @@
+{
+    "module_name": "Anchoring in Negotiation",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "In the negotiation process anchoring serves to determine an accepted starting point for the subsequent negotiations. As soon as one side states their first price offer, the (subjective) anchor is set. The counterbid (counter-anchor) is the second-anchor."
+        },
+        {
+            "note_id": "n2",
+            "text": "multiple studies have shown that initial offers have a stronger influence on the outcome of negotiations than subsequent counteroffers."
+        },
+        {
+            "note_id": "n3",
+            "text": "An example of the power of anchoring has been conducted during the Strategic Negotiation Process Workshops. During the workshop, a group of participants is divided into two sections: buyers and sellers. Each side receives identical information about the other party before going into a one-on-one negotiation. Following this exercise, both sides debrief about their experiences. The results show that where the participants anchor the negotiation had a significant effect on their success."
+        },
+        {
+            "note_id": "n4",
+            "text": "Northcraft and Neale conducted a study to measure the difference in the estimated value of a house between students and real-estate agents. In this experiment, both groups were shown a house and then given different listing prices. After making their offer, each group was then asked to discuss what factors influenced their decisions. In the follow-up interviews, the real-estate agents denied being influenced by the initial price, but the results showed that both groups were equally influenced by that anchor."
+        },
+        {
+            "note_id": "n5",
+            "text": "Janiszewski and Uy investigated the effects of precision of an anchor. Participants read an initial price for a beach house, then gave the price they thought it was worth. They received either a general, seemingly nonspecific anchor (e.g., $800,000) or a more precise and specific anchor (e.g., $799,800). Participants with a general anchor adjusted their estimate more than those given a precise anchor ($751,867 vs $784,671)."
+        },
+        {
+            "note_id": "n6",
+            "text": "The authors propose that this effect comes from difference in scale; in other words, the anchor affects not only the starting value, but also the starting scale. When given a general anchor of $20, people will adjust in large increments ($19, $21, etc.), but when given a more specific anchor like $19.85, people will adjust on a lower scale ($19.75, $19.95, etc.). Thus, a more specific initial price will tend to result in a final price closer to the initial one."
+        },
+        {
+            "note_id": "n7",
+            "text": "As for the question of setting the first or second anchor, the party setting the second anchor has the advantage in that the counter-anchor determines the point midway between both anchors. Due to a possible lack of knowledge the party setting the first anchor can also set it too low, i.e. against their own interests. Generally negotiators who set the first anchor also tend to be less satisfied with the negotiation outcome, than negotiators who set the counter-anchor. This may be due to the regret or sense that they did not achieve or rather maximise the full potential of the negotiations. However, studies suggest that negotiators who set the first offer frequently achieve economically more advantageous results."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "fact_grid",
+            "widget_context": "Create a quantitative fact grid comparing the outcomes of participants given general vs precise anchors in the Janiszewski and Uy study. Key-Value pairs: 'General Anchor Estimate: $751,867' and 'Precise Anchor Estimate: $784,671'. Use quantitative mode.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note provides two distinct, unrelated numerical values representing the estimated values based on different anchor types."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the 'First Anchor' (the party stating the first price offer) versus the 'Second Anchor' (the party making the counterbid). The overarching point of contrast is the trade-off between economic advantage (first anchor often achieves more advantageous results) and psychological satisfaction (second anchor tends to be more satisfied with the outcome).",
+            "source_notes_used": [
+                "n1",
+                "n7"
+            ],
+            "rationale": "The notes provide a clear, single-point contrast between the first and second anchor regarding economic gain versus psychological satisfaction."
+        },
+        {
+            "widget_type": "feature_matrix",
+            "widget_context": "Create a side-by-side comparison between 'General Anchors' and 'Precise Anchors'. Use the following categories: 'Example' (General: $800,000; Precise: $799,800), 'Adjustment Level' (General: Adjusted more; Precise: Adjusted less), and 'Final Price Result' (General: Further from initial price; Precise: Closer to initial price).",
+            "source_notes_used": [
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide symmetrical data for two types of anchors across three distinct, nameable categories."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Introduce the two groups from the Northcraft and Neale study: 'Students' and 'Real-estate Agents'. Describe their distinct roles in the experiment: Students were asked to estimate the value of a house based on a listing price, while Real-estate Agents were asked to do the same and later interviewed to see if they believed they were influenced by the anchor.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The notes identify two distinct groups of people with specific roles within a research study."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a 3-step sequence showing the initial process of anchoring in negotiation: 1. One side states their first price offer (setting the subjective anchor). 2. The other side provides a counterbid (setting the second-anchor/counter-anchor). 3. These anchors determine the accepted starting point for subsequent negotiations. Use a linear process style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 describes a clear, sequential 3-step process of how anchors are established in a negotiation."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Visualize the cause-and-effect relationship regarding anchor precision: Trigger: A negotiator provides a precise and specific anchor (e.g., $19.85). Mechanism: The other party adjusts their estimate on a lower scale (e.g., $19.75, $19.95). Outcome: The final price ends up closer to the initial anchor. Use a flow-chart style.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 explicitly outlines a trigger (specific anchor), a mechanism (lower scale adjustment), and a final outcome (price closer to initial anchor)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'anchoring' as the process of determining an accepted starting point for subsequent negotiations, which is set as soon as one side states their first price offer. Use a clear, concise definition style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a technical term 'anchoring' and its explicit definition within the context of negotiation."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'counter-anchor' as the second-anchor, which is the counterbid in the negotiation process. Use a clear, concise definition style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 explicitly defines the term 'counter-anchor' as the second-anchor or counterbid."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Create a flip reveal where the front asks if real-estate agents are immune to the influence of anchoring compared to students, and the back reveals that both groups were equally influenced by the anchor despite the agents' denials.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 presents a counter-intuitive finding where professional agents believe they are not influenced by anchors while the data proves they are, fitting the curiosity gap of a flip_reveal."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Using the 'bullets' style, list the potential disadvantages for the party setting the first anchor: setting the price too low due to lack of knowledge, generally being less satisfied with the outcome, and feeling regret or a sense that they didn't maximize the full potential of the negotiation.",
+            "source_notes_used": [
+                "n7"
+            ],
+            "rationale": "Note n7 provides a list of three distinct negative outcomes or risks associated with setting the first anchor."
+        },
+        {
+            "widget_type": "accordion",
+            "widget_context": "Create an accordion to showcase two different studies on anchoring. Item 1: 'Northcraft and Neale Study' with a description explaining they compared students and real-estate agents' house value estimates based on different listing prices. Item 2: 'Janiszewski and Uy Study' with a description explaining they investigated how precise anchors (e.g., $799,800) versus general anchors (e.g., $800,000) affect price estimates.",
+            "source_notes_used": [
+                "n4",
+                "n5"
+            ],
+            "rationale": "Notes n4 and n5 provide two parallel, related examples of scientific studies that serve as secondary deep-dives into the anchoring effect."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the core concept of anchoring as the determination of an accepted starting point for negotiations, using the 'editorial_callout' display style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a foundational definition of anchoring that serves as a qualitative anchor for the topic."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the finding that initial offers have a stronger influence on negotiation outcomes than subsequent counteroffers, using the 'attention_pulse' display style.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 presents a surprising and pivotal statistic/fact about the power of initial offers."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the paradox where real-estate agents denied being influenced by the initial price anchor despite results showing they were equally influenced as students, using the 'paradox_panel' display style.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 describes a stark paradox between the perceived and actual influence of anchoring on professionals."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the specific data point comparing the adjustments of participants given a general anchor ($751,867) versus a precise anchor ($784,671), using the 'attention_pulse' display style.",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "Note n5 provides exact numerical statistics that demonstrate the effect of anchor precision."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the counter-intuitive reality that while first-anchor setters are often less satisfied with the outcome, they frequently achieve economically more advantageous results, using the 'paradox_panel' display style.",
+            "source_notes_used": [
+                "n7"
+            ],
+            "rationale": "Note n7 highlights an ironic twist regarding the relationship between economic success and psychological satisfaction in anchoring."
+        },
+        {
+            "widget_type": "branching_tree",
+            "widget_context": "Create a branching tree with the root concept 'Types of Anchors' and two branches: 'First Anchor' (the initial price offer that sets the subjective starting point) and 'Second Anchor/Counter-anchor' (the subsequent bid that determines the point midway between both anchors).",
+            "source_notes_used": [
+                "n1",
+                "n7"
+            ],
+            "rationale": "Notes n1 and n7 explicitly name and define two distinct conceptual paths (first anchor vs. counter-anchor) stemming from the root concept of anchoring."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I pruned the widget list to eliminate redundancy while preserving the most complex and structurally rich visualizations. For Note n1, I removed the insight_badge (raw_w11) and the branching_tree (raw_w16) because the stepper (raw_w4) and jargon_busters (raw_w6, raw_w7) provide a more comprehensive and sequential explanation of the process. For Note n4, I kept the flip_reveal (raw_w8) and entity_profiles (raw_w3) over the insight_badge (raw_w13) because they offer more interactive and detailed ways to explore the student vs. agent paradox. For Note n5 and n6, I prioritized the feature_matrix (raw_w2) and causal_chain (raw_w5) over the fact_grid (raw_w0) and insight_badge (raw_w14), as the matrix and chain provide structural context (adjustment levels and mechanisms) rather than just raw numbers. For Note n7, I kept the versus (raw_w1) and itemized_breakdown (raw_w9) over the insight_badge (raw_w15) because they explicitly contrast the economic vs. psychological trade-offs. Finally, I removed the accordion (raw_w10) as it was a redundant summary of studies already detailed in other widgets. I retained the insight_badge for Note n2 (raw_w12) as it is the only widget targeting that specific note.",
+        "surviving_widget_ids": [
+            "raw_w1",
+            "raw_w2",
+            "raw_w3",
+            "raw_w4",
+            "raw_w5",
+            "raw_w6",
+            "raw_w7",
+            "raw_w8",
+            "raw_w9",
+            "raw_w12"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "versus",
+            "widget_context": "Compare the 'First Anchor' (the party stating the first price offer) versus the 'Second Anchor' (the party making the counterbid). The overarching point of contrast is the trade-off between economic advantage (first anchor often achieves more advantageous results) and psychological satisfaction (second anchor tends to be more satisfied with the outcome).",
+            "source_notes_used": [
+                "n1",
+                "n7"
+            ],
+            "rationale": "The notes provide a clear, single-point contrast between the first and second anchor regarding economic gain versus psychological satisfaction."
+        },
+        {
+            "widget_type": "feature_matrix",
+            "widget_context": "Create a side-by-side comparison between 'General Anchors' and 'Precise Anchors'. Use the following categories: 'Example' (General: $800,000; Precise: $799,800), 'Adjustment Level' (General: Adjusted more; Precise: Adjusted less), and 'Final Price Result' (General: Further from initial price; Precise: Closer to initial price).",
+            "source_notes_used": [
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide symmetrical data for two types of anchors across three distinct, nameable categories."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Introduce the two groups from the Northcraft and Neale study: 'Students' and 'Real-estate Agents'. Describe their distinct roles in the experiment: Students were asked to estimate the value of a house based on a listing price, while Real-estate Agents were asked to do the same and later interviewed to see if they believed they were influenced by the anchor.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "The notes identify two distinct groups of people with specific roles within a research study."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Create a 3-step sequence showing the initial process of anchoring in negotiation: 1. One side states their first price offer (setting the subjective anchor). 2. The other side provides a counterbid (setting the second-anchor/counter-anchor). 3. These anchors determine the accepted starting point for subsequent negotiations. Use a linear process style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 describes a clear, sequential 3-step process of how anchors are established in a negotiation."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Visualize the cause-and-effect relationship regarding anchor precision: Trigger: A negotiator provides a precise and specific anchor (e.g., $19.85). Mechanism: The other party adjusts their estimate on a lower scale (e.g., $19.75, $19.95). Outcome: The final price ends up closer to the initial anchor. Use a flow-chart style.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 explicitly outlines a trigger (specific anchor), a mechanism (lower scale adjustment), and a final outcome (price closer to initial anchor)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'anchoring' as the process of determining an accepted starting point for subsequent negotiations, which is set as soon as one side states their first price offer. Use a clear, concise definition style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a technical term 'anchoring' and its explicit definition within the context of negotiation."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'counter-anchor' as the second-anchor, which is the counterbid in the negotiation process. Use a clear, concise definition style.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 explicitly defines the term 'counter-anchor' as the second-anchor or counterbid."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Create a flip reveal where the front asks if real-estate agents are immune to the influence of anchoring compared to students, and the back reveals that both groups were equally influenced by the anchor despite the agents' denials.",
+            "source_notes_used": [
+                "n4"
+            ],
+            "rationale": "Note n4 presents a counter-intuitive finding where professional agents believe they are not influenced by anchors while the data proves they are, fitting the curiosity gap of a flip_reveal."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Using the 'bullets' style, list the potential disadvantages for the party setting the first anchor: setting the price too low due to lack of knowledge, generally being less satisfied with the outcome, and feeling regret or a sense that they didn't maximize the full potential of the negotiation.",
+            "source_notes_used": [
+                "n7"
+            ],
+            "rationale": "Note n7 provides a list of three distinct negative outcomes or risks associated with setting the first anchor."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the finding that initial offers have a stronger influence on negotiation outcomes than subsequent counteroffers, using the 'attention_pulse' display style.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 presents a surprising and pivotal statistic/fact about the power of initial offers."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w0",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "First Anchor",
+                "entity_b": "Second Anchor",
+                "distinction": "While the first anchor often achieves economically more advantageous results, the second anchor typically results in higher psychological satisfaction with the negotiation outcome."
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n7"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w1",
+            "block_type": "feature_matrix",
+            "feature_matrix_data": {
+                "title": "Precision of Anchors",
+                "intro_text": "The precision of an initial anchor influences how much individuals adjust their estimates and the final value they reach.",
+                "entity_a": "General Anchors",
+                "entity_b": "Precise Anchors",
+                "features": [
+                    {
+                        "feature_name": "Example",
+                        "value_a": "$800,000",
+                        "value_b": "$799,800",
+                        "explanation": "General anchors are nonspecific, while precise anchors are specific values."
+                    },
+                    {
+                        "feature_name": "Adjustment Level",
+                        "value_a": "Adjusted more",
+                        "value_b": "Adjusted less",
+                        "explanation": "People adjust in larger increments when given a general anchor compared to a precise one."
+                    },
+                    {
+                        "feature_name": "Final Price Result",
+                        "value_a": "Further from initial price",
+                        "value_b": "Closer to initial price",
+                        "explanation": "A more specific initial price typically results in a final estimate that remains closer to the anchor."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n5",
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w2",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "Northcraft and Neale Study: Participant Groups",
+                "intro_text": "This study examined how different levels of professional expertise influence the susceptibility to anchoring when estimating house values.",
+                "entities": [
+                    {
+                        "name": "Students",
+                        "role": "Non-expert participants",
+                        "description": "Participants who were shown a house and given different listing prices to estimate the property's value."
+                    },
+                    {
+                        "name": "Real-estate Agents",
+                        "role": "Professional experts",
+                        "description": "Professionals who estimated house values based on listing prices and later denied being influenced by the anchor during interviews."
+                    }
+                ],
+                "entity_type": "people"
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w3",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "The Anchoring Process in Negotiation",
+                "intro_text": "Anchoring is used in negotiations to establish an accepted starting point for all subsequent discussions.",
+                "steps": [
+                    "One side states their first price offer, which sets the subjective anchor.",
+                    "The other side provides a counterbid, which serves as the second-anchor or counter-anchor.",
+                    "These anchors establish the accepted starting point for the remainder of the negotiation process."
+                ]
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w4",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "A negotiator provides a precise and specific anchor (e.g., $19.85).",
+                "mechanism": "The other party adjusts their estimate on a lower scale (e.g., $19.75, $19.95) rather than in large increments.",
+                "outcome": "The final price ends up closer to the initial anchor."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w5",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "anchoring",
+                "definition": "The process of determining an accepted starting point for subsequent negotiations, which is set as soon as one side states their first price offer."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w6",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "counter-anchor",
+                "definition": "The second-anchor in the negotiation process, which is the counterbid."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w7",
+            "block_type": "flip_reveal",
+            "flip_reveal_data": {
+                "front_text": "Are real-estate agents immune to the influence of anchoring compared to students?",
+                "back_text": "No. A study by Northcraft and Neale showed that both real-estate agents and students were equally influenced by the anchor, despite the agents' denials in follow-up interviews."
+            },
+            "source_notes_consumed": [
+                "n4"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w8",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Disadvantages of Setting the First Anchor",
+                "context_text": "While setting the first offer can lead to economically advantageous results, it also carries specific psychological and strategic risks for the negotiator.",
+                "items": [
+                    "Setting the price too low due to a lack of knowledge, which can act against their own interests",
+                    "Generally experiencing lower levels of satisfaction with the negotiation outcome compared to those who set the counter-anchor",
+                    "Feeling regret or a sense that they failed to maximize the full potential of the negotiations"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n7"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinNegotiation_w9",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🎯",
+                "short_title": "Initial Offer Influence",
+                "expanded_detail": "Multiple studies indicate that the first offer made in a negotiation has a more significant impact on the final outcome than any subsequent counteroffers.",
+                "display_style": "attention_pulse"
+            },
+            "source_notes_consumed": [
+                "n2"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Art of Anchoring in Negotiation",
+        "cards": [
+            {
+                "card_title": "The Power of the First Move",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of anchoring in a conversational way and sets the stage for the module.",
+                        "text_content": "In any negotiation, the first number mentioned often carries an invisible weight. This is known as **anchoring**, a psychological phenomenon where an initial piece of information serves as a reference point for everything that follows. Whether you are buying a car or negotiating a salary, that first offer doesn't just start the conversation—it often shapes the final result."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon_buster widget is perfect for providing a formal definition of the core term 'anchoring'.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains how the process unfolds and leads into the stepper widget.",
+                        "text_content": "Once an anchor is set, the negotiation becomes a dance of adjustments. The party who makes the first move establishes the baseline, and the other party responds with their own attempt to shift that baseline. This sequence creates a structured flow of offers and counter-offers."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The stepper widget visually represents the sequential process of anchoring and counter-anchoring.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of the counter-anchor and leads into the jargon_buster.",
+                        "text_content": "When the second party responds to the initial offer, they aren't just making a bid; they are attempting to set a new reference point to pull the negotiation back in their favor. This second move is known as the **counter-anchor**."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The jargon_buster widget provides the specific definition for 'counter-anchor'.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the next card by highlighting the disproportionate influence of the first offer.",
+                        "text_content": "But while both anchors play a role, one typically holds more sway than the other. Why does the first offer often feel so much more powerful?"
+                    }
+                ]
+            },
+            {
+                "card_title": "The Dominance of the Initial Offer",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the strength of the initial offer based on the notes.",
+                        "text_content": "Research consistently shows that the first offer has a stronger influence on the final outcome than any subsequent counter-offers. This suggests that the initial anchor creates a psychological 'gravity' that is difficult to escape, even for experienced negotiators."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The insight_badge is used here to emphasize the key takeaway regarding the influence of initial offers.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w9"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Provides a real-world example from the Strategic Negotiation Process Workshops to illustrate the point.",
+                        "text_content": "This isn't just theoretical. In **Strategic Negotiation Process Workshops**, participants are split into buyers and sellers with identical information. Despite the equal footing, the results consistently show that those who strategically anchor the negotiation achieve significantly higher success rates. It proves that the *where* and *when* of the first offer can be the difference between a win and a loss."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the next card by questioning if expertise can protect someone from this effect.",
+                        "text_content": "You might think that professional expertise would make someone immune to this psychological pull. However, the reality is far more surprising."
+                    }
+                ]
+            },
+            {
+                "card_title": "Expertise vs. Intuition",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the Northcraft and Neale study regarding real-estate agents.",
+                        "text_content": "In a fascinating study by **Northcraft and Neale**, researchers tested whether professional real-estate agents were more resistant to anchoring than students. Both groups were shown a house and given different listing prices—the anchors—before making their own offers."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The entity_profiles widget is used to introduce the two groups being compared in the study.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the results of the study and the agents' denial of the effect.",
+                        "text_content": "The results were striking. Despite the agents' professional knowledge, they were just as influenced by the listing price as the students were. Even more interesting was the follow-up: when interviewed, the agents denied being influenced by the anchor, even though the data proved they were. This highlights how anchoring often operates beneath our conscious awareness."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The flip_reveal widget is a great way to present the question and answer regarding the agents' immunity to anchoring.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w7"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the next card by introducing the idea that the *way* an anchor is presented can change its effectiveness.",
+                        "text_content": "If everyone is susceptible, the next question is: can we make an anchor even more powerful by changing how it's phrased?"
+                    }
+                ]
+            },
+            {
+                "card_title": "The Precision Play",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of anchor precision based on Janiszewski and Uy's research.",
+                        "text_content": "Not all anchors are created equal. Research by **Janiszewski and Uy** suggests that the *precision* of the number you use can significantly impact how much the other party adjusts their estimate. A rounded number feels like a guess, while a specific number feels like it's based on a calculated value."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The feature_matrix widget compares general anchors versus precise anchors.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the 'scale' theory behind why precise anchors work better.",
+                        "text_content": "The reason for this is a difference in **scale**. When someone sees a general anchor, like $800,000, they tend to adjust in large, chunky increments. But when they see a precise anchor, like $799,800, they subconsciously shift to a smaller scale of adjustment, making them less likely to move far away from the original number."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The causal_chain widget perfectly illustrates the step-by-step logic of how a precise anchor leads to a final price closer to the initial offer.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions to the final card by discussing the strategic trade-off of setting the first anchor.",
+                        "text_content": "While precision can maximize your gain, there is a strategic gamble involved in deciding whether to be the one to set the first anchor at all."
+                    }
+                ]
+            },
+            {
+                "card_title": "The First-Mover's Dilemma",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the advantages and disadvantages of setting the first anchor.",
+                        "text_content": "Deciding whether to make the first offer is a classic negotiation dilemma. On one hand, the first mover often secures a more economically advantageous result. On the other hand, the second mover—the one who sets the counter-anchor—often feels more satisfied with the outcome because the final agreement typically lands midway between the two anchors."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The versus widget compares the economic gain of the first anchor versus the psychological satisfaction of the second.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the risks associated with the first anchor, such as setting it too low.",
+                        "text_content": "There are also tangible risks. If you lack sufficient information, you might accidentally set the anchor too low, effectively negotiating against your own interests. This often leads to a sense of regret, leaving the first-mover feeling as though they left money on the table."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "The itemized_breakdown widget lists the specific disadvantages of setting the first anchor.",
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w8"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding text that summarizes the lesson and leaves the user with a final thought on the balance of power in negotiation.",
+                        "text_content": "Ultimately, anchoring is a powerful tool that can either steer a negotiation toward your goals or trap you in a baseline you didn't intend. The key is recognizing the invisible pull of the anchor and deciding whether to lead the dance or respond to the move."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Art of Anchoring: Mastering the First Move",
+        "module_description": "Discover the psychological 'gravity' of the first offer and learn how to steer any negotiation in your favor.",
+        "alternative_descriptions": [
+            "Can a single number control the outcome of a deal? Step into the psychology of anchoring.",
+            "Master the precision play and the first-mover's dilemma to win your next negotiation.",
+            "Uncover the invisible forces that shape every deal, from salary talks to real estate."
+        ],
+        "tags": [
+            "Anchoring",
+            "Negotiation Strategy",
+            "Psychological Bias",
+            "Counter-Anchoring",
+            "Decision Making"
+        ],
+        "loading_screen_trivia": "Professional real-estate agents are just as susceptible to anchoring as students, even when they deny it.",
+        "timeline": [],
+        "cast_of_characters": [
+            {
+                "name": "Northcraft and Neale",
+                "emoji_avatar": "🎓",
+                "historical_role": "Psychological Researchers",
+                "core_contribution": "Conducted a study proving that professional expertise does not make negotiators immune to anchoring."
+            },
+            {
+                "name": "Janiszewski and Uy",
+                "emoji_avatar": "📊",
+                "historical_role": "Behavioral Researchers",
+                "core_contribution": "Researched how the precision of an anchor affects the final negotiation outcome."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "Understanding anchoring allows individuals to navigate high-stakes financial and professional negotiations more effectively by recognizing and countering subconscious psychological biases."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The Power of the First Move",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "In any negotiation, the first number mentioned often carries an invisible weight. This is known as **anchoring**, a psychological phenomenon where an initial piece of information serves as a reference point for everything that follows. Whether you are buying a car or negotiating a salary, that first offer doesn't just start the conversation—it often shapes the final result."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w5",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "anchoring",
+                            "definition": "The process of determining an accepted starting point for subsequent negotiations, which is set as soon as one side states their first price offer."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "Once an anchor is set, the negotiation becomes a dance of adjustments. The party who makes the first move establishes the baseline, and the other party responds with their own attempt to shift that baseline. This sequence creates a structured flow of offers and counter-offers."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w3",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "The Anchoring Process in Negotiation",
+                            "intro_text": "Anchoring is used in negotiations to establish an accepted starting point for all subsequent discussions.",
+                            "steps": [
+                                "One side states their first price offer, which sets the subjective anchor.",
+                                "The other side provides a counterbid, which serves as the second-anchor or counter-anchor.",
+                                "These anchors establish the accepted starting point for the remainder of the negotiation process."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_3"
+                    },
+                    {
+                        "block_id": "card_1_block_4",
+                        "block_type": "text",
+                        "text_content": "When the second party responds to the initial offer, they aren't just making a bid; they are attempting to set a new reference point to pull the negotiation back in their favor. This second move is known as the **counter-anchor**."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w6",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "counter-anchor",
+                            "definition": "The second-anchor in the negotiation process, which is the counterbid."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_5"
+                    },
+                    {
+                        "block_id": "card_1_block_6",
+                        "block_type": "text",
+                        "text_content": "But while both anchors play a role, one typically holds more sway than the other. Why does the first offer often feel so much more powerful?"
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The Dominance of the Initial Offer",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Research consistently shows that the first offer has a stronger influence on the final outcome than any subsequent counter-offers. This suggests that the initial anchor creates a psychological 'gravity' that is difficult to escape, even for experienced negotiators."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w9",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎯",
+                            "short_title": "Initial Offer Influence",
+                            "expanded_detail": "Multiple studies indicate that the first offer made in a negotiation has a more significant impact on the final outcome than any subsequent counteroffers.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This isn't just theoretical. In **Strategic Negotiation Process Workshops**, participants are split into buyers and sellers with identical information. Despite the equal footing, the results consistently show that those who strategically anchor the negotiation achieve significantly higher success rates. It proves that the *where* and *when* of the first offer can be the difference between a win and a loss."
+                    },
+                    {
+                        "block_id": "card_2_block_3",
+                        "block_type": "text",
+                        "text_content": "You might think that professional expertise would make someone immune to this psychological pull. However, the reality is far more surprising."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "Expertise vs. Intuition",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "In a fascinating study by **Northcraft and Neale**, researchers tested whether professional real-estate agents were more resistant to anchoring than students. Both groups were shown a house and given different listing prices—the anchors—before making their own offers."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w2",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Northcraft and Neale Study: Participant Groups",
+                            "intro_text": "This study examined how different levels of professional expertise influence the susceptibility to anchoring when estimating house values.",
+                            "entities": [
+                                {
+                                    "name": "Students",
+                                    "role": "Non-expert participants",
+                                    "description": "Participants who were shown a house and given different listing prices to estimate the property's value."
+                                },
+                                {
+                                    "name": "Real-estate Agents",
+                                    "role": "Professional experts",
+                                    "description": "Professionals who estimated house values based on listing prices and later denied being influenced by the anchor during interviews."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "The results were striking. Despite the agents' professional knowledge, they were just as influenced by the listing price as the students were. Even more interesting was the follow-up: when interviewed, the agents denied being influenced by the anchor, even though the data proved they were. This highlights how anchoring often operates beneath our conscious awareness."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w7",
+                        "block_type": "flip_reveal",
+                        "flip_reveal_data": {
+                            "front_text": "Are real-estate agents immune to the influence of anchoring compared to students?",
+                            "back_text": "No. A study by Northcraft and Neale showed that both real-estate agents and students were equally influenced by the anchor, despite the agents' denials in follow-up interviews."
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_3"
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "If everyone is susceptible, the next question is: can we make an anchor even more powerful by changing how it's phrased?"
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The Precision Play",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Not all anchors are created equal. Research by **Janiszewski and Uy** suggests that the *precision* of the number you use can significantly impact how much the other party adjusts their estimate. A rounded number feels like a guess, while a specific number feels like it's based on a calculated value."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w1",
+                        "block_type": "feature_matrix",
+                        "feature_matrix_data": {
+                            "title": "Precision of Anchors",
+                            "intro_text": "The precision of an initial anchor influences how much individuals adjust their estimates and the final value they reach.",
+                            "entity_a": "General Anchors",
+                            "entity_b": "Precise Anchors",
+                            "features": [
+                                {
+                                    "feature_name": "Example",
+                                    "value_a": "$800,000",
+                                    "value_b": "$799,800",
+                                    "explanation": "General anchors are nonspecific, while precise anchors are specific values."
+                                },
+                                {
+                                    "feature_name": "Adjustment Level",
+                                    "value_a": "Adjusted more",
+                                    "value_b": "Adjusted less",
+                                    "explanation": "People adjust in larger increments when given a general anchor compared to a precise one."
+                                },
+                                {
+                                    "feature_name": "Final Price Result",
+                                    "value_a": "Further from initial price",
+                                    "value_b": "Closer to initial price",
+                                    "explanation": "A more specific initial price typically results in a final estimate that remains closer to the anchor."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "The reason for this is a difference in **scale**. When someone sees a general anchor, like $800,000, they tend to adjust in large, chunky increments. But when they see a precise anchor, like $799,800, they subconsciously shift to a smaller scale of adjustment, making them less likely to move far away from the original number."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w4",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "A negotiator provides a precise and specific anchor (e.g., $19.85).",
+                            "mechanism": "The other party adjusts their estimate on a lower scale (e.g., $19.75, $19.95) rather than in large increments.",
+                            "outcome": "The final price ends up closer to the initial anchor."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_3"
+                    },
+                    {
+                        "block_id": "card_4_block_4",
+                        "block_type": "text",
+                        "text_content": "While precision can maximize your gain, there is a strategic gamble involved in deciding whether to be the one to set the first anchor at all."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The First-Mover's Dilemma",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Deciding whether to make the first offer is a classic negotiation dilemma. On one hand, the first mover often secures a more economically advantageous result. On the other hand, the second mover—the one who sets the counter-anchor—often feels more satisfied with the outcome because the final agreement typically lands midway between the two anchors."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w0",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "First Anchor",
+                            "entity_b": "Second Anchor",
+                            "distinction": "While the first anchor often achieves economically more advantageous results, the second anchor typically results in higher psychological satisfaction with the negotiation outcome."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n7"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "There are also tangible risks. If you lack sufficient information, you might accidentally set the anchor too low, effectively negotiating against your own interests. This often leads to a sense of regret, leaving the first-mover feeling as though they left money on the table."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w8",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Disadvantages of Setting the First Anchor",
+                            "context_text": "While setting the first offer can lead to economically advantageous results, it also carries specific psychological and strategic risks for the negotiator.",
+                            "items": [
+                                "Setting the price too low due to a lack of knowledge, which can act against their own interests",
+                                "Generally experiencing lower levels of satisfaction with the negotiation outcome compared to those who set the counter-anchor",
+                                "Feeling regret or a sense that they failed to maximize the full potential of the negotiations"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n7"
+                        ],
+                        "block_id": "card_5_block_3"
+                    },
+                    {
+                        "block_id": "card_5_block_4",
+                        "block_type": "text",
+                        "text_content": "Ultimately, anchoring is a powerful tool that can either steer a negotiation toward your goals or trap you in a baseline you didn't intend. The key is recognizing the invisible pull of the anchor and deciding whether to lead the dance or respond to the move."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is engaging and generally factual, but it suffers from significant redundancy. Block 2 and Block 4 essentially repeat the same conceptual information that is already explicitly detailed in the Stepper widget (Block 3) and the Jargon Buster (Block 5). Specifically, Block 2 describes the 'dance of adjustments' and the 'baseline' which is just a narrative way of describing the process already in the stepper. Block 4 explicitly defines the counter-anchor, which is then immediately defined again in the Jargon Buster. To improve the flow and eliminate overlap, these text blocks should be rewritten to provide context rather than repeating data.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "This block repeats the process of setting a baseline and responding, which is already detailed in the Stepper widget (Block 3). It should be rewritten to introduce the widget without repeating the steps.",
+                        "new_content_or_instructions": "Once an anchor is set, the negotiation transforms into a series of strategic adjustments. This process follows a predictable pattern of offers and responses:"
+                    },
+                    {
+                        "target_block_id": "card_1_block_4",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "This block explicitly defines the counter-anchor and its purpose, which is redundant because the Jargon Buster (Block 5) provides the exact definition. It should be rewritten to transition smoothly into the definition.",
+                        "new_content_or_instructions": "While the first move sets the stage, the second party doesn't simply accept the baseline. They attempt to shift the reference point with a strategic response:"
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally accurate, but it contains unverified emotional claims and narrative fluff. Specifically, the phrase 'psychological gravity that is difficult to escape' is a dramatic invention not found in the source. Additionally, the text in block 0 repeats the exact data point presented in the insight badge (block 1), creating redundancy. Block 2 claims that anchoring leads to 'significantly higher success rates' and that it's the 'difference between a win and a loss,' which is a dramatic overstatement of the source's claim that anchoring had a 'significant effect on their success.'",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the exact information in the insight badge (block 1) and uses unverified metaphorical language ('psychological gravity').",
+                        "new_content_or_instructions": "In a negotiation, the first price offer sets a subjective anchor that shapes the entire conversation. This initial starting point often exerts a disproportionate influence on where the final agreement lands."
+                    },
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The original text uses dramatic fluff ('difference between a win and a loss') and overstates the findings of the Strategic Negotiation Process Workshops.",
+                        "new_content_or_instructions": "This effect is evident in Strategic Negotiation Process Workshops, where buyers and sellers are given identical information before negotiating. The results demonstrate that the ability to anchor the negotiation has a significant effect on a participant's success."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to Note n4. However, there is significant redundancy between the text blocks and the widgets. Block 2 repeats the exact findings of the Northcraft and Neale study which are then repeated again in the Flip Reveal widget (Block 3). Additionally, the text in Block 2 contains a slight narrative flourish ('The results were striking') which, while engaging, is slightly redundant given the data. I will streamline the text to introduce the widget and remove the repetition.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the exact results of the study (agents were just as influenced as students) which is explicitly stated in the Flip Reveal widget immediately following it. I will rewrite it to focus on the agents' denial of the effect, which adds a nuance not fully captured in the widget's 'No' answer, and then lead into the reveal.",
+                        "new_content_or_instructions": "The results revealed a surprising gap between perception and reality. While the data showed the agents were just as influenced by the listing price as the students, the agents themselves denied this influence during follow-up interviews. This suggests that anchoring often operates beneath our conscious awareness."
+                    },
+                    {
+                        "target_block_id": "card_3_block_3",
+                        "action": "REGENERATE_WIDGET",
+                        "rationale": "The widget is a bit repetitive of the block above it. I will refine the question and answer to be more punchy and focused on the outcome of the results.",
+                        "new_content_or_instructions": "Front: 'Did professional expertise protect the real-estate agents from the anchoring effect?'\nBack: 'No. Northcraft and Neale found that both agents and students were equally influenced by the anchor, despite the agents' claims to the contrary.'"
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual and maps well to the notes. However, it contains unverified emotional claims/narrative bridging in block 0 ('A rounded number feels like a guess, while a specific number feels like it's based on a calculated value') which is not in the source text. Additionally, block 2 is redundant as it repeats the exact logic and examples already presented in the feature matrix and the causal chain widget. I will remove the redundant text block and rewrite the intro to remove the fabrication.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The claim that rounded numbers 'feel like a guess' and specific numbers 'feel like they are based on a calculated value' is a narrative fabrication not present in the source text.",
+                        "new_content_or_instructions": "Not all anchors are created equal. Research by **Janiszewski and Uy** suggests that the *precision* of the number you use can significantly impact how much the other party adjusts their estimate."
+                    },
+                    {
+                        "target_block_id": "card_4_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "This block repeats the exact data points (scale, $800,000, $799,800, large increments) already visible in the feature matrix and the causal chain widget, creating redundant overlap.",
+                        "new_content_or_instructions": ""
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual and aligns with the provided notes. However, there is a significant amount of redundancy between the text blocks and the widgets. Block 0 introduces the dilemma, but Block 2 and the subsequent itemized breakdown widget (Block 3) repeat the exact same points about lack of knowledge, negotiating against interests, and regret. Additionally, the final block (Block 4) is a bit too 'fluffy' with metaphors like 'lead the dance', though it remains conceptually factual. The primary issue is the overlap between Block 2 and Block 3.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_2",
+                        "action": "REMOVE_BLOCK",
+                        "rationale": "This block repeats the exact information contained in the itemized breakdown widget (Block 3), including the lack of knowledge, negotiating against interests, and the feeling of regret.",
+                        "new_content_or_instructions": ""
+                    },
+                    {
+                        "target_block_id": "card_5_block_4",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrasing 'lead the dance or respond to the move' is unverified narrative fluff. It should be more professional and focused on the strategic choice of anchoring.",
+                        "new_content_or_instructions": "Ultimately, anchoring is a powerful tool that can either steer a negotiation toward your goals or trap you in a baseline you didn't intend. The key is recognizing the invisible pull of the anchor and strategically deciding whether to set the first offer or respond with a counter-anchor."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "The Art of Anchoring: Mastering the First Move",
+        "module_description": "Discover the psychological 'gravity' of the first offer and learn how to steer any negotiation in your favor.",
+        "alternative_descriptions": [
+            "Can a single number control the outcome of a deal? Step into the psychology of anchoring.",
+            "Master the precision play and the first-mover's dilemma to win your next negotiation.",
+            "Uncover the invisible forces that shape every deal, from salary talks to real estate."
+        ],
+        "tags": [
+            "Anchoring",
+            "Negotiation Strategy",
+            "Psychological Bias",
+            "Counter-Anchoring",
+            "Decision Making"
+        ],
+        "loading_screen_trivia": "Professional real-estate agents are just as susceptible to anchoring as students, even when they deny it.",
+        "timeline": [],
+        "cast_of_characters": [
+            {
+                "name": "Northcraft and Neale",
+                "emoji_avatar": "🎓",
+                "historical_role": "Psychological Researchers",
+                "core_contribution": "Conducted a study proving that professional expertise does not make negotiators immune to anchoring."
+            },
+            {
+                "name": "Janiszewski and Uy",
+                "emoji_avatar": "📊",
+                "historical_role": "Behavioral Researchers",
+                "core_contribution": "Researched how the precision of an anchor affects the final negotiation outcome."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "Understanding anchoring allows individuals to navigate high-stakes financial and professional negotiations more effectively by recognizing and countering subconscious psychological biases."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The Power of the First Move",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "In any negotiation, the first number mentioned often carries an invisible weight. This is known as **anchoring**, a psychological phenomenon where an initial piece of information serves as a reference point for everything that follows. Whether you are buying a car or negotiating a salary, that first offer doesn't just start the conversation—it often shapes the final result."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w5",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "anchoring",
+                            "definition": "The process of determining an accepted starting point for subsequent negotiations, which is set as soon as one side states their first price offer."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "Once an anchor is set, the negotiation transforms into a series of strategic adjustments. This process follows a predictable pattern of offers and responses:"
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w3",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "The Anchoring Process in Negotiation",
+                            "intro_text": "Anchoring is used in negotiations to establish an accepted starting point for all subsequent discussions.",
+                            "steps": [
+                                "One side states their first price offer, which sets the subjective anchor.",
+                                "The other side provides a counterbid, which serves as the second-anchor or counter-anchor.",
+                                "These anchors establish the accepted starting point for the remainder of the negotiation process."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_3"
+                    },
+                    {
+                        "block_id": "card_1_block_4",
+                        "block_type": "text",
+                        "text_content": "While the first move sets the stage, the second party doesn't simply accept the baseline. They attempt to shift the reference point with a strategic response:"
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w6",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "counter-anchor",
+                            "definition": "The second-anchor in the negotiation process, which is the counterbid."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_5"
+                    },
+                    {
+                        "block_id": "card_1_block_6",
+                        "block_type": "text",
+                        "text_content": "But while both anchors play a role, one typically holds more sway than the other. Why does the first offer often feel so much more powerful?"
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The Dominance of the Initial Offer",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "In a negotiation, the first price offer sets a subjective anchor that shapes the entire conversation. This initial starting point often exerts a disproportionate influence on where the final agreement lands."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w9",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎯",
+                            "short_title": "Initial Offer Influence",
+                            "expanded_detail": "Multiple studies indicate that the first offer made in a negotiation has a more significant impact on the final outcome than any subsequent counteroffers.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This effect is evident in Strategic Negotiation Process Workshops, where buyers and sellers are given identical information before negotiating. The results demonstrate that the ability to anchor the negotiation has a significant effect on a participant's success."
+                    },
+                    {
+                        "block_id": "card_2_block_3",
+                        "block_type": "text",
+                        "text_content": "You might think that professional expertise would make someone immune to this psychological pull. However, the reality is far more surprising."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "Expertise vs. Intuition",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "In a fascinating study by **Northcraft and Neale**, researchers tested whether professional real-estate agents were more resistant to anchoring than students. Both groups were shown a house and given different listing prices—the anchors—before making their own offers."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w2",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "Northcraft and Neale Study: Participant Groups",
+                            "intro_text": "This study examined how different levels of professional expertise influence the susceptibility to anchoring when estimating house values.",
+                            "entities": [
+                                {
+                                    "name": "Students",
+                                    "role": "Non-expert participants",
+                                    "description": "Participants who were shown a house and given different listing prices to estimate the property's value."
+                                },
+                                {
+                                    "name": "Real-estate Agents",
+                                    "role": "Professional experts",
+                                    "description": "Professionals who estimated house values based on listing prices and later denied being influenced by the anchor during interviews."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "The results revealed a surprising gap between perception and reality. While the data showed the agents were just as influenced by the listing price as the students, the agents themselves denied this influence during follow-up interviews. This suggests that anchoring often operates beneath our conscious awareness."
+                    },
+                    {
+                        "block_type": "flip_reveal",
+                        "block_id": "card_3_block_3",
+                        "flip_reveal_data": {
+                            "front_text": "Did professional expertise protect the real-estate agents from the anchoring effect?",
+                            "back_text": "No. Northcraft and Neale found that both agents and students were equally influenced by the anchor, despite the agents' claims to the contrary."
+                        }
+                    },
+                    {
+                        "block_id": "card_3_block_4",
+                        "block_type": "text",
+                        "text_content": "If everyone is susceptible, the next question is: can we make an anchor even more powerful by changing how it's phrased?"
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The Precision Play",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "Not all anchors are created equal. Research by **Janiszewski and Uy** suggests that the *precision* of the number you use can significantly impact how much the other party adjusts their estimate."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w1",
+                        "block_type": "feature_matrix",
+                        "feature_matrix_data": {
+                            "title": "Precision of Anchors",
+                            "intro_text": "The precision of an initial anchor influences how much individuals adjust their estimates and the final value they reach.",
+                            "entity_a": "General Anchors",
+                            "entity_b": "Precise Anchors",
+                            "features": [
+                                {
+                                    "feature_name": "Example",
+                                    "value_a": "$800,000",
+                                    "value_b": "$799,800",
+                                    "explanation": "General anchors are nonspecific, while precise anchors are specific values."
+                                },
+                                {
+                                    "feature_name": "Adjustment Level",
+                                    "value_a": "Adjusted more",
+                                    "value_b": "Adjusted less",
+                                    "explanation": "People adjust in larger increments when given a general anchor compared to a precise one."
+                                },
+                                {
+                                    "feature_name": "Final Price Result",
+                                    "value_a": "Further from initial price",
+                                    "value_b": "Closer to initial price",
+                                    "explanation": "A more specific initial price typically results in a final estimate that remains closer to the anchor."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w4",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "A negotiator provides a precise and specific anchor (e.g., $19.85).",
+                            "mechanism": "The other party adjusts their estimate on a lower scale (e.g., $19.75, $19.95) rather than in large increments.",
+                            "outcome": "The final price ends up closer to the initial anchor."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_3"
+                    },
+                    {
+                        "block_id": "card_4_block_4",
+                        "block_type": "text",
+                        "text_content": "While precision can maximize your gain, there is a strategic gamble involved in deciding whether to be the one to set the first anchor at all."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Anchoring in Negotiation",
+                "created_at": "2026-05-22T09:16:08.576847+00:00",
+                "card_title": "The First-Mover's Dilemma",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "Deciding whether to make the first offer is a classic negotiation dilemma. On one hand, the first mover often secures a more economically advantageous result. On the other hand, the second mover—the one who sets the counter-anchor—often feels more satisfied with the outcome because the final agreement typically lands midway between the two anchors."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w0",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "First Anchor",
+                            "entity_b": "Second Anchor",
+                            "distinction": "While the first anchor often achieves economically more advantageous results, the second anchor typically results in higher psychological satisfaction with the negotiation outcome."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n7"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w8",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Disadvantages of Setting the First Anchor",
+                            "context_text": "While setting the first offer can lead to economically advantageous results, it also carries specific psychological and strategic risks for the negotiator.",
+                            "items": [
+                                "Setting the price too low due to a lack of knowledge, which can act against their own interests",
+                                "Generally experiencing lower levels of satisfaction with the negotiation outcome compared to those who set the counter-anchor",
+                                "Feeling regret or a sense that they failed to maximize the full potential of the negotiations"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n7"
+                        ],
+                        "block_id": "card_5_block_3"
+                    },
+                    {
+                        "block_id": "card_5_block_4",
+                        "block_type": "text",
+                        "text_content": "Ultimately, anchoring is a powerful tool that can either steer a negotiation toward your goals or trap you in a baseline you didn't intend. The key is recognizing the invisible pull of the anchor and strategically deciding whether to set the first offer or respond with a counter-anchor."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "What is the psychological phenomenon where an initial piece of information serves as a reference point for all subsequent negotiations?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Anchoring",
+                    "isCorrect": true,
+                    "feedback": "Anchoring is the process where a first offer sets a reference point that shapes the final result of a negotiation."
+                },
+                {
+                    "text": "Counter-anchoring",
+                    "isCorrect": false,
+                    "feedback": "Counter-anchoring is the second move made to shift the baseline, not the initial reference point."
+                },
+                {
+                    "text": "Precision Play",
+                    "isCorrect": false,
+                    "feedback": "The precision play refers to using specific numbers to limit adjustments, not the general phenomenon of reference points."
+                },
+                {
+                    "text": "The First-Mover's Dilemma",
+                    "isCorrect": false,
+                    "feedback": "This is the strategic conflict between economic gain and psychological satisfaction, not the reference point itself."
+                },
+                {
+                    "text": "Strategic Anchoring",
+                    "isCorrect": false,
+                    "feedback": "While strategic, this describes the application of anchoring, not the core psychological phenomenon."
+                },
+                {
+                    "text": "Baseline Shifting",
+                    "isCorrect": false,
+                    "feedback": "This is the action taken during the negotiation dance, not the initial psychological reference point."
+                },
+                {
+                    "text": "Adjustment Scaling",
+                    "isCorrect": false,
+                    "feedback": "This refers to the scale of increments used to adjust an offer, not the initial reference point."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the negotiation process, what is the term for the second-anchor or the counterbid provided by the second party?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Counter-anchor",
+                    "isCorrect": true,
+                    "feedback": "The counter-anchor is the second-anchor in the negotiation process, specifically the counterbid."
+                },
+                {
+                    "text": "Initial anchor",
+                    "isCorrect": false,
+                    "feedback": "The initial anchor is the first price offer made, not the second."
+                },
+                {
+                    "text": "Baseline",
+                    "isCorrect": false,
+                    "feedback": "The baseline is the starting point established by the first mover, which the counter-anchor attempts to shift."
+                },
+                {
+                    "text": "Precise anchor",
+                    "isCorrect": false,
+                    "feedback": "A precise anchor is a specific value used to limit adjustments, regardless of whether it is the first or second offer."
+                },
+                {
+                    "text": "Reference point",
+                    "isCorrect": false,
+                    "feedback": "A reference point is the general term for the information that shapes the negotiation, not specifically the second bid."
+                },
+                {
+                    "text": "Adjustment increment",
+                    "isCorrect": false,
+                    "feedback": "This is the size of the change made to a bid, not the bid itself."
+                },
+                {
+                    "text": "Subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The subjective anchor is the first price offer that sets the starting point."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the Northcraft and Neale study, how did professional real-estate agents compare to students in their susceptibility to anchoring?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "They were equally influenced",
+                    "isCorrect": true,
+                    "feedback": "The study showed that both real-estate agents and students were equally influenced by the anchor, despite the agents' professional knowledge."
+                },
+                {
+                    "text": "Agents were more resistant",
+                    "isCorrect": false,
+                    "feedback": "Data proved that agents were just as influenced as students, despite their professional expertise."
+                },
+                {
+                    "text": "Students were more influenced",
+                    "isCorrect": false,
+                    "feedback": "The results were striking because the professionals were not more resistant than the non-experts."
+                },
+                {
+                    "text": "Agents were immune",
+                    "isCorrect": false,
+                    "feedback": "The study explicitly found that agents were not immune to the psychological pull of anchoring."
+                },
+                {
+                    "text": "Agents were less influenced",
+                    "isCorrect": false,
+                    "feedback": "The data showed no significant difference in susceptibility between the two groups."
+                },
+                {
+                    "text": "Students were immune",
+                    "isCorrect": false,
+                    "feedback": "Both groups were susceptible to the anchoring effect."
+                },
+                {
+                    "text": "Agents were only influenced by precise anchors",
+                    "isCorrect": false,
+                    "feedback": "The study tested general listing prices, and both groups were equally affected regardless of expertise."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the effect of using a precise anchor (e.g., $799,800) compared to a general anchor (e.g., $800,000) on the final price result?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Final price is closer to the anchor",
+                    "isCorrect": true,
+                    "feedback": "A more specific initial price typically results in a final estimate that remains closer to the anchor because the other party adjusts on a smaller scale."
+                },
+                {
+                    "text": "Final price is further from the anchor",
+                    "isCorrect": false,
+                    "feedback": "General anchors lead to larger adjustments, making the final price further from the initial offer."
+                },
+                {
+                    "text": "Final price is identical to the anchor",
+                    "isCorrect": false,
+                    "feedback": "The other party still adjusts, but they do so in smaller increments when the anchor is precise."
+                },
+                {
+                    "text": "No effect on final price",
+                    "isCorrect": false,
+                    "feedback": "Precision significantly impacts how much the other party adjusts their estimate."
+                },
+                {
+                    "text": "Final price is always lower",
+                    "isCorrect": false,
+                    "feedback": "Precision affects the proximity to the anchor, not necessarily the direction of the price change."
+                },
+                {
+                    "text": "Final price is always higher",
+                    "isCorrect": false,
+                    "feedback": "Precision affects the proximity to the anchor, not the direction of the price change."
+                },
+                {
+                    "text": "Final price is determined by the counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "While the counter-anchor matters, a precise initial anchor limits the scale of adjustment for the counter-offer."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which party in a negotiation typically achieves more economically advantageous results?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The first mover",
+                    "isCorrect": true,
+                    "feedback": "Research suggests that the party setting the first anchor often secures a more economically advantageous result."
+                },
+                {
+                    "text": "The second mover",
+                    "isCorrect": false,
+                    "feedback": "The second mover often feels more satisfied, but the first mover typically gets the better economic deal."
+                },
+                {
+                    "text": "The party with more information",
+                    "isCorrect": false,
+                    "feedback": "While information is helpful, the text focuses on the strategic advantage of the first move in anchoring."
+                },
+                {
+                    "text": "The party setting the counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor provides psychological satisfaction, but not necessarily the best economic outcome."
+                },
+                {
+                    "text": "The party using precise anchors",
+                    "isCorrect": false,
+                    "feedback": "Precision is a tool to maximize gain, but the first mover's advantage is the general economic trend."
+                },
+                {
+                    "text": "The party who adjusts the least",
+                    "isCorrect": false,
+                    "feedback": "The text does not state that the party who adjusts the least wins economically."
+                },
+                {
+                    "text": "Neither party",
+                    "isCorrect": false,
+                    "feedback": "The first mover typically holds a stronger influence on the final outcome."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why do negotiators who set the counter-anchor typically experience higher psychological satisfaction with the outcome?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "The final agreement lands midway between anchors",
+                    "isCorrect": true,
+                    "feedback": "The second mover often feels more satisfied because the final agreement typically lands midway between the two anchors."
+                },
+                {
+                    "text": "They avoid the risk of setting the price too low",
+                    "isCorrect": false,
+                    "feedback": "While true, the satisfaction comes from the final agreement's position relative to the anchors."
+                },
+                {
+                    "text": "They have more information about the opponent",
+                    "isCorrect": false,
+                    "feedback": "The text does not attribute satisfaction to information gathering."
+                },
+                {
+                    "text": "They use precise anchors to win",
+                    "isCorrect": false,
+                    "feedback": "Precision is a tactic, not the reason for the second mover's psychological satisfaction."
+                },
+                {
+                    "text": "They avoid the first-mover's regret",
+                    "isCorrect": false,
+                    "feedback": "Avoiding regret is a result of the satisfaction, not the cause of the satisfaction itself."
+                },
+                {
+                    "text": "They set the final price",
+                    "isCorrect": false,
+                    "feedback": "The second mover sets a counter-anchor, but the final agreement is a result of mutual adjustment."
+                },
+                {
+                    "text": "They are immune to anchoring",
+                    "isCorrect": false,
+                    "feedback": "The second mover is still subject to the anchoring effect; they are simply responding to it."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In negotiation, the psychological phenomenon where an initial piece of information serves as a reference point for subsequent discussions is known as ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "anchoring",
+                    "isCorrect": true,
+                    "feedback": "Anchoring is the process where a first offer sets a reference point that shapes the final result of a negotiation."
+                },
+                {
+                    "text": "counter-anchoring",
+                    "isCorrect": false,
+                    "feedback": "Counter-anchoring is the second move made to shift the baseline, not the initial reference point."
+                },
+                {
+                    "text": "precision play",
+                    "isCorrect": false,
+                    "feedback": "The precision play refers to using specific numbers to limit adjustments, not the general phenomenon of reference points."
+                },
+                {
+                    "text": "the first-mover's dilemma",
+                    "isCorrect": false,
+                    "feedback": "This is the strategic conflict between economic gain and psychological satisfaction, not the reference point itself."
+                },
+                {
+                    "text": "scale adjustment",
+                    "isCorrect": false,
+                    "feedback": "Scale adjustment is the mechanism by which people respond to anchors, not the phenomenon of the initial reference point."
+                },
+                {
+                    "text": "baseline shifting",
+                    "isCorrect": false,
+                    "feedback": "Baseline shifting is the action of responding to an anchor, not the name of the psychological phenomenon."
+                },
+                {
+                    "text": "strategic anchoring",
+                    "isCorrect": false,
+                    "feedback": "Strategic anchoring is the application of the phenomenon, not the name of the psychological process."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The second-anchor in the negotiation process, which is the counterbid, is specifically referred to as the ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "counter-anchor",
+                    "isCorrect": true,
+                    "feedback": "The counter-anchor is the second move intended to pull the negotiation back in the party's favor."
+                },
+                {
+                    "text": "initial anchor",
+                    "isCorrect": false,
+                    "feedback": "The initial anchor is the first price offer made, not the counterbid."
+                },
+                {
+                    "text": "precision anchor",
+                    "isCorrect": false,
+                    "feedback": "A precision anchor is a specific number used to limit adjustments, regardless of whether it is the first or second move."
+                },
+                {
+                    "text": "subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The subjective anchor is the first price offer that sets the starting point."
+                },
+                {
+                    "text": "baseline",
+                    "isCorrect": false,
+                    "feedback": "The baseline is the reference point established by the first move, not the specific term for the counterbid."
+                },
+                {
+                    "text": "adjustment scale",
+                    "isCorrect": false,
+                    "feedback": "The adjustment scale is the range of increments used to shift a price, not the counterbid itself."
+                },
+                {
+                    "text": "final offer",
+                    "isCorrect": false,
+                    "feedback": "The final offer is the end result of the negotiation, not the second-anchor."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to the study by ____, professional real-estate agents were just as influenced by listing prices as students were.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Northcraft and Neale",
+                    "isCorrect": true,
+                    "feedback": "Northcraft and Neale's study proved that professional expertise does not make agents immune to anchoring."
+                },
+                {
+                    "text": "Janiszewski and Uy",
+                    "isCorrect": false,
+                    "feedback": "Janiszewski and Uy researched the precision of anchors, not the susceptibility of real-estate agents."
+                },
+                {
+                    "text": "Tversky and Kahneman",
+                    "isCorrect": false,
+                    "feedback": "Tversky and Kahneman formalized the anchoring effect in behavioral economics, but did not conduct the real-estate agent study."
+                },
+                {
+                    "text": "Ariely",
+                    "isCorrect": false,
+                    "feedback": "Dan Ariely studied the use of social security numbers as anchors, not real-estate agents."
+                },
+                {
+                    "text": "Simmons",
+                    "isCorrect": false,
+                    "feedback": "Simmons proposed an integrative theory of anchoring, not the real-estate agent study."
+                },
+                {
+                    "text": "Wegener",
+                    "isCorrect": false,
+                    "feedback": "Wegener's attitude change theory focuses on how beliefs in anchors affect the outcome."
+                },
+                {
+                    "text": "Epley and Gilovich",
+                    "isCorrect": false,
+                    "feedback": "Epley and Gilovich studied self-generated anchors and the range of acceptable answers."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Research by Janiszewski and Uy suggests that the ____ of the number used as an anchor can significantly impact how much the other party adjusts their estimate.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "precision",
+                    "isCorrect": true,
+                    "feedback": "The precision of a number (e.g., $799,800 vs $800,000) determines how much the other party adjusts."
+                },
+                {
+                    "text": "magnitude",
+                    "isCorrect": false,
+                    "feedback": "The magnitude is the size of the number, whereas precision refers to how specific the number is."
+                },
+                {
+                    "text": "timing",
+                    "isCorrect": false,
+                    "feedback": "The timing refers to when the offer is made, not the specificity of the number."
+                },
+                {
+                    "text": "scale",
+                    "isCorrect": false,
+                    "feedback": "Scale is the result of precision, not the property of the number itself that is being tested."
+                },
+                {
+                    "text": "frequency",
+                    "isCorrect": false,
+                    "feedback": "The frequency of offers does not impact the adjustment level in the way precision does."
+                },
+                {
+                    "text": "validity",
+                    "isCorrect": false,
+                    "feedback": "The validity of the number is not the primary factor in the precision play."
+                },
+                {
+                    "text": "order",
+                    "isCorrect": false,
+                    "feedback": "The order of offers is part of the anchoring process, but not the specific property of the number that impacts adjustment."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "While the first anchor often achieves economically more advantageous results, the ____ typically results in higher psychological satisfaction with the negotiation outcome.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "second anchor",
+                    "isCorrect": true,
+                    "feedback": "The party setting the counter-anchor often feels more satisfied because the final agreement usually lands midway between the two anchors."
+                },
+                {
+                    "text": "first anchor",
+                    "isCorrect": false,
+                    "feedback": "The first anchor is more likely to lead to economic gain but lower psychological satisfaction."
+                },
+                {
+                    "text": "precise anchor",
+                    "isCorrect": false,
+                    "feedback": "A precise anchor leads to a final price closer to the anchor, but not necessarily higher satisfaction."
+                },
+                {
+                    "text": "general anchor",
+                    "isCorrect": false,
+                    "feedback": "A general anchor allows for larger adjustments, leading to further results from the initial price."
+                },
+                {
+                    "text": "counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "While the counter-anchor is the second anchor, the term 'second anchor' is used in the direct contrast with 'first anchor' in the source text."
+                },
+                {
+                    "text": "subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "this is another term for the first anchor, which is associated with lower satisfaction."
+                },
+                {
+                    "text": "final agreement",
+                    "isCorrect": false,
+                    "feedback": "The final agreement is the outcome, not the anchor that provides the satisfaction."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the relationship between the first offer and the final outcome in a negotiation?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The first offer is usually ignored in favor of the counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "The first offer actually has a stronger influence on the final outcome than subsequent counter-offers."
+                },
+                {
+                    "text": "The first offer creates a psychological gravity that shapes the final result",
+                    "isCorrect": true,
+                    "feedback": "The initial anchor establishes a reference point that strongly influences the final agreement."
+                },
+                {
+                    "text": "The first offer is only effective if the negotiator is a professional expert",
+                    "isCorrect": false,
+                    "feedback": "Research shows that even experienced negotiators are susceptible to the anchoring effect."
+                },
+                {
+                    "text": "The first offer is less influential than the second-anchor",
+                    "isCorrect": false,
+                    "feedback": "The first offer typically holds more sway and has a more significant impact than counter-offers."
+                },
+                {
+                    "text": "The first offer only works when it is a rounded number",
+                    "isCorrect": false,
+                    "feedback": "Precise numbers are actually more effective anchors than rounded ones."
+                },
+                {
+                    "text": "The first offer is a formality that does not affect the final price",
+                    "isCorrect": false,
+                    "feedback": "The first offer sets the baseline and often shapes the final result of the negotiation."
+                },
+                {
+                    "text": "The first offer is only powerful when the second party denies it",
+                    "isCorrect": false,
+                    "feedback": "The power of the first offer comes from its role as a reference point, regardless of the second party's response."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why does a precise anchor, such as $799,800, typically result in a final price closer to the initial offer than a rounded anchor like $800,000?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "It creates a psychological gravity that is impossible to escape",
+                    "isCorrect": false,
+                    "feedback": "Psychological gravity refers to the general influence of the first offer, not specifically the effect of precision."
+                },
+                {
+                    "text": "It causes the other party to adjust their estimate on a smaller scale",
+                    "isCorrect": true,
+                    "feedback": "Precise numbers lead the other party to subconsciously shift to a smaller scale of adjustment, keeping the final result closer to the anchor."
+                },
+                {
+                    "text": "It eliminates the possibility of counter-anchoring",
+                    "isCorrect": false,
+                    "feedback": "Counter-anchoring still occurs, but the adjustments made from a precise anchor are smaller."
+                },
+                {
+                    "text": "It signals professional expertise to the other party",
+                    "isCorrect": false,
+                    "feedback": "While it may feel calculated, the mechanism is based on the scale of adjustment, not the perceived expertise of the negotiator."
+                },
+                {
+                    "text": "It forces the other party to use a larger scale of adjustment",
+                    "isCorrect": false,
+                    "feedback": "General anchors, not precise ones, lead people to adjust in larger, chunky increments."
+                },
+                {
+                    "text": "It prevents the second party from setting a counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "The second party still provides a counterbid, which is the counter-anchor."
+                },
+                {
+                    "text": "It removes the psychological pull of the first move",
+                    "isCorrect": false,
+                    "feedback": "Precision actually maximizes the power of the first move's psychological pull."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How does the process of counter-anchoring function within a negotiation?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "It establishes the very first reference point",
+                    "isCorrect": false,
+                    "feedback": "The first offer sets the initial anchor, not the counter-anchor."
+                },
+                {
+                    "text": "It serves as the final agreement price",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor is a bid used to shift the baseline, not the final agreed-upon price."
+                },
+                {
+                    "text": "It attempts to set a new reference point to pull the negotiation back",
+                    "isCorrect": true,
+                    "feedback": "The counter-anchor is the second-anchor used by the second party to shift the baseline in their favor."
+                },
+                {
+                    "text": "It eliminates the influence of the initial anchor",
+                    "isCorrect": false,
+                    "feedback": "The initial anchor typically holds more sway than the counter-anchor."
+                },
+                {
+                    "text": "It creates a rounded baseline for easier adjustment",
+                    "isCorrect": false,
+                    "feedback": "Counter-anchoring is about shifting the reference point, regardless of whether the number is rounded or precise."
+                },
+                {
+                    "text": "It prevents the first mover from achieving an economic advantage",
+                    "isCorrect": false,
+                    "feedback": "The first mover often still secures a more economically advantageous result despite the counter-anchor."
+                },
+                {
+                    "text": "It defines the subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The first price offer defines the subjective anchor."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why might a negotiator who sets the first anchor experience lower psychological satisfaction with the final outcome?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "They are forced to adjust on a smaller scale",
+                    "isCorrect": false,
+                    "feedback": "Scale of adjustment is related to the precision of the anchor, not the satisfaction of the first mover."
+                },
+                {
+                    "text": "They are more susceptible to the Northcraft and Neale effect",
+                    "isCorrect": false,
+                    "feedback": "The Northcraft and Neale study focused on expertise vs. susceptibility, not the satisfaction of the first mover."
+                },
+                {
+                    "text": "They may feel they failed to maximize the full potential of the negotiation",
+                    "isCorrect": true,
+                    "feedback": "First-movers often feel regret or a sense that they left money on the table, leading to lower satisfaction."
+                },
+                {
+                    "text": "They are unable to set a precise anchor",
+                    "isCorrect": false,
+                    "feedback": "First-movers can set precise anchors to maximize their gain."
+                },
+                {
+                    "text": "They are more likely to set a counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "The first mover sets the initial anchor; the second party sets the counter-anchor."
+                },
+                {
+                    "text": "They are immune to the psychological gravity of the first move",
+                    "isCorrect": false,
+                    "feedback": "No one is immune to the anchoring effect, and this doesn't explain their lack of satisfaction."
+                },
+                {
+                    "text": "They always achieve the least economically advantageous result",
+                    "isCorrect": false,
+                    "feedback": "Actually, the first mover often secures a more economically advantageous result."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "When a negotiator uses a precise anchor like $799,800 instead of a rounded one, the other party is less likely to move far from the original number because they subconsciously shift to a ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "smaller scale of adjustment",
+                    "isCorrect": true,
+                    "feedback": "Precise anchors cause the other party to adjust in smaller increments, keeping the final price closer to the anchor."
+                },
+                {
+                    "text": "larger scale of adjustment",
+                    "isCorrect": false,
+                    "feedback": "General anchors, not precise ones, lead to larger, chunky increments of adjustment."
+                },
+                {
+                    "text": "counter-anchor baseline",
+                    "isCorrect": false,
+                    "feedback": "A counter-anchor is the second bid made to shift the baseline, not the scale of adjustment itself."
+                },
+                {
+                    "text": "subjective anchor point",
+                    "isCorrect": false,
+                    "feedback": "The subjective anchor is the initial starting point, whereas the scale refers to how the other party adjusts from it."
+                },
+                {
+                    "text": "economic advantage zone",
+                    "isCorrect": false,
+                    "feedback": "Economic advantage refers to the final result, not the psychological mechanism of adjustment scale."
+                },
+                {
+                    "text": "psychological gravity well",
+                    "isCorrect": false,
+                    "feedback": "Psychological gravity describes the overall influence of the first offer, not the specific mechanism of precision-based adjustment."
+                },
+                {
+                    "text": "fixed reference point",
+                    "isCorrect": false,
+                    "feedback": "The anchor is the reference point; the scale is the method by which the other party moves away from it."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The first offer in a negotiation often shapes the final result because it creates a ____ that is difficult for even experienced negotiators to escape.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "psychological gravity",
+                    "isCorrect": true,
+                    "feedback": "The initial anchor creates a psychological 'gravity' that pulls the final outcome toward the first number mentioned."
+                },
+                {
+                    "text": "counter-anchor shift",
+                    "isCorrect": false,
+                    "feedback": "A counter-anchor is an attempt to move the baseline, not the force that makes the first offer dominant."
+                },
+                {
+                    "text": "precision play",
+                    "isCorrect": false,
+                    "feedback": "The precision play refers to using specific numbers to limit adjustments, not the general pull of the first offer."
+                },
+                {
+                    "text": "baseline adjustment",
+                    "isCorrect": false,
+                    "feedback": "Adjustment is the process of moving away from the anchor, not the force that creates the initial influence."
+                },
+                {
+                    "text": "strategic gamble",
+                    "isCorrect": false,
+                    "feedback": "The strategic gamble refers to the risk of setting the first anchor, not the psychological pull it exerts."
+                },
+                {
+                    "text": "information asymmetry",
+                    "isCorrect": false,
+                    "feedback": "Information asymmetry is not mentioned as the cause of the first offer's dominance in the source text."
+                },
+                {
+                    "text": "conscious awareness",
+                    "isCorrect": false,
+                    "feedback": "Anchoring often operates beneath conscious awareness, rather than being the cause of the pull."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "While the first mover often secures a more economically advantageous result, the second mover often feels more satisfied because the final agreement typically ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "lands midway between the two anchors",
+                    "isCorrect": true,
+                    "feedback": "The second mover's satisfaction stems from the final agreement typically landing in the middle of the first and second anchors."
+                },
+                {
+                    "text": "eliminates the first anchor",
+                    "isCorrect": false,
+                    "feedback": "The first anchor is rarely eliminated; the negotiation is a dance of adjustments around it."
+                },
+                {
+                    "text": "follows a precise scale",
+                    "isCorrect": false,
+                    "feedback": "The scale of adjustment depends on the precision of the anchor, not the order of the move."
+                },
+                {
+                    "text": "ignores the initial baseline",
+                    "isCorrect": false,
+                    "feedback": "The second mover cannot ignore the baseline; they must respond to it with a counter-anchor."
+                },
+                {
+                    "text": "maximizes the first mover's gain",
+                    "isCorrect": false,
+                    "feedback": "The first mover typically achieves the better economic result, not the second mover."
+                },
+                {
+                    "text": "removes the psychological gravity",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor attempts to shift the gravity, but the first offer usually retains more influence."
+                },
+                {
+                    "text": "sets a new subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The second mover sets a counter-anchor, but the final result is usually a compromise between both."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What is the primary outcome of using a precise anchor, such as $799,800, compared to a general anchor like $800,000?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "A final price closer to the initial anchor",
+                    "isCorrect": true,
+                    "feedback": "Precise anchors cause the other party to adjust on a smaller scale, resulting in a final price closer to the original number."
+                },
+                {
+                    "text": "A larger adjustment by the counter-party",
+                    "isCorrect": false,
+                    "feedback": "General anchors, not precise ones, lead to larger, 'chunky' adjustments."
+                },
+                {
+                    "text": "Higher psychological satisfaction for the first mover",
+                    "isCorrect": false,
+                    "feedback": "The second mover typically feels more satisfied, regardless of the anchor's precision."
+                },
+                {
+                    "text": "Complete immunity to the anchoring effect",
+                    "isCorrect": false,
+                    "feedback": "Precision increases the power of the anchor; it does not eliminate the effect."
+                },
+                {
+                    "text": "A lower final price regardless of the anchor",
+                    "isCorrect": false,
+                    "feedback": "The final price depends on the value of the anchor, not just its precision."
+                },
+                {
+                    "text": "Increased resistance from professional experts",
+                    "isCorrect": false,
+                    "feedback": "Experts are just as susceptible to anchoring as non-experts."
+                },
+                {
+                    "text": "A shift to a larger scale of adjustment",
+                    "isCorrect": false,
+                    "feedback": "Precise anchors shift the other party to a smaller scale of adjustment."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the direct result of a negotiator setting the first anchor when they lack sufficient information?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Negotiating against their own interests",
+                    "isCorrect": true,
+                    "feedback": "Without enough knowledge, a first-mover may set the anchor too low, effectively working against themselves."
+                },
+                {
+                    "text": "Increased psychological satisfaction",
+                    "isCorrect": false,
+                    "feedback": "First-movers generally experience lower levels of satisfaction than counter-anchors."
+                },
+                {
+                    "text": "A guaranteed economically advantageous result",
+                    "isCorrect": false,
+                    "feedback": "While often advantageous, lacking information can lead to setting the price too low."
+                },
+                {
+                    "text": "Immediate immunity to the counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor still serves as a second reference point in the negotiation dance."
+                },
+                {
+                    "text": "A higher final price for the buyer",
+                    "isCorrect": false,
+                    "feedback": "Setting an anchor too low (as a seller) would result in a lower final price."
+                },
+                {
+                    "text": "Elimination of the 'gravity' effect",
+                    "isCorrect": false,
+                    "feedback": "The initial anchor creates a psychological gravity that is difficult to escape regardless of information levels."
+                },
+                {
+                    "text": "A more precise scale of adjustment",
+                    "isCorrect": false,
+                    "feedback": "Precision is a separate strategic choice from the amount of information held."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the Northcraft and Neale study, what was the impact of professional expertise on susceptibility to anchoring?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "No difference in susceptibility between experts and students",
+                    "isCorrect": true,
+                    "feedback": "The study showed that real-estate agents were just as influenced by listing prices as students were."
+                },
+                {
+                    "text": "Experts were significantly more resistant",
+                    "isCorrect": false,
+                    "feedback": "Data proved that agents were equally influenced, despite their professional knowledge."
+                },
+                {
+                    "text": "Experts were only influenced by precise anchors",
+                    "isCorrect": false,
+                    "feedback": "The study tested listing prices generally, and experts remained susceptible."
+                },
+                {
+                    "text": "Students were more influenced by counter-anchors",
+                    "isCorrect": false,
+                    "feedback": "The study focused on the influence of the initial listing price anchor."
+                },
+                {
+                    "text": "Experts were immune to the effect",
+                    "isCorrect": false,
+                    "feedback": "Professional expertise did not make the agents immune to the psychological pull of anchoring."
+                },
+                {
+                    "text": "Experts were more likely to adjust in large increments",
+                    "isCorrect": false,
+                    "feedback": "The study did not compare adjustment increments between experts and students."
+                },
+                {
+                    "text": "Experts were less likely to deny the influence",
+                    "isCorrect": false,
+                    "feedback": "Agents actually denied being influenced even though the data proved they were."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the typical economic and psychological outcome for the party that sets the second anchor (the counter-anchor)?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Higher psychological satisfaction",
+                    "isCorrect": true,
+                    "feedback": "The second mover often feels more satisfied because the final agreement typically lands midway between the two anchors."
+                },
+                {
+                    "text": "More economically advantageous results",
+                    "isCorrect": false,
+                    "feedback": "The first mover typically secures the more economically advantageous result."
+                },
+                {
+                    "text": "A final price identical to the first anchor",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor is used to pull the negotiation back in the second party's favor."
+                },
+                {
+                    "text": "Complete control over the final outcome",
+                    "isCorrect": false,
+                    "feedback": "The final result is usually a compromise between the first and second anchors."
+                },
+                {
+                    "text": "Lower levels of regret",
+                    "isCorrect": false,
+                    "feedback": "Regret is specifically associated with first-movers who set the anchor too low."
+                },
+                {
+                    "text": "Immunity to the initial anchor's gravity",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor is a response to the initial anchor, not a way to eliminate its influence."
+                },
+                {
+                    "text": "A guaranteed win-win result",
+                    "isCorrect": false,
+                    "feedback": "The text does not state that counter-anchoring guarantees a win-win result."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the direct consequence of the 'psychological gravity' created by the first offer in a negotiation?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The first offer strongly influences the final outcome",
+                    "isCorrect": true,
+                    "feedback": "The initial anchor creates a psychological gravity that makes the final result difficult to shift far away from the first offer."
+                },
+                {
+                    "text": "The second party is forced to accept the first offer",
+                    "isCorrect": false,
+                    "feedback": "The second party responds with a counter-anchor to shift the baseline."
+                },
+                {
+                    "text": "The first mover is always economically disadvantaged",
+                    "isCorrect": false,
+                    "feedback": "The first mover often secures a more economically advantageous result."
+                },
+                {
+                    "text": "Professional experts are rendered immune",
+                    "isCorrect": false,
+                    "feedback": "Even experienced negotiators are susceptible to this psychological pull."
+                },
+                {
+                    "text": "The negotiation process is shortened",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention the duration of the negotiation process."
+                },
+                {
+                    "text": "The counter-anchor becomes irrelevant",
+                    "isCorrect": false,
+                    "feedback": "The counter-anchor still plays a role, but the first offer typically holds more sway."
+                },
+                {
+                    "text": "The final price is always a rounded number",
+                    "isCorrect": false,
+                    "feedback": "The final price is determined by the negotiation process, not by the rounding of the anchor."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the primary difference between the economic outcome and the psychological satisfaction of the first mover versus the second mover in a negotiation?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "First mover gets more money, second mover feels more satisfied",
+                    "isCorrect": true,
+                    "feedback": "The first anchor often achieves economically advantageous results, while the second anchor typically results in higher psychological satisfaction."
+                },
+                {
+                    "text": "First mover feels more satisfied, second mover gets more money",
+                    "isCorrect": false,
+                    "feedback": "Actually, the first mover often secures the economic advantage, but the second mover typically feels more satisfied with the outcome."
+                },
+                {
+                    "text": "First mover is more satisfied, first mover gets more money",
+                    "isCorrect": false,
+                    "feedback": "While the first mover may get more money, they generally experience lower levels of satisfaction compared to the second mover."
+                },
+                {
+                    "text": "Second mover is more satisfied, second mover gets more money",
+                    "isCorrect": false,
+                    "feedback": "The first mover typically secures the more economically advantageous result, not the second mover."
+                },
+                {
+                    "text": "Both movers achieve equal economic results",
+                    "isCorrect": false,
+                    "feedback": "The first mover often secures a more economically advantageous result than the second mover."
+                },
+                {
+                    "text": "Both movers experience equal psychological satisfaction",
+                    "isCorrect": false,
+                    "feedback": "The second mover typically feels more satisfied because the final agreement usually lands midway between the two anchors."
+                },
+                {
+                    "text": "Neither mover achieves economic advantage",
+                    "isCorrect": false,
+                    "feedback": "The first mover often secures a more economically advantageous result."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How did the susceptibility to anchoring differ between real-estate agents and students in the Northcraft and Neale study?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Both groups were equally influenced",
+                    "isCorrect": true,
+                    "feedback": "The study showed that both real-estate agents and students were equally influenced by the anchor, despite the agents' professional knowledge."
+                },
+                {
+                    "text": "Agents were more resistant",
+                    "isCorrect": false,
+                    "feedback": "Despite their expertise, agents were just as influenced by the listing price as the students were."
+                },
+                {
+                    "text": "Students were more resistant",
+                    "isCorrect": false,
+                    "feedback": "The data proved that students and agents were equally susceptible to the influence of the anchor."
+                },
+                {
+                    "text": "Agents were influenced, students were not",
+                    "isCorrect": false,
+                    "feedback": "Both groups were influenced by the anchor in the study."
+                },
+                {
+                    "text": "Students were influenced, agents were not",
+                    "isCorrect": false,
+                    "feedback": "The study found that real-estate agents were just as influenced as the students."
+                },
+                {
+                    "text": "Agents were only influenced by precise anchors",
+                    "isCorrect": false,
+                    "feedback": "The study focused on the influence of listing prices generally, and found both groups equally susceptible."
+                },
+                {
+                    "text": "Students were only influenced by general anchors",
+                    "isCorrect": false,
+                    "feedback": "Both groups were equally influenced by the listing prices regardless of their status as students or agents."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the critical difference in how people adjust their estimates when facing a general anchor versus a precise anchor?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "General anchors lead to larger adjustments",
+                    "isCorrect": true,
+                    "feedback": "People adjust in larger, chunky increments when given a general anchor compared to a precise one."
+                },
+                {
+                    "text": "Precise anchors lead to larger adjustments",
+                    "isCorrect": false,
+                    "feedback": "People adjust in smaller increments when given a precise anchor, making them less likely to move far from the original number."
+                },
+                {
+                    "text": "General anchors lead to smaller adjustments",
+                    "isCorrect": false,
+                    "feedback": "People adjust in larger increments with general anchors and smaller increments with precise anchors."
+                },
+                {
+                    "text": "Precise anchors lead to no adjustments",
+                    "isCorrect": false,
+                    "feedback": "Adjustments still occur with precise anchors, but they are on a smaller scale."
+                },
+                {
+                    "text": "General anchors lead to no adjustments",
+                    "isCorrect": false,
+                    "feedback": "Adjustments occur with general anchors, typically in large, chunky increments."
+                },
+                {
+                    "text": "Both lead to identical adjustment scales",
+                    "isCorrect": false,
+                    "feedback": "General anchors cause larger adjustments, while precise anchors cause smaller adjustments due to a difference in scale."
+                },
+                {
+                    "text": "Precise anchors lead to further results",
+                    "isCorrect": false,
+                    "feedback": "A precise initial price typically results in a final estimate that remains closer to the anchor than a general one."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "While the first anchor often achieves economically more advantageous results, the ____ typically results in higher psychological satisfaction with the negotiation outcome.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "second anchor",
+                    "isCorrect": true,
+                    "feedback": "The second anchor (counter-anchor) often leads to higher satisfaction because the final agreement typically lands midway between the two anchors."
+                },
+                {
+                    "text": "initial offer",
+                    "isCorrect": false,
+                    "feedback": "The initial offer is the first anchor, which provides economic advantage but often results in lower psychological satisfaction."
+                },
+                {
+                    "text": "precise anchor",
+                    "isCorrect": false,
+                    "feedback": "Precise anchors affect the scale of adjustment, not the psychological satisfaction of the negotiator."
+                },
+                {
+                    "text": "general anchor",
+                    "isCorrect": false,
+                    "feedback": "General anchors lead to larger adjustments and do not specifically correlate with higher psychological satisfaction."
+                },
+                {
+                    "text": "counter-bid",
+                    "isCorrect": false,
+                    "feedback": "While the counter-bid is the second anchor, the text specifically contrasts the 'first anchor' with the 'second anchor' regarding satisfaction."
+                },
+                {
+                    "text": "baseline",
+                    "isCorrect": false,
+                    "feedback": "The baseline is the starting point established by the first move, not the entity that provides higher satisfaction."
+                },
+                {
+                    "text": "subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The subjective anchor is the first price offer, which is associated with economic advantage rather than psychological satisfaction."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the Northcraft and Neale study, both ____ and real-estate agents were equally influenced by the listing price anchor.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "students",
+                    "isCorrect": true,
+                    "feedback": "The study found that non-expert students were just as susceptible to anchoring as professional real-estate agents."
+                },
+                {
+                    "text": "buyers",
+                    "isCorrect": false,
+                    "feedback": "While buyers are part of negotiations, the specific groups compared in the Northcraft and Neale study were students and agents."
+                },
+                {
+                    "text": "sellers",
+                    "isCorrect": false,
+                    "feedback": "The specific groups compared in the Northcraft and Neale study were students and real-estate agents, not buyers and sellers."
+                },
+                {
+                    "text": "experts",
+                    "isCorrect": false,
+                    "feedback": "Real-estate agents are the experts in this context; the contrast is between experts and non-experts (students)."
+                },
+                {
+                    "text": "non-professionals",
+                    "isCorrect": false,
+                    "feedback": "While students are non-professionals, the text explicitly names 'students' as the participant group."
+                },
+                {
+                    "text": "novices",
+                    "isCorrect": false,
+                    "feedback": "The text specifically identifies the participants as 'students' rather than using the general term 'novices'."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "People adjust in larger increments when given a ____, whereas they adjust on a smaller scale when given a precise anchor.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "general anchor",
+                    "isCorrect": true,
+                    "feedback": "General anchors (e.g., $800,000) cause people to adjust in large, chunky increments compared to precise ones."
+                },
+                {
+                    "text": "counter-anchor",
+                    "isCorrect": false,
+                    "feedback": "A counter-anchor is a second offer, not a type of anchor defined by its precision level."
+                },
+                {
+                    "text": "subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The subjective anchor is the first offer, which can be either general or precise."
+                },
+                {
+                    "text": "rounded number",
+                    "isCorrect": false,
+                    "feedback": "While rounded numbers are general anchors, the text uses the term 'general anchor' to contrast with 'precise anchor'."
+                },
+                {
+                    "text": "first move",
+                    "isCorrect": false,
+                    "feedback": "The first move sets the anchor, but the precision of that anchor determines the scale of adjustment."
+                },
+                {
+                    "text": "baseline",
+                    "isCorrect": false,
+                    "feedback": "The baseline is the reference point, not the specific type of anchor that dictates the larger adjustment scale."
+                },
+                {
+                    "text": "initial offer",
+                    "isCorrect": false,
+                    "feedback": "The initial offer is the anchor, but the distinction here is between general and precise anchors."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the anchoring process of a negotiation, what immediately follows the statement of the first price offer?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The final agreement",
+                    "isCorrect": false,
+                    "feedback": "The final agreement is the end result, not the immediate next step after the first offer."
+                },
+                {
+                    "text": "The counter-anchor",
+                    "isCorrect": true,
+                    "feedback": "After the first offer sets the anchor, the other party provides a counterbid, which serves as the counter-anchor."
+                },
+                {
+                    "text": "The subjective anchor",
+                    "isCorrect": false,
+                    "feedback": "The first price offer itself is what sets the subjective anchor."
+                },
+                {
+                    "text": "The final result",
+                    "isCorrect": false,
+                    "feedback": "The final result is the outcome of the entire process, not the immediate next step."
+                },
+                {
+                    "text": "The baseline shift",
+                    "isCorrect": false,
+                    "feedback": "The baseline shift is the goal of the counter-anchor, not a separate step in the sequence."
+                },
+                {
+                    "text": "The precision play",
+                    "isCorrect": false,
+                    "feedback": "The precision play refers to the phrasing of the anchor, not a step in the chronological sequence."
+                },
+                {
+                    "text": "The first move",
+                    "isCorrect": false,
+                    "feedback": "The first move is the act of stating the first price offer, not what follows it."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the anchoring process, the first side states their first price offer to set the subjective anchor, and then the other side provides a ____, which serves as the counter-anchor.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "counterbid",
+                    "isCorrect": true,
+                    "feedback": "The counterbid is the second move in the anchoring process, acting as the counter-anchor to shift the baseline."
+                },
+                {
+                    "text": "final offer",
+                    "isCorrect": false,
+                    "feedback": "The final offer is the conclusion of the negotiation, not the second step in the anchoring sequence."
+                },
+                {
+                    "text": "baseline adjustment",
+                    "isCorrect": false,
+                    "feedback": "While the baseline is adjusted, the specific term for the second move is the counterbid."
+                },
+                {
+                    "text": "precise anchor",
+                    "isCorrect": false,
+                    "feedback": "A precise anchor refers to the specificity of the number, not the sequence of the move."
+                },
+                {
+                    "text": "general anchor",
+                    "isCorrect": false,
+                    "feedback": "A general anchor refers to the specificity of the number, not the sequence of the move."
+                },
+                {
+                    "text": "listing price",
+                    "isCorrect": false,
+                    "feedback": "A listing price is an example of an anchor, but not the term for the second move in the sequence."
+                },
+                {
+                    "text": "economic result",
+                    "isCorrect": false,
+                    "feedback": "The economic result is the outcome of the process, not the second step in the sequence."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence",
+            "structure": "Fill-in-the-Blank"
+        }
+    ],
+    "true_false_games": [
+        {
+            "statement": "Anchoring is a psychological phenomenon where an initial piece of information serves as a reference point for subsequent information.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. Anchoring occurs when an initial piece of information acts as a reference point for everything that follows in a negotiation.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "In the anchoring process, the counter-anchor is the first price offer stated by one side.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Incorrect. The first price offer sets the subjective anchor; the counter-anchor is the second-anchor or the counterbid.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Research indicates that the first offer in a negotiation typically has a stronger influence on the final outcome than subsequent counter-offers.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. The initial anchor creates a psychological 'gravity' that makes it difficult for the final result to move far from the first offer.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "In Strategic Negotiation Process Workshops, participants with identical information achieve equal success rates regardless of who anchors the negotiation.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Results consistently show that those who strategically anchor the negotiation achieve significantly higher success rates.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The Northcraft and Neale study found that professional real-estate agents were more resistant to anchoring than students.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. The study showed that real-estate agents were just as influenced by the listing price anchor as students were.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "According to the Northcraft and Neale study, real-estate agents often denied being influenced by anchors even when data proved they were.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Correct. This demonstrates that anchoring often operates beneath our conscious awareness.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "A precise anchor, such as $799,800, typically results in a final estimate that is further from the initial price than a general anchor like $800,000.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. A more specific initial price typically results in a final estimate that remains closer to the anchor.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The reason precise anchors are more effective is that they cause the other party to adjust their estimates on a smaller scale.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. Precise anchors lead the other party to shift to a smaller scale of adjustment, making them less likely to move far from the original number.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The party who sets the second anchor (the counter-anchor) typically experiences higher psychological satisfaction with the outcome.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. This is because the final agreement typically lands midway between the two anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Setting the first anchor is always economically disadvantageous because it risks setting the price too low due to lack of information.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. While there are risks, the first mover often secures a more economically advantageous result.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Anchoring is a psychological phenomenon where an initial piece of information serves as a reference point for subsequent information.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Correct. Anchoring occurs when an initial piece of information acts as a reference point for everything that follows in a negotiation.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "In the anchoring process, the counter-anchor is the first price offer stated by one side.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Incorrect. The first price offer sets the subjective anchor; the counter-anchor is the second-anchor or counterbid.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The initial offer in a negotiation typically has a weaker influence on the final outcome than subsequent counter-offers.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. Research consistently shows that the first offer has a stronger influence on the final outcome than any subsequent counter-offers.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Professional real-estate agents are less susceptible to anchoring than students because of their domain expertise.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. A study by Northcraft and Neale showed that real-estate agents were just as influenced by the anchor as students were.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Precise anchors, such as $799,800, typically result in final estimates that are closer to the initial anchor than general anchors like $800,000.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. Precise anchors cause the other party to adjust their estimates on a smaller scale, keeping the final price closer to the anchor.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The reason precise anchors are more effective is that they cause the other party to adjust their estimates in larger, chunky increments.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "Incorrect. Precise anchors cause the other party to shift to a smaller scale of adjustment, whereas general anchors lead to larger, chunky increments.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The party who sets the second anchor (the counter-anchor) often experiences higher psychological satisfaction with the outcome.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Correct. The second mover often feels more satisfied because the final agreement typically lands midway between the two anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Setting the first anchor is always the most strategically advantageous move because it guarantees an economically superior result.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Incorrect. While it often leads to economically advantageous results, it carries risks such as setting the price too low due to lack of knowledge, which can act against the negotiator's interests.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The first offer in a negotiation typically has a stronger influence on the final outcome than any subsequent counter-offers.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Research consistently shows that the initial anchor creates a psychological 'gravity' that is more significant than later counter-offers.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "In Strategic Negotiation Process Workshops, participants with identical information found that the timing and placement of the first offer had little impact on success rates.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The workshops proved that those who strategically anchor the negotiation achieve significantly higher success rates.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Professional real-estate agents are generally more resistant to the influence of anchoring than non-expert students.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The Northcraft and Neale study showed that real-estate agents were just as influenced by listing prices as students were.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Using a precise anchor, such as $799,800, typically results in a final estimate that is closer to the initial anchor than a rounded anchor like $800,000.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Precise anchors cause the other party to adjust on a smaller scale, making them less likely to move far from the original number.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "A general anchor leads the opposing party to adjust their estimates in smaller, more granular increments.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "General anchors actually lead people to adjust in larger, 'chunky' increments, whereas precise anchors lead to smaller adjustments.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The party that sets the first anchor typically experiences higher psychological satisfaction with the final agreement than the party that sets the counter-anchor.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The second mover (counter-anchor) often feels more satisfied because the final agreement typically lands midway between the two anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Setting the first anchor can be economically advantageous, but it carries the risk of negotiating against one's own interests if the anchor is set too low due to lack of information.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Lack of knowledge can lead a first-mover to set an anchor too low, resulting in regret and a sense of leaving money on the table.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "In a negotiation, the counter-anchor is the initial reference point that shapes the final result.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "The initial reference point is the anchor; the counter-anchor is the second-anchor or counterbid provided by the other party.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Research indicates that the first offer generally has a more significant impact on the final outcome than subsequent counter-offers.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "The first offer creates a psychological 'gravity' that makes it more influential than later counter-offers.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Professional real-estate agents are less susceptible to anchoring than students because of their domain expertise.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The Northcraft and Neale study showed that real-estate agents were just as influenced by listing prices as students were.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "A precise anchor, such as $799,800, typically leads to a final price closer to the anchor than a general anchor like $800,000.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Precise anchors cause the other party to adjust on a smaller scale, resulting in a final estimate closer to the original number.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "When responding to a general anchor, negotiators tend to adjust their estimates in smaller, more precise increments than when responding to a precise anchor.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The opposite is true: general anchors lead to larger, 'chunky' adjustments, while precise anchors lead to smaller scale adjustments.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The first mover in a negotiation typically achieves a more economically advantageous result, whereas the second mover often experiences higher psychological satisfaction.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first mover often secures a better economic deal, but the second mover is often more satisfied as the agreement usually lands midway between the two anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Setting the first anchor is entirely without risk because it establishes the baseline for the negotiation.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Setting the first anchor carries risks, such as setting the price too low due to lack of information, which can lead to regret.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "In the Northcraft and Neale study, real-estate agents consciously acknowledged the influence of the anchor during follow-up interviews.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "The agents actually denied being influenced by the anchor, despite the data proving that they were.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "In the anchoring process, the counter-anchor is established before the initial subjective anchor is set.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "The initial price offer sets the subjective anchor first, and the counterbid then serves as the counter-anchor.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "The negotiation process typically follows a sequence where an initial anchor is set, followed by a counter-anchor, which then establishes the starting point for the remainder of the negotiation.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "This sequence of offers and counter-offers creates the structured flow that defines the anchoring process in negotiation.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "According to the Northcraft and Neale study, real-estate agents admitted to being influenced by the listing price during their follow-up interviews, despite the data showing they were influenced.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The agents actually denied being influenced by the anchor during interviews, even though the data proved they were.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "When a negotiator provides a precise anchor, the other party typically adjusts their estimate on a smaller scale before reaching a final price closer to the initial anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Precise anchors cause the other party to shift to a smaller scale of adjustment, making them less likely to move far from the original number.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "The party who sets the second anchor (the counter-anchor) generally experiences lower psychological satisfaction with the outcome than the first mover.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The second mover often feels more satisfied because the final agreement typically lands midway between the two anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence"
+        },
+        {
+            "statement": "A lack of sufficient information prior to making the first offer can lead a negotiator to set an anchor too low, resulting in subsequent feelings of regret.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Without enough knowledge, a first-mover may accidentally negotiate against their own interests by setting the anchor too low.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Chronology & Sequence"
+        }
+    ]
+}

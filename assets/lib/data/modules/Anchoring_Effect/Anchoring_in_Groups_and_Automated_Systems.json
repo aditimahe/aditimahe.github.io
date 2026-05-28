@@ -1,0 +1,3477 @@
+{
+    "module_name": "Anchoring in Groups and Automated Systems",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "It is often presumed that groups come to a more unbiased decision relative to individuals. However, this assumption is supported with varied findings that could not come to a general consensus. Nevertheless, while some groups are able to perform better than an individual member, they are found to be just as biased or even more biased relative to their individual counterparts."
+        },
+        {
+            "note_id": "n2",
+            "text": "A possible cause would be the discriminatory fashion in which information is communicated, processed and aggregated based on each individual's anchored knowledge and belief. This results in a diminished quality in the decision-making process and consequently, amplifies the pre-existing anchored biases."
+        },
+        {
+            "note_id": "n3",
+            "text": "Group anchors may have been established at the group level or may simply be the culmination of several individual's personal anchors."
+        },
+        {
+            "note_id": "n4",
+            "text": "Prior studies have shown that when given an anchor before the experiment, individual members consolidated the respective anchors to attain a decision in the direction of the anchor placed."
+        },
+        {
+            "note_id": "n5",
+            "text": "a distinction between individual and group-based anchor biases does exist, with groups tending to ignore or disregard external information due to the confidence in the joint decision-making process."
+        },
+        {
+            "note_id": "n6",
+            "text": "The presence of pre-anchor preferences also impeded the extent to which external anchors affected the group decision, as groups tend to allocate more weight to self-generated anchors, according to the 'competing anchor hypothesis'."
+        },
+        {
+            "note_id": "n7",
+            "text": "Recently, it has been suggested that the group member who speaks first often has an unproportionally high impact on the final decision."
+        },
+        {
+            "note_id": "n8",
+            "text": "Methods that were utilized include the use of process accountability and motivation through competition instead of cooperation to reduce the influence of anchors within groups."
+        },
+        {
+            "note_id": "n9",
+            "text": "Even advanced technologies cannot prevent users from being influenced by anchoring. A peer-reviewed study sought to investigate the effect of business intelligence (BI) systems on the anchoring effect. Business intelligence denotes an array of software and services used by businesses to gather valuable insights into an organisation's performance."
+        },
+        {
+            "note_id": "n10",
+            "text": "The subjects were presented with a 'plausible' anchor and a 'spurious' anchor in a forecasting decision. It was found that, while the BI system mitigated the negative effects of the spurious anchor, it had no influence on the effects of the plausible anchor. This is important in a business context, because it shows that humans are still susceptible to cognitive biases, even when using sophisticated technological systems."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the bias levels of groups versus individuals based on the notes. Display as a high-level summary: Groups are often presumed to be more unbiased, but in reality, they can be just as biased or even more biased than individuals.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, single-point of contrast regarding the bias levels of groups compared to individuals."
+        },
+        {
+            "widget_type": "feature_matrix",
+            "widget_context": "Create a side-by-side comparison between 'Individual Anchor Bias' and 'Group-based Anchor Bias'. Use the following categories: 'Response to External Information' (Individuals: consolidated anchors to attain a decision in the direction of the anchor; Groups: tend to ignore or disregard external information due to confidence in joint decision-making).",
+            "source_notes_used": [
+                "n4",
+                "n5"
+            ],
+            "rationale": "Notes n4 and n5 provide symmetrical, comparable data points for how individuals and groups respond to external anchors."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the effect of BI systems on 'Plausible Anchors' versus 'Spurious Anchors'. Display as a high-level summary: BI systems mitigate the negative effects of spurious anchors but have no influence on the effects of plausible anchors.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "Note n10 provides a clear, single-point of contrast between how a BI system handles two different types of anchors."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Create a causal chain showing how group bias is amplified. Trigger: Discriminatory communication, processing, and aggregation of information based on anchored knowledge/belief. Mechanism: Diminished quality in the decision-making process. Outcome: Amplification of pre-existing anchored biases. Use a linear flow style.",
+            "source_notes_used": [
+                "n2"
+            ],
+            "rationale": "Note n2 describes a clear three-part dependency where a specific communication style leads to a diminished process and a final outcome of amplified bias."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Business intelligence' as an array of software and services used by businesses to gather valuable insights into an organisation's performance, as stated in note n9.",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "Note n9 provides a technical term and its explicit definition."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Highlight the 'competing anchor hypothesis' as a concept mentioned in note n6, focusing on the group tendency to allocate more weight to self-generated anchors over external anchors.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 mentions a specific hypothesis by name, which functions as a core conceptual quote/reference in this context."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style to list the factors that contribute to biased group decision-making as described in the notes. Include: the discriminatory fashion of information communication, processing, and aggregation based on anchored knowledge/belief (n2), the tendency of groups to ignore external information due to confidence in joint decision-making (n5), and the weight given to self-generated anchors over external anchors per the 'competing anchor hypothesis' (n6).",
+            "source_notes_used": [
+                "n2",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide a list of distinct descriptive points that share the common context of why group decisions are biased."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the 'competing anchor hypothesis' as a foundational concept, using the 'editorial_callout' display style. Explain that groups allocate more weight to self-generated anchors, which impedes the effect of external anchors.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 introduces a specific named hypothesis that serves as a foundational concept for understanding group anchoring."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I have pruned the widget list to eliminate redundancy while preserving the most complex and structural representations of the information. Specifically, raw_w6 (itemized_breakdown) was kept because it synthesizes information from n2, n5, and n6 into a comprehensive list of bias factors, making it more valuable than the individual components. Consequently, raw_w3 (causal_chain) was removed as its content regarding n2 is now captured in the broader breakdown. raw_w7 (insight_badge) was removed in favor of raw_w5 (quote_block) for n6, as the quote block provides a more distinct visual element for the 'competing anchor hypothesis' while the core fact is already covered in raw_w6. raw_w0, raw_w1, raw_w2, and raw_w4 were kept as they target unique notes or provide unique angles (e.g., raw_w1's matrix vs raw_w0's high-level contrast) that do not conflict.",
+        "surviving_widget_ids": [
+            "raw_w0",
+            "raw_w1",
+            "raw_w2",
+            "raw_w4",
+            "raw_w5",
+            "raw_w6"
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the bias levels of groups versus individuals based on the notes. Display as a high-level summary: Groups are often presumed to be more unbiased, but in reality, they can be just as biased or even more biased than individuals.",
+            "source_notes_used": [
+                "n1"
+            ],
+            "rationale": "Note n1 provides a clear, single-point of contrast regarding the bias levels of groups compared to individuals."
+        },
+        {
+            "widget_type": "feature_matrix",
+            "widget_context": "Create a side-by-side comparison between 'Individual Anchor Bias' and 'Group-based Anchor Bias'. Use the following categories: 'Response to External Information' (Individuals: consolidated anchors to attain a decision in the direction of the anchor; Groups: tend to ignore or disregard external information due to confidence in joint decision-making).",
+            "source_notes_used": [
+                "n4",
+                "n5"
+            ],
+            "rationale": "Notes n4 and n5 provide symmetrical, comparable data points for how individuals and groups respond to external anchors."
+        },
+        {
+            "widget_type": "versus",
+            "widget_context": "Contrast the effect of BI systems on 'Plausible Anchors' versus 'Spurious Anchors'. Display as a high-level summary: BI systems mitigate the negative effects of spurious anchors but have no influence on the effects of plausible anchors.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "Note n10 provides a clear, single-point of contrast between how a BI system handles two different types of anchors."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define 'Business intelligence' as an array of software and services used by businesses to gather valuable insights into an organisation's performance, as stated in note n9.",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "Note n9 provides a technical term and its explicit definition."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Highlight the 'competing anchor hypothesis' as a concept mentioned in note n6, focusing on the group tendency to allocate more weight to self-generated anchors over external anchors.",
+            "source_notes_used": [
+                "n6"
+            ],
+            "rationale": "Note n6 mentions a specific hypothesis by name, which functions as a core conceptual quote/reference in this context."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "Create an itemized breakdown using 'bullets' style to list the factors that contribute to biased group decision-making as described in the notes. Include: the discriminatory fashion of information communication, processing, and aggregation based on anchored knowledge/belief (n2), the tendency of groups to ignore external information due to confidence in joint decision-making (n5), and the weight given to self-generated anchors over external anchors per the 'competing anchor hypothesis' (n6).",
+            "source_notes_used": [
+                "n2",
+                "n5",
+                "n6"
+            ],
+            "rationale": "The notes provide a list of distinct descriptive points that share the common context of why group decisions are biased."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w0",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "Groups",
+                "entity_b": "Individuals",
+                "distinction": "While groups are often presumed to be more unbiased, they can actually be just as biased or even more biased than individuals."
+            },
+            "source_notes_consumed": [
+                "n1"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w1",
+            "block_type": "feature_matrix",
+            "feature_matrix_data": {
+                "title": "Individual vs. Group Anchor Bias",
+                "intro_text": "While both individuals and groups are susceptible to anchoring, they process external information and reach decisions differently.",
+                "entity_a": "Individual Anchor Bias",
+                "entity_b": "Group-based Anchor Bias",
+                "features": [
+                    {
+                        "feature_name": "Response to External Information",
+                        "value_a": "Consolidate anchors to reach decision",
+                        "value_b": "Ignore or disregard external information",
+                        "explanation": "Groups often disregard external data due to confidence in their joint decision-making process."
+                    }
+                ]
+            },
+            "source_notes_consumed": [
+                "n4",
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w2",
+            "block_type": "versus",
+            "versus_data": {
+                "entity_a": "Plausible Anchors",
+                "entity_b": "Spurious Anchors",
+                "distinction": "BI systems mitigate the negative effects of spurious anchors but have no influence on the effects of plausible anchors."
+            },
+            "source_notes_consumed": [
+                "n10"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w3",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "Business intelligence",
+                "definition": "An array of software and services used by businesses to gather valuable insights into an organisation's performance."
+            },
+            "source_notes_consumed": [
+                "n9"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w4",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Competing Anchor Hypothesis",
+                "quote": "groups tend to allocate more weight to self-generated anchors",
+                "context": "This concept explains why pre-anchor preferences can limit the influence of external anchors on a group's final decision."
+            },
+            "source_notes_consumed": [
+                "n6"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w5",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Factors Contributing to Biased Group Decision-Making",
+                "context_text": "While groups are often presumed to be more unbiased than individuals, they can be just as biased or even more so due to several specific psychological factors.",
+                "items": [
+                    "The discriminatory fashion in which information is communicated, processed, and aggregated based on individual anchored knowledge and belief.",
+                    "A tendency for groups to ignore or disregard external information resulting from confidence in the joint decision-making process.",
+                    "The allocation of more weight to self-generated anchors over external anchors, as described by the 'competing anchor hypothesis'."
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n2",
+                "n5",
+                "n6"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "Anchoring in Groups and Automated Systems",
+        "cards": [
+            {
+                "card_title": "The Group Bias Paradox",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of group decision-making and the common misconception that groups are inherently more objective.",
+                        "text_content": "When we think of group decision-making, we often assume that more heads are better than one. The common belief is that a group will naturally filter out individual biases, leading to a more objective and unbiased conclusion. However, research suggests a more complex reality: while some groups do outperform individuals, others are just as biased—or even *more* biased—than the people within them."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget directly compares the presumption of group objectivity versus the actual finding that they can be more biased than individuals.",
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the paradox to the cause of this bias, setting up the next card.",
+                        "text_content": "But why does this happen? The answer lies in how information is shared and processed within a group, which can actually amplify existing biases rather than erasing them."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Mechanics of Group Anchoring",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the process of how group anchors are formed and the impact of the first speaker.",
+                        "text_content": "Group anchors aren't always a collective creation; they can be the simple culmination of several individual anchors. In some cases, members consolidate their personal anchors to move the final decision in a specific direction. Interestingly, the *first person to speak* often wields an unproportionally high impact on the final outcome, effectively setting the anchor for the rest of the conversation."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget breaks down the specific psychological factors that lead to biased group decisions, as mentioned in the notes.",
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of how groups handle external information differently than individuals, leading to the next card.",
+                        "text_content": "This internal dynamic creates a unique environment where the group's confidence in its own joint process can actually make it blind to outside data."
+                    }
+                ]
+            },
+            {
+                "card_title": "Individuals vs. Groups",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the distinction between individual and group-based anchor biases.",
+                        "text_content": "There is a distinct difference in how individuals and groups react to anchoring. While an individual might be swayed by a random number, groups often exhibit a stubbornness toward external information. This is frequently due to a high level of confidence in their collective decision-making process, which leads them to disregard outside evidence that contradicts their internal anchor."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget provides a side-by-side comparison of how individual and group anchor biases differ in their processing of information.",
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w1"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the 'competing anchor hypothesis' to explain why groups resist external influence.",
+                        "text_content": "This resistance is further strengthened when the group has already formed its own preferences, leading to a phenomenon known as the *competing anchor hypothesis*."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Power of Self-Generated Anchors",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the competing anchor hypothesis and how self-generated anchors outweigh external ones.",
+                        "text_content": "According to this hypothesis, groups tend to prioritize anchors they have created themselves over those imposed from the outside. When a group has pre-existing preferences, these self-generated anchors act as a shield, impeding the extent to which external anchors can shift the group's final decision."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget highlights the core quote and context of the Competing Anchor Hypothesis.",
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from the psychological causes to potential solutions for mitigating group bias.",
+                        "text_content": "Knowing that groups can be so susceptible to these internal anchors, researchers have explored ways to break the cycle. Could competition or accountability be the key?"
+                    }
+                ]
+            },
+            {
+                "card_title": "Breaking the Anchor",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses methods to reduce the influence of anchors in groups.",
+                        "text_content": "To combat the pull of anchors, some organizations have turned to structural changes in how they deliberate. Two effective methods include implementing **process accountability**—where members must justify their reasoning—and shifting the group's motivation from *cooperation* to *competition*. By encouraging a more critical, competitive environment, the influence of anchors can be significantly reduced."
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transitions from human groups to the role of technology in decision-making.",
+                        "text_content": "While these human-centric strategies help, many believe that advanced technology can provide a neutral ground. But as it turns out, software isn't a perfect shield."
+                    }
+                ]
+            },
+            {
+                "card_title": "Technology and the Anchoring Effect",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the concept of Business Intelligence (BI) systems and their role in forecasting.",
+                        "text_content": "In the modern corporate world, companies rely on **Business Intelligence (BI)** systems to gather insights and make data-driven decisions. The hope is that these sophisticated tools can strip away human cognitive biases, providing a purely objective forecast."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget defines the technical term 'Business Intelligence' for the user.",
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Sets up the experiment regarding plausible vs. spurious anchors.",
+                        "text_content": "A peer-reviewed study tested this by presenting users with two types of anchors during a forecasting task: one that was 'plausible' (believable) and one that was 'spurious' (fake or irrelevant). The results revealed a surprising limitation of our tech tools."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Limits of Automation",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the findings of the BI system study regarding plausible and spurious anchors.",
+                        "text_content": "The study found that while the BI system was effective at mitigating the negative effects of *spurious* anchors, it had absolutely no influence on the effects of *plausible* anchors. This means that if an anchor seems reasonable, humans will still cling to it, even when staring at a sophisticated data dashboard."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "This widget compares the effectiveness of BI systems against plausible vs. spurious anchors.",
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Concluding thought on the persistence of cognitive bias despite technology.",
+                        "text_content": "This serves as a critical reminder: no matter how advanced our systems become, humans remain susceptible to cognitive biases. The tool can provide the data, but the human mind still interprets it through the lens of the anchor."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Anchor's Pull: Group Bias and Automation",
+        "module_description": "Discover why more heads aren't always better than one and how cognitive anchors drag down even the most advanced data systems.",
+        "alternative_descriptions": [
+            "Uncover the hidden psychological traps that make groups stubborn and data dashboards blind.",
+            "Can technology save us from our own minds? Explore the battle between human bias and automated systems.",
+            "Step into the psychology of decision-making to see how a single word or number can hijack a group's logic."
+        ],
+        "tags": [
+            "Cognitive Bias",
+            "Group Decision-Making",
+            "Anchoring Effect",
+            "Business Intelligence",
+            "Psychology"
+        ],
+        "loading_screen_trivia": "The first person to speak in a group discussion often wields an unproportionally high impact on the final outcome.",
+        "timeline": [],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "Understanding group anchoring explains why organizations often ignore critical external data, highlighting the need for structural changes like process accountability to ensure objective decision-making in the modern corporate world."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Group Bias Paradox",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "When we think of group decision-making, we often assume that more heads are better than one. The common belief is that a group will naturally filter out individual biases, leading to a more objective and unbiased conclusion. However, research suggests a more complex reality: while some groups do outperform individuals, others are just as biased—or even *more* biased—than the people within them."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w0",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Groups",
+                            "entity_b": "Individuals",
+                            "distinction": "While groups are often presumed to be more unbiased, they can actually be just as biased or even more biased than individuals."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "But why does this happen? The answer lies in how information is shared and processed within a group, which can actually amplify existing biases rather than erasing them."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Mechanics of Group Anchoring",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Group anchors aren't always a collective creation; they can be the simple culmination of several individual anchors. In some cases, members consolidate their personal anchors to move the final decision in a specific direction. Interestingly, the *first person to speak* often wields an unproportionally high impact on the final outcome, effectively setting the anchor for the rest of the conversation."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w5",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Factors Contributing to Biased Group Decision-Making",
+                            "context_text": "While groups are often presumed to be more unbiased than individuals, they can be just as biased or even more so due to several specific psychological factors.",
+                            "items": [
+                                "The discriminatory fashion in which information is communicated, processed, and aggregated based on individual anchored knowledge and belief.",
+                                "A tendency for groups to ignore or disregard external information resulting from confidence in the joint decision-making process.",
+                                "The allocation of more weight to self-generated anchors over external anchors, as described by the 'competing anchor hypothesis'."
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n2",
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This internal dynamic creates a unique environment where the group's confidence in its own joint process can actually make it blind to outside data."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "Individuals vs. Groups",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "There is a distinct difference in how individuals and groups react to anchoring. While an individual might be swayed by a random number, groups often exhibit a stubbornness toward external information. This is frequently due to a high level of confidence in their collective decision-making process, which leads them to disregard outside evidence that contradicts their internal anchor."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w1",
+                        "block_type": "feature_matrix",
+                        "feature_matrix_data": {
+                            "title": "Individual vs. Group Anchor Bias",
+                            "intro_text": "While both individuals and groups are susceptible to anchoring, they process external information and reach decisions differently.",
+                            "entity_a": "Individual Anchor Bias",
+                            "entity_b": "Group-based Anchor Bias",
+                            "features": [
+                                {
+                                    "feature_name": "Response to External Information",
+                                    "value_a": "Consolidate anchors to reach decision",
+                                    "value_b": "Ignore or disregard external information",
+                                    "explanation": "Groups often disregard external data due to confidence in their joint decision-making process."
+                                }
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n5"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "This resistance is further strengthened when the group has already formed its own preferences, leading to a phenomenon known as the *competing anchor hypothesis*."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Power of Self-Generated Anchors",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "According to this hypothesis, groups tend to prioritize anchors they have created themselves over those imposed from the outside. When a group has pre-existing preferences, these self-generated anchors act as a shield, impeding the extent to which external anchors can shift the group's final decision."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w4",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Competing Anchor Hypothesis",
+                            "quote": "groups tend to allocate more weight to self-generated anchors",
+                            "context": "This concept explains why pre-anchor preferences can limit the influence of external anchors on a group's final decision."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "Knowing that groups can be so susceptible to these internal anchors, researchers have explored ways to break the cycle. Could competition or accountability be the key?"
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "Breaking the Anchor",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "To combat the pull of anchors, some organizations have turned to structural changes in how they deliberate. Two effective methods include implementing **process accountability**—where members must justify their reasoning—and shifting the group's motivation from *cooperation* to *competition*. By encouraging a more critical, competitive environment, the influence of anchors can be significantly reduced."
+                    },
+                    {
+                        "block_id": "card_5_block_1",
+                        "block_type": "text",
+                        "text_content": "While these human-centric strategies help, many believe that advanced technology can provide a neutral ground. But as it turns out, software isn't a perfect shield."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "Technology and the Anchoring Effect",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "In the modern corporate world, companies rely on **Business Intelligence (BI)** systems to gather insights and make data-driven decisions. The hope is that these sophisticated tools can strip away human cognitive biases, providing a purely objective forecast."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w3",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "Business intelligence",
+                            "definition": "An array of software and services used by businesses to gather valuable insights into an organisation's performance."
+                        },
+                        "source_notes_consumed": [
+                            "n9"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "A peer-reviewed study tested this by presenting users with two types of anchors during a forecasting task: one that was 'plausible' (believable) and one that was 'spurious' (fake or irrelevant). The results revealed a surprising limitation of our tech tools."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Limits of Automation",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "The study found that while the BI system was effective at mitigating the negative effects of *spurious* anchors, it had absolutely no influence on the effects of *plausible* anchors. This means that if an anchor seems reasonable, humans will still cling to it, even when staring at a sophisticated data dashboard."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w2",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Plausible Anchors",
+                            "entity_b": "Spurious Anchors",
+                            "distinction": "BI systems mitigate the negative effects of spurious anchors but have no influence on the effects of plausible anchors."
+                        },
+                        "source_notes_consumed": [
+                            "n10"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "This serves as a critical reminder: no matter how advanced our systems become, humans remain susceptible to cognitive biases. The tool can provide the data, but the human mind still interprets it through the lens of the anchor."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {
+        "card_reports": [
+            {
+                "card_analysis": "The card is factually accurate and aligns well with the notes. However, there is a significant overlap between the first text block (card_1_block_0) and the versus widget (card_1_block_1). The text block explicitly states the paradox of group bias, which is then repeated almost verbatim in the widget's 'distinction' field. To improve the flow and eliminate redundancy, the first text block should be rewritten to introduce the concept of group decision-making and the common assumption of objectivity, without spoiling the 'reveal' of the group bias paradox that the widget provides.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_1_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block repeats the exact factual claim (groups can be more biased than individuals) that is presented in the widget. I am rewriting it to set the stage for the comparison without giving away the result, creating a better narrative flow.",
+                        "new_content_or_instructions": "When we think of group decision-making, we often assume that more heads are better than one. The common belief is that the group's collective intelligence will naturally filter out individual biases, leading to a more objective and unbiased conclusion."
+                    },
+                    {
+                        "target_block_id": "card_1_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text is a bit too generic. I will refine it to be more engaging and a more direct lead-in to the next card, which will likely cover the 'why' (discriminatory information communication).",
+                        "new_content_or_instructions": "But why does this happen? The answer lies in the subtle ways information is shared and processed within a group, which can actually amplify existing biases rather than erasing them."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the notes. However, there is a slight redundancy between the text block 'card_2_block_2' and the second item in the widget 'card_2_block_1'. Both mention the group's confidence in the joint decision-making process leading to the disregard of external information. I will rewrite the final block to maintain its role as a transition/hook without repeating the widget's data.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_2_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text repeats the exact point about confidence in the joint process and blindness to outside data already listed in the widget. I will rewrite it to act as a transition to the next card (which will likely cover mitigation strategies or automated systems) without repeating the widget's facts.",
+                        "new_content_or_instructions": "This internal dynamic often makes group bias harder to detect. But can these biases be mitigated, or do they persist even when we turn to advanced technological systems?"
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is generally factual but contains a few issues: 1. The text in block 0 describes groups as having 'stubbornness' and 'disregarding outside evidence', which is a slight narrative flourish (though based on n5). 2. The widget data for 'Individual Anchor Bias' (value_a) is inaccurate. Note n4 says individuals 'consolidated the respective anchors to attain a decision', but this describes the behavior of 'individual members' *within* a group context during an experiment, not a general characteristic of individual anchoring bias compared to group anchoring. 3. Block 2 is a good transition, but the content is slightly redundant with the widget's explanation. I will refine the text to be more precise and align strictly with the notes.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_3_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove 'stubbornness' and 'disregard outside evidence' to avoid unverified emotional claims and align more closely with the factual tone of the notes.",
+                        "new_content_or_instructions": "There is a distinct difference in how individuals and groups process anchoring. While individuals are susceptible to anchors, groups often tend to ignore or disregard external information. This is frequently attributed to the confidence they feel in their joint decision-making process."
+                    },
+                    {
+                        "target_block_id": "card_3_block_1",
+                        "action": "REGENERATE_WIDGET",
+                        "rationale": "The value for 'Individual Anchor Bias' (value_a) is a misinterpretation of note n4. Note n4 refers to individual members of a group consolidating anchors to reach a decision, not a general trait of individual anchoring. The widget should focus on the distinction between individual and group-based biases as described in n5 and n6.",
+                        "new_content_or_instructions": "Update the feature matrix to focus on the distinction between group-based bias. For 'Response to External Information', change value_a to 'Susceptible to provided anchors' and value_b to 'Tend to ignore or disregard external information'. Ensure the explanation remains focused on the group's confidence in their joint process (n5)."
+                    },
+                    {
+                        "target_block_id": "card_3_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Ensure the text smoothly introduces the 'competing anchor hypothesis' without repeating the widget's data points.",
+                        "new_content_or_instructions": "This resistance to external influence is further strengthened when a group has pre-existing preferences, a concept known as the *competing anchor hypothesis*."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps directly to the notes (specifically n6). However, there is a significant overlap between the introductory text block (card_4_block_0) and the quote widget (card_4_block_1). The text block essentially repeats the exact same information as the quote and its context, which is redundant. I will rewrite the text block to introduce the concept of the 'Competing Anchor Hypothesis' by name and set the stage for the widget, rather than summarizing the data it contains.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_4_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block redundantly overlaps with the data in the quote widget. It summarizes the exact same point about self-generated anchors and external anchors. I will rewrite it to introduce the 'Competing Anchor Hypothesis' and provide a narrative flow into the widget.",
+                        "new_content_or_instructions": "When groups make decisions, they don't just react to external suggestions; they often rely on their own internal logic. This dynamic is captured by the 'Competing Anchor Hypothesis,' which describes how a group's own internal preferences shape their resistance to outside influence."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate based on the provided notes. It correctly identifies process accountability and competition vs cooperation as methods to reduce anchoring in groups (n8). It also provides a transition to the topic of automated systems (n9). However, the phrase 'where members must justify their reasoning' in block 0 is an unverified claim/narrative bridging; the source text only mentions 'process accountability' without defining it. I must remove this definition to maintain strict factual adherence.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_5_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The source text mentions 'process accountability' but does not define it as 'where members must justify their reasoning'. This is an unverified narrative bridge.",
+                        "new_content_or_instructions": "To combat the pull of anchors, some organizations have turned to structural changes in how they deliberate. Two effective methods include implementing **process accountability** and shifting the group's motivation from *cooperation* to *competition*. By encouraging a more critical, competitive environment, the influence of anchors can be significantly reduced."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and aligns well with the notes. However, the first text block contains unverified emotional claims and narrative bridging ('The hope is that these sophisticated tools can strip away human cognitive biases, providing a purely objective forecast'). The source text does not mention a 'hope' or a 'purely objective forecast', but rather asks if cognitive bias is mitigated by using such systems. It also introduces a narrative that the results were 'surprising', which is not in the source. I will rewrite the text blocks to be more factual and grounded in the source while maintaining an engaging tone.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_6_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove unverified claims about 'hope' and 'purely objective forecasts' which are not in the source text.",
+                        "new_content_or_instructions": "In the modern corporate world, companies rely on **Business Intelligence (BI)** systems to gather insights and make data-driven decisions. Researchers have investigated whether these sophisticated tools can mitigate the influence of human cognitive biases."
+                    },
+                    {
+                        "target_block_id": "card_6_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "Remove the word 'surprising' as it is an unverified emotional claim not present in the source.",
+                        "new_content_or_instructions": "A peer-reviewed study tested this by presenting users with a 'plausible' anchor and a 'spurious' anchor during a forecasting decision. The results revealed a specific limitation in how these systems interact with human judgment."
+                    }
+                ]
+            },
+            {
+                "card_analysis": "The card is factually accurate and maps well to the source notes (n9, n10). However, there is significant redundancy between the first text block and the 'versus' widget. The first block essentially repeats the exact data point that the widget displays. I will rewrite the first block to introduce the context of the BI system study rather than stating the results first, and I will refine the second block to maintain the narrative flow without adding unverified emotional claims.",
+                "is_approved": false,
+                "block_edits": [
+                    {
+                        "target_block_id": "card_7_block_0",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The text block repeats the exact findings of the BI system study which are already presented in the widget. It should instead provide the context of the use of Business Intelligence (BI) systems in forecasting decisions to lead into the widget.",
+                        "new_content_or_instructions": "To test if advanced technology could shield us from bias, researchers investigated the impact of Business Intelligence (BI) systems—software used to gather organizational insights—on forecasting decisions."
+                    },
+                    {
+                        "target_block_id": "card_7_block_2",
+                        "action": "REWRITE_TEXT",
+                        "rationale": "The phrase 'staring at a sophisticated data dashboard' in the original block 0 (which I'm moving the sentiment to) and 'lens of the anchor' are slightly dramatic. I will polish this to be a professional, documentary-style conclusion that reflects the note n10's point about human susceptibility in technological systems.",
+                        "new_content_or_instructions": "This demonstrates that even when using sophisticated technological systems, humans remain susceptible to cognitive biases. While a tool can provide the data, the human mind may still be influenced by a plausible anchor."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_4_reviewed_cards": {
+        "module_title": "The Anchor's Pull: Group Bias and Automation",
+        "module_description": "Discover why more heads aren't always better than one and how cognitive anchors drag down even the most advanced data systems.",
+        "alternative_descriptions": [
+            "Uncover the hidden psychological traps that make groups stubborn and data dashboards blind.",
+            "Can technology save us from our own minds? Explore the battle between human bias and automated systems.",
+            "Step into the psychology of decision-making to see how a single word or number can hijack a group's logic."
+        ],
+        "tags": [
+            "Cognitive Bias",
+            "Group Decision-Making",
+            "Anchoring Effect",
+            "Business Intelligence",
+            "Psychology"
+        ],
+        "loading_screen_trivia": "The first person to speak in a group discussion often wields an unproportionally high impact on the final outcome.",
+        "timeline": [],
+        "cast_of_characters": [],
+        "legacy_impact": {
+            "relevance_statement": "Understanding group anchoring explains why organizations often ignore critical external data, highlighting the need for structural changes like process accountability to ensure objective decision-making in the modern corporate world."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Group Bias Paradox",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "When we think of group decision-making, we often assume that more heads are better than one. The common belief is that the group's collective intelligence will naturally filter out individual biases, leading to a more objective and unbiased conclusion."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w0",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Groups",
+                            "entity_b": "Individuals",
+                            "distinction": "While groups are often presumed to be more unbiased, they can actually be just as biased or even more biased than individuals."
+                        },
+                        "source_notes_consumed": [
+                            "n1"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "But why does this happen? The answer lies in the subtle ways information is shared and processed within a group, which can actually amplify existing biases rather than erasing them."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Mechanics of Group Anchoring",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "Group anchors aren't always a collective creation; they can be the simple culmination of several individual anchors. In some cases, members consolidate their personal anchors to move the final decision in a specific direction. Interestingly, the *first person to speak* often wields an unproportionally high impact on the final outcome, effectively setting the anchor for the rest of the conversation."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w5",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Factors Contributing to Biased Group Decision-Making",
+                            "context_text": "While groups are often presumed to be more unbiased than individuals, they can be just as biased or even more so due to several specific psychological factors.",
+                            "items": [
+                                "The discriminatory fashion in which information is communicated, processed, and aggregated based on individual anchored knowledge and belief.",
+                                "A tendency for groups to ignore or disregard external information resulting from confidence in the joint decision-making process.",
+                                "The allocation of more weight to self-generated anchors over external anchors, as described by the 'competing anchor hypothesis'."
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n2",
+                            "n5",
+                            "n6"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "This internal dynamic often makes group bias harder to detect. But can these biases be mitigated, or do they persist even when we turn to advanced technological systems?"
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "Individuals vs. Groups",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "There is a distinct difference in how individuals and groups process anchoring. While individuals are susceptible to anchors, groups often tend to ignore or disregard external information. This is frequently attributed to the confidence they feel in their joint decision-making process."
+                    },
+                    {
+                        "block_type": "feature_matrix",
+                        "block_id": "card_3_block_1",
+                        "feature_matrix_data": {
+                            "title": "Individual vs. Group Anchoring Bias",
+                            "intro_text": "While both individuals and groups are subject to anchoring, they process external information and internal biases differently.",
+                            "entity_a": "Individual Members",
+                            "entity_b": "Groups",
+                            "features": [
+                                {
+                                    "feature_name": "Response to External Information",
+                                    "value_a": "Susceptible to provided anchors",
+                                    "value_b": "Tend to ignore or disregard external information",
+                                    "explanation": "Groups often disregard external data due to confidence in their joint decision-making process."
+                                },
+                                {
+                                    "feature_name": "Anchor Formation",
+                                    "value_a": "Based on personal anchors",
+                                    "value_b": "Culmination of individual anchors",
+                                    "explanation": "Group anchors can be established at the group level or emerge from combined individual beliefs."
+                                },
+                                {
+                                    "feature_name": "Decision Direction",
+                                    "value_a": "Consolidate anchors for decision",
+                                    "value_b": "Weight self-generated anchors more",
+                                    "explanation": "Groups prioritize internal anchors over external ones according to the competing anchor hypothesis."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "This resistance to external influence is further strengthened when a group has pre-existing preferences, a concept known as the *competing anchor hypothesis*."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Power of Self-Generated Anchors",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "When groups make decisions, they don't just react to external suggestions; they often rely on their own internal logic. This dynamic is captured by the 'Competing Anchor Hypothesis,' which describes how a group's own internal preferences shape their resistance to outside influence."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w4",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Competing Anchor Hypothesis",
+                            "quote": "groups tend to allocate more weight to self-generated anchors",
+                            "context": "This concept explains why pre-anchor preferences can limit the influence of external anchors on a group's final decision."
+                        },
+                        "source_notes_consumed": [
+                            "n6"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "Knowing that groups can be so susceptible to these internal anchors, researchers have explored ways to break the cycle. Could competition or accountability be the key?"
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "Breaking the Anchor",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "To combat the pull of anchors, some organizations have turned to structural changes in how they deliberate. Two effective methods include implementing **process accountability** and shifting the group's motivation from *cooperation* to *competition*. By encouraging a more critical, competitive environment, the influence of anchors can be significantly reduced."
+                    },
+                    {
+                        "block_id": "card_5_block_1",
+                        "block_type": "text",
+                        "text_content": "While these human-centric strategies help, many believe that advanced technology can provide a neutral ground. But as it turns out, software isn't a perfect shield."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "Technology and the Anchoring Effect",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "In the modern corporate world, companies rely on **Business Intelligence (BI)** systems to gather insights and make data-driven decisions. Researchers have investigated whether these sophisticated tools can mitigate the influence of human cognitive biases."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w3",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "Business intelligence",
+                            "definition": "An array of software and services used by businesses to gather valuable insights into an organisation's performance."
+                        },
+                        "source_notes_consumed": [
+                            "n9"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "A peer-reviewed study tested this by presenting users with a 'plausible' anchor and a 'spurious' anchor during a forecasting decision. The results revealed a specific limitation in how these systems interact with human judgment."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "Anchoring in Groups and Automated Systems",
+                "created_at": "2026-05-22T05:26:28.483759+00:00",
+                "card_title": "The Limits of Automation",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "To test if advanced technology could shield us from bias, researchers investigated the impact of Business Intelligence (BI) systems—software used to gather organizational insights—on forecasting decisions."
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinGroupsandAutomatedSystems_w2",
+                        "block_type": "versus",
+                        "versus_data": {
+                            "entity_a": "Plausible Anchors",
+                            "entity_b": "Spurious Anchors",
+                            "distinction": "BI systems mitigate the negative effects of spurious anchors but have no influence on the effects of plausible anchors."
+                        },
+                        "source_notes_consumed": [
+                            "n10"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "This demonstrates that even when using sophisticated technological systems, humans remain susceptible to cognitive biases. While a tool can provide the data, the human mind may still be influenced by a plausible anchor."
+                    }
+                ]
+            }
+        ]
+    },
+    "mini_games": [
+        {
+            "question": "Which individual in a group discussion typically has an unproportionally high impact on the final outcome by setting the anchor?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "The most experienced member",
+                    "isCorrect": false,
+                    "feedback": "Experience does not automatically grant the power to set the anchor; the timing of the contribution is the key factor."
+                },
+                {
+                    "text": "The first person to speak",
+                    "isCorrect": true,
+                    "feedback": "The first person to speak often effectively sets the anchor for the rest of the conversation."
+                },
+                {
+                    "text": "The group leader",
+                    "isCorrect": false,
+                    "feedback": "The source text does not specify that the leader sets the anchor, but rather the first person to speak."
+                },
+                {
+                    "text": "The most vocal member",
+                    "isCorrect": false,
+                    "feedback": "Being vocal throughout is different from being the first to establish the initial reference point."
+                },
+                {
+                    "text": "The person with the most data",
+                    "isCorrect": false,
+                    "feedback": "The anchor is set by the order of speaking, not by the quantity of information provided."
+                },
+                {
+                    "text": "The last person to speak",
+                    "isCorrect": false,
+                    "feedback": "The first speaker sets the anchor, whereas the last speaker typically concludes the discussion."
+                },
+                {
+                    "text": "The most confident member",
+                    "isCorrect": false,
+                    "feedback": "While confidence is a factor in group bias, the specific act of setting the anchor is tied to the first speaker."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the 'competing anchor hypothesis', what do groups tend to prioritize over external anchors?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "External data",
+                    "isCorrect": false,
+                    "feedback": "Groups actually tend to disregard external information in favor of internal anchors."
+                },
+                {
+                    "text": "Expert opinions",
+                    "isCorrect": false,
+                    "feedback": "The hypothesis focuses on the source of the anchor (self-generated vs. external), not the expertise of the source."
+                },
+                {
+                    "text": "Self-generated anchors",
+                    "isCorrect": true,
+                    "feedback": "The competing anchor hypothesis states that groups allocate more weight to anchors they have created themselves."
+                },
+                {
+                    "text": "Random numbers",
+                    "isCorrect": false,
+                    "feedback": "Random numbers are external anchors, which groups tend to prioritize less than self-generated ones."
+                },
+                {
+                    "text": "Consensus-based data",
+                    "isCorrect": false,
+                    "feedback": "While consensus is the goal, the hypothesis specifically highlights the priority of self-generated anchors."
+                },
+                {
+                    "text": "The first speaker's anchor",
+                    "isCorrect": false,
+                    "feedback": "While the first speaker sets an anchor, the hypothesis specifically refers to the group's own created anchors as a shield."
+                },
+                {
+                    "text": "External evidence",
+                    "isCorrect": false,
+                    "feedback": "Self-generated anchors act as a shield that impedes the influence of external evidence."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the effect of Business Intelligence (BI) systems on 'plausible' anchors during forecasting tasks?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "They completely eliminate the bias",
+                    "isCorrect": false,
+                    "feedback": "BI systems have no influence on the effects of plausible anchors."
+                },
+                {
+                    "text": "They mitigate the negative effects",
+                    "isCorrect": false,
+                    "feedback": "BI systems only mitigate the effects of spurious anchors, not plausible ones."
+                },
+                {
+                    "text": "They have no influence",
+                    "isCorrect": true,
+                    "feedback": "The study found that BI systems had absolutely no influence on the effects of plausible anchors."
+                },
+                {
+                    "text": "They amplify the anchor's effect",
+                    "isCorrect": false,
+                    "feedback": "BI systems do not amplify the bias; they simply fail to mitigate it for plausible anchors."
+                },
+                {
+                    "text": "They reduce the bias by 50%",
+                    "isCorrect": false,
+                    "feedback": "The research indicated no influence at all, not a partial reduction."
+                },
+                {
+                    "text": "They make the anchor more plausible",
+                    "isCorrect": false,
+                    "feedback": "BI systems provide data, but they do not change the inherent plausibility of the anchor."
+                },
+                {
+                    "text": "They shift the anchor to a random value",
+                    "isCorrect": false,
+                    "feedback": "BI systems do not randomize anchors; they simply fail to stop humans from clinging to reasonable-seeming ones."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which of the following is a structural change used to reduce the influence of anchors in group deliberations?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Increasing group size",
+                    "isCorrect": false,
+                    "feedback": "Increasing group size does not necessarily reduce anchoring and can sometimes amplify bias."
+                },
+                {
+                    "text": "Implementing process accountability",
+                    "isCorrect": true,
+                    "feedback": "Process accountability requires members to justify their reasoning, which helps combat the pull of anchors."
+                },
+                {
+                    "text": "Encouraging cooperation",
+                    "isCorrect": false,
+                    "feedback": "Shifting motivation from cooperation to competition is what actually reduces the influence of anchors."
+                },
+                {
+                    "text": "Using random number generators",
+                    "isCorrect": false,
+                    "feedback": "While random anchors are used in studies, they are not listed as a structural change for organizational deliberation."
+                },
+                {
+                    "text": "Reducing the number of speakers",
+                    "isCorrect": false,
+                    "feedback": "The source text does not suggest limiting speakers as a method to break the anchor."
+                },
+                {
+                    "text": "Implementing a time limit",
+                    "isCorrect": false,
+                    "feedback": "Time limits are not mentioned as a method for reducing anchoring bias in the source text."
+                },
+                {
+                    "text": "Providing external anchors",
+                    "isCorrect": false,
+                    "feedback": "Providing external anchors often increases the bias rather than reducing it."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why do groups often disregard external information that contradicts their internal anchor?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Lack of available data",
+                    "isCorrect": false,
+                    "feedback": "The issue is not a lack of data, but a tendency to ignore existing external data."
+                },
+                {
+                    "text": "Low confidence in the process",
+                    "isCorrect": false,
+                    "feedback": "Groups actually disregard external data due to high confidence in their joint process."
+                },
+                {
+                    "text": "High confidence in their joint process",
+                    "isCorrect": true,
+                    "feedback": "A high level of confidence in the collective decision-making process leads groups to disregard outside evidence."
+                },
+                {
+                    "text": "The influence of the first speaker",
+                    "isCorrect": false,
+                    "feedback": "While the first speaker sets the anchor, the disregard for external data is driven by collective confidence."
+                },
+                {
+                    "text": "A lack of communication",
+                    "isCorrect": false,
+                    "feedback": "The source text states that the bias is caused by how information is shared and processed, not a lack of it."
+                },
+                {
+                    "text": "The presence of spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are mitigated by BI systems, but the group's stubbornness is a general psychological factor."
+                },
+                {
+                    "text": "Pressure to conform",
+                    "isCorrect": false,
+                    "feedback": "While common in groups, the source text specifically attributes this resistance to confidence in the joint process."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the 'competing anchor hypothesis', groups tend to allocate more weight to ____ than to external anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "self-generated anchors",
+                    "isCorrect": true,
+                    "feedback": "The competing anchor hypothesis specifically states that groups prioritize anchors they create themselves over those imposed from outside."
+                },
+                {
+                    "text": "collective anchors",
+                    "isCorrect": false,
+                    "feedback": "While groups create collective anchors, the hypothesis specifically emphasizes the weight given to self-generated ones over external ones."
+                },
+                {
+                    "text": "spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are fake or irrelevant anchors, which groups would not prioritize over external ones in this context."
+                },
+                {
+                    "text": "plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are believable anchors, but the hypothesis focuses on the source (self-generated vs. external) rather than the believability."
+                },
+                {
+                    "text": "individual anchors",
+                    "isCorrect": false,
+                    "feedback": "Individual anchors are the building blocks of group anchors, but the hypothesis focuses on the group's self-generated preference."
+                },
+                {
+                    "text": "external anchors",
+                    "isCorrect": false,
+                    "feedback": "The hypothesis states that groups actually prioritize self-generated anchors OVER external ones."
+                },
+                {
+                    "text": "random anchors",
+                    "isCorrect": false,
+                    "feedback": "Random anchors are typically disregarded or mitigated, not prioritized by groups according to this hypothesis."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In group decision-making, the ____ often has an unproportionally high impact on the final outcome by effectively setting the anchor.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "first person to speak",
+                    "isCorrect": true,
+                    "feedback": "The first person to speak often sets the initial anchor that heavily influences the rest of the conversation."
+                },
+                {
+                    "text": "most experienced member",
+                    "isCorrect": false,
+                    "feedback": "While experience may matter, the text specifically identifies the first speaker as the primary anchor-setter."
+                },
+                {
+                    "text": "group leader",
+                    "isCorrect": false,
+                    "feedback": "The text does not attribute the anchor-setting power specifically to the leader, but to the first person who speaks."
+                },
+                {
+                    "text": "last person to speak",
+                    "isCorrect": false,
+                    "feedback": "The last speaker typically follows the established anchor rather than setting it."
+                },
+                {
+                    "text": "most confident member",
+                    "isCorrect": false,
+                    "feedback": "Confidence is a result of the joint process, but the first speaker is the one who initiates the anchor."
+                },
+                {
+                    "text": "external consultant",
+                    "isCorrect": false,
+                    "feedback": "External consultants provide external anchors, which groups often disregard in favor of internal ones."
+                },
+                {
+                    "text": "majority vote",
+                    "isCorrect": false,
+                    "feedback": "A majority vote is a decision mechanism, not the act of setting an initial anchor."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "To reduce the influence of anchors in groups, organizations can shift the group's motivation from ____ to competition.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "cooperation",
+                    "isCorrect": true,
+                    "feedback": "Shifting from cooperation to competition encourages a more critical environment that reduces anchor influence."
+                },
+                {
+                    "text": "collaboration",
+                    "isCorrect": false,
+                    "feedback": "Collaboration is similar to cooperation, but the text specifically uses the term 'cooperation' as the opposite of competition."
+                },
+                {
+                    "text": "consensus",
+                    "isCorrect": false,
+                    "feedback": "Consensus is the goal of cooperation, but the specific motivational shift requested is from cooperation to competition."
+                },
+                {
+                    "text": "accountability",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is a separate method used to combat anchors, not the motivational shift from cooperation."
+                },
+                {
+                    "text": "objectivity",
+                    "isCorrect": false,
+                    "feedback": "Objectivity is the desired outcome, not the starting motivation being replaced by competition."
+                },
+                {
+                    "text": "conformity",
+                    "isCorrect": false,
+                    "feedback": "Conformity is a result of bias, not the motivation being shifted to competition."
+                },
+                {
+                    "text": "agreement",
+                    "isCorrect": false,
+                    "feedback": "Agreement is a result of cooperation, but the text specifically contrasts cooperation with competition."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Business Intelligence (BI) systems are effective at mitigating the negative effects of ____ anchors, but have no influence on plausible anchors.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "spurious",
+                    "isCorrect": true,
+                    "feedback": "BI systems can filter out fake or irrelevant (spurious) anchors but cannot stop humans from clinging to believable (plausible) ones."
+                },
+                {
+                    "text": "self-generated",
+                    "isCorrect": false,
+                    "feedback": "The text does not state that BI systems mitigate self-generated anchors; it specifically mentions spurious ones."
+                },
+                {
+                    "text": "external",
+                    "isCorrect": false,
+                    "feedback": "External anchors include both plausible and spurious ones; BI systems only mitigate the spurious type."
+                },
+                {
+                    "text": "internal",
+                    "isCorrect": false,
+                    "feedback": "Internal anchors are created by the group; the study focused on the BI system's effect on external anchors (plausible vs. spurious)."
+                },
+                {
+                    "text": "random",
+                    "isCorrect": false,
+                    "feedback": "While spurious anchors are often random, the text specifically uses the term 'spurious' to describe the anchors BI systems mitigate."
+                },
+                {
+                    "text": "numeric",
+                    "isCorrect": false,
+                    "feedback": "The text does not distinguish between numeric and non-numeric anchors in the context of BI systems."
+                },
+                {
+                    "text": "collective",
+                    "isCorrect": false,
+                    "feedback": "Collective anchors are group-created; the BI system was tested against external anchors presented to the users."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "A method to combat group anchoring where members must justify their reasoning is known as ____.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "process accountability",
+                    "isCorrect": true,
+                    "feedback": "Process accountability requires members to justify their reasoning, which helps break the pull of anchors."
+                },
+                {
+                    "text": "competing anchor hypothesis",
+                    "isCorrect": false,
+                    "feedback": "This is a hypothesis explaining why groups prioritize internal anchors, not a method to combat them."
+                },
+                {
+                    "text": "cognitive reflection",
+                    "isCorrect": false,
+                    "feedback": "Cognitive reflection is a general psychological trait, not a specific structural change in group deliberation."
+                },
+                {
+                    "text": "joint decision-making",
+                    "isCorrect": false,
+                    "feedback": "Joint decision-making is the process that can actually amplify biases if not managed correctly."
+                },
+                {
+                    "text": "semantic priming",
+                    "isCorrect": false,
+                    "feedback": "Semantic priming is a theory of how anchoring works, not a method to reduce its effect in groups."
+                },
+                {
+                    "text": "data-driven decision-making",
+                    "isCorrect": false,
+                    "feedback": "This is the general goal of using BI systems, not the specific method of justifying reasoning."
+                },
+                {
+                    "text": "external validation",
+                    "isCorrect": false,
+                    "feedback": "External validation is the act of seeking outside data, which groups often disregard."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which statement BEST describes the relationship between individuals and groups regarding anchoring bias?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Groups are inherently more objective and unbiased than individuals",
+                    "isCorrect": false,
+                    "feedback": "This is a common belief, but research suggests groups can be just as biased or even more biased than individuals."
+                },
+                {
+                    "text": "Groups are always less susceptible to anchoring than individuals",
+                    "isCorrect": false,
+                    "feedback": "Groups are not always less susceptible; they can actually amplify existing biases."
+                },
+                {
+                    "text": "Groups can be just as biased, or even more biased, than the individuals within them",
+                    "isCorrect": true,
+                    "feedback": "Research indicates that group dynamics can lead to outcomes that are as biased or more biased than individual decisions."
+                },
+                {
+                    "text": "Individuals are more likely to ignore external information than groups",
+                    "isCorrect": false,
+                    "feedback": "Actually, groups often exhibit a stubbornness toward external information due to confidence in their joint process."
+                },
+                {
+                    "text": "Group bias is entirely eliminated by the presence of more members",
+                    "isCorrect": false,
+                    "feedback": "Increasing the number of members does not naturally filter out biases; it can sometimes amplify them."
+                },
+                {
+                    "text": "Individuals and groups process anchors in identical ways",
+                    "isCorrect": false,
+                    "feedback": "There is a distinct difference, such as groups often disregarding external information while individuals may be swayed by random numbers."
+                },
+                {
+                    "text": "Groups are immune to anchoring when they have a shared goal",
+                    "isCorrect": false,
+                    "feedback": "Shared goals do not prevent anchoring; internal dynamics and self-generated anchors still apply."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                3
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the 'competing anchor hypothesis'?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Groups prioritize external anchors over self-generated ones",
+                    "isCorrect": false,
+                    "feedback": "The hypothesis states the opposite: groups prioritize anchors they created themselves."
+                },
+                {
+                    "text": "Groups allocate more weight to self-generated anchors than external ones",
+                    "isCorrect": true,
+                    "feedback": "This hypothesis explains why pre-existing preferences act as a shield against external anchors."
+                },
+                {
+                    "text": "External anchors always override internal group preferences",
+                    "isCorrect": false,
+                    "feedback": "Self-generated anchors typically impede the influence of external anchors."
+                },
+                {
+                    "text": "Groups only use anchors when they are provided by an external source",
+                    "isCorrect": false,
+                    "feedback": "Groups frequently create their own anchors, which they then prioritize over external ones."
+                },
+                {
+                    "text": "Competing anchors cancel each other out to create an unbiased result",
+                    "isCorrect": false,
+                    "feedback": "Competing anchors do not cancel out; rather, the self-generated ones usually dominate."
+                },
+                {
+                    "text": "The hypothesis describes how individuals compete to set the first anchor",
+                    "isCorrect": false,
+                    "feedback": "It describes the weight given to self-generated versus external anchors, not interpersonal competition."
+                },
+                {
+                    "text": "Self-generated anchors are only effective if the group is small",
+                    "isCorrect": false,
+                    "feedback": "The hypothesis applies to group anchoring generally, regardless of group size."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the impact of Business Intelligence (BI) systems on anchoring?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "BI systems completely eliminate all forms of anchoring bias",
+                    "isCorrect": false,
+                    "feedback": "BI systems cannot strip away all human cognitive biases; they have specific limitations."
+                },
+                {
+                    "text": "BI systems mitigate spurious anchors but not plausible ones",
+                    "isCorrect": true,
+                    "feedback": "Studies show BI systems are effective against fake or irrelevant anchors but not those that seem reasonable."
+                },
+                {
+                    "text": "BI systems are only effective against plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "The opposite is true: they mitigate spurious anchors but have no influence on plausible ones."
+                },
+                {
+                    "text": "BI systems increase the influence of plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "BI systems do not increase the influence; they simply fail to mitigate it."
+                },
+                {
+                    "text": "BI systems replace human interpretation with purely objective data",
+                    "isCorrect": false,
+                    "feedback": "Humans still interpret BI data through the lens of their anchors, regardless of the system's sophistication."
+                },
+                {
+                    "text": "BI systems are ineffective against all types of anchors",
+                    "isCorrect": false,
+                    "feedback": "They are effective at mitigating the negative effects of spurious anchors."
+                },
+                {
+                    "text": "BI systems only work when the user is an expert",
+                    "isCorrect": false,
+                    "feedback": "The study focused on the system's ability to mitigate specific types of anchors, not the user's expertise level."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which statement BEST describes the most effective ways to reduce group anchoring bias?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Increasing the number of group members to filter bias",
+                    "isCorrect": false,
+                    "feedback": "More members do not naturally filter out bias and can sometimes amplify it."
+                },
+                {
+                    "text": "Encouraging cooperation and consensus at all costs",
+                    "isCorrect": false,
+                    "feedback": "Shifting motivation from cooperation to competition is actually a method to reduce anchor influence."
+                },
+                {
+                    "text": "Implementing process accountability and fostering competition",
+                    "isCorrect": true,
+                    "feedback": "Requiring members to justify reasoning and encouraging a critical, competitive environment reduces anchoring."
+                },
+                {
+                    "text": "Relying exclusively on Business Intelligence software",
+                    "isCorrect": false,
+                    "feedback": "Software is not a perfect shield and fails to mitigate plausible anchors."
+                },
+                {
+                    "text": "Allowing the first speaker to set the tone of the conversation",
+                    "isCorrect": false,
+                    "feedback": "The first person to speak often sets the anchor, which increases bias rather than reducing it."
+                },
+                {
+                    "text": "Ignoring all external data to focus on internal group consensus",
+                    "isCorrect": false,
+                    "feedback": "Ignoring external data is a symptom of group anchoring, not a solution to it."
+                },
+                {
+                    "text": "Using a random number generator to set the initial anchor",
+                    "isCorrect": false,
+                    "feedback": "The source text does not list this as a structural change to combat group anchoring."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Conceptual Best-Fit",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why do groups sometimes exhibit more bias than the individuals within them?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Discriminatory information processing",
+                    "isCorrect": true,
+                    "feedback": "Biases are amplified when information is communicated, processed, and aggregated based on individual anchored knowledge."
+                },
+                {
+                    "text": "Lack of individual accountability",
+                    "isCorrect": false,
+                    "feedback": "While accountability is a solution, the cause of bias is the discriminatory processing of anchored information."
+                },
+                {
+                    "text": "Over-reliance on external data",
+                    "isCorrect": false,
+                    "feedback": "Groups actually tend to ignore or disregard external information due to confidence in their joint process."
+                },
+                {
+                    "text": "Automatic filtering of biases",
+                    "isCorrect": false,
+                    "feedback": "The common belief is that groups filter biases, but the reality is they often amplify them."
+                },
+                {
+                    "text": "Excessive cooperation",
+                    "isCorrect": false,
+                    "feedback": "Cooperation is a motivation, but the bias stems from how anchored information is processed and aggregated."
+                },
+                {
+                    "text": "Random number susceptibility",
+                    "isCorrect": false,
+                    "feedback": "Individuals are more likely to be swayed by random numbers, whereas groups are characterized by stubbornness toward external data."
+                },
+                {
+                    "text": "Lack of domain expertise",
+                    "isCorrect": false,
+                    "feedback": "The text does not attribute group bias to a lack of expertise, but to internal processing dynamics."
+                }
+            ],
+            "source_card_ids": [
+                1,
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How does the 'competing anchor hypothesis' explain a group's resistance to external information?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Prioritizing self-generated anchors",
+                    "isCorrect": true,
+                    "feedback": "Groups allocate more weight to anchors they created themselves, which acts as a shield against external anchors."
+                },
+                {
+                    "text": "Consolidating individual anchors",
+                    "isCorrect": false,
+                    "feedback": "Consolidation is how group anchors are formed, but the competing anchor hypothesis specifically refers to the priority of self-generated anchors."
+                },
+                {
+                    "text": "Increasing process accountability",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is a method to combat anchors, not a cause of resistance to external data."
+                },
+                {
+                    "text": "Relying on BI system forecasts",
+                    "isCorrect": false,
+                    "feedback": "BI systems are tools used to gather insights, not the mechanism behind the competing anchor hypothesis."
+                },
+                {
+                    "text": "Filtering out individual biases",
+                    "isCorrect": false,
+                    "feedback": "Groups often fail to filter biases and instead prioritize their own internal anchors."
+                },
+                {
+                    "text": "Reducing internal confidence",
+                    "isCorrect": false,
+                    "feedback": "High confidence in the joint process actually increases resistance to external information."
+                },
+                {
+                    "text": "Shifting to a competitive motivation",
+                    "isCorrect": false,
+                    "feedback": "Competition is used to reduce the influence of anchors, not to explain why groups resist external data."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why does the first person to speak in a group discussion often have a disproportionate impact on the outcome?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "They set the initial anchor",
+                    "isCorrect": true,
+                    "feedback": "The first speaker effectively sets the anchor for the rest of the conversation, influencing the final decision."
+                },
+                {
+                    "text": "They possess more expertise",
+                    "isCorrect": false,
+                    "feedback": "The impact is due to the timing of the speech (setting the anchor), not the speaker's level of expertise."
+                },
+                {
+                    "text": "They enforce process accountability",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is a structural change to combat anchors, not a result of the first speaker's influence."
+                },
+                {
+                    "text": "They eliminate spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "The first speaker creates an anchor; BI systems are what mitigate spurious anchors."
+                },
+                {
+                    "text": "They encourage cooperation",
+                    "isCorrect": false,
+                    "feedback": "The first speaker's influence is a mechanism of anchoring, regardless of whether the group is cooperating or competing."
+                },
+                {
+                    "text": "They prioritize external data",
+                    "isCorrect": false,
+                    "feedback": "The first speaker typically establishes an internal anchor, which often leads the group to disregard external data."
+                },
+                {
+                    "text": "They reduce group confidence",
+                    "isCorrect": false,
+                    "feedback": "The first speaker's anchor is often accepted because of the group's confidence in its joint process."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How do Business Intelligence (BI) systems interact with plausible versus spurious anchors?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Mitigate spurious, not plausible",
+                    "isCorrect": true,
+                    "feedback": "BI systems are effective against fake or irrelevant anchors but have no influence on anchors that seem reasonable."
+                },
+                {
+                    "text": "Mitigate plausible, not spurious",
+                    "isCorrect": false,
+                    "feedback": "The opposite is true: BI systems cannot stop humans from clinging to plausible anchors."
+                },
+                {
+                    "text": "Eliminate all cognitive biases",
+                    "isCorrect": false,
+                    "feedback": "Software is not a perfect shield; humans still interpret data through the lens of the anchor."
+                },
+                {
+                    "text": "Enhance the effect of plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "BI systems do not enhance plausible anchors; they simply fail to mitigate them."
+                },
+                {
+                    "text": "Convert spurious anchors to plausible",
+                    "isCorrect": false,
+                    "feedback": "BI systems provide data, but they do not change the nature of the anchor itself."
+                },
+                {
+                    "text": "Neutralize all external anchors",
+                    "isCorrect": false,
+                    "feedback": "BI systems only mitigate spurious anchors, leaving plausible anchors effective."
+                },
+                {
+                    "text": "Prioritize self-generated anchors",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis describes human group behavior, not the function of BI systems."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the 'competing anchor hypothesis', groups tend to allocate more weight to ____ than to external anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "self-generated anchors",
+                    "isCorrect": true,
+                    "feedback": "The competing anchor hypothesis states that groups prioritize anchors they create themselves over those imposed from the outside."
+                },
+                {
+                    "text": "spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are fake or irrelevant anchors, which BI systems can mitigate, but they are not the focus of the competing anchor hypothesis."
+                },
+                {
+                    "text": "plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are believable anchors that humans cling to even with BI systems, but the hypothesis specifically contrasts self-generated vs external anchors."
+                },
+                {
+                    "text": "collective anchors",
+                    "isCorrect": false,
+                    "feedback": "While groups create collective anchors, the specific hypothesis refers to the weight given to 'self-generated' anchors."
+                },
+                {
+                    "text": "external anchors",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis explicitly states that groups prioritize self-generated anchors OVER external ones."
+                },
+                {
+                    "text": "random anchors",
+                    "isCorrect": false,
+                    "feedback": "Random anchors are typically what individuals are swayed by, whereas groups exhibit stubbornness toward external information."
+                },
+                {
+                    "text": "process anchors",
+                    "isCorrect": false,
+                    "feedback": "Process anchors is not a term used in the source text to describe the weight of anchors in group decision-making."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In group decision-making, the ____ often has an unproportionally high impact on the final outcome by effectively setting the anchor for the conversation.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "first person to speak",
+                    "isCorrect": true,
+                    "feedback": "The first person to speak often sets the anchor that influences the rest of the group's conversation and final decision."
+                },
+                {
+                    "text": "most experienced member",
+                    "isCorrect": false,
+                    "feedback": "The source text does not state that experience determines the anchor; rather, it is the timing of the speech."
+                },
+                {
+                    "text": "group leader",
+                    "isCorrect": false,
+                    "feedback": "The source text does not attribute the anchor-setting power to a formal leader, but to the first speaker."
+                },
+                {
+                    "text": "last person to speak",
+                    "isCorrect": false,
+                    "feedback": "The first speaker, not the last, wields the disproportionate impact on the outcome."
+                },
+                {
+                    "text": "most confident member",
+                    "isCorrect": false,
+                    "feedback": "While confidence in the process exists, the specific mechanism for setting the anchor is being the first to speak."
+                },
+                {
+                    "text": "external consultant",
+                    "isCorrect": false,
+                    "feedback": "External anchors are often disregarded by groups due to their confidence in their own joint process."
+                },
+                {
+                    "text": "majority vote",
+                    "isCorrect": false,
+                    "feedback": "The anchor is set by an individual's initial input, not by a collective vote."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Groups may disregard external information because of a high level of ____ in their collective decision-making process.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "confidence",
+                    "isCorrect": true,
+                    "feedback": "High confidence in the joint decision-making process leads groups to ignore or disregard outside evidence that contradicts their internal anchor."
+                },
+                {
+                    "text": "cooperation",
+                    "isCorrect": false,
+                    "feedback": "Cooperation is a motivation that can be shifted to competition to reduce anchoring, but it is not the cause of disregarding external info."
+                },
+                {
+                    "text": "accountability",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is a method used to combat anchors, not a cause for ignoring external data."
+                },
+                {
+                    "text": "consensus",
+                    "isCorrect": false,
+                    "feedback": "While groups seek consensus, the source text specifically identifies 'confidence' as the reason for disregarding external info."
+                },
+                {
+                    "text": "experience",
+                    "isCorrect": false,
+                    "feedback": "The source text does not link the disregard of external information to the level of experience of the members."
+                },
+                {
+                    "text": "intelligence",
+                    "isCorrect": false,
+                    "feedback": "The source text does not attribute the disregard of external information to the cognitive ability of the group members."
+                },
+                {
+                    "text": "bias",
+                    "isCorrect": false,
+                    "feedback": "Bias is the result of the anchoring effect, not the psychological cause for ignoring external information."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "To reduce the influence of anchors in groups, organizations can shift the group's motivation from ____ to competition.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "cooperation",
+                    "isCorrect": true,
+                    "feedback": "Shifting motivation from cooperation to competition encourages a more critical environment that reduces anchor influence."
+                },
+                {
+                    "text": "consensus",
+                    "isCorrect": false,
+                    "feedback": "While groups may seek consensus, the specific structural change mentioned is shifting from cooperation to competition."
+                },
+                {
+                    "text": "accountability",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is a separate method for reducing anchors, not the opposite of competition in this context."
+                },
+                {
+                    "text": "collaboration",
+                    "isCorrect": false,
+                    "feedback": "Collaboration is similar to cooperation, but the source text specifically uses the term 'cooperation'."
+                },
+                {
+                    "text": "agreement",
+                    "isCorrect": false,
+                    "feedback": "Agreement is the goal of many groups, but the specific motivational shift requested is from cooperation to competition."
+                },
+                {
+                    "text": "conformity",
+                    "isCorrect": false,
+                    "feedback": "Conformity is a psychological pressure, but the source text specifies the motivational shift from cooperation to competition."
+                },
+                {
+                    "text": "objectivity",
+                    "isCorrect": false,
+                    "feedback": "Objectivity is the desired outcome, not the motivation being shifted away from."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Business Intelligence (BI) systems are effective at mitigating the effects of ____ anchors, but have no influence on plausible anchors.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "spurious",
+                    "isCorrect": true,
+                    "feedback": "BI systems can mitigate the negative effects of fake or irrelevant (spurious) anchors, but not believable (plausible) ones."
+                },
+                {
+                    "text": "plausible",
+                    "isCorrect": false,
+                    "feedback": "The source text explicitly states that BI systems have NO influence on the effects of plausible anchors."
+                },
+                {
+                    "text": "self-generated",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis deals with self-generated anchors in groups, not the effectiveness of BI systems against them."
+                },
+                {
+                    "text": "external",
+                    "isCorrect": false,
+                    "feedback": "Spurious and plausible are the two types of external anchors tested in the BI study; 'spurious' is the one mitigated."
+                },
+                {
+                    "text": "random",
+                    "isCorrect": false,
+                    "feedback": "While spurious anchors are often random, the specific term used in the study is 'spurious'."
+                },
+                {
+                    "text": "internal",
+                    "isCorrect": false,
+                    "feedback": "Internal anchors are created by the group; BI systems are used to mitigate external anchors provided during tasks."
+                },
+                {
+                    "text": "numeric",
+                    "isCorrect": false,
+                    "feedback": "Numeric anchoring is a general concept, but the BI study specifically distinguished between spurious and plausible anchors."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Mechanisms & Causes",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "What is the direct result of a group's high level of confidence in its own joint decision-making process?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Increased susceptibility to random numbers",
+                    "isCorrect": false,
+                    "feedback": "Individuals, not groups, are more likely to be swayed by random numbers."
+                },
+                {
+                    "text": "A tendency to ignore or disregard external information",
+                    "isCorrect": true,
+                    "feedback": "High confidence in the collective process often leads groups to be blind to outside data that contradicts their internal anchor."
+                },
+                {
+                    "text": "The automatic elimination of individual biases",
+                    "isCorrect": false,
+                    "feedback": "Groups do not naturally filter out biases; they can actually amplify them through how information is processed."
+                },
+                {
+                    "text": "A shift from competition to cooperation",
+                    "isCorrect": false,
+                    "feedback": "Shifting from cooperation to competition is a strategy to combat anchors, not a result of group confidence."
+                },
+                {
+                    "text": "The immediate adoption of spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups are generally more stubborn toward external information than individuals."
+                },
+                {
+                    "text": "The total removal of self-generated anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups actually prioritize self-generated anchors over external ones according to the competing anchor hypothesis."
+                },
+                {
+                    "text": "A decrease in the impact of the first speaker",
+                    "isCorrect": false,
+                    "feedback": "The first person to speak typically has an unproportionally high impact on the final outcome."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the competing anchor hypothesis, what is the impact of pre-existing preferences on a group's final decision?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "They act as a shield against external anchors",
+                    "isCorrect": true,
+                    "feedback": "Self-generated anchors from pre-existing preferences impede the extent to which external anchors can shift the decision."
+                },
+                {
+                    "text": "They encourage the adoption of spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups prioritize their own internal anchors over external ones, regardless of whether they are spurious."
+                },
+                {
+                    "text": "They lead to a total reliance on BI systems",
+                    "isCorrect": false,
+                    "feedback": "BI systems are tools used to gather insights, not a result of pre-existing preferences."
+                },
+                {
+                    "text": "They force the group to seek external justification",
+                    "isCorrect": false,
+                    "feedback": "Groups with pre-existing preferences tend to disregard external information due to their internal confidence."
+                },
+                {
+                    "text": "They eliminate the influence of the first speaker",
+                    "isCorrect": false,
+                    "feedback": "The first speaker's impact is a separate mechanic of group anchoring, not a result of pre-existing preferences."
+                },
+                {
+                    "text": "They promote a cooperative rather than competitive environment",
+                    "isCorrect": false,
+                    "feedback": "Cooperation often allows anchors to persist; competition is used to reduce their influence."
+                },
+                {
+                    "text": "They make the group more susceptible to random numbers",
+                    "isCorrect": false,
+                    "feedback": "Groups exhibit stubbornness toward external information compared to individuals."
+                }
+            ],
+            "source_card_ids": [
+                3,
+                4
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the outcome of using a Business Intelligence (BI) system when presented with a plausible anchor?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "The anchor's effect is completely mitigated",
+                    "isCorrect": false,
+                    "feedback": "BI systems have absolutely no influence on the effects of plausible anchors."
+                },
+                {
+                    "text": "The anchor is identified as spurious",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are believable, unlike spurious anchors which are fake or irrelevant."
+                },
+                {
+                    "text": "The human user still clings to the anchor",
+                    "isCorrect": true,
+                    "feedback": "If an anchor seems reasonable, humans remain susceptible to it even when using sophisticated data dashboards."
+                },
+                {
+                    "text": "The system automatically corrects the forecast",
+                    "isCorrect": false,
+                    "feedback": "The tool provides data, but the human mind still interprets it through the lens of the anchor."
+                },
+                {
+                    "text": "The user shifts to a competitive motivation",
+                    "isCorrect": false,
+                    "feedback": "Motivation shifts are human-centric structural changes, not a function of BI software."
+                },
+                {
+                    "text": "The anchor is converted into a self-generated anchor",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are external anchors, not self-generated ones."
+                },
+                {
+                    "text": "The system eliminates all cognitive biases",
+                    "isCorrect": false,
+                    "feedback": "Software is not a perfect shield and cannot strip away all human cognitive biases."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the ripple effect of implementing process accountability within a deliberating group?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Increased reliance on the first speaker",
+                    "isCorrect": false,
+                    "feedback": "Process accountability requires justification, which challenges the uncritical acceptance of the first speaker's anchor."
+                },
+                {
+                    "text": "A shift toward cooperation over competition",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is often paired with a shift toward competition to reduce anchor influence."
+                },
+                {
+                    "text": "The influence of anchors is significantly reduced",
+                    "isCorrect": true,
+                    "feedback": "Requiring members to justify their reasoning helps combat the pull of anchors."
+                },
+                {
+                    "text": "The group becomes blind to outside data",
+                    "isCorrect": false,
+                    "feedback": "Blindness to outside data is a result of group confidence, not process accountability."
+                },
+                {
+                    "text": "The group prioritizes external anchors over internal ones",
+                    "isCorrect": false,
+                    "feedback": "Process accountability aims to reduce the overall influence of anchors, not swap their priority."
+                },
+                {
+                    "text": "The group adopts a BI system for neutrality",
+                    "isCorrect": false,
+                    "feedback": "BI systems are a separate technological approach to decision-making, not a result of process accountability."
+                },
+                {
+                    "text": "The group's confidence in its joint process increases",
+                    "isCorrect": false,
+                    "feedback": "Process accountability introduces critical scrutiny, which typically challenges blind confidence in the joint process."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is the primary difference between how individuals and groups respond to external information when anchoring?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Individuals consolidate anchors while groups ignore external data",
+                    "isCorrect": true,
+                    "feedback": "Groups often disregard external information due to high confidence in their joint decision-making process, whereas individuals consolidate anchors to reach a decision."
+                },
+                {
+                    "text": "Individuals ignore external data while groups consolidate anchors",
+                    "isCorrect": false,
+                    "feedback": "This is the opposite of the actual dynamic; groups are the ones who tend to disregard external information."
+                },
+                {
+                    "text": "Groups are always more objective than individuals",
+                    "isCorrect": false,
+                    "feedback": "Research suggests groups can be just as biased, or even more biased, than the individuals within them."
+                },
+                {
+                    "text": "Individuals are more stubborn than groups",
+                    "isCorrect": false,
+                    "feedback": "Groups actually exhibit more stubbornness toward external information due to collective confidence."
+                },
+                {
+                    "text": "Groups only react to plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "While BI systems only fail at plausible anchors, groups generally exhibit a stubbornness toward external information regardless of type."
+                },
+                {
+                    "text": "Individuals prioritize self-generated anchors",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis specifically describes the group tendency to prioritize self-generated anchors over external ones."
+                },
+                {
+                    "text": "Groups always filter out individual biases",
+                    "isCorrect": false,
+                    "feedback": "While often assumed, groups do not naturally filter out biases and can actually amplify them."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "How does the effect of a Business Intelligence (BI) system differ when facing spurious anchors versus plausible anchors?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Mitigates spurious anchors but not plausible ones",
+                    "isCorrect": true,
+                    "feedback": "BI systems are effective at reducing the negative effects of spurious anchors but have no influence on plausible anchors."
+                },
+                {
+                    "text": "Mitigates plausible anchors but not spurious ones",
+                    "isCorrect": false,
+                    "feedback": "The opposite is true; humans cling to plausible anchors even when using BI systems."
+                },
+                {
+                    "text": "Eliminates both spurious and plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "BI systems cannot strip away all human cognitive biases, specifically failing with plausible anchors."
+                },
+                {
+                    "text": "Increases the effect of plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "The system doesn't increase the effect; it simply fails to mitigate it."
+                },
+                {
+                    "text": "Only works for spurious anchors in groups",
+                    "isCorrect": false,
+                    "feedback": "The study tested BI systems generally, and the limitation regarding plausible anchors is a general human susceptibility."
+                },
+                {
+                    "text": "Makes spurious anchors more plausible",
+                    "isCorrect": false,
+                    "feedback": "The BI system provides data, but it does not change the nature of the anchor itself."
+                },
+                {
+                    "text": "Has no effect on either type of anchor",
+                    "isCorrect": false,
+                    "feedback": "The system is specifically noted as being effective against spurious anchors."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "According to the competing anchor hypothesis, how do groups contrast the weight of self-generated anchors versus external anchors?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Prioritize self-generated over external anchors",
+                    "isCorrect": true,
+                    "feedback": "Groups tend to allocate more weight to anchors they created themselves, which acts as a shield against external influence."
+                },
+                {
+                    "text": "Prioritize external over self-generated anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups actually prioritize their own internal anchors over those imposed from the outside."
+                },
+                {
+                    "text": "Weight both types of anchors equally",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis states that groups allocate more weight to self-generated anchors."
+                },
+                {
+                    "text": "Ignore self-generated anchors entirely",
+                    "isCorrect": false,
+                    "feedback": "Self-generated anchors are the primary drivers of group decisions under this hypothesis."
+                },
+                {
+                    "text": "Only use external anchors for final decisions",
+                    "isCorrect": false,
+                    "feedback": "External anchors are often disregarded in favor of self-generated ones."
+                },
+                {
+                    "text": "Prefer external anchors when they are plausible",
+                    "isCorrect": false,
+                    "feedback": "The hypothesis focuses on the preference for self-generated anchors regardless of external plausibility."
+                },
+                {
+                    "text": "Discard all anchors to remain objective",
+                    "isCorrect": false,
+                    "feedback": "Groups are susceptible to anchoring and do not naturally discard them to remain objective."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "While individuals may be swayed by random numbers, groups often exhibit a stubbornness toward external information due to their ____ in the joint decision-making process.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "high level of confidence",
+                    "isCorrect": true,
+                    "feedback": "Groups often disregard external data because they have high confidence in their collective process."
+                },
+                {
+                    "text": "lack of internal consensus",
+                    "isCorrect": false,
+                    "feedback": "Lack of consensus would typically make a group more open to external data, not more stubborn."
+                },
+                {
+                    "text": "reliance on external anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups actually tend to ignore or disregard external information in favor of internal anchors."
+                },
+                {
+                    "text": "fear of social conflict",
+                    "isCorrect": false,
+                    "feedback": "The text attributes group stubbornness to confidence in the process, not fear of conflict."
+                },
+                {
+                    "text": "desire for cooperation",
+                    "isCorrect": false,
+                    "feedback": "While cooperation is a common group goal, the text notes that shifting to competition can actually reduce anchoring."
+                },
+                {
+                    "text": "dependence on BI systems",
+                    "isCorrect": false,
+                    "feedback": "BI systems are tools used to mitigate bias, not the cause of the group's stubbornness toward external data."
+                },
+                {
+                    "text": "preference for spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups prioritize self-generated anchors over external ones, regardless of whether they are spurious or plausible."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to the competing anchor hypothesis, groups tend to allocate more weight to ____ than to external anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "self-generated anchors",
+                    "isCorrect": true,
+                    "feedback": "The competing anchor hypothesis states that groups prioritize anchors they created themselves over those imposed from outside."
+                },
+                {
+                    "text": "plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are discussed in the context of BI systems, not the competing anchor hypothesis."
+                },
+                {
+                    "text": "spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are irrelevant or fake, which groups are more likely to disregard than self-generated ones."
+                },
+                {
+                    "text": "random numbers",
+                    "isCorrect": false,
+                    "feedback": "The text notes that individuals are more likely to be swayed by random numbers than groups are."
+                },
+                {
+                    "text": "external data",
+                    "isCorrect": false,
+                    "feedback": "Groups specifically disregard external information to prioritize their own internal anchors."
+                },
+                {
+                    "text": "BI system forecasts",
+                    "isCorrect": false,
+                    "feedback": "BI systems provide external data, which the competing anchor hypothesis suggests groups would deprioritize."
+                },
+                {
+                    "text": "first-speaker anchors",
+                    "isCorrect": false,
+                    "feedback": "While the first speaker has high impact, the hypothesis specifically refers to the group's self-generated anchors as a whole."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In the context of automated systems, BI systems are effective at mitigating the effects of ____, but have no influence on the effects of plausible anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "spurious anchors",
+                    "isCorrect": true,
+                    "feedback": "BI systems can strip away the influence of fake or irrelevant (spurious) anchors but cannot stop humans from clinging to reasonable (plausible) ones."
+                },
+                {
+                    "text": "self-generated anchors",
+                    "isCorrect": false,
+                    "feedback": "The text does not state that BI systems mitigate self-generated anchors; it focuses on the distinction between spurious and plausible external anchors."
+                },
+                {
+                    "text": "internal anchors",
+                    "isCorrect": false,
+                    "feedback": "Internal anchors are the result of group dynamics, whereas BI systems address external anchors provided during tasks."
+                },
+                {
+                    "text": "plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "The text explicitly states that BI systems have no influence on the effects of plausible anchors."
+                },
+                {
+                    "text": "group-based anchors",
+                    "isCorrect": false,
+                    "feedback": "Group-based anchors are internal dynamics, while the BI study focused on the impact of external anchors (spurious vs. plausible)."
+                },
+                {
+                    "text": "process accountability",
+                    "isCorrect": false,
+                    "feedback": "Process accountability is a human-centric structural change, not a type of anchor that a BI system mitigates."
+                },
+                {
+                    "text": "competing anchors",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis describes a group's preference for internal anchors over external ones, not a type of anchor mitigated by BI."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Compare & Contrast",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which structural changes in deliberation can organizations implement to reduce the influence of anchors in group decision-making?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Implementing process accountability",
+                    "isCorrect": true,
+                    "feedback": "Process accountability requires members to justify their reasoning, which helps combat the pull of anchors."
+                },
+                {
+                    "text": "Increasing group cooperation",
+                    "isCorrect": false,
+                    "feedback": "The text states that shifting motivation from cooperation to competition actually reduces anchor influence."
+                },
+                {
+                    "text": "Using Business Intelligence systems",
+                    "isCorrect": false,
+                    "feedback": "BI systems only mitigate spurious anchors and have no effect on plausible ones, making them an incomplete solution."
+                },
+                {
+                    "text": "Encouraging collective consensus",
+                    "isCorrect": false,
+                    "feedback": "Groups often disregard external data due to confidence in their joint process, which can amplify bias."
+                },
+                {
+                    "text": "Prioritizing external anchors",
+                    "isCorrect": false,
+                    "feedback": "Groups naturally prioritize self-generated anchors over external ones according to the competing anchor hypothesis."
+                },
+                {
+                    "text": "Implementing a random number generator",
+                    "isCorrect": false,
+                    "feedback": "The source text does not mention random number generators as a solution for group anchoring."
+                },
+                {
+                    "text": "Increasing the number of group members",
+                    "isCorrect": false,
+                    "feedback": "More members do not naturally filter out biases; some groups are just as or more biased than individuals."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "To reduce the influence of anchors within a group, organizations can shift the group's motivation from cooperation to ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "competition",
+                    "isCorrect": true,
+                    "feedback": "Shifting motivation to competition encourages a more critical environment that reduces anchor influence."
+                },
+                {
+                    "text": "collaboration",
+                    "isCorrect": false,
+                    "feedback": "Collaboration is similar to cooperation, which the text states should be shifted away from to reduce anchors."
+                },
+                {
+                    "text": "consensus",
+                    "isCorrect": false,
+                    "feedback": "Seeking consensus often reinforces existing anchors rather than breaking them."
+                },
+                {
+                    "text": "accountability",
+                    "isCorrect": false,
+                    "feedback": "Accountability is a separate method (process accountability) rather than a motivational shift."
+                },
+                {
+                    "text": "objectivity",
+                    "isCorrect": false,
+                    "feedback": "Objectivity is the desired goal, not the specific motivational shift requested."
+                },
+                {
+                    "text": "synchronization",
+                    "isCorrect": false,
+                    "feedback": "Synchronization refers to timing, not the motivational drive of the group."
+                },
+                {
+                    "text": "unanimity",
+                    "isCorrect": false,
+                    "feedback": "Unanimity is the result of groupthink, which often amplifies anchoring bias."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "To combat the pull of anchors in group decision-making, organizations can implement ____, where members must justify their reasoning.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "process accountability",
+                    "isCorrect": true,
+                    "feedback": "Process accountability requires members to justify their reasoning to combat anchoring."
+                },
+                {
+                    "text": "outcome accountability",
+                    "isCorrect": false,
+                    "feedback": "The text specifically mentions process accountability, not outcome-based accountability."
+                },
+                {
+                    "text": "cognitive reflection",
+                    "isCorrect": false,
+                    "feedback": "Cognitive reflection is a general mental process, not a structural organizational intervention."
+                },
+                {
+                    "text": "external auditing",
+                    "isCorrect": false,
+                    "feedback": "External auditing is not mentioned as a method to break group anchors in the source text."
+                },
+                {
+                    "text": "blind deliberation",
+                    "isCorrect": false,
+                    "feedback": "Blind deliberation is not listed as a strategy for reducing group anchoring."
+                },
+                {
+                    "text": "consensus building",
+                    "isCorrect": false,
+                    "feedback": "Consensus building often leads to the very biases the text suggests avoiding."
+                },
+                {
+                    "text": "peer review",
+                    "isCorrect": false,
+                    "feedback": "While useful, peer review is not the specific term used for justifying reasoning in this context."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "While Business Intelligence (BI) systems are effective at mitigating the negative effects of ____ anchors, they have no influence on the effects of plausible anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "spurious",
+                    "isCorrect": true,
+                    "feedback": "BI systems can filter out fake or irrelevant (spurious) anchors but cannot stop humans from clinging to reasonable ones."
+                },
+                {
+                    "text": "random",
+                    "isCorrect": false,
+                    "feedback": "While spurious anchors may be random, the text specifically uses the term 'spurious' to categorize them."
+                },
+                {
+                    "text": "external",
+                    "isCorrect": false,
+                    "feedback": "BI systems are designed to handle external data, but the failure occurs specifically with plausible anchors regardless of source."
+                },
+                {
+                    "text": "numeric",
+                    "isCorrect": false,
+                    "feedback": "The text does not distinguish between numeric and non-numeric anchors in the context of BI systems."
+                },
+                {
+                    "text": "implicit",
+                    "isCorrect": false,
+                    "feedback": "Implicit anchors are not the specific category of anchor that BI systems mitigate in the study."
+                },
+                {
+                    "text": "self-generated",
+                    "isCorrect": false,
+                    "feedback": "The text states BI systems mitigate spurious anchors, not specifically self-generated ones."
+                },
+                {
+                    "text": "arbitrary",
+                    "isCorrect": false,
+                    "feedback": "The text uses 'spurious' as the technical term for the fake or irrelevant anchors in the study."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Problem & Resolution",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Which of the following is categorized as a structural method for reducing the influence of anchors in group deliberations?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Process accountability",
+                    "isCorrect": true,
+                    "feedback": "Process accountability requires members to justify their reasoning, which helps combat the pull of anchors."
+                },
+                {
+                    "text": "Collective consolidation",
+                    "isCorrect": false,
+                    "feedback": "Consolidating personal anchors often moves the final decision in a specific direction rather than reducing bias."
+                },
+                {
+                    "text": "Cooperative motivation",
+                    "isCorrect": false,
+                    "feedback": "Shifting motivation away from cooperation toward competition is what actually reduces anchor influence."
+                },
+                {
+                    "text": "Business Intelligence systems",
+                    "isCorrect": false,
+                    "feedback": "BI systems are technological tools, not structural changes in human deliberation processes."
+                },
+                {
+                    "text": "Competing anchor hypothesis",
+                    "isCorrect": false,
+                    "feedback": "This is a hypothesis explaining why groups prioritize self-generated anchors, not a method to reduce them."
+                },
+                {
+                    "text": "Spurious anchoring",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are fake or irrelevant anchors that BI systems can help mitigate."
+                },
+                {
+                    "text": "Joint decision-making confidence",
+                    "isCorrect": false,
+                    "feedback": "High confidence in the joint process often makes groups blind to outside data, increasing bias."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Under the 'competing anchor hypothesis', which type of anchor is prioritized by groups over external ones?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Self-generated anchors",
+                    "isCorrect": true,
+                    "feedback": "Groups tend to allocate more weight to anchors they have created themselves, which act as a shield against external influence."
+                },
+                {
+                    "text": "Plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are believable anchors that BI systems cannot mitigate, regardless of whether they are self-generated."
+                },
+                {
+                    "text": "Spurious anchors",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are fake or irrelevant and are more easily mitigated by BI systems."
+                },
+                {
+                    "text": "External anchors",
+                    "isCorrect": false,
+                    "feedback": "The competing anchor hypothesis specifically states that groups prioritize self-generated anchors over external ones."
+                },
+                {
+                    "text": "Consolidated anchors",
+                    "isCorrect": false,
+                    "feedback": "Consolidation is the process of combining individual anchors, not the specific category of prioritized anchors in this hypothesis."
+                },
+                {
+                    "text": "Random anchors",
+                    "isCorrect": false,
+                    "feedback": "Random anchors are typically associated with individual bias rather than the group-specific competing anchor hypothesis."
+                },
+                {
+                    "text": "Collective anchors",
+                    "isCorrect": false,
+                    "feedback": "While groups create collective anchors, the hypothesis specifically highlights the weight given to self-generated ones."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the context of automated systems, which category of anchor is effectively mitigated by Business Intelligence (BI) systems?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Spurious anchors",
+                    "isCorrect": true,
+                    "feedback": "BI systems are effective at mitigating the negative effects of anchors that are fake or irrelevant (spurious)."
+                },
+                {
+                    "text": "Plausible anchors",
+                    "isCorrect": false,
+                    "feedback": "BI systems have absolutely no influence on the effects of plausible anchors."
+                },
+                {
+                    "text": "Self-generated anchors",
+                    "isCorrect": false,
+                    "feedback": "Self-generated anchors are prioritized by groups according to the competing anchor hypothesis, not specifically mitigated by BI."
+                },
+                {
+                    "text": "External anchors",
+                    "isCorrect": false,
+                    "feedback": "BI systems specifically target spurious anchors, but not all external anchors (like plausible ones)."
+                },
+                {
+                    "text": "Internal anchors",
+                    "isCorrect": false,
+                    "feedback": "Internal anchors are the group's own preferences, which BI systems do not specifically address."
+                },
+                {
+                    "text": "Consolidated anchors",
+                    "isCorrect": false,
+                    "feedback": "Consolidated anchors result from individual anchors merging, which is not the focus of BI mitigation."
+                },
+                {
+                    "text": "Collective anchors",
+                    "isCorrect": false,
+                    "feedback": "Collective anchors are the group's shared reference points, not the specific category BI mitigates."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "In the context of reducing group anchoring, shifting the group's motivation from cooperation to ____ can significantly reduce the influence of anchors.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "competition",
+                    "isCorrect": true,
+                    "feedback": "Shifting motivation to competition encourages a more critical environment that reduces anchor influence."
+                },
+                {
+                    "text": "collaboration",
+                    "isCorrect": false,
+                    "feedback": "Collaboration is similar to cooperation and would likely maintain or amplify existing anchors."
+                },
+                {
+                    "text": "consensus",
+                    "isCorrect": false,
+                    "feedback": "Seeking consensus often leads to the amplification of anchors rather than their reduction."
+                },
+                {
+                    "text": "accountability",
+                    "isCorrect": false,
+                    "feedback": "Accountability is a separate structural change (process accountability) rather than a motivational shift."
+                },
+                {
+                    "text": "objectivity",
+                    "isCorrect": false,
+                    "feedback": "Objectivity is the goal, but the specific motivational shift requested is toward competition."
+                },
+                {
+                    "text": "neutrality",
+                    "isCorrect": false,
+                    "feedback": "Neutrality is a state of being, not a motivational driver like competition."
+                },
+                {
+                    "text": "cohesion",
+                    "isCorrect": false,
+                    "feedback": "Group cohesion often increases the tendency to ignore external information."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to the 'competing anchor hypothesis', groups tend to allocate more weight to ____ anchors than to external anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "self-generated",
+                    "isCorrect": true,
+                    "feedback": "The competing anchor hypothesis states that groups prioritize anchors they created themselves over external ones."
+                },
+                {
+                    "text": "spurious",
+                    "isCorrect": false,
+                    "feedback": "Spurious anchors are fake or irrelevant and are mitigated by BI systems, not prioritized by groups."
+                },
+                {
+                    "text": "plausible",
+                    "isCorrect": false,
+                    "feedback": "Plausible anchors are those that seem reasonable, but the hypothesis specifically refers to self-generated ones."
+                },
+                {
+                    "text": "collective",
+                    "isCorrect": false,
+                    "feedback": "While groups create collective anchors, the specific term used in the hypothesis is 'self-generated'."
+                },
+                {
+                    "text": "automated",
+                    "isCorrect": false,
+                    "feedback": "Automated anchors come from BI systems, which are external to the group's internal generation process."
+                },
+                {
+                    "text": "random",
+                    "isCorrect": false,
+                    "feedback": "Random anchors are typically external and are often disregarded by groups with high confidence."
+                },
+                {
+                    "text": "individual",
+                    "isCorrect": false,
+                    "feedback": "Individual anchors are the building blocks, but the hypothesis focuses on the group's self-generated preference."
+                }
+            ],
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "In a study on automated systems, BI systems were found to be effective at mitigating the effects of ____ anchors, but had no influence on plausible anchors.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "spurious",
+                    "isCorrect": true,
+                    "feedback": "BI systems can strip away the influence of fake or irrelevant (spurious) anchors."
+                },
+                {
+                    "text": "self-generated",
+                    "isCorrect": false,
+                    "feedback": "Self-generated anchors are internal group preferences, not the type of anchor BI systems mitigate."
+                },
+                {
+                    "text": "internal",
+                    "isCorrect": false,
+                    "feedback": "Internal anchors are created by the group and are not the focus of the BI system study."
+                },
+                {
+                    "text": "collective",
+                    "isCorrect": false,
+                    "feedback": "Collective anchors are the result of group consolidation, not the specific category of 'spurious' anchors."
+                },
+                {
+                    "text": "random",
+                    "isCorrect": false,
+                    "feedback": "While spurious anchors can be random, the study specifically categorized them as 'spurious'."
+                },
+                {
+                    "text": "subjective",
+                    "isCorrect": false,
+                    "feedback": "Subjective anchors are based on personal belief, whereas spurious anchors are specifically fake or irrelevant."
+                },
+                {
+                    "text": "external",
+                    "isCorrect": false,
+                    "feedback": "Both plausible and spurious anchors are external; the BI system only mitigates the spurious ones."
+                }
+            ],
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The requirement for members to justify their reasoning to combat anchoring is known as ____.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "process accountability",
+                    "isCorrect": true,
+                    "feedback": "Process accountability requires members to justify their reasoning to reduce the pull of anchors."
+                },
+                {
+                    "text": "competing anchor hypothesis",
+                    "isCorrect": false,
+                    "feedback": "This is a hypothesis about how groups prioritize self-generated anchors, not a mitigation strategy."
+                },
+                {
+                    "text": "group bias paradox",
+                    "isCorrect": false,
+                    "feedback": "This is the observation that groups can be more biased than individuals, not a strategy."
+                },
+                {
+                    "text": "business intelligence",
+                    "isCorrect": false,
+                    "feedback": "BI is a set of software tools used for data-driven decisions, not a reasoning justification process."
+                },
+                {
+                    "text": "collective consolidation",
+                    "isCorrect": false,
+                    "feedback": "This is the process of merging individual anchors, which actually increases bias."
+                },
+                {
+                    "text": "automated forecasting",
+                    "isCorrect": false,
+                    "feedback": "This is the use of technology to make predictions, not a method of human reasoning justification."
+                },
+                {
+                    "text": "structural deliberation",
+                    "isCorrect": false,
+                    "feedback": "This is the general category of changes, but 'process accountability' is the specific term for justifying reasoning."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Categorization & Grouping",
+            "structure": "Fill-in-the-Blank"
+        }
+    ],
+    "true_false_games": [
+        {
+            "statement": "Groups are always more objective and unbiased than individuals because they naturally filter out individual biases.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Research suggests that while some groups outperform individuals, others can be just as biased or even more biased than the individuals within them.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "The first person to speak in a group discussion often has an unproportionally high impact on the final outcome by setting the anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first speaker effectively sets the anchor for the rest of the conversation, wielding significant influence over the final decision.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "According to the 'competing anchor hypothesis', groups prioritize external anchors over anchors they have created themselves.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The competing anchor hypothesis states that groups tend to allocate more weight to self-generated anchors over external ones.",
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Groups may disregard external information due to a high level of confidence in their collective decision-making process.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Confidence in the joint process can make groups blind to outside data that contradicts their internal anchor.",
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Implementing process accountability, where members must justify their reasoning, is one method to reduce the influence of anchors in groups.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Process accountability and shifting motivation from cooperation to competition are effective structural changes to combat anchoring.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Business Intelligence (BI) systems are completely effective at stripping away all human cognitive biases, including plausible anchors.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "BI systems can mitigate the effects of spurious anchors, but they have no influence on the effects of plausible anchors.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "A BI system can mitigate the negative effects of spurious anchors but cannot influence the effects of plausible anchors.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "The study found that if an anchor seems reasonable (plausible), humans will still cling to it despite using a sophisticated data dashboard.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Shifting a group's motivation from cooperation to competition can help reduce the influence of anchors.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Encouraging a more critical, competitive environment is a strategy used to reduce the pull of anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall"
+        },
+        {
+            "statement": "Group decision-making is naturally more objective because the group process automatically filters out individual biases.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Research suggests that groups can be just as biased, or even more biased, than the individuals within them.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The first person to speak in a group discussion often has a disproportionately high impact on the final outcome by setting the anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first speaker effectively sets the anchor for the rest of the conversation, wielding significant influence over the final decision.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Groups are generally more susceptible to random external anchors than individuals are.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "While individuals may be swayed by random numbers, groups often exhibit stubbornness toward external information due to confidence in their collective process.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "The 'competing anchor hypothesis' suggests that groups prioritize anchors they have created themselves over those imposed from the outside.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Self-generated anchors act as a shield, limiting the extent to which external anchors can shift a group's final decision.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Implementing process accountability, where members must justify their reasoning, is one method to reduce the influence of anchors in groups.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Structural changes like process accountability and shifting motivation from cooperation to competition can combat the pull of anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Business Intelligence (BI) systems are completely effective at removing human cognitive biases from forecasting tasks.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "BI systems can mitigate the effects of spurious anchors, but they have no influence on the effects of plausible anchors.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "A BI system can mitigate the negative effects of a spurious anchor but fails to influence the effects of a plausible anchor.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "If an anchor seems reasonable (plausible), humans will still cling to it even when using sophisticated data dashboards.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Group anchoring occurs because members always disregard internal anchors in favor of a collective, newly created group anchor.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "Group anchors can be the simple culmination of several individual anchors consolidated by members to move the decision in a specific direction.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Mechanisms & Causes"
+        },
+        {
+            "statement": "Group decision-making processes naturally filter out individual biases, ensuring a more objective conclusion than an individual could reach.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Research suggests that groups can be just as biased, or even more biased, than the people within them.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "The first person to speak in a group discussion often has a disproportionately high impact on the final outcome by setting the anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first speaker effectively sets the anchor for the rest of the conversation, wielding unproportionally high impact.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Groups are generally more susceptible to random numeric anchors than individuals are.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "While individuals might be swayed by random numbers, groups often exhibit stubbornness toward external information due to confidence in their collective process.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "According to the competing anchor hypothesis, groups prioritize self-generated anchors over those imposed from the outside.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Self-generated anchors act as a shield, impeding the extent to which external anchors can shift the group's final decision.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Shifting a group's motivation from cooperation to competition can help reduce the influence of anchors.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Encouraging a critical, competitive environment, along with process accountability, can significantly reduce anchor influence.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Business Intelligence (BI) systems are fully effective at stripping away all human cognitive biases from forecasting tasks.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "BI systems have limitations; specifically, they have no influence on the effects of plausible anchors.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "A Business Intelligence system can mitigate the negative effects of spurious anchors but cannot eliminate the influence of plausible anchors.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "The study found BI systems effective against spurious (fake/irrelevant) anchors, but humans still cling to plausible anchors even with a data dashboard.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Consequences & Impact"
+        },
+        {
+            "statement": "Groups are inherently more objective and unbiased than individuals because they naturally filter out individual biases.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Research suggests that while some groups outperform individuals, others can be just as biased or even more biased than the people within them.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The first person to speak in a group discussion often has a disproportionately high impact on the final outcome by setting the anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first speaker often effectively sets the anchor for the rest of the conversation, wielding unproportionally high influence.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Unlike individuals, who may be swayed by random numbers, groups often exhibit stubbornness toward external information due to confidence in their collective process.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Groups frequently disregard outside evidence that contradicts their internal anchor because of high confidence in their joint decision-making process.",
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "According to the competing anchor hypothesis, groups prioritize external anchors over self-generated anchors when pre-existing preferences are present.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The competing anchor hypothesis states that groups tend to allocate more weight to self-generated anchors over external ones.",
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Implementing process accountability, where members must justify their reasoning, is one method used to reduce the influence of anchors in groups.",
+            "is_true": true,
+            "difficulty": "Easy",
+            "feedback": "Process accountability and shifting motivation from cooperation to competition are two effective structural changes to combat anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Business Intelligence (BI) systems are completely effective at stripping away human cognitive biases, regardless of whether the anchor is plausible or spurious.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "BI systems can mitigate the effects of spurious anchors, but they have no influence on the effects of plausible anchors.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "A BI system's ability to mitigate anchoring is identical for both plausible and spurious anchors.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "There is a distinct difference: BI systems mitigate spurious anchors but fail to influence the effects of plausible anchors.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "The 'competing anchor hypothesis' explains why self-generated anchors can act as a shield that limits the influence of external anchors on a group's decision.",
+            "is_true": true,
+            "difficulty": "Hard",
+            "feedback": "Self-generated anchors prioritize internal preferences, impeding the extent to which external anchors can shift the final decision.",
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Compare & Contrast"
+        },
+        {
+            "statement": "Groups are naturally more objective than individuals because they inherently filter out individual biases during decision-making.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "Contrary to common belief, research suggests that groups can be just as biased, or even more biased, than the individuals within them.",
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "The first person to speak in a group discussion often has a disproportionately high impact on the final outcome by setting the anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "The first speaker often effectively sets the anchor for the rest of the conversation, wielding significant influence over the final decision.",
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "According to the competing anchor hypothesis, groups prioritize external anchors over anchors they have generated themselves.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The competing anchor hypothesis states that groups tend to allocate more weight to self-generated anchors over external ones.",
+            "source_card_ids": [
+                2,
+                4
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Implementing process accountability, where members must justify their reasoning, is one method used to reduce the influence of anchors in groups.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "Process accountability and shifting motivation from cooperation to competition are effective structural changes to combat the pull of anchors.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "Business Intelligence (BI) systems are completely effective at stripping away human cognitive biases, regardless of whether the anchor is plausible or spurious.",
+            "is_true": false,
+            "difficulty": "Easy",
+            "feedback": "BI systems can mitigate the effects of spurious anchors, but they have no influence on the effects of plausible anchors.",
+            "source_card_ids": [
+                6,
+                7
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "A group's confidence in its own joint decision-making process can lead it to disregard external information that contradicts its internal anchor.",
+            "is_true": true,
+            "difficulty": "Medium",
+            "feedback": "This high level of confidence often makes groups stubborn toward external information and blind to outside data.",
+            "source_card_ids": [
+                2,
+                3
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "To mitigate group anchoring, organizations should shift the group's motivation from competition to cooperation.",
+            "is_true": false,
+            "difficulty": "Medium",
+            "feedback": "The influence of anchors is reduced by shifting motivation from cooperation to competition, encouraging a more critical environment.",
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Problem & Resolution"
+        },
+        {
+            "statement": "In a forecasting task, a BI system is effective at mitigating the negative effects of plausible anchors.",
+            "is_true": false,
+            "difficulty": "Hard",
+            "feedback": "The study found that BI systems had absolutely no influence on the effects of plausible anchors; they only mitigated spurious ones.",
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Problem & Resolution"
+        }
+    ]
+}

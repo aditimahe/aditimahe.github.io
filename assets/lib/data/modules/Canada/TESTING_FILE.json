@@ -1949,7 +1949,49 @@
                             "n1"
                         ],
                         "block_id": "card_1_block_23"
-                    }                    
+                    },
+                    {
+                        "widget_id": "prebuilt_ColdWarEspionageandIntelligence_w8",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🕵️",
+                            "short_title": "Disinformation",
+                            "expanded_detail": "While the practice of spreading false information had always existed, the term 'disinformation' was invented and the strategy formalized by a black propaganda department of the Soviet KGB.",
+                            "display_style": "editorial_callout"
+                        },
+                        "source_notes_consumed": [
+                            "n3"
+                        ],
+                        "block_id": "card_1_block_24"
+                    },
+                    {
+                        "widget_id": "prebuilt_TheBerlinBlockadeandGermanDivision_w5",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "📦",
+                            "short_title": "June 1948 - May 1949",
+                            "expanded_detail": "Stalin instituted the Berlin Blockade to prevent Western supplies from reaching West Berlin. This event stands as one of the first major crises of the Cold War.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n4"
+                        ],
+                        "block_id": "card_1_block_25"
+                    },
+                    {
+                        "widget_id": "prebuilt_AnchoringinNegotiation_w9",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🎯",
+                            "short_title": "Initial Offer Influence",
+                            "expanded_detail": "Multiple studies indicate that the first offer made in a negotiation has a more significant impact on the final outcome than any subsequent counteroffers.",
+                            "display_style": "attention_pulse"
+                        },
+                        "source_notes_consumed": [
+                            "n2"
+                        ],
+                        "block_id": "card_1_block_26"
+                    }
                 ]
             },
             {

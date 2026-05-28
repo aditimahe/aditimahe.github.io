@@ -1,0 +1,2273 @@
+{
+    "module_name": "AI Slop on Social Media",
+    "has_llm_errors": false,
+    "module_errors": [],
+    "extracted_notes": [
+        {
+            "note_id": "n1",
+            "text": "AI image and video slop have proliferated on social media in part because it can be revenue-generating for its creators on Facebook and TikTok, most notably affecting Facebook."
+        },
+        {
+            "note_id": "n2",
+            "text": "This incentivizes individuals from developing countries to create images that appeal to audiences in the United States, which attract higher advertising rates."
+        },
+        {
+            "note_id": "n3",
+            "text": "A medical student in India said he made thousands of dollars each month from low effort, AI-generated images on Instagram and Fanvue. After his first attempt to go viral failed, he refined his social media posts to include MAGA rhetoric to appeal to conservative American men, creating the influencer character \"Emily Hart\" with AI."
+        },
+        {
+            "note_id": "n4",
+            "text": "The journalist Jason Koebler speculated in an article for 404 Media that the bizarre nature of some of the content may be due to the creators using Hindi, Urdu, and Vietnamese prompts (languages which are underrepresented in the model's training data), or using erratic speech-to-text methods to translate their intentions into English."
+        },
+        {
+            "note_id": "n5",
+            "text": "Speaking to New York magazine, a Kenyan creator of slop images described giving ChatGPT prompts such as \"WRITE ME 10 PROMPT picture OF JESUS WHICH WILLING BRING HIGH ENGAGEMENT ON FACEBOOK [sic]\", and then feeding those created prompts into a text-to-image AI model such as Midjourney."
+        },
+        {
+            "note_id": "n6",
+            "text": "AI-generated images of plants and plant care misinformation have proliferated on social media. Online retailers have used AI-generated images of flowers to sell seeds of plants that do not actually exist."
+        },
+        {
+            "note_id": "n7",
+            "text": "Facebook spammers have been reported as AI-generating images of Holocaust victims with fake stories; in reality there are only a handful of historical photographs taken at Auschwitz concentration camp. The posters were described as \"slop accounts\", and the Auschwitz Memorial museum called the images a \"dangerous distortion\"."
+        },
+        {
+            "note_id": "n8",
+            "text": "Slopper, a pejorative slang term derived from \"AI slop\", was coined in 2025 to describe someone who is overly reliant on generative AI tools like ChatGPT."
+        },
+        {
+            "note_id": "n9",
+            "text": "An artist, Michael Jones, created physical wood carvings of animals using a chainsaw, but the style of the sculptures was taken by and used as a source for AI-generated content, which began to surface with other people beside them, claiming to have made the sculptures themselves. Jones stated that AI-slop is \"a huge issue for carvers all over the world who are sadly missing out on the rightful credit exposure to their work...\""
+        },
+        {
+            "note_id": "n10",
+            "text": "According to a 2025 report by video creation and editing service company Kapwing, Korea ranks first worldwide in AI slop consumption."
+        },
+        {
+            "note_id": "n11",
+            "text": "In January 2026, YouTube CEO Neal Mohan stated that reducing slop and detecting deepfakes were priorities for YouTube in 2026."
+        },
+        {
+            "note_id": "n12",
+            "text": "A March 2026 investigation by the New York Times found that around 40% of videos recommended to children, both on the main platform and on YouTube Kids, appear to be AI slop, often with realistic or Cocomelon-style visuals. The videos often claim to be educational and are disproportionally about the English alphabet, but they often feature nonsensical and flashy content, such as oddly proportioned horses hatching from eggs."
+        },
+        {
+            "note_id": "n13",
+            "text": "In March 2026, a TikTok account centered around an AI-generated parody of the reality show Love Island using AI-generated anthropomorphic fruits, called Fruit Love Island, became one of the fastest-growing accounts in the United States, leading to debate in online communities about monetization of AI-generated content."
+        }
+    ],
+    "phase_1_raw_overgenerated_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Extract the percentage of videos recommended to children on YouTube and YouTube Kids that appear to be AI slop, as found in the March 2026 New York Times investigation.",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "The note provides a single, explicit percentage (40%) regarding AI slop in children's video recommendations, fitting the radial_row_single style."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following entities: 1. Jason Koebler (Journalist for 404 Media), 2. Michael Jones (Artist/Wood Carver), 3. Neal Mohan (CEO of YouTube). Define their distinct roles and perspectives regarding AI slop.",
+            "source_notes_used": [
+                "n4",
+                "n9",
+                "n11"
+            ],
+            "rationale": "The notes provide specific individuals with distinct professional roles and their specific relationship or perspective on the topic of AI slop."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Explain the cause-and-effect chain of AI slop creation: the trigger is the ability to generate revenue on platforms like Facebook and TikTok (n1), the mechanism is creators from developing countries targeting high-ad-rate US audiences (n2), and the outcome is the proliferation of AI image and video slop (n1).",
+            "source_notes_used": [
+                "n1",
+                "n2"
+            ],
+            "rationale": "The notes describe a clear trigger (revenue potential), a mechanism (targeting US audiences from developing countries), and a final outcome (proliferation of slop)."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Outline the process used by the Kenyan creator to generate slop images: Step 1: Use ChatGPT to generate 10 prompts for high-engagement images of Jesus (n5). Step 2: Feed those generated prompts into a text-to-image AI model like Midjourney (n5).",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note describes a sequential process of using one AI tool to feed into another to create a final product."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Show how the combination of AI-generated anthropomorphic fruits and a parody of the reality show Love Island resulted in the creation of the 'Fruit Love Island' TikTok account (n13).",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "The notes explicitly state that the combination of two distinct elements (AI fruits and Love Island parody) created a specific outcome (Fruit Love Island)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'Slopper' as a pejorative slang term coined in 2025 for someone overly reliant on generative AI tools like ChatGPT.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note provides a specific technical/slang term and its explicit definition."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that Korea ranks first worldwide in AI slop consumption according to a 2025 Kapwing report.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "This is a highly specific data point and global ranking that serves as a distinct conceptual takeaway."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the statistic that around 40% of videos recommended to children on YouTube and YouTube Kids appear to be AI slop, as found in a March 2026 New York Times investigation.",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "This is a precise statistic and a shocking fact regarding child-targeted content."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the quote from artist Michael Jones stating that AI-slop is 'a huge issue for carvers all over the world who are sadly missing out on the rightful credit exposure to their work...'",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "The note provides an explicitly named speaker and a direct, impactful quote."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the specific platforms where AI slop is proliferated or monetized: Facebook, TikTok, Instagram, and Fanvue.",
+            "source_notes_used": [
+                "n1",
+                "n3"
+            ],
+            "rationale": "These are short nouns (platforms) sharing a common context of slop proliferation."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the types of AI slop content mentioned: AI-generated images of plants/fake seeds, AI-generated images of Holocaust victims, AI-generated parody shows (Fruit Love Island), and AI-generated children's educational videos.",
+            "source_notes_used": [
+                "n6",
+                "n7",
+                "n12",
+                "n13"
+            ],
+            "rationale": "This is a list of descriptive examples of AI slop content."
+        },
+        {
+            "widget_type": "flip_reveal",
+            "widget_context": "Front: Why do creators from developing countries target audiences in the United States with AI slop? Back: Because US audiences attract higher advertising rates, making it more revenue-generating.",
+            "source_notes_used": [
+                "n1",
+                "n2"
+            ],
+            "rationale": "This creates a curiosity gap regarding the economic motivation behind the geographic targeting of slop."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the 2026 priority for YouTube CEO Neal Mohan: reducing slop and detecting deepfakes.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "This is a pivotal event/date (January 2026) and a core corporate priority."
+        }
+    ],
+    "phase_1_deduplicator_report": {
+        "editorial_rationale": "I pruned the list to eliminate redundancies while prioritizing structural complexity. The 'insight_badge' for note n12 was removed in favor of the 'percentage_display', as the latter is a more visually impactful way to present a specific statistic. The 'flip_reveal' for notes n1 and n2 was removed because the 'causal_chain' covers the same economic motivation (revenue potential and US targeting) in a more comprehensive, structural format. I kept the 'insight_badge' for n10 and n11 as they provide distinct, non-overlapping data points (global rankings and corporate priorities) that aren't better served by other complex widgets. All other widgets were retained as they provide unique angles or distinct types of information.",
+        "surviving_widgets": [
+            {
+                "widget_type": "percentage_display",
+                "widget_context": "Extract the percentage of videos recommended to children on YouTube and YouTube Kids that appear to be AI slop, as found in the March 2026 New York Times investigation.",
+                "source_notes_used": [
+                    "n12"
+                ],
+                "rationale": "The note provides a single, explicit percentage (40%) regarding AI slop in children's video recommendations."
+            },
+            {
+                "widget_type": "entity_profiles",
+                "widget_context": "Create profiles for the following entities: 1. Jason Koebler (Journalist for 404 Media), 2. Michael Jones (Artist/Wood Carver), 3. Neal Mohan (CEO of YouTube). Define their distinct roles and perspectives regarding AI slop.",
+                "source_notes_used": [
+                    "n4",
+                    "n9",
+                    "n11"
+                ],
+                "rationale": "The notes provide specific individuals with distinct professional roles and their specific relationship or perspective on the topic of AI slop."
+            },
+            {
+                "widget_type": "causal_chain",
+                "widget_context": "Explain the cause-and-effect chain of AI slop creation: the trigger is the ability to generate revenue on platforms like Facebook and TikTok (n1), the mechanism is creators from developing countries targeting high-ad-rate US audiences (n2), and the outcome is the proliferation of AI image and video slop (n1).",
+                "source_notes_used": [
+                    "n1",
+                    "n2"
+                ],
+                "rationale": "The notes describe a clear trigger (revenue potential), a mechanism (targeting US audiences from developing countries), and a final outcome (proliferation of slop)."
+            },
+            {
+                "widget_type": "stepper",
+                "widget_context": "Outline the process used by the Kenyan creator to generate slop images: Step 1: Use ChatGPT to generate 10 prompts for high-engagement images of Jesus (n5). Step 2: Feed those generated prompts into a text-to-image AI model like Midjourney (n5).",
+                "source_notes_used": [
+                    "n5"
+                ],
+                "rationale": "The note describes a sequential process of using one AI tool to feed into another to create a final product."
+            },
+            {
+                "widget_type": "synthesis",
+                "widget_context": "Show how the combination of AI-generated anthropomorphic fruits and a parody of the reality show Love Island resulted in the creation of the 'Fruit Love Island' TikTok account (n13).",
+                "source_notes_used": [
+                    "n13"
+                ],
+                "rationale": "The notes explicitly state that the combination of two distinct elements (AI fruits and Love Island parody) created a specific outcome (Fruit Love Island)."
+            },
+            {
+                "widget_type": "jargon_buster",
+                "widget_context": "Define the term 'Slopper' as a pejorative slang term coined in 2025 for someone overly reliant on generative AI tools like ChatGPT.",
+                "source_notes_used": [
+                    "n8"
+                ],
+                "rationale": "The note provides a specific technical/slang term and its explicit definition."
+            },
+            {
+                "widget_type": "insight_badge",
+                "widget_context": "Highlight that Korea ranks first worldwide in AI slop consumption according to a 2025 Kapwing report.",
+                "source_notes_used": [
+                    "n10"
+                ],
+                "rationale": "This is a highly specific data point and global ranking that serves as a distinct conceptual takeaway."
+            },
+            {
+                "widget_type": "quote_block",
+                "widget_context": "Extract the quote from artist Michael Jones stating that AI-slop is 'a huge issue for carvers all over the world who are sadly missing out on the rightful credit exposure to their work...'",
+                "source_notes_used": [
+                    "n9"
+                ],
+                "rationale": "The note provides an explicitly named speaker and a direct, impactful quote."
+            },
+            {
+                "widget_type": "itemized_breakdown",
+                "widget_context": "List the specific platforms where AI slop is proliferated or monetized: Facebook, TikTok, Instagram, and Fanvue.",
+                "source_notes_used": [
+                    "n1",
+                    "n3"
+                ],
+                "rationale": "These are short nouns (platforms) sharing a common context of slop proliferation."
+            },
+            {
+                "widget_type": "itemized_breakdown",
+                "widget_context": "List the types of AI slop content mentioned: AI-generated images of plants/fake seeds, AI-generated images of Holocaust victims, AI-generated parody shows (Fruit Love Island), and AI-generated children's educational videos.",
+                "source_notes_used": [
+                    "n6",
+                    "n7",
+                    "n12",
+                    "n13"
+                ],
+                "rationale": "This is a list of descriptive examples of AI slop content."
+            },
+            {
+                "widget_type": "insight_badge",
+                "widget_context": "Highlight the 2026 priority for YouTube CEO Neal Mohan: reducing slop and detecting deepfakes.",
+                "source_notes_used": [
+                    "n11"
+                ],
+                "rationale": "This is a pivotal event/date (January 2026) and a core corporate priority."
+            }
+        ]
+    },
+    "phase_1_identified_widgets": [
+        {
+            "widget_type": "percentage_display",
+            "widget_context": "Extract the percentage of videos recommended to children on YouTube and YouTube Kids that appear to be AI slop, as found in the March 2026 New York Times investigation.",
+            "source_notes_used": [
+                "n12"
+            ],
+            "rationale": "The note provides a single, explicit percentage (40%) regarding AI slop in children's video recommendations."
+        },
+        {
+            "widget_type": "entity_profiles",
+            "widget_context": "Create profiles for the following entities: 1. Jason Koebler (Journalist for 404 Media), 2. Michael Jones (Artist/Wood Carver), 3. Neal Mohan (CEO of YouTube). Define their distinct roles and perspectives regarding AI slop.",
+            "source_notes_used": [
+                "n4",
+                "n9",
+                "n11"
+            ],
+            "rationale": "The notes provide specific individuals with distinct professional roles and their specific relationship or perspective on the topic of AI slop."
+        },
+        {
+            "widget_type": "causal_chain",
+            "widget_context": "Explain the cause-and-effect chain of AI slop creation: the trigger is the ability to generate revenue on platforms like Facebook and TikTok (n1), the mechanism is creators from developing countries targeting high-ad-rate US audiences (n2), and the outcome is the proliferation of AI image and video slop (n1).",
+            "source_notes_used": [
+                "n1",
+                "n2"
+            ],
+            "rationale": "The notes describe a clear trigger (revenue potential), a mechanism (targeting US audiences from developing countries), and a final outcome (proliferation of slop)."
+        },
+        {
+            "widget_type": "stepper",
+            "widget_context": "Outline the process used by the Kenyan creator to generate slop images: Step 1: Use ChatGPT to generate 10 prompts for high-engagement images of Jesus (n5). Step 2: Feed those generated prompts into a text-to-image AI model like Midjourney (n5).",
+            "source_notes_used": [
+                "n5"
+            ],
+            "rationale": "The note describes a sequential process of using one AI tool to feed into another to create a final product."
+        },
+        {
+            "widget_type": "synthesis",
+            "widget_context": "Show how the combination of AI-generated anthropomorphic fruits and a parody of the reality show Love Island resulted in the creation of the 'Fruit Love Island' TikTok account (n13).",
+            "source_notes_used": [
+                "n13"
+            ],
+            "rationale": "The notes explicitly state that the combination of two distinct elements (AI fruits and Love Island parody) created a specific outcome (Fruit Love Island)."
+        },
+        {
+            "widget_type": "jargon_buster",
+            "widget_context": "Define the term 'Slopper' as a pejorative slang term coined in 2025 for someone overly reliant on generative AI tools like ChatGPT.",
+            "source_notes_used": [
+                "n8"
+            ],
+            "rationale": "The note provides a specific technical/slang term and its explicit definition."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight that Korea ranks first worldwide in AI slop consumption according to a 2025 Kapwing report.",
+            "source_notes_used": [
+                "n10"
+            ],
+            "rationale": "This is a highly specific data point and global ranking that serves as a distinct conceptual takeaway."
+        },
+        {
+            "widget_type": "quote_block",
+            "widget_context": "Extract the quote from artist Michael Jones stating that AI-slop is 'a huge issue for carvers all over the world who are sadly missing out on the rightful credit exposure to their work...'",
+            "source_notes_used": [
+                "n9"
+            ],
+            "rationale": "The note provides an explicitly named speaker and a direct, impactful quote."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the specific platforms where AI slop is proliferated or monetized: Facebook, TikTok, Instagram, and Fanvue.",
+            "source_notes_used": [
+                "n1",
+                "n3"
+            ],
+            "rationale": "These are short nouns (platforms) sharing a common context of slop proliferation."
+        },
+        {
+            "widget_type": "itemized_breakdown",
+            "widget_context": "List the types of AI slop content mentioned: AI-generated images of plants/fake seeds, AI-generated images of Holocaust victims, AI-generated parody shows (Fruit Love Island), and AI-generated children's educational videos.",
+            "source_notes_used": [
+                "n6",
+                "n7",
+                "n12",
+                "n13"
+            ],
+            "rationale": "This is a list of descriptive examples of AI slop content."
+        },
+        {
+            "widget_type": "insight_badge",
+            "widget_context": "Highlight the 2026 priority for YouTube CEO Neal Mohan: reducing slop and detecting deepfakes.",
+            "source_notes_used": [
+                "n11"
+            ],
+            "rationale": "This is a pivotal event/date (January 2026) and a core corporate priority."
+        }
+    ],
+    "pre_built_widgets": [
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w0",
+            "block_type": "percentage_display",
+            "percentage_display_data": {
+                "title": "AI Slop in Children's Video Recommendations",
+                "context_text": "A March 2026 New York Times investigation revealed the prevalence of low-quality generative AI content recommended to children on YouTube and YouTube Kids.",
+                "items": [
+                    {
+                        "label": "AI Slop Videos",
+                        "percentage": 40.0
+                    }
+                ],
+                "display_style": "radial_row"
+            },
+            "source_notes_consumed": [
+                "n12"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w1",
+            "block_type": "entity_profiles",
+            "entity_profiles_data": {
+                "title": "AI Slop: Key Perspectives",
+                "intro_text": "Different individuals and leaders have highlighted the impact of AI-generated slop on journalism, art, and platform governance.",
+                "entities": [
+                    {
+                        "name": "Jason Koebler",
+                        "role": "Journalist for 404 Media",
+                        "description": "He speculated that the bizarre nature of some AI slop may result from creators using underrepresented languages in prompts or erratic speech-to-text translation methods."
+                    },
+                    {
+                        "name": "Michael Jones",
+                        "role": "Artist and Wood Carver",
+                        "description": "He views AI slop as a major issue for carvers worldwide who lose rightful credit and exposure when their styles are used as sources for AI content."
+                    },
+                    {
+                        "name": "Neal Mohan",
+                        "role": "CEO of YouTube",
+                        "description": "He identified the reduction of slop and the detection of deepfakes as key priorities for YouTube in 2026."
+                    }
+                ],
+                "entity_type": "people"
+            },
+            "source_notes_consumed": [
+                "n4",
+                "n9",
+                "n11"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w2",
+            "block_type": "causal_chain",
+            "causal_chain_data": {
+                "trigger": "The ability to generate revenue on platforms like Facebook and TikTok.",
+                "mechanism": "Creators from developing countries target high-ad-rate US audiences by creating images that appeal to them.",
+                "outcome": "The proliferation of AI image and video slop on social media."
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n2"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w3",
+            "block_type": "stepper",
+            "stepper_data": {
+                "process_name": "Generating AI Slop Images",
+                "intro_text": "A Kenyan creator described a specific two-step process for producing high-engagement AI images for social media.",
+                "steps": [
+                    "Use ChatGPT to generate 10 prompts for images of Jesus designed to bring high engagement on Facebook.",
+                    "Feed the generated prompts into a text-to-image AI model, such as Midjourney."
+                ]
+            },
+            "source_notes_consumed": [
+                "n5"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w4",
+            "block_type": "synthesis",
+            "synthesis_data": {
+                "element_a": "AI-generated anthropomorphic fruits",
+                "element_b": "A parody of the reality show Love Island",
+                "result": "Fruit Love Island TikTok account",
+                "context_text": "In March 2026, the combination of AI-generated anthropomorphic fruits and a parody of the reality show Love Island led to the creation of the Fruit Love Island TikTok account, which became one of the fastest-growing accounts in the United States."
+            },
+            "source_notes_consumed": [
+                "n13"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w5",
+            "block_type": "jargon_buster",
+            "jargon_buster_data": {
+                "term": "Slopper",
+                "definition": "A pejorative slang term coined in 2025 to describe someone who is overly reliant on generative AI tools like ChatGPT."
+            },
+            "source_notes_consumed": [
+                "n8"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w6",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🇰🇷",
+                "short_title": "AI Slop Consumption",
+                "expanded_detail": "According to a 2025 report by Kapwing, Korea ranks first worldwide in the consumption of AI slop. Experts attribute this phenomenon to the country's rapid embrace of new technology.",
+                "display_style": "editorial_callout"
+            },
+            "source_notes_consumed": [
+                "n10"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w7",
+            "block_type": "quote_block",
+            "quote_block_data": {
+                "speaker": "Michael Jones",
+                "quote": "a huge issue for carvers all over the world who are sadly missing out on the rightful credit exposure to their work...",
+                "context": "Artist Michael Jones highlighted the negative impact of AI-slop on wood carvers after his own chainsaw sculpture style was used to generate content by others claiming credit for the work."
+            },
+            "source_notes_consumed": [
+                "n9"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w8",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Platforms for AI Slop",
+                "context_text": "AI-generated slop is frequently proliferated and monetized across various social media platforms to generate revenue for creators.",
+                "items": [
+                    "Facebook",
+                    "TikTok",
+                    "Instagram",
+                    "Fanvue"
+                ],
+                "display_style": "tags"
+            },
+            "source_notes_consumed": [
+                "n1",
+                "n3"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w9",
+            "block_type": "itemized_breakdown",
+            "itemized_breakdown_data": {
+                "title": "Types of AI Slop Content",
+                "context_text": "AI slop manifests in various forms across social media platforms, often prioritizing high volume and engagement over quality or accuracy.",
+                "items": [
+                    "AI-generated images of plants and fake seeds",
+                    "AI-generated images of Holocaust victims",
+                    "AI-generated parody shows like Fruit Love Island",
+                    "AI-generated children's educational videos"
+                ],
+                "display_style": "bullets"
+            },
+            "source_notes_consumed": [
+                "n6",
+                "n7",
+                "n12",
+                "n13"
+            ]
+        },
+        {
+            "widget_id": "prebuilt_AISloponSocialMedia_w10",
+            "block_type": "insight_badge",
+            "insight_badge_data": {
+                "emoji": "🛡️",
+                "short_title": "2026",
+                "expanded_detail": "YouTube CEO Neal Mohan identified reducing AI slop and detecting deepfakes as the platform's primary priorities for 2026.",
+                "display_style": "floating_overhang"
+            },
+            "source_notes_consumed": [
+                "n11"
+            ]
+        }
+    ],
+    "phase_1_base_deck": {},
+    "phase_2_architect_plans": {
+        "working_title": "The Rise of AI Slop on Social Media",
+        "cards": [
+            {
+                "card_title": "The Digital Clutter Crisis",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Introductory hook to define AI slop and set the stage for the module.",
+                        "text_content": "You've likely seen them: bizarre, hyper-realistic images of things that don't quite make sense, or videos that feel strangely empty despite their flashy visuals. This is **AI slop**—digital content created with generative AI that prioritizes volume and clickbait over quality or meaning. While it might seem like harmless digital noise, the proliferation of slop is fundamentally altering how we consume information and how creators make money online."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Introduces the term 'Slopper' as a key piece of jargon associated with the phenomenon.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w5"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the economic drivers behind the slop.",
+                        "text_content": "But why is the internet suddenly flooded with this low-effort content? The answer lies in the *attention economy* and the specific way social media platforms monetize engagement."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Economics of Engagement",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the financial incentive for creating slop, specifically targeting high-ad-rate regions.",
+                        "text_content": "For many, producing AI slop isn't about art; it's a business strategy. Creators often target audiences in the **United States** because the advertising rates are significantly higher than in other regions. This creates a powerful financial incentive for individuals globally to flood American feeds with content designed to trigger reactions, regardless of its accuracy or value."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Visually maps the causal chain from revenue potential to the proliferation of slop.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w2"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Introduces the platforms where this is most prevalent.",
+                        "text_content": "While this trend is visible across the web, certain platforms have become primary hubs for this type of content farming."
+                    }
+                ]
+            },
+            {
+                "card_title": "Where Slop Lives",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the platforms most affected by AI slop.",
+                        "text_content": "The scale of the problem varies by platform, but the goal remains the same: maximize views to maximize revenue. From short-form video apps to legacy social networks, the 'slop' is everywhere."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Lists the specific platforms where AI slop is frequently monetized.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w8"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the specific types of content being generated.",
+                        "text_content": "The content itself ranges from the surreal and funny to the dangerously misleading."
+                    }
+                ]
+            },
+            {
+                "card_title": "From Surrealism to Deception",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the variety of AI slop, from harmless to harmful.",
+                        "text_content": "AI slop isn't a monolith. It can be a harmless parody or a calculated attempt to deceive. Some creators use it to sell non-existent products, while others use it to distort historical records or spread misinformation about nature."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Provides a breakdown of the different forms AI slop takes.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w9"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the actual process of how this content is made.",
+                        "text_content": "Creating this content is often a streamlined, two-step process designed for maximum efficiency."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Slop Factory",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Explains the technical process of generating slop, using the Kenyan creator's example.",
+                        "text_content": "The 'production line' for slop is remarkably simple. Creators often use one AI to generate the ideas and another to create the visuals, removing almost all human effort from the creative process."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Steps through the specific process described by a Kenyan creator.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w3"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the 'bizarre' nature of some slop due to language barriers.",
+                        "text_content": "This efficiency sometimes leads to the 'uncanny' or bizarre quality of some slop. Journalist **Jason Koebler** suggests this may happen when creators use prompts in languages like *Hindi, Urdu, or Vietnamese*—which are underrepresented in AI training data—or rely on erratic speech-to-text translations to communicate their intent to the AI."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Human Cost",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the impact of AI slop on real artists and creators.",
+                        "text_content": "While the creators of slop profit, traditional artists often pay the price. AI models can scrape the unique styles of human creators, allowing 'sloppers' to claim credit for work they didn't actually perform."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Highlights the specific experience of wood carver Michael Jones.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w7"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the global consumption patterns of slop.",
+                        "text_content": "The impact isn't just felt by the artists; it's also reflected in who is consuming this content on a global scale."
+                    }
+                ]
+            },
+            {
+                "card_title": "Global Consumption Patterns",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the global reach and consumption of AI slop.",
+                        "text_content": "Consumption of AI slop isn't uniform across the world. Some regions have embraced the technology and the resulting content more rapidly than others."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Highlights Korea's position as a top consumer of AI slop.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w6"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the viral nature of AI slop and the debate over monetization.",
+                        "text_content": "Beyond regional trends, some AI slop becomes a cultural phenomenon, sparking intense debate about the ethics of monetization."
+                    }
+                ]
+            },
+            {
+                "card_title": "Viral Oddities",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the viral success of 'Fruit Love Island'.",
+                        "text_content": "Sometimes, the sheer absurdity of AI slop is what makes it go viral. In early 2026, a TikTok account combined a popular reality show format with surreal AI visuals to create a massive following almost overnight."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Synthesizes the elements that created the 'Fruit Love Island' account.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w4"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the risks associated with AI slop, particularly for children.",
+                        "text_content": "But when the content is targeted at children, the stakes become much higher than just a weird TikTok trend."
+                    }
+                ]
+            },
+            {
+                "card_title": "Protecting the Next Generation",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the prevalence of AI slop in children's content.",
+                        "text_content": "One of the most concerning trends is the infiltration of AI slop into educational content for children. These videos often claim to be educational but feature nonsensical visuals, such as horses hatching from eggs, which can confuse and mislead young viewers."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Displays the percentage of AI slop in children's video recommendations.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w0"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Transition to the platform's response and the future of content moderation.",
+                        "text_content": "As the volume of synthetic media grows, the platforms themselves are being forced to take a stand."
+                    }
+                ]
+            },
+            {
+                "card_title": "The Battle for Quality",
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "rationale": "Discusses the efforts to reduce AI slop and the perspectives of various leaders.",
+                        "text_content": "Platform executives are now recognizing that 'slop' isn't just a nuisance—it's a threat to the integrity of the user experience. The goal is now to move toward better detection and reduction of this low-quality content."
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Provides perspectives from key figures on the impact of AI slop.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w1"
+                    },
+                    {
+                        "block_type": "widget",
+                        "rationale": "Highlights YouTube CEO Neal Mohan's priorities for 2026.",
+                        "widget_id": "prebuilt_AISloponSocialMedia_w10"
+                    },
+                    {
+                        "block_type": "text",
+                        "rationale": "Final concluding thought on the balance between AI and human creativity.",
+                        "text_content": "The struggle against AI slop is a continuing battle between the efficiency of automation and the value of human creativity. As we move forward, the challenge will be determining how to protect the *truth* and *art* in an era of infinite, automated content."
+                    }
+                ]
+            }
+        ]
+    },
+    "phase_3_final_cards_and_meta": {
+        "module_title": "The Rise of AI Slop",
+        "module_description": "Explore the hidden economics of the 'attention economy' and how low-effort, AI-generated content is flooding our social media feeds.",
+        "alternative_descriptions": [
+            "Uncover the 'slop factories'が a global business strategy to monetize clickbait through generative AI.",
+            "From surreal fruit love islands to fake educational videos, discover why the internet is drowning in AI slop.",
+            "Can human creativity survive the era of infinite, automated content? Dive into the battle for digital quality."
+        ],
+        "tags": [
+            "Generative AI",
+            "Attention Economy",
+            "Social Media",
+            "Digital Content",
+            "Misinformation"
+        ],
+        "loading_screen_trivia": "Korea ranks first worldwide in the consumption of AI slop, attributed to the country's rapid embrace of new technology.",
+        "timeline": [
+            {
+                "year": "2025",
+                "event": "Term 'Slopper' coined for AI-reliant",
+                "related_card_id": 1
+            },
+            {
+                "year": "2025",
+                "event": "Kapwing report on AI slop consumption",
+                "related_card_id": 7
+            },
+            {
+                "year": "March 2026",
+                "event": "Fruit Love Island TikTok goes viral",
+                "related_card_id": 8
+            },
+            {
+                "year": "March 2026",
+                "event": "NYT investigation into children's AI slop",
+                "related_card_id": 9
+            },
+            {
+                "year": "2026",
+                "event": "YouTube prioritizes reducing AI slop",
+                "related_card_id": 10
+            }
+        ],
+        "cast_of_characters": [
+            {
+                "name": "Jason Koebler",
+                "emoji_avatar": "✍️",
+                "historical_role": "Journalist for 404 Media",
+                "core_contribution": "Speculated that bizarre AI slop results from underrepresented languages in prompts."
+            },
+            {
+                "name": "Michael Jones",
+                "emoji_avatar": "🪵",
+                "historical_role": "Artist and Wood Carver",
+                "core_contribution": "Highlighted how AI slop steals credit and exposure from traditional carvers."
+            },
+            {
+                "name": "Neal Mohan",
+                "emoji_avatar": "📺",
+                "historical_role": "CEO of YouTube",
+                "core_contribution": "Identified the reduction of slop and deepfake detection as 2026 priorities."
+            }
+        ],
+        "legacy_impact": {
+            "relevance_statement": "The rise of AI slop challenges the integrity of information and the value of human creativity, forcing platforms to redefine how they protect truth and art in an automated era."
+        },
+        "cards": [
+            {
+                "card_id": 1,
+                "order_index": 0,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "The Digital Clutter Crisis",
+                "blocks": [
+                    {
+                        "block_id": "card_1_block_0",
+                        "block_type": "text",
+                        "text_content": "You've likely seen them: bizarre, hyper-realistic images of things that don't quite make sense, or videos that feel strangely empty despite their flashy visuals. This is **AI slop**—digital content created with generative AI that prioritizes volume and clickbait over quality or meaning. While it might seem like harmless digital noise, the proliferation of slop is fundamentally altering how we consume information and how creators make money online."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w5",
+                        "block_type": "jargon_buster",
+                        "jargon_buster_data": {
+                            "term": "Slopper",
+                            "definition": "A pejorative slang term coined in 2025 to describe someone who is overly reliant on generative AI tools like ChatGPT."
+                        },
+                        "source_notes_consumed": [
+                            "n8"
+                        ],
+                        "block_id": "card_1_block_1"
+                    },
+                    {
+                        "block_id": "card_1_block_2",
+                        "block_type": "text",
+                        "text_content": "But why is the internet suddenly flooded with this low-effort content? The answer lies in the *attention economy* and the specific way social media platforms monetize engagement."
+                    }
+                ]
+            },
+            {
+                "card_id": 2,
+                "order_index": 1,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "The Economics of Engagement",
+                "blocks": [
+                    {
+                        "block_id": "card_2_block_0",
+                        "block_type": "text",
+                        "text_content": "For many, producing AI slop isn't about art; it's a business strategy. Creators often target audiences in the **United States** because the advertising rates are significantly higher than in other regions. This creates a powerful financial incentive for individuals globally to flood American feeds with content designed to trigger reactions, regardless of its accuracy or value."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w2",
+                        "block_type": "causal_chain",
+                        "causal_chain_data": {
+                            "trigger": "The ability to generate revenue on platforms like Facebook and TikTok.",
+                            "mechanism": "Creators from developing countries target high-ad-rate US audiences by creating images that appeal to them.",
+                            "outcome": "The proliferation of AI image and video slop on social media."
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n2"
+                        ],
+                        "block_id": "card_2_block_1"
+                    },
+                    {
+                        "block_id": "card_2_block_2",
+                        "block_type": "text",
+                        "text_content": "While this trend is visible across the web, certain platforms have become primary hubs for this type of content farming."
+                    }
+                ]
+            },
+            {
+                "card_id": 3,
+                "order_index": 2,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "Where Slop Lives",
+                "blocks": [
+                    {
+                        "block_id": "card_3_block_0",
+                        "block_type": "text",
+                        "text_content": "The scale of the problem varies by platform, but the goal remains the same: maximize views to maximize revenue. From short-form video apps to legacy social networks, the 'slop' is everywhere."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w8",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Platforms for AI Slop",
+                            "context_text": "AI-generated slop is frequently proliferated and monetized across various social media platforms to generate revenue for creators.",
+                            "items": [
+                                "Facebook",
+                                "TikTok",
+                                "Instagram",
+                                "Fanvue"
+                            ],
+                            "display_style": "tags"
+                        },
+                        "source_notes_consumed": [
+                            "n1",
+                            "n3"
+                        ],
+                        "block_id": "card_3_block_1"
+                    },
+                    {
+                        "block_id": "card_3_block_2",
+                        "block_type": "text",
+                        "text_content": "The content itself ranges from the surreal and funny to the dangerously misleading."
+                    }
+                ]
+            },
+            {
+                "card_id": 4,
+                "order_index": 3,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "From Surrealism to Deception",
+                "blocks": [
+                    {
+                        "block_id": "card_4_block_0",
+                        "block_type": "text",
+                        "text_content": "AI slop isn't a monolith. It can be a harmless parody or a calculated attempt to deceive. Some creators use it to sell non-existent products, while others use it to distort historical records or spread misinformation about nature."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w9",
+                        "block_type": "itemized_breakdown",
+                        "itemized_breakdown_data": {
+                            "title": "Types of AI Slop Content",
+                            "context_text": "AI slop manifests in various forms across social media platforms, often prioritizing high volume and engagement over quality or accuracy.",
+                            "items": [
+                                "AI-generated images of plants and fake seeds",
+                                "AI-generated images of Holocaust victims",
+                                "AI-generated parody shows like Fruit Love Island",
+                                "AI-generated children's educational videos"
+                            ],
+                            "display_style": "bullets"
+                        },
+                        "source_notes_consumed": [
+                            "n6",
+                            "n7",
+                            "n12",
+                            "n13"
+                        ],
+                        "block_id": "card_4_block_1"
+                    },
+                    {
+                        "block_id": "card_4_block_2",
+                        "block_type": "text",
+                        "text_content": "Creating this content is often a streamlined, two-step process designed for maximum efficiency."
+                    }
+                ]
+            },
+            {
+                "card_id": 5,
+                "order_index": 4,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "The Slop Factory",
+                "blocks": [
+                    {
+                        "block_id": "card_5_block_0",
+                        "block_type": "text",
+                        "text_content": "The 'production line' for slop is remarkably simple. Creators often use one AI to generate the ideas and another to create the visuals, removing almost all human effort from the creative process."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w3",
+                        "block_type": "stepper",
+                        "stepper_data": {
+                            "process_name": "Generating AI Slop Images",
+                            "intro_text": "A Kenyan creator described a specific two-step process for producing high-engagement AI images for social media.",
+                            "steps": [
+                                "Use ChatGPT to generate 10 prompts for images of Jesus designed to bring high engagement on Facebook.",
+                                "Feed the generated prompts into a text-to-image AI model, such as Midjourney."
+                            ]
+                        },
+                        "source_notes_consumed": [
+                            "n5"
+                        ],
+                        "block_id": "card_5_block_1"
+                    },
+                    {
+                        "block_id": "card_5_block_2",
+                        "block_type": "text",
+                        "text_content": "This efficiency sometimes leads to the 'uncanny' or bizarre quality of some slop. Journalist **Jason Koebler** suggests this may happen when creators use prompts in languages like *Hindi, Urdu, or Vietnamese*—which are underrepresented in AI training data—or rely on erratic speech-to-text translations to communicate their intent to the AI."
+                    }
+                ]
+            },
+            {
+                "card_id": 6,
+                "order_index": 5,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "The Human Cost",
+                "blocks": [
+                    {
+                        "block_id": "card_6_block_0",
+                        "block_type": "text",
+                        "text_content": "While the creators of slop profit, traditional artists often pay the price. AI models can scrape the unique styles of human creators, allowing 'sloppers' to claim credit for work they didn't actually perform."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w7",
+                        "block_type": "quote_block",
+                        "quote_block_data": {
+                            "speaker": "Michael Jones",
+                            "quote": "a huge issue for carvers all over the world who are sadly missing out on the rightful credit exposure to their work...",
+                            "context": "Artist Michael Jones highlighted the negative impact of AI-slop on wood carvers after his own chainsaw sculpture style was used to generate content by others claiming credit for the work."
+                        },
+                        "source_notes_consumed": [
+                            "n9"
+                        ],
+                        "block_id": "card_6_block_1"
+                    },
+                    {
+                        "block_id": "card_6_block_2",
+                        "block_type": "text",
+                        "text_content": "The impact isn't just felt by the artists; it's also reflected in who is consuming this content on a global scale."
+                    }
+                ]
+            },
+            {
+                "card_id": 7,
+                "order_index": 6,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "Global Consumption Patterns",
+                "blocks": [
+                    {
+                        "block_id": "card_7_block_0",
+                        "block_type": "text",
+                        "text_content": "Consumption of AI slop isn't uniform across the world. Some regions have embraced the technology and the resulting content more rapidly than others."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w6",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🇰🇷",
+                            "short_title": "AI Slop Consumption",
+                            "expanded_detail": "According to a 2025 report by Kapwing, Korea ranks first worldwide in the consumption of AI slop. Experts attribute this phenomenon to the country's rapid embrace of new technology.",
+                            "display_style": "editorial_callout"
+                        },
+                        "source_notes_consumed": [
+                            "n10"
+                        ],
+                        "block_id": "card_7_block_1"
+                    },
+                    {
+                        "block_id": "card_7_block_2",
+                        "block_type": "text",
+                        "text_content": "Beyond regional trends, some AI slop becomes a cultural phenomenon, sparking intense debate about the ethics of monetization."
+                    }
+                ]
+            },
+            {
+                "card_id": 8,
+                "order_index": 7,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "Viral Oddities",
+                "blocks": [
+                    {
+                        "block_id": "card_8_block_0",
+                        "block_type": "text",
+                        "text_content": "Sometimes, the sheer absurdity of AI slop is what makes it go viral. In early 2026, a TikTok account combined a popular reality show format with surreal AI visuals to create a massive following almost overnight."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w4",
+                        "block_type": "synthesis",
+                        "synthesis_data": {
+                            "element_a": "AI-generated anthropomorphic fruits",
+                            "element_b": "A parody of the reality show Love Island",
+                            "result": "Fruit Love Island TikTok account",
+                            "context_text": "In March 2026, the combination of AI-generated anthropomorphic fruits and a parody of the reality show Love Island led to the creation of the Fruit Love Island TikTok account, which became one of the fastest-growing accounts in the United States."
+                        },
+                        "source_notes_consumed": [
+                            "n13"
+                        ],
+                        "block_id": "card_8_block_1"
+                    },
+                    {
+                        "block_id": "card_8_block_2",
+                        "block_type": "text",
+                        "text_content": "But when the content is targeted at children, the stakes become much higher than just a weird TikTok trend."
+                    }
+                ]
+            },
+            {
+                "card_id": 9,
+                "order_index": 8,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "Protecting the Next Generation",
+                "blocks": [
+                    {
+                        "block_id": "card_9_block_0",
+                        "block_type": "text",
+                        "text_content": "One of the most concerning trends is the infiltration of AI slop into educational content for children. These videos often claim to be educational but feature nonsensical visuals, such as horses hatching from eggs, which can confuse and mislead young viewers."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w0",
+                        "block_type": "percentage_display",
+                        "percentage_display_data": {
+                            "title": "AI Slop in Children's Video Recommendations",
+                            "context_text": "A March 2026 New York Times investigation revealed the prevalence of low-quality generative AI content recommended to children on YouTube and YouTube Kids.",
+                            "items": [
+                                {
+                                    "label": "AI Slop Videos",
+                                    "percentage": 40.0
+                                }
+                            ],
+                            "display_style": "radial_row"
+                        },
+                        "source_notes_consumed": [
+                            "n12"
+                        ],
+                        "block_id": "card_9_block_1"
+                    },
+                    {
+                        "block_id": "card_9_block_2",
+                        "block_type": "text",
+                        "text_content": "As the volume of synthetic media grows, the platforms themselves are being forced to take a stand."
+                    }
+                ]
+            },
+            {
+                "card_id": 10,
+                "order_index": 9,
+                "parent_topic": "AI Slop on Social Media",
+                "created_at": "2026-05-19T20:47:03.554289+00:00",
+                "card_title": "The Battle for Quality",
+                "blocks": [
+                    {
+                        "block_id": "card_10_block_0",
+                        "block_type": "text",
+                        "text_content": "Platform executives are now recognizing that 'slop' isn't just a nuisance—it's a threat to the integrity of the user experience. The goal is now to move toward better detection and reduction of this low-quality content."
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w1",
+                        "block_type": "entity_profiles",
+                        "entity_profiles_data": {
+                            "title": "AI Slop: Key Perspectives",
+                            "intro_text": "Different individuals and leaders have highlighted the impact of AI-generated slop on journalism, art, and platform governance.",
+                            "entities": [
+                                {
+                                    "name": "Jason Koebler",
+                                    "role": "Journalist for 404 Media",
+                                    "description": "He speculated that the bizarre nature of some AI slop may result from creators using underrepresented languages in prompts or erratic speech-to-text translation methods."
+                                },
+                                {
+                                    "name": "Michael Jones",
+                                    "role": "Artist and Wood Carver",
+                                    "description": "He views AI slop as a major issue for carvers worldwide who lose rightful credit and exposure when their styles are used as sources for AI content."
+                                },
+                                {
+                                    "name": "Neal Mohan",
+                                    "role": "CEO of YouTube",
+                                    "description": "He identified the reduction of slop and the detection of deepfakes as key priorities for YouTube in 2026."
+                                }
+                            ],
+                            "entity_type": "people"
+                        },
+                        "source_notes_consumed": [
+                            "n4",
+                            "n9",
+                            "n11"
+                        ],
+                        "block_id": "card_10_block_1"
+                    },
+                    {
+                        "widget_id": "prebuilt_AISloponSocialMedia_w10",
+                        "block_type": "insight_badge",
+                        "insight_badge_data": {
+                            "emoji": "🛡️",
+                            "short_title": "2026",
+                            "expanded_detail": "YouTube CEO Neal Mohan identified reducing AI slop and detecting deepfakes as the platform's primary priorities for 2026.",
+                            "display_style": "floating_overhang"
+                        },
+                        "source_notes_consumed": [
+                            "n11"
+                        ],
+                        "block_id": "card_10_block_2"
+                    },
+                    {
+                        "block_id": "card_10_block_3",
+                        "block_type": "text",
+                        "text_content": "The struggle against AI slop is a continuing battle between the efficiency of automation and the value of human creativity. As we move forward, the challenge will be determining how to protect the *truth* and *art* in an era of infinite, automated content."
+                    }
+                ]
+            }
+        ]
+    },
+    "editorial_review_report": {},
+    "phase_4_reviewed_cards": {},
+    "mini_games": [
+        {
+            "question": "What is the term for digital content prioritizing volume over quality?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop prioritizes volume and clickbait over quality or meaning."
+                },
+                {
+                    "text": "Digital noise",
+                    "isCorrect": false,
+                    "feedback": "Digital noise is a general term, not specifically AI-generated slop."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category, not specifically low-quality slop."
+                },
+                {
+                    "text": "Content farming",
+                    "isCorrect": false,
+                    "feedback": "Content farming is the process, not the content itself."
+                },
+                {
+                    "text": "Attention economy",
+                    "isCorrect": false,
+                    "feedback": "The attention economy is the economic system driving slop."
+                },
+                {
+                    "text": "Deepfakes",
+                    "isCorrect": false,
+                    "feedback": "Deepfakes are specific realistic AI manipulations, not general slop."
+                },
+                {
+                    "text": "Workslop",
+                    "isCorrect": false,
+                    "feedback": "Workslop refers specifically to low-effort AI content in workplaces."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Who is a 'slopper' according to the 2025 slang term?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "An AI developer",
+                    "isCorrect": false,
+                    "feedback": "AI developers create the tools, not necessarily the slop content."
+                },
+                {
+                    "text": "A prompt engineer",
+                    "isCorrect": false,
+                    "feedback": "Prompt engineers optimize AI output, not necessarily for slop."
+                },
+                {
+                    "text": "An AI-reliant creator",
+                    "isCorrect": true,
+                    "feedback": "A slopper is someone overly reliant on generative AI tools."
+                },
+                {
+                    "text": "A digital artist",
+                    "isCorrect": false,
+                    "feedback": "Digital artists typically prioritize quality over volume."
+                },
+                {
+                    "text": "A content moderator",
+                    "isCorrect": false,
+                    "feedback": "Content moderators remove slop, not create it."
+                },
+                {
+                    "text": "A data scientist",
+                    "isCorrect": false,
+                    "feedback": "Digital artists typically prioritize quality over volume."
+                },
+                {
+                    "text": "A social media influencer",
+                    "isCorrect": false,
+                    "feedback": "Influencers may use AI, but 'slopper' specifically denotes AI-reliance."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Why do slop creators target audiences in the United States?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Higher advertising rates",
+                    "isCorrect": true,
+                    "feedback": "US advertising rates are significantly higher than in other regions."
+                },
+                {
+                    "text": "Better internet access",
+                    "isCorrect": false,
+                    "feedback": "Internet access doesn't drive the financial incentive for slop."
+                },
+                {
+                    "text": "Larger user base",
+                    "isCorrect": false,
+                    "feedback": "Larger user bases exist in other regions as well."
+                },
+                {
+                    "text": "Easier monetization",
+                    "isCorrect": false,
+                    "feedback": "Monetization is possible globally, but US rates are higher."
+                },
+                {
+                    "text": "Lower content costs",
+                    "isCorrect": false,
+                    "feedback": "Content costs are the same regardless of the target audience."
+                },
+                {
+                    "text": "Higher engagement rates",
+                    "isCorrect": false,
+                    "feedback": "Engagement is the goal, but the financial reward is higher in the US."
+                },
+                {
+                    "text": "More AI tools",
+                    "isCorrect": false,
+                    "feedback": "AI tools are available globally, not just in the US."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which platform is listed as a primary hub for AI slop?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Facebook",
+                    "isCorrect": true,
+                    "feedback": "Facebook is explicitly listed as a platform for AI slop."
+                },
+                {
+                    "text": "X",
+                    "isCorrect": false,
+                    "feedback": "X is not listed in the source text as a primary hub."
+                },
+                {
+                    "text": "LinkedIn",
+                    "isCorrect": false,
+                    "feedback": "LinkedIn is not listed as a primary hub for AI slop."
+                },
+                {
+                    "text": "Reddit",
+                    "isCorrect": false,
+                    "feedback": "Reddit is not listed as a primary hub for AI slop."
+                },
+                {
+                    "text": "Snapchat",
+                    "isCorrect": false,
+                    "feedback": "Snapchat is not listed as a primary hub for AI slop."
+                },
+                {
+                    "text": "Threads",
+                    "isCorrect": false,
+                    "feedback": "Threads is not listed as a primary hub for AI slop."
+                },
+                {
+                    "text": "Pinterest",
+                    "isCorrect": false,
+                    "feedback": "Pinterest is not listed as a primary hub for AI slop."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What is an example of deceptive AI slop content?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Fruit Love Island",
+                    "isCorrect": false,
+                    "feedback": "Fruit Love Island is a parody, not a deceptive attempt to mislead."
+                },
+                {
+                    "text": "Fake seed images",
+                    "isCorrect": true,
+                    "feedback": "AI images of plants are used to sell non-existent products."
+                },
+                {
+                    "text": "Educational videos",
+                    "isCorrect": false,
+                    "feedback": "Educational videos can be misleading, but seeds are for financial deception."
+                },
+                {
+                    "text": "Jesus images",
+                    "isCorrect": false,
+                    "feedback": "Jesus images are used for engagement, not necessarily deception."
+                },
+                {
+                    "text": "AI-generated art",
+                    "isCorrect": false,
+                    "feedback": "AI-generated art is a general term, not a specific deceptive type."
+                },
+                {
+                    "text": "Deepfake videos",
+                    "isCorrect": false,
+                    "feedback": "Deepfakes are not explicitly listed as a deceptive slop type here."
+                },
+                {
+                    "text": "Parody shows",
+                    "isCorrect": false,
+                    "feedback": "Parody shows are intended to be funny, not deceptive."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Which country ranks first in AI slop consumption?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "United States",
+                    "isCorrect": false,
+                    "feedback": "The US is a target for monetization, but Korea ranks first in consumption."
+                },
+                {
+                    "text": "China",
+                    "isCorrect": false,
+                    "feedback": "China is not listed as the top consumer of AI slop."
+                },
+                {
+                    "text": "Japan",
+                    "isCorrect": false,
+                    "feedback": "Japan is not listed as the top consumer of AI slop."
+                },
+                {
+                    "text": "Korea",
+                    "isCorrect": true,
+                    "feedback": "According to a 2025 report by Kapwing, Korea ranks first worldwide."
+                },
+                {
+                    "text": "India",
+                    "isCorrect": false,
+                    "feedback": "India is not listed as the top consumer of AI slop."
+                },
+                {
+                    "text": "Vietnam",
+                    "isCorrect": false,
+                    "feedback": "Vietnam is not listed as the top consumer of AI slop."
+                },
+                {
+                    "text": "Brazil",
+                    "isCorrect": false,
+                    "feedback": "Brazil is not listed as the top consumer of AI slop."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "What percentage of children's recommended videos are AI slop?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "10%",
+                    "isCorrect": false,
+                    "feedback": "10% is not the figure mentioned in the source text."
+                },
+                {
+                    "text": "20%",
+                    "isCorrect": false,
+                    "feedback": "20% is not the figure mentioned in the source text."
+                },
+                {
+                    "text": "30%",
+                    "isCorrect": false,
+                    "feedback": "s30% is not the figure mentioned in the source text."
+                },
+                {
+                    "text": "40%",
+                    "isCorrect": true,
+                    "feedback": "A New York Times investigation revealed 40% are AI slop."
+                },
+                {
+                    "text": "50%",
+                    "isCorrect": false,
+                    "feedback": "50% is not the figure mentioned in the source text."
+                },
+                {
+                    "text": "60%",
+                    "isCorrect": false,
+                    "feedback": "60% is not the figure mentioned in the source text."
+                },
+                {
+                    "text": "70%",
+                    "isCorrect": false,
+                    "feedback": "70% is not the figure mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                9
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "Who is the CEO of YouTube prioritizing slop reduction?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Neal Mohan",
+                    "isCorrect": true,
+                    "feedback": "Neal Mohan identified reducing slop as a priority for 2026."
+                },
+                {
+                    "text": "Sundar Pichai",
+                    "isCorrect": false,
+                    "feedback": "Sundar Pichai is the CEO of Google, not YouTube specifically here."
+                },
+                {
+                    "text": "Mark Zuckerberg",
+                    "isCorrect": false,
+                    "feedback": "Mark Zuckerberg is the CEO of Meta, not YouTube."
+                },
+                {
+                    "text": "Elon Musk",
+                    "isCorrect": false,
+                    "feedback": "Elon Musk is the CEO of X, not YouTube."
+                },
+                {
+                    "text": "Shou Zi Chew",
+                    "isCorrect": false,
+                    "feedback": "Shou Zi Chew is the CEO of TikTok, not YouTube."
+                },
+                {
+                    "text": "Tim Cook",
+                    "isCorrect": false,
+                    "feedback": "Tim Cook is the CEO of Apple, not YouTube."
+                },
+                {
+                    "text": "Satya Nadella",
+                    "isCorrect": false,
+                    "feedback": "Satya Nadella is the CEO of Microsoft, not YouTube."
+                }
+            ],
+            "source_card_ids": [
+                10
+            ],
+            "angle": "Factual Recall",
+            "structure": "Direct Question"
+        },
+        {
+            "question": "AI slop is digital content that prioritizes ____ over quality or meaning.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "volume and clickbait",
+                    "isCorrect": true,
+                    "feedback": "AI slop prioritizes volume and clickbait to maximize engagement."
+                },
+                {
+                    "text": "artistic expression",
+                    "isCorrect": false,
+                    "feedback": "AI slop specifically avoids artistic expression for volume."
+                },
+                {
+                    "text": "factual accuracy",
+                    "isCorrect": false,
+                    "feedback": "AI slop often ignores accuracy to trigger reactions."
+                },
+                {
+                    "text": "human creativity",
+                    "isCorrect": false,
+                    "feedback": "AI slop removes human effort from the process."
+                },
+                {
+                    "text": "educational value",
+                    "isCorrect": false,
+                    "feedback": "AI slop prioritizes clicks over actual education."
+                },
+                {
+                    "text": "narrative depth",
+                    "isCorrect": false,
+                    "feedback": "AI slop is characterized by a lack of meaning."
+                },
+                {
+                    "text": "technical precision",
+                    "isCorrect": false,
+                    "feedback": "AI slop often features bizarre, nonsensical visuals."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The pejorative term ____ describes someone overly reliant on generative AI tools.",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Slopper",
+                    "isCorrect": true,
+                    "feedback": "A slopper is someone overly reliant on generative AI tools."
+                },
+                {
+                    "text": "Prompt Engineer",
+                    "isCorrect": false,
+                    "feedback": "Prompt engineering is a professional skill, not a pejorative term."
+                },
+                {
+                    "text": "Bot Farmer",
+                    "isCorrect": false,
+                    "feedback": "Bot farming refers to automated accounts, not the user's reliance."
+                },
+                {
+                    "text": "AI Artist",
+                    "isCorrect": false,
+                    "feedback": "AI artist is a descriptive term, not a pejorative slang term."
+                },
+                {
+                    "text": "Content Mill",
+                    "isCorrect": false,
+                    "feedback": "A content mill is a business, not a person."
+                },
+                {
+                    "text": "Deepfake Creator",
+                    "isCorrect": false,
+                    "feedback": "Deepfakes are specific synthetic media, not a general reliance term."
+                },
+                {
+                    "text": "Synthetic Media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the category of content, not the person."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Creators often target ____ audiences because advertising rates are significantly higher.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "United States",
+                    "isCorrect": true,
+                    "feedback": "US audiences offer higher advertising rates for slop creators."
+                },
+                {
+                    "text": "European Union",
+                    "isCorrect": false,
+                    "feedback": "The text specifies the US as the primary high-rate target."
+                },
+                {
+                    "text": "South Korea",
+                    "isCorrect": false,
+                    "feedback": "Korea consumes slop, but the text doesn't link it to ad rates."
+                },
+                {
+                    "text": "India",
+                    "isCorrect": false,
+                    "feedback": "India is mentioned as a source of creators, not the target."
+                },
+                {
+                    "text": "China",
+                    "isCorrect": false,
+                    "feedback": "China is mentioned as a propaganda source, not ad-rate target."
+                },
+                {
+                    "text": "Canada",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Canadian advertising rates."
+                },
+                {
+                    "text": "Brazil",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Brazilian advertising rates."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "According to Kapwing, ____ ranks first worldwide in AI slop consumption.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Korea",
+                    "isCorrect": true,
+                    "feedback": "Korea ranks first in AI slop consumption per Kapwing."
+                },
+                {
+                    "text": "United States",
+                    "isCorrect": false,
+                    "feedback": "The US is a target for monetization, not the top consumer."
+                },
+                {
+                    "text": "India",
+                    "isCorrect": false,
+                    "feedback": "India is mentioned as a creator hub, not the top consumer."
+                },
+                {
+                    "text": "Vietnam",
+                    "isCorrect": false,
+                    "feedback": "Vietnam is mentioned as a prompt language, not the top consumer."
+                },
+                {
+                    "text": "Japan",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Japan's consumption rank."
+                },
+                {
+                    "text": "China",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention China's consumption rank."
+                },
+                {
+                    "text": "Germany",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Germany's consumption rank."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "The ____ account combined anthropomorphic fruits with a Love Island parody.",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Fruit Love Island",
+                    "isCorrect": true,
+                    "feedback": "Fruit Love Island used AI fruits and a reality show parody."
+                },
+                {
+                    "text": "AI Fruit Farm",
+                    "isCorrect": false,
+                    "feedback": "No such account is mentioned in the source text."
+                },
+                {
+                    "text": "Love Island AI",
+                    "isCorrect": false,
+                    "feedback": "The account was specifically called Fruit Love Island."
+                },
+                {
+                    "text": "Synthetic Fruits",
+                    "isCorrect": false,
+                    "feedback": "No such account is mentioned in the source text."
+                },
+                {
+                    "text": "Fruit Parody",
+                    "isCorrect": false,
+                    "feedback": "No such account is mentioned in the source text."
+                },
+                {
+                    "text": "AI Reality Show",
+                    "isCorrect": false,
+                    "feedback": "The account was specifically called Fruit Love Island."
+                },
+                {
+                    "text": "Tropical Slop",
+                    "isCorrect": false,
+                    "feedback": "No such account is mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                8
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "YouTube CEO ____ identified reducing slop as a 2026 priority.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Neal Mohan",
+                    "isCorrect": true,
+                    "feedback": "Neal Mohan is the CEO of YouTube who set this priority."
+                },
+                {
+                    "text": "Jason Koebler",
+                    "isCorrect": false,
+                    "feedback": "Jason Koebler is a journalist, not the CEO of YouTube."
+                },
+                {
+                    "text": "Michael Jones",
+                    "isCorrect": false,
+                    "feedback": "Michael Jones is an artist and wood carver."
+                },
+                {
+                    "text": "Elon Musk",
+                    "isCorrect": false,
+                    "feedback": "Elon Musk is not the CEO of YouTube."
+                },
+                {
+                    "text": "Sundar Pichai",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Sundar Pichai's priorities."
+                },
+                {
+                    "text": "Mark Zuckerberg",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Mark Zuckerberg's priorities."
+                },
+                {
+                    "text": "Tim Cook",
+                    "isCorrect": false,
+                    "feedback": "The text does not mention Tim Cook's priorities."
+                }
+            ],
+            "source_card_ids": [
+                10
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "A New York Times investigation found ____% of children's recommended videos are slop.",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "40.0",
+                    "isCorrect": true,
+                    "feedback": "The NYT investigation found 40% of recommended children's videos are slop."
+                },
+                {
+                    "text": "20.0",
+                    "isCorrect": false,
+                    "feedback": "20% refers to Steam games with AI disclosures, not children's videos."
+                },
+                {
+                    "text": "10.0",
+                    "isCorrect": false,
+                    "feedback": "This percentage is not mentioned in the source text."
+                },
+                {
+                    "text": "50.0",
+                    "isCorrect": false,
+                    "feedback": "This percentage is not mentioned in the source text."
+                },
+                {
+                    "text": "60.0",
+                    "isCorrect": false,
+                    "feedback": "This percentage is not mentioned in the source text."
+                },
+                {
+                    "text": "70.0",
+                    "isCorrect": false,
+                    "feedback": "70% refers to fraudulent AI music streams on Deezer."
+                },
+                {
+                    "text": "30.0",
+                    "isCorrect": false,
+                    "feedback": "This percentage is not mentioned in the source text."
+                }
+            ],
+            "source_card_ids": [
+                9
+            ],
+            "angle": "Factual Recall",
+            "structure": "Fill-in-the-Blank"
+        },
+        {
+            "question": "Volume, clickbait, low quality: what is this digital content called?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "AI slop",
+                    "isCorrect": true,
+                    "feedback": "AI slop prioritizes volume and clickbait over quality or meaning."
+                },
+                {
+                    "text": "Deepfakes",
+                    "isCorrect": false,
+                    "feedback": "Deepfakes are synthetic media used to impersonate people, not general slop."
+                },
+                {
+                    "text": "Spam",
+                    "isCorrect": false,
+                    "feedback": "Spam is unsolicited bulk messaging, whereas slop is generative AI content."
+                },
+                {
+                    "text": "Botnets",
+                    "isCorrect": false,
+                    "feedback": "Botnets are networks of infected computers, not a type of content."
+                },
+                {
+                    "text": "Click-farms",
+                    "isCorrect": false,
+                    "feedback": "Click-farms are services that inflate engagement, not the content itself."
+                },
+                {
+                    "text": "Synthetic media",
+                    "isCorrect": false,
+                    "feedback": "Synthetic media is the broad category; slop is the low-quality subset."
+                },
+                {
+                    "text": "Digital noise",
+                    "isCorrect": false,
+                    "feedback": "Digital noise is a general term for irrelevant data."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Pejorative, 2025 slang, AI-reliant: who does this term describe?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Slopper",
+                    "isCorrect": true,
+                    "feedback": "A slopper is someone overly reliant on generative AI tools."
+                },
+                {
+                    "text": "Prompt engineer",
+                    "isCorrect": false,
+                    "feedback": "Prompt engineers professionally optimize AI inputs for quality."
+                },
+                {
+                    "text": "Bot-master",
+                    "isCorrect": false,
+                    "feedback": "Bot-masters manage automated accounts, not necessarily AI-reliant creators."
+                },
+                {
+                    "text": "Content farmer",
+                    "isCorrect": false,
+                    "feedback": "Content farmers produce high-volume content, but aren't specifically called sloppers."
+                },
+                {
+                    "text": "AI artist",
+                    "isCorrect": false,
+                    "feedback": "AI artists typically aim for quality, unlike the pejorative slopper."
+                },
+                {
+                    "text": "Digital curator",
+                    "isCorrect": false,
+                    "feedback": "Curators organize content rather than generating AI slop."
+                },
+                {
+                    "text": "Troll",
+                    "isCorrect": false,
+                    "feedback": "Trolls provoke users; sloppers rely on AI for volume."
+                }
+            ],
+            "source_card_ids": [
+                1
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "High ad rates, US audiences, financial incentive: why target this region?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "United States",
+                    "isCorrect": true,
+                    "feedback": "US advertising rates are significantly higher than in other regions."
+                },
+                {
+                    "text": "European Union",
+                    "isCorrect": false,
+                    "feedback": "The text specifically identifies the US as the high-rate target."
+                },
+                {
+                    "text": "China",
+                    "isCorrect": false,
+                    "feedback": "China is not mentioned as a high-ad-rate target for slop."
+                },
+                {
+                    "text": "India",
+                    "isCorrect": false,
+                    "feedback": "India is mentioned as a source of creators, not the target."
+                },
+                {
+                    "text": "Brazil",
+                    "isCorrect": false,
+                    "feedback": "Brazil is not mentioned as a primary target for ad revenue."
+                },
+                {
+                    "text": "Canada",
+                    "isCorrect": false,
+                    "feedback": "Canada is not cited as the primary high-ad-rate target."
+                },
+                {
+                    "text": "Japan",
+                    "isCorrect": false,
+                    "feedback": "Japan is not mentioned as the primary target for revenue."
+                }
+            ],
+            "source_card_ids": [
+                2
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Facebook, TikTok, Instagram, Fanvue: what do these have in common?",
+            "difficulty": "Easy",
+            "options": [
+                {
+                    "text": "Slop hubs",
+                    "isCorrect": true,
+                    "feedback": "These platforms are primary hubs for AI slop proliferation."
+                },
+                {
+                    "text": "AI developers",
+                    "isCorrect": false,
+                    "feedback": "These are social platforms, not the companies developing the AI."
+                },
+                {
+                    "text": "Ad-free zones",
+                    "isCorrect": false,
+                    "feedback": "These platforms rely heavily on advertising for monetization."
+                },
+                {
+                    "text": "Closed networks",
+                    "isCorrect": false,
+                    "feedback": "These are public-facing social media platforms."
+                },
+                {
+                    "text": "Educational tools",
+                    "isCorrect": false,
+                    "feedback": "While used for education, they are primarily social networks."
+                },
+                {
+                    "text": "Search engines",
+                    "isCorrect": false,
+                    "feedback": "These are social media apps, not primary search engines."
+                },
+                {
+                    "text": "Payment gateways",
+                    "isCorrect": false,
+                    "feedback": "These are content platforms, not financial payment processors."
+                }
+            ],
+            "source_card_ids": [
+                3
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Fake seeds, Holocaust distortions, Fruit Love Island: what are these?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "AI slop types",
+                    "isCorrect": true,
+                    "feedback": "These are specific examples of how AI slop manifests."
+                },
+                {
+                    "text": "Deepfake scams",
+                    "isCorrect": false,
+                    "feedback": "While some deceive, these are categorized as types of slop."
+                },
+                {
+                    "text": "AI art pieces",
+                    "isCorrect": false,
+                    "feedback": "Slop is defined by low quality, unlike intentional art."
+                },
+                {
+                    "text": "Phishing attempts",
+                    "isCorrect": false,
+                    "feedback": "Phishing is for stealing data, not necessarily generating slop."
+                },
+                {
+                    "text": "Bot-generated news",
+                    "isCorrect": false,
+                    "feedback": "These examples include parody and images, not just news."
+                },
+                {
+                    "text": "Algorithm tests",
+                    "isCorrect": false,
+                    "feedback": "These are produced for revenue, not for testing algorithms."
+                },
+                {
+                    "text": "Digital archives",
+                    "isCorrect": false,
+                    "feedback": "Slop is ephemeral and low-quality, not an archive."
+                }
+            ],
+            "source_card_ids": [
+                4
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "ChatGPT prompts, Midjourney visuals, two-step process: what is this?",
+            "difficulty": "Medium",
+            "options": [
+                {
+                    "text": "Slop production",
+                    "isCorrect": true,
+                    "feedback": "This streamlined process is used to generate AI slop efficiently."
+                },
+                {
+                    "text": "AI training",
+                    "isCorrect": false,
+                    "feedback": "Training involves feeding data to models, not using them for output."
+                },
+                {
+                    "text": "Prompt engineering",
+                    "isCorrect": false,
+                    "feedback": "This is a low-effort process, not professional engineering."
+                },
+                {
+                    "text": "Digital painting",
+                    "isCorrect": false,
+                    "feedback": "This process removes almost all human creative effort."
+                },
+                {
+                    "text": "Model fine-tuning",
+                    "isCorrect": false,
+                    "feedback": "Fine-tuning adjusts the model, not the content generation."
+                },
+                {
+                    "text": "Data scraping",
+                    "isCorrect": false,
+                    "feedback": "Scraping is gathering data, not generating new images."
+                },
+                {
+                    "text": "UI design",
+                    "isCorrect": false,
+                    "feedback": "This is a content creation workflow, not interface design."
+                }
+            ],
+            "source_card_ids": [
+                5
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "Rapid tech embrace, 2025 report, ranks first: which country?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Korea",
+                    "isCorrect": true,
+                    "feedback": "Korea ranks first worldwide in the consumption of AI slop."
+                },
+                {
+                    "text": "Japan",
+                    "isCorrect": false,
+                    "feedback": "Japan is not cited as the top consumer of AI slop."
+                },
+                {
+                    "text": "USA",
+                    "isCorrect": false,
+                    "feedback": "The US is a target for creators, not the top consumer."
+                },
+                {
+                    "text": "China",
+                    "isCorrect": false,
+                    "feedback": "China is not listed as the top consumer in the report."
+                },
+                {
+                    "text": "India",
+                    "isCorrect": false,
+                    "feedback": "India is mentioned as a source of creators, not consumers."
+                },
+                {
+                    "text": "Germany",
+                    "isCorrect": false,
+                    "feedback": "Germany is not mentioned in the consumption rankings."
+                },
+                {
+                    "text": "UK",
+                    "isCorrect": false,
+                    "feedback": "The UK is not listed as the top consumer of slop."
+                }
+            ],
+            "source_card_ids": [
+                7
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        },
+        {
+            "question": "YouTube CEO, 2026 priority, deepfake detection: who is this?",
+            "difficulty": "Hard",
+            "options": [
+                {
+                    "text": "Neal Mohan",
+                    "isCorrect": true,
+                    "feedback": "Neal Mohan identified reducing slop as a priority for 2026."
+                },
+                {
+                    "text": "Jason Koebler",
+                    "isCorrect": false,
+                    "feedback": "Jason Koebler is a journalist, not the CEO of YouTube."
+                },
+                {
+                    "text": "Michael Jones",
+                    "isCorrect": false,
+                    "feedback": "Michael Jones is an artist and wood carver."
+                },
+                {
+                    "text": "Sundar Pichai",
+                    "isCorrect": false,
+                    "feedback": "Sundar Pichai is Google's CEO, not YouTube's CEO."
+                },
+                {
+                    "text": "Mark Zuckerberg",
+                    "isCorrect": false,
+                    "feedback": "Mark Zuckerberg is the CEO of Meta, not YouTube."
+                },
+                {
+                    "text": "Elon Musk",
+                    "isCorrect": false,
+                    "feedback": "Elon Musk is the owner of X, not YouTube."
+                },
+                {
+                    "text": "Tim Cook",
+                    "isCorrect": false,
+                    "feedback": "Tim Cook is the CEO of Apple, not YouTube."
+                }
+            ],
+            "source_card_ids": [
+                10
+            ],
+            "angle": "Factual Recall",
+            "structure": "The Trait List"
+        }
+    ]
+}
